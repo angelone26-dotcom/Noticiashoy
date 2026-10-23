@@ -7,285 +7,84 @@
 <title>Noticias Hoy</title>
 <style>
 :root {
-  --bg: #0b1120;
-  --panel: #131d30;
-  --panel2: #19263b;
-  --line: #29374c;
-  --text: #edf3fb;
-  --muted: #91a1b8;
-  --accent: #70e1bd;
+  --bg:#0b1120; --panel:#131d30; --panel2:#19263b;
+  --line:#29374c; --text:#edf3fb; --muted:#91a1b8;
+  --accent:#70e1bd;
 }
-* { box-sizing: border-box; }
-
-body {
-  margin: 0;
-  background: var(--bg);
-  color: var(--text);
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+header,main{max-width:1500px;margin:auto}
+header{padding:25px 24px 17px}
+main{padding:0 24px 40px}
+.topline{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.brand-icon{display:grid;place-items:center;width:43px;height:43px;
+  border-radius:13px;background:var(--accent);color:#08231c;font-size:24px}
+h1{font-size:clamp(25px,4vw,36px);letter-spacing:-1px;margin:0}
+.subtitle{color:var(--muted);font-size:13px;margin-top:5px}
+.updated{color:var(--muted);font-size:12px}
+.countries{display:flex;gap:8px;flex-wrap:wrap;margin-top:23px}
+.country-btn,.back-btn,.refresh{
+  background:var(--panel);border:1px solid var(--line);color:var(--text);
+  border-radius:10px;padding:10px 14px;cursor:pointer;font:inherit;font-size:13px
 }
-button, select { font: inherit; }
-
-header {
-  max-width: 1500px;
-  margin: auto;
-  padding: 26px 24px 18px;
-}
-.topline {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 14px;
-  flex-wrap: wrap;
-}
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 11px;
-}
-.brand-icon {
-  display: grid;
-  place-items: center;
-  width: 43px;
-  height: 43px;
-  border-radius: 13px;
-  background: var(--accent);
-  color: #08231c;
-  font-size: 23px;
-}
-h1 {
-  font-size: clamp(25px, 4vw, 36px);
-  margin: 0;
-  letter-spacing: -1.2px;
-}
-.subtitle {
-  color: var(--muted);
-  font-size: 13px;
-  margin-top: 5px;
-}
-.updated {
-  color: var(--muted);
-  font-size: 12px;
-}
-.toolbar {
-  display: flex;
-  gap: 9px;
-  flex-wrap: wrap;
-  margin-top: 22px;
-}
-select, .refresh {
-  background: var(--panel);
-  color: var(--text);
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  padding: 10px 13px;
-  min-height: 40px;
-}
-.refresh {
-  cursor: pointer;
-}
-.refresh:hover { border-color: var(--accent); }
-
-main {
-  max-width: 1500px;
-  margin: auto;
-  padding: 0 24px 42px;
-}
-.section-heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 12px;
-  margin: 10px 0 15px;
-}
-.section-heading h2 {
-  font-size: 17px;
-  margin: 0;
-}
-.section-heading span {
-  color: var(--muted);
-  font-size: 12px;
-}
-.news-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 15px;
-  align-items: start;
-}
-.source-block {
-  min-width: 0;
-  overflow: hidden;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 15px;
-}
-.source-head {
-  display: flex;
-  align-items: center;
-  gap: 9px;
-  padding: 12px 13px;
-  border-bottom: 1px solid var(--line);
-}
-.favicon {
-  width: 22px;
-  height: 22px;
-  object-fit: contain;
-  border-radius: 5px;
-  flex: 0 0 22px;
-}
-.source-title {
-  min-width: 0;
-  flex: 1;
-  font-size: 13px;
-  font-weight: 750;
-  overflow-wrap: anywhere;
-}
-.country-tag {
-  color: var(--accent);
-  font-size: 10px;
-  white-space: nowrap;
-}
-.source-content { padding: 10px; }
-
-/* Bloque destacado: foto al lado de tres titulares */
-.feature-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
-  gap: 10px;
-  align-items: stretch;
-}
-.feature-story {
-  min-width: 0;
-  overflow: hidden;
-  border-radius: 10px;
-  background: var(--panel2);
-}
-.feature-image-link {
-  display: block;
-  height: 138px;
-  background: #202e43;
-}
-.feature-image {
-  width: 100%;
-  height: 100%;
-  display: block;
-  object-fit: cover;
-}
-.feature-title {
-  display: block;
-  padding: 9px 10px 11px;
-  color: var(--text);
-  font-size: 13px;
-  line-height: 1.38;
-  font-weight: 700;
-  text-decoration: none;
-}
-.feature-title:hover, .headline:hover {
-  color: var(--accent);
-}
-.side-headlines {
-  display: flex;
-  flex-direction: column;
-  gap: 7px;
-  min-width: 0;
-}
-.headline {
-  display: block;
-  padding: 8px 9px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  color: #dce6f4;
-  text-decoration: none;
-  font-size: 11.5px;
-  line-height: 1.38;
-  overflow-wrap: anywhere;
-  flex: 1;
-}
-.headline-source {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  color: var(--muted);
-  font-size: 10px;
-  margin-bottom: 4px;
-}
-.headline-source img {
-  width: 14px;
-  height: 14px;
-  object-fit: contain;
-  border-radius: 3px;
-}
-
-/* Cuando no hay foto: noticias compactas, sin huecos oscuros */
-.compact-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-}
-.compact-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 9px;
-  padding: 9px 2px;
-  border-bottom: 1px solid var(--line);
-}
-.compact-item:last-child { border-bottom: 0; }
-.compact-item .favicon {
-  margin-top: 1px;
-  width: 18px;
-  height: 18px;
-  flex-basis: 18px;
-}
-.compact-link {
-  color: #dce6f4;
-  font-size: 12px;
-  line-height: 1.42;
-  text-decoration: none;
-  overflow-wrap: anywhere;
-}
-.compact-link:hover { color: var(--accent); }
-
-.more-headlines {
-  margin-top: 9px;
-  border-top: 1px solid var(--line);
-}
-.more-headlines .compact-item {
-  padding-left: 2px;
-  padding-right: 2px;
-}
-.empty {
-  color: var(--muted);
-  font-size: 13px;
-  padding: 24px 4px;
-}
-.country-section { margin-bottom: 27px; }
-.country-title {
-  font-size: 19px;
-  margin: 0 0 13px;
-  letter-spacing: -.3px;
-}
-footer {
-  text-align: center;
-  color: var(--muted);
-  font-size: 11px;
-  padding: 0 20px 24px;
-}
-
-@media (max-width: 1050px) {
-  .news-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
-@media (max-width: 650px) {
-  header { padding: 21px 14px 16px; }
-  main { padding: 0 14px 30px; }
-  .news-grid { grid-template-columns: 1fr; gap: 12px; }
-  .feature-layout { grid-template-columns: minmax(0, .95fr) minmax(0, 1fr); }
-  .feature-image-link { height: 125px; }
-  .feature-title { font-size: 12px; padding: 8px; }
-  .headline { font-size: 11px; padding: 7px; }
-}
-@media (max-width: 370px) {
-  .feature-layout { grid-template-columns: 1fr; }
-  .feature-image-link { height: 165px; }
-  .side-headlines { display: grid; grid-template-columns: 1fr 1fr; }
+.country-btn.active{background:var(--accent);color:#09271f;border-color:var(--accent);font-weight:750}
+.country-btn:hover,.back-btn:hover,.refresh:hover{border-color:var(--accent)}
+.toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;
+  margin:22px 0 14px;flex-wrap:wrap}
+.toolbar h2{font-size:18px;margin:0}
+.count{color:var(--muted);font-size:12px}
+.news-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;align-items:stretch}
+.source-card{height:340px;min-width:0;overflow:hidden;display:flex;flex-direction:column;
+  background:var(--panel);border:1px solid var(--line);border-radius:15px}
+.source-head{padding:12px 14px;border-bottom:1px solid var(--line);
+  display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:49px}
+.source-name{color:var(--text);font-size:13px;font-weight:750;overflow-wrap:anywhere}
+.source-open{background:none;border:0;color:var(--accent);font-size:11px;
+  cursor:pointer;white-space:nowrap;padding:5px 0 5px 5px}
+.source-open:hover{text-decoration:underline}
+.source-content{padding:10px;flex:1;min-height:0;overflow:hidden}
+.feature-layout{height:100%;display:grid;grid-template-columns:1fr 1fr;gap:9px;min-height:0}
+.feature-story{min-width:0;min-height:0;display:flex;flex-direction:column;
+  overflow:hidden;background:var(--panel2);border-radius:10px}
+.feature-image-link{display:block;height:125px;flex:0 0 125px;background:#202e43;overflow:hidden}
+.feature-image{display:block;width:100%;height:100%;object-fit:cover}
+.feature-title{padding:9px;color:var(--text);font-size:12px;line-height:1.4;
+  font-weight:700;text-decoration:none;overflow:hidden}
+.side-headlines{display:flex;flex-direction:column;gap:7px;min-width:0;min-height:0;overflow:hidden}
+.headline{display:block;flex:1;min-height:0;overflow:hidden;padding:8px;
+  border:1px solid var(--line);border-radius:8px;color:#dce6f4;
+  text-decoration:none;font-size:11px;line-height:1.4;
+  display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5}
+.headline:hover,.compact-link:hover,.feature-title:hover{color:var(--accent)}
+.compact-list{height:100%;overflow:hidden;display:flex;flex-direction:column}
+.compact-item{padding:9px 2px;border-bottom:1px solid var(--line);min-height:0}
+.compact-item:last-child{border-bottom:0}
+.compact-link{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;
+  overflow:hidden;color:#dce6f4;text-decoration:none;font-size:12px;line-height:1.4}
+.more-link{display:block;text-align:center;padding:9px;color:var(--accent);
+  font-size:11px;text-decoration:none;border-top:1px solid var(--line)}
+.more-link:hover{text-decoration:underline}
+.detail-panel{background:var(--panel);border:1px solid var(--line);border-radius:15px;overflow:hidden}
+.detail-head{padding:17px;border-bottom:1px solid var(--line);display:flex;
+  align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.detail-head h3{margin:0;font-size:19px}
+.detail-list{padding:8px 17px}
+.detail-item{padding:13px 0;border-bottom:1px solid var(--line)}
+.detail-item:last-child{border-bottom:0}
+.detail-item a{color:var(--text);font-size:14px;line-height:1.5;text-decoration:none}
+.detail-item a:hover{color:var(--accent)}
+.empty{padding:25px;color:var(--muted);font-size:13px}
+footer{text-align:center;color:var(--muted);font-size:11px;padding:0 20px 24px}
+@media(max-width:1050px){.news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){
+ header{padding:20px 14px 15px}main{padding:0 14px 30px}
+ .news-grid{grid-template-columns:1fr;gap:12px}
+ .source-card{height:325px}
+ .feature-image-link{height:118px;flex-basis:118px}
+ .countries{gap:7px}
+ .country-btn{padding:9px 11px}
 }
 </style>
 </head>
@@ -301,322 +100,189 @@ footer {
     </div>
     <div class="updated" id="updated">Cargando noticias…</div>
   </div>
-
-  <div class="toolbar">
-    <select id="countryFilter" aria-label="Filtrar por país">
-      <option value="all">Todos los países</option>
-    </select>
-    <select id="viewMode" aria-label="Modo de visualización">
-      <option value="mixed">Todo mezclado</option>
-      <option value="country">Por país</option>
-      <option value="source">Por diario</option>
-    </select>
-    <button class="refresh" id="refreshBtn">↻ Actualizar</button>
-  </div>
+  <nav class="countries" id="countries" aria-label="Elegir país"></nav>
 </header>
 
 <main>
-  <div class="section-heading">
+  <div class="toolbar">
     <h2 id="sectionTitle">Últimas noticias</h2>
-    <span id="articleCount"></span>
+    <span class="count" id="count"></span>
   </div>
   <div id="newsContainer"></div>
 </main>
-
 <footer>Noticias Hoy · Fuentes periodísticas originales</footer>
 
 <script>
-const container = document.getElementById("newsContainer");
-const countryFilter = document.getElementById("countryFilter");
-const viewMode = document.getElementById("viewMode");
-const updated = document.getElementById("updated");
-const articleCount = document.getElementById("articleCount");
-const sectionTitle = document.getElementById("sectionTitle");
+const container=document.getElementById("newsContainer");
+const countriesNav=document.getElementById("countries");
+const sectionTitle=document.getElementById("sectionTitle");
+const count=document.getElementById("count");
+const updated=document.getElementById("updated");
 
-let newsData = null;
+let data=null;
+let selectedCountry="all";
+let selectedSource=null;
 
-function safeLink(value) {
-  try {
-    const url = new URL(value);
-    return ["http:", "https:"].includes(url.protocol) ? url.href : "#";
-  } catch {
-    return "#";
+function esc(v){
+ return String(v??"").replace(/[&<>"']/g,c=>({
+  "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+ }[c]));
+}
+function linkOf(item){
+ try{
+  const u=new URL(item?.l||item?.link||item?.url||"#",location.href);
+  return ["http:","https:"].includes(u.protocol)?u.href:"#";
+ }catch{return "#";}
+}
+function imageOf(item){
+ const raw=item?.img||item?.image||item?.image_url||item?.thumbnail||
+           item?.imagen||item?.imageUrl||"";
+ try{
+  const u=new URL(raw,location.href);
+  return raw&&["http:","https:"].includes(u.protocol)?u.href:"";
+ }catch{return "";}
+}
+function titleOf(item){return String(item?.t||item?.title||"Noticia sin título").trim();}
+function sources(){
+ const out=[];
+ for(const country of data?.paises||[]){
+  for(const s of country.fuentes||[]){
+   const items=(s.items||[]).filter(i=>titleOf(i));
+   if(items.length)out.push({
+    id:country.id||"",country:country.nombre||"Otros",
+    name:s.n||s.nombre||"Medio",translated:!!s.tr,items
+   });
   }
+ }
+ return out;
 }
-
-function faviconFor(link) {
-  try {
-    const url = new URL(safeLink(link));
-    if (url.href === "#") return "";
-    return "https://www.google.com/s2/favicons?domain_url=" +
-      encodeURIComponent(url.origin) + "&sz=64";
-  } catch {
-    return "";
-  }
+function getFiltered(){
+ return sources().filter(s=>selectedCountry==="all"||s.id===selectedCountry);
 }
-
-function makeFavicon(link, className = "favicon") {
-  const src = faviconFor(link);
-  if (!src) return "";
-  return `<img class="${className}" src="${src}" alt="" loading="lazy"
-    onerror="this.style.display='none'">`;
-}
-
-function escapeHTML(value) {
-  return String(value ?? "").replace(/[&<>"']/g, char => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;",
-    '"': "&quot;", "'": "&#39;"
-  })[char]);
-}
-
-function articleTitle(item) {
-  return String(item?.t || item?.title || "Noticia sin título").trim();
-}
-
-function articleLink(item) {
-  return safeLink(item?.l || item?.link || item?.url || "#");
-}
-
-function articleImage(item) {
-  const raw = item?.img || item?.image || item?.image_url ||
-              item?.thumbnail || item?.imagen || item?.imageUrl || "";
-  if (!raw) return "";
-  try {
-    const url = new URL(raw, window.location.href);
-    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
-  } catch {
-    return "";
-  }
-}
-
-function getSources() {
-  const result = [];
-  for (const country of (newsData?.paises || [])) {
-    for (const source of (country.fuentes || [])) {
-      const items = (source.items || []).filter(item => articleTitle(item));
-      if (items.length) {
-        result.push({
-          countryId: country.id || "",
-          countryName: country.nombre || "Otros",
-          name: source.n || source.nombre || "Fuente",
-          translated: !!source.tr,
-          items
-        });
-      }
-    }
-  }
-  return result;
-}
-
-function makeCompact(item, source) {
-  const link = articleLink(item);
-  return `<div class="compact-item">
-    ${makeFavicon(link)}
-    <a class="compact-link" href="${link}" target="_blank" rel="noopener noreferrer">
-      ${escapeHTML(articleTitle(item))}
-    </a>
-  </div>`;
-}
-
-function makeHeadline(item, source) {
-  const link = articleLink(item);
-  return `<a class="headline" href="${link}" target="_blank" rel="noopener noreferrer">
-    <div class="headline-source">
-      ${makeFavicon(link)}
-      <span>${escapeHTML(source.name)}</span>
-    </div>
-    ${escapeHTML(articleTitle(item))}
-  </a>`;
-}
-
-function makeSourceBlock(source, countryLabel = "") {
-  const items = source.items;
-  const featuredIndex = items.findIndex(item => articleImage(item));
-  const featured = featuredIndex >= 0 ? items[featuredIndex] : null;
-  const remaining = featured
-    ? items.filter((item, index) => index !== featuredIndex)
-    : items;
-
-  let content = "";
-
-  if (featured) {
-    const img = articleImage(featured);
-    const link = articleLink(featured);
-    const side = remaining.slice(0, 3);
-    const extra = remaining.slice(3);
-
-    content = `
-      <div class="feature-layout">
-        <div class="feature-story">
-          <a class="feature-image-link" href="${link}" target="_blank" rel="noopener noreferrer">
-            <img class="feature-image" src="${escapeHTML(img)}"
-              alt="" loading="lazy"
-              onerror="this.closest('.feature-layout').classList.add('image-failed');
-                this.closest('.feature-story').remove();">
-          </a>
-          <a class="feature-title" href="${link}" target="_blank" rel="noopener noreferrer">
-            ${escapeHTML(articleTitle(featured))}
-          </a>
-        </div>
-        <div class="side-headlines">
-          ${side.map(item => makeHeadline(item, source)).join("")}
-        </div>
-      </div>
-      ${extra.length ? `<div class="more-headlines">
-        ${extra.map(item => makeCompact(item, source)).join("")}
-      </div>` : ""}
-    `;
-  } else {
-    content = `<div class="compact-list">
-      ${remaining.map(item => makeCompact(item, source)).join("")}
-    </div>`;
-  }
-
-  const firstLink = articleLink(items[0] || {});
-  const translatedTag = source.translated ? " · traducido" : "";
-
-  return `<article class="source-block">
-    <div class="source-head">
-      ${makeFavicon(firstLink)}
-      <div class="source-title">${escapeHTML(source.name)}${translatedTag}</div>
-      ${countryLabel ? `<span class="country-tag">${escapeHTML(countryLabel)}</span>` : ""}
-    </div>
-    <div class="source-content">${content}</div>
-  </article>`;
-}
-
-function mixSources(sources) {
-  const result = [];
-  const max = Math.max(0, ...sources.map(source => source.items.length));
-  for (let i = 0; i < max; i++) {
-    for (const source of sources) {
-      if (source.items[i]) {
-        result.push({ ...source, items: source.items.slice(i) });
-      }
-    }
-  }
-  // En la vista mezclada cada diario aparece una sola vez.
-  const seen = new Set();
-  return result.filter(source => {
-    const key = source.countryId + "|" + source.name;
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
+function renderCountries(){
+ const list=[{id:"all",nombre:"🌎 Todos"},...(data?.paises||[])];
+ countriesNav.innerHTML=list.map(c=>`
+  <button class="country-btn ${selectedCountry===c.id?"active":""}"
+   data-country="${esc(c.id)}">${esc(c.nombre)}</button>
+ `).join("");
+ countriesNav.querySelectorAll("button").forEach(btn=>{
+  btn.addEventListener("click",()=>{
+   selectedCountry=btn.dataset.country;
+   selectedSource=null;
+   render();
   });
+ });
 }
+function compactItem(item){
+ return `<div class="compact-item">
+  <a class="compact-link" href="${linkOf(item)}" target="_blank" rel="noopener noreferrer">
+   ${esc(titleOf(item))}
+  </a>
+ </div>`;
+}
+function card(source){
+ const items=source.items;
+ const featuredIndex=items.findIndex(i=>imageOf(i));
+ const featured=featuredIndex>=0?items[featuredIndex]:null;
+ let body="";
 
-function renderGrid(sources, showCountry = false) {
-  return `<div class="news-grid">
-    ${sources.map(source =>
-      makeSourceBlock(source, showCountry ? source.countryName : "")
-    ).join("")}
+ if(featured){
+  const remaining=items.filter((_,i)=>i!==featuredIndex);
+  const side=remaining.slice(0,3);
+  const img=imageOf(featured);
+  body=`<div class="feature-layout">
+   <div class="feature-story">
+    <a class="feature-image-link" href="${linkOf(featured)}" target="_blank" rel="noopener noreferrer">
+     <img class="feature-image" src="${esc(img)}" alt="" loading="lazy"
+      onerror="this.closest('.source-card').querySelector('.source-content').innerHTML =
+       '<div class=&quot;compact-list&quot;>${esc(items.slice(0,4).map(i=>titleOf(i)).join(" • ")).replace(/'/g,"&#39;")}</div>';">
+    </a>
+    <a class="feature-title" href="${linkOf(featured)}" target="_blank" rel="noopener noreferrer">
+     ${esc(titleOf(featured))}
+    </a>
+   </div>
+   <div class="side-headlines">
+    ${side.map(i=>`<a class="headline" href="${linkOf(i)}" target="_blank" rel="noopener noreferrer">${esc(titleOf(i))}</a>`).join("")}
+   </div>
   </div>`;
+ }else{
+  body=`<div class="compact-list">${items.slice(0,5).map(compactItem).join("")}</div>`;
+ }
+
+ return `<article class="source-card">
+  <div class="source-head">
+   <span class="source-name">${esc(source.name)}${source.translated?" · traducido":""}</span>
+   <button class="source-open" data-source="${esc(source.id+"::"+source.name)}">Ver todas →</button>
+  </div>
+  <div class="source-content">${body}</div>
+ </article>`;
 }
-
-function render() {
-  if (!newsData) return;
-
-  const allSources = getSources();
-  const selectedCountry = countryFilter.value;
-  const mode = viewMode.value;
-  const filtered = selectedCountry === "all"
-    ? allSources
-    : allSources.filter(source => source.countryId === selectedCountry);
-
-  const total = filtered.reduce((sum, source) => sum + source.items.length, 0);
-  articleCount.textContent = `${total} noticias · ${filtered.length} fuentes`;
-  container.innerHTML = "";
-
-  if (!filtered.length) {
-    container.innerHTML = '<div class="empty">No hay noticias disponibles para este filtro.</div>';
-    return;
-  }
-
-  if (mode === "country") {
-    const countries = [];
-    for (const source of filtered) {
-      let group = countries.find(item => item.id === source.countryId);
-      if (!group) {
-        group = {
-          id: source.countryId,
-          name: source.countryName,
-          sources: []
-        };
-        countries.push(group);
-      }
-      group.sources.push(source);
-    }
-
-    container.innerHTML = countries.map(group => `
-      <section class="country-section">
-        <h3 class="country-title">${escapeHTML(group.name)}</h3>
-        ${renderGrid(group.sources)}
-      </section>
-    `).join("");
-    sectionTitle.textContent = "Noticias por país";
-  } else if (mode === "source") {
-    container.innerHTML = renderGrid(filtered);
-    sectionTitle.textContent = "Noticias por diario";
-  } else {
-    // Cuadrícula general con los diarios intercalados.
-    container.innerHTML = renderGrid(mixSources(filtered), true);
-    sectionTitle.textContent = "Últimas noticias";
-  }
+function openSource(key){
+ selectedSource=key;
+ render();
 }
-
-async function loadNews() {
-  const button = document.getElementById("refreshBtn");
-  button.textContent = "Cargando…";
-  button.disabled = true;
-
-  try {
-    const response = await fetch("./news.json?ts=" + Date.now(), {
-      cache: "no-store"
-    });
-    if (!response.ok) throw new Error("No se pudo cargar news.json");
-
-    newsData = await response.json();
-
-    const current = countryFilter.value;
-    countryFilter.innerHTML = '<option value="all">Todos los países</option>';
-
-    for (const country of (newsData.paises || [])) {
-      const option = document.createElement("option");
-      option.value = country.id || "";
-      option.textContent = country.nombre || country.id || "País";
-      countryFilter.appendChild(option);
-    }
-
-    if ([...countryFilter.options].some(option => option.value === current)) {
-      countryFilter.value = current;
-    }
-
-    if (newsData.updated) {
-      const date = new Date(newsData.updated);
-      updated.textContent = "Actualizado: " +
-        (isNaN(date.getTime()) ? newsData.updated : date.toLocaleString("es-UY"));
-    } else {
-      updated.textContent = "Noticias actualizadas desde RSS";
-    }
-
-    render();
-  } catch (error) {
-    container.innerHTML = `<div class="empty">
-      No se pudieron cargar las noticias. Revisá que news.json exista y volvé a intentar.
-    </div>`;
-    updated.textContent = "Error al cargar";
-    console.error(error);
-  } finally {
-    button.textContent = "↻ Actualizar";
-    button.disabled = false;
-  }
+function detail(source){
+ return `<section class="detail-panel">
+  <div class="detail-head">
+   <h3>${esc(source.name)}${source.translated?" · traducido":""}</h3>
+   <button class="back-btn" id="backBtn">← Volver a la cuadrícula</button>
+  </div>
+  <div class="detail-list">
+   ${source.items.map((item,i)=>`<div class="detail-item">
+    <a href="${linkOf(item)}" target="_blank" rel="noopener noreferrer">
+     ${i+1}. ${esc(titleOf(item))}
+    </a>
+   </div>`).join("")}
+  </div>
+ </section>`;
 }
+function render(){
+ renderCountries();
+ const list=getFiltered();
+ const total=list.reduce((n,s)=>n+s.items.length,0);
+ count.textContent=`${total} noticias · ${list.length} medios`;
 
-countryFilter.addEventListener("change", render);
-viewMode.addEventListener("change", render);
-document.getElementById("refreshBtn").addEventListener("click", loadNews);
+ if(selectedSource){
+  const source=list.find(s=>s.id+"::"+s.name===selectedSource);
+  if(source){
+   sectionTitle.textContent=source.name;
+   container.innerHTML=detail(source);
+   document.getElementById("backBtn").addEventListener("click",()=>{
+    selectedSource=null;render();
+   });
+   return;
+  }
+  selectedSource=null;
+ }
+ sectionTitle.textContent=selectedCountry==="all"?"Últimas noticias":
+  (data.paises.find(c=>c.id===selectedCountry)?.nombre||"Noticias");
 
-loadNews();
+ if(!list.length){
+  container.innerHTML='<div class="empty">No hay noticias disponibles.</div>';
+  return;
+ }
+ container.innerHTML=`<div class="news-grid">${list.map(card).join("")}</div>`;
+ container.querySelectorAll(".source-open").forEach(btn=>{
+  btn.addEventListener("click",()=>openSource(btn.dataset.source));
+ });
+}
+async function load(){
+ try{
+  const response=await fetch("./news.json?ts="+Date.now(),{cache:"no-store"});
+  if(!response.ok)throw new Error("Error al cargar noticias");
+  data=await response.json();
+  if(data.updated){
+   const date=new Date(data.updated);
+   updated.textContent="Actualizado: "+(isNaN(date.getTime())?data.updated:date.toLocaleString("es-UY"));
+  }else updated.textContent="Noticias desde RSS";
+  render();
+ }catch(e){
+  container.innerHTML='<div class="empty">No se pudieron cargar las noticias. Volvé a intentar en unos segundos.</div>';
+  updated.textContent="Error al cargar";
+  console.error(e);
+ }
+}
+load();
 </script>
 </body>
 </html>
