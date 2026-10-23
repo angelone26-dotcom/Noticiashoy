@@ -1,3 +1,4 @@
+
 name: Actualizar noticias
 
 on:
@@ -7,6 +8,7 @@ on:
   push:
     paths:
       - ".github/workflows/news.yml"
+      - "index.html"
 
 permissions:
   contents: write
@@ -22,7 +24,9 @@ jobs:
 
     steps:
       - name: Descargar repositorio
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Descargar y procesar noticias
         run: |
@@ -34,10 +38,9 @@ jobs:
           import datetime
           import re
           import xml.etree.ElementTree as ET
-          from urllib.parse import urljoin, urlparse
 
           UA = (
-              "Mozilla/5.0 (X11; Linux x86_64) "
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
               "AppleWebKit/537.36 (KHTML, like Gecko) "
               "Chrome/131.0 Safari/537.36"
           )
@@ -86,7 +89,7 @@ jobs:
               },
               {
                   "id": "br",
-                  "nombre": "🇧🇷 Brasil",
+                  "nombre": "🇧🇷 Brasil (traducido)",
                   "fuentes": [
                       {
                           "n": "G1",
@@ -110,7 +113,7 @@ jobs:
                   "nombre": "🇪🇸 España",
                   "fuentes": [
                       {
-                          "n": "El País · España",
+                          "n": "El País (España)",
                           "f": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
                       },
                       {
@@ -121,7 +124,7 @@ jobs:
               },
               {
                   "id": "us",
-                  "nombre": "🇺🇸 Estados Unidos",
+                  "nombre": "🇺🇸 Estados Unidos (traducido)",
                   "fuentes": [
                       {
                           "n": "The New York Times",
@@ -137,13 +140,12 @@ jobs:
               }
           ]
 
-          def get(url, timeout=20):
+          def get(url, timeout=25):
               req = urllib.request.Request(
                   url,
                   headers={
                       "User-Agent": UA,
-                      "Accept": "application/rss+xml, application/xml, "
-                                "text/xml, application/atom+xml, */*"
+                      "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"
                   }
               )
               with urllib.request.urlopen(req, timeout=timeout) as response:
@@ -152,197 +154,212 @@ jobs:
           def local(tag):
               return tag.rsplit("}", 1)[-1].lower()
 
-          def safe_http_url(value, base=""):
-              if not value:
-                  return ""
-              value = html.unescape(value.strip())
-              value = urljoin(base, value) if base else value
-              parsed = urlparse(value)
-              if parsed.scheme not in ("http", "https"):
-                  return ""
-              return value
+          def child_text(element, names):
+              for child in element.iter():
+                  if local(child.tag) in names:
+                      value = "".join(child.itertext()).strip()
+                      if value:
+                          return html.unescape(value)
+              return ""
 
-          def find_image(item, article_url):
-              # Primero busca campos de imagen propios del RSS.
-              for node in item.iter():
-                  tag = local(node.tag)
-                  candidate = ""
+          def find_image(element):
+              # Busca imágenes declaradas como media, thumbnail o enclosure.
+              for child in element.iter():
+                  tag = local(child.tag)
+                  url = (
+                      child.attrib.get("url")
+                      or child.attrib.get("href")
+                      or ""
+                  ).strip()
 
-                  if tag in ("thumbnail", "content", "image"):
-                      candidate = (
-                          node.attrib.get("url")
-                          or node.attrib.get("href")
-                          or ""
-                      )
+                  if not url.startswith(("http://", "https://")):
+                      continue
 
-                  elif tag == "enclosure":
-                      mime = node.attrib.get("type", "").lower()
-                      candidate = node.attrib.get("url", "")
-                      if mime and not mime.startswith("image/"):
-                          candidate = ""
+                  media_type = child.attrib.get("type", "").lower()
 
-                  if candidate:
-                      candidate = safe_http_url(candidate, article_url)
-                      if candidate:
-                          return candidate
+                  if tag in ("thumbnail", "image"):
+                      return url
 
-              # Si no hay campo de imagen, busca una etiqueta img
-              # dentro de la descripción o del contenido HTML del RSS.
-              for node in item.iter():
-                  if local(node.tag) not in (
-                      "description", "encoded", "summary", "content"
+                  if tag == "enclosure" and media_type.startswith("image/"):
+                      return url
+
+                  if tag == "content" and (
+                      "media" in child.tag.lower()
+                      or media_type.startswith("image/")
+                  ):
+                      return url
+
+              # Si no hay imagen declarada, busca una en la descripción.
+              for child in element.iter():
+                  if local(child.tag) not in (
+                      "description", "summary", "encoded", "content"
                   ):
                       continue
 
-                  raw = html.unescape("".join(node.itertext()))
+                  raw = ET.tostring(child, encoding="unicode")
                   match = re.search(
-                      r'<img\b[^>]*?\b(?:src|data-src)=["\']([^"\']+)["\']',
+                      r'<img[^>]+(?:src|url)=["\']([^"\']+)["\']',
                       raw,
                       re.IGNORECASE
                   )
+
                   if match:
-                      candidate = safe_http_url(match.group(1), article_url)
-                      if candidate:
-                          return candidate
+                      url = html.unescape(match.group(1))
+                      if url.startswith(("http://", "https://")):
+                          return url
 
               return ""
 
           def parse_feed(data):
               root = ET.fromstring(data)
-              results = []
-              seen = set()
+              articles = []
 
-              for item in root.iter():
-                  if local(item.tag) not in ("item", "entry"):
+              for element in root.iter():
+                  if local(element.tag) not in ("item", "entry"):
                       continue
 
-                  title = ""
+                  title = child_text(element, {"title"})
                   link = ""
 
-                  for child in item:
-                      tag = local(child.tag)
+                  for child in element:
+                      if local(child.tag) != "link":
+                          continue
 
-                      if tag == "title" and not title:
-                          title = "".join(child.itertext()).strip()
+                      candidate = (
+                          child.attrib.get("href")
+                          or child.text
+                          or ""
+                      ).strip()
 
-                      elif tag == "link":
-                          href = child.attrib.get("href", "")
-                          rel = child.attrib.get("rel", "alternate")
-                          candidate = href or (child.text or "").strip()
+                      rel = child.attrib.get("rel", "alternate").lower()
 
-                          if candidate and (
-                              not link or rel == "alternate"
-                          ):
-                              link = candidate
+                      if candidate and (
+                          not link or rel == "alternate"
+                      ):
+                          link = candidate
 
-                  title = html.unescape(re.sub(r"\s+", " ", title)).strip()
-                  link = safe_http_url(link)
+                      if link and rel == "alternate":
+                          break
 
-                  if not title or not link or link in seen:
-                      continue
+                  if not link:
+                      link = child_text(element, {"guid", "id"})
 
-                  seen.add(link)
-                  results.append({
-                      "t": title,
-                      "l": link,
-                      "img": find_image(item, link)
-                  })
+                  if title and link.startswith(("http://", "https://")):
+                      article = {
+                          "t": html.unescape(title),
+                          "l": link
+                      }
 
-              return results
+                      image_url = find_image(element)
+                      if image_url:
+                          article["img"] = image_url
 
-          def translate(text, source_language):
-              query = urllib.parse.urlencode({
-                  "client": "gtx",
-                  "sl": source_language,
-                  "tl": "es",
-                  "dt": "t",
-                  "q": text
-              })
+                      articles.append(article)
+
+              # Evita repetir una misma noticia.
+              unique = []
+              seen = set()
+
+              for article in articles:
+                  if article["l"] not in seen:
+                      seen.add(article["l"])
+                      unique.append(article)
+
+              return unique
+
+          def traducir(texto, idioma):
               url = (
-                  "https://translate.googleapis.com/translate_a/single?"
-                  + query
+                  "https://translate.googleapis.com/translate_a/single"
+                  "?client=gtx&sl={}&tl=es&dt=t&q={}"
+              ).format(
+                  idioma,
+                  urllib.parse.quote(texto)
               )
-              response = json.loads(get(url, timeout=12).decode("utf-8"))
-              return "".join(
-                  part[0] for part in response[0]
-                  if part and part[0]
-              ).strip()
 
-          updated = datetime.datetime.now(
-              datetime.timezone.utc
-          ).strftime("%Y-%m-%dT%H:%M:%SZ")
+              data = json.loads(get(url, timeout=15).decode("utf-8"))
+              return "".join(
+                  part[0]
+                  for part in data[0]
+                  if part and part[0]
+              )
 
           resultado = {
-              "updated": updated,
+              "updated": datetime.datetime.now(
+                  datetime.timezone.utc
+              ).strftime("%Y-%m-%dT%H:%M:%SZ"),
               "paises": []
           }
 
-          for country in PAISES:
+          for pais_config in PAISES:
               pais = {
-                  "id": country["id"],
-                  "nombre": country["nombre"],
+                  "id": pais_config["id"],
+                  "nombre": pais_config["nombre"],
                   "fuentes": []
               }
 
-              for source in country["fuentes"]:
+              for fuente_config in pais_config["fuentes"]:
                   fuente = {
-                      "n": source["n"],
-                      "tr": bool(source.get("tr")),
+                      "n": fuente_config["n"],
+                      "tr": bool(fuente_config.get("tr")),
                       "items": []
                   }
 
                   try:
-                      items = parse_feed(get(source["f"]))[:POR_FUENTE]
+                      contenido = get(fuente_config["f"])
+                      noticias = parse_feed(contenido)
 
-                      if not items:
-                          raise ValueError("El RSS no devolvió noticias")
+                      if not noticias:
+                          raise ValueError("El RSS no contiene noticias reconocibles")
 
-                      for item in items:
-                          if source.get("tr"):
+                      for noticia in noticias[:POR_FUENTE]:
+                          articulo = dict(noticia)
+
+                          if fuente_config.get("tr"):
                               try:
-                                  original = item["t"]
-                                  translated = translate(
-                                      original, source["tr"]
+                                  original = articulo["t"]
+                                  traducida = traducir(
+                                      original,
+                                      fuente_config["tr"]
                                   )
-                                  if translated:
-                                      item["t"] = translated
-                                      item["o"] = original
-                              except Exception as error:
+
+                                  if traducida:
+                                      articulo["t"] = traducida
+                                      articulo["o"] = original
+
+                              except Exception as error_traduccion:
                                   print(
                                       "AVISO traducción",
-                                      source["n"],
-                                      str(error)[:120]
+                                      fuente_config["n"],
+                                      str(error_traduccion)[:150]
                                   )
 
-                          fuente["items"].append(item)
+                          fuente["items"].append(articulo)
 
                       print(
                           "OK",
-                          source["n"],
+                          fuente_config["n"],
                           "-",
                           len(fuente["items"]),
                           "noticias"
                       )
 
                   except Exception as error:
+                      fuente["error"] = str(error)[:200]
                       print(
                           "ERROR",
-                          source["n"],
+                          fuente_config["n"],
                           "-",
                           repr(error)[:250]
                       )
-                      fuente["error"] = str(error)[:160]
 
-                  # Se guarda la fuente aunque haya fallado para poder
-                  # diagnosticarla en Actions. La web oculta las vacías.
                   pais["fuentes"].append(fuente)
 
               resultado["paises"].append(pais)
 
-          with open("news.json", "w", encoding="utf-8") as file:
+          with open("news.json", "w", encoding="utf-8") as archivo:
               json.dump(
                   resultado,
-                  file,
+                  archivo,
                   ensure_ascii=False,
                   indent=2
               )
@@ -350,14 +367,34 @@ jobs:
           print("Archivo news.json generado correctamente.")
           PY
 
-      - name: Guardar cambios
+      - name: Guardar y subir noticias
         run: |
           git config user.name "news-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add news.json
-          if ! git diff --cached --quiet; then
+
+          # Reintenta si GitHub recibió cambios mientras se generaban las noticias.
+          for intento in 1 2 3; do
+            echo "Intento de subida: $intento"
+
+            git fetch origin main
+            git reset --mixed origin/main
+            git add news.json
+
+            if git diff --cached --quiet; then
+              echo "No hay cambios nuevos para subir."
+              exit 0
+            fi
+
             git commit -m "Actualizar noticias"
-            git push
-          else
-            echo "No hubo cambios en las noticias."
-          fi
+
+            if git push origin HEAD:main; then
+              echo "Noticias subidas correctamente."
+              exit 0
+            fi
+
+            echo "La subida falló; se volverá a intentar."
+            sleep 2
+          done
+
+          echo "No se pudieron subir las noticias después de 3 intentos."
+          exit 1
