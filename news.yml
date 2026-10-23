@@ -1,0 +1,108 @@
+name: Actualizar noticias
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/news.yml"
+permissions:
+  contents: write
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar noticias
+        run: |
+          import json, urllib.request, urllib.parse, html, datetime
+          import xml.etree.ElementTree as ET
+          
+          UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          POR_FUENTE = 8
+          
+          PAISES = [
+            {"id":"uy","nombre":"🇺🇾 Uruguay","fuentes":[
+              {"n":"Montevideo Portal","f":"https://www.montevideo.com.uy/anxml.aspx?58"},
+              {"n":"El Observador","f":"https://www.elobservador.com.uy/rss/pages/home.xml"},
+              {"n":"El País","f":"https://www.elpais.com.uy/rss/"},
+              {"n":"la diaria","f":"https://ladiaria.com.uy/feeds/articulos"}]},
+            {"id":"ar","nombre":"🇦🇷 Argentina","fuentes":[
+              {"n":"Clarín","f":"https://www.clarin.com/rss/lo-ultimo/"},
+              {"n":"La Nación","f":"https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"},
+              {"n":"Página/12","f":"https://www.pagina12.com.ar/rss/portada"}]},
+            {"id":"br","nombre":"🇧🇷 Brasil (traducido)","fuentes":[
+              {"n":"G1","f":"https://g1.globo.com/rss/g1/","tr":"pt"},
+              {"n":"Folha","f":"https://feeds.folha.uol.com.br/emcimadahora/rss091.xml","tr":"pt"},
+              {"n":"UOL","f":"https://rss.uol.com.br/feed/noticias.xml","tr":"pt"},
+              {"n":"CNN Brasil","f":"https://www.cnnbrasil.com.br/feed/","tr":"pt"}]},
+            {"id":"es","nombre":"🇪🇸 España","fuentes":[
+              {"n":"El País (España)","f":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"}]},
+            {"id":"us","nombre":"🇺🇸 EE.UU. (traducido)","fuentes":[
+              {"n":"The New York Times","f":"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml","tr":"en"}]},
+          ]
+          
+          def get(url, timeout=25):
+              req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read()
+          
+          def local(tag):
+              return tag.rsplit("}", 1)[-1]
+          
+          def parse(data):
+              root = ET.fromstring(data)
+              out = []
+              for el in root.iter():
+                  if local(el.tag) not in ("item", "entry"):
+                      continue
+                  title, link = "", ""
+                  for c in el:
+                      t = local(c.tag)
+                      if t == "title" and not title:
+                          title = (c.text or "").strip()
+                      elif t == "link" and not link:
+                          link = (c.get("href") or c.text or "").strip()
+                  title = html.unescape(title)
+                  if title and link:
+                      out.append({"t": title, "l": link})
+              return out
+          
+          def traducir(texto, src):
+              url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=%s&tl=es&dt=t&q=%s"
+                     % (src, urllib.parse.quote(texto)))
+              data = json.loads(get(url, 15).decode("utf-8"))
+              return "".join(p[0] for p in data[0] if p and p[0])
+          
+          resultado = {"updated": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"), "paises": []}
+          for p in PAISES:
+              pais = {"id": p["id"], "nombre": p["nombre"], "fuentes": []}
+              for s in p["fuentes"]:
+                  fuente = {"n": s["n"], "tr": bool(s.get("tr")), "items": []}
+                  try:
+                      items = parse(get(s["f"]))[:POR_FUENTE]
+                      if not items:
+                          raise ValueError("feed vacío")
+                      for it in items:
+                          if s.get("tr"):
+                              try:
+                                  es = traducir(it["t"], s["tr"])
+                                  it = {"t": es, "o": it["t"], "l": it["l"]}
+                              except Exception:
+                                  pass
+                          fuente["items"].append(it)
+                  except Exception as e:
+                      fuente["error"] = str(e)[:80]
+                      print("ERROR", s["n"], e)
+                  pais["fuentes"].append(fuente)
+              resultado["paises"].append(pais)
+          
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(resultado, f, ensure_ascii=False, indent=1)
+          print("OK")
+      - name: Guardar cambios
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || (git commit -m "Actualizar noticias" && git push)
