@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:12:36Z",
+  "updated": "2026-10-23T17:24:17Z",
   "paises": [
     {
       "id": "uy",
@@ -73,14 +73,14 @@
               "img": "https://media.elobservador.com.uy/p/6ccb6bfdb68f872037e9d8e32f6963f9/adjuntos/362/imagenes/100/778/0100778895/1200x675/smart/data-center.jpg"
             },
             {
+              "t": "Sitios del Estado caídos y miles de servidores expuestos: el impacto en Uruguay de la falla de PHP",
+              "l": "https://www.elobservador.com.uy/ciencia-y-tecnologia/sitios-del-estado-caidos-y-miles-servidores-expuestos-el-impacto-uruguay-la-falla-php-n6061404",
+              "img": "https://media.elobservador.com.uy/p/7593293ff2c58785df9ef20db73f32f9/adjuntos/362/imagenes/100/780/0100780823/1200x675/smart/httpswwwbbccommundoarticlescmly0k9y9p1vo.jpg"
+            },
+            {
               "t": "\"Yo iba a ir a Peñarol\": Fernando Muslera recordó cómo se dio su llegada a Estudiantes de La Plata y dijo que \"los destinos están escritos\"",
               "l": "https://www.elobservador.com.uy/copa-libertadores/yo-iba-ir-penarol-fernando-muslera-recordo-como-se-dio-su-llegada-estudiantes-la-plata-y-dijo-que-los-destinos-estan-escritos-n6061457",
               "img": "https://media.elobservador.com.uy/p/ad17f01008e18a243dde7a4cd2b9177d/adjuntos/362/imagenes/100/781/0100781197/1200x675/smart/fernando-muslera.png"
-            },
-            {
-              "t": "Habilitaron las entradas para ver al papa León XIV en Uruguay: el paso a paso para registrarse y conseguir hasta cuatro",
-              "l": "https://www.elobservador.com.uy/nacional/habilitaron-las-entradas-ver-al-papa-leon-xiv-uruguay-el-paso-paso-registrarse-y-conseguir-cuatro-n6061437",
-              "img": "https://media.elobservador.com.uy/p/112f04c05ded8cee292ebd015e8430c5/adjuntos/362/imagenes/100/780/0100780868/1200x675/smart/papa-leon-xiv.jpg"
             },
             {
               "t": "\"Yo tuve que hacerme el muerto\": el relato de un ocupante del auto baleado por la Policía en una persecución",
@@ -132,6 +132,10 @@
           "tr": false,
           "items": [
             {
+              "t": "Condenaron a cinco años de internación en el Inisa a la adolescente que mató a su abuela de varias puñaladas",
+              "l": "https://www.teledoce.com/telemundo/nacionales/condenaron-a-cinco-anos-de-internacion-en-el-inisa-a-la-adolescente-que-mato-a-su-abuela-de-varias-punaladas/"
+            },
+            {
               "t": "Volvo Cars demuestra con evidencia científica que la seguridad puede ser igual para mujeres y hombres",
               "l": "https://www.teledoce.com/telemundo/empresariales/volvo-cars-demuestra-con-evidencia-cientifica-que-la-seguridad-puede-ser-igual-para-mujeres-y-hombres/"
             },
@@ -158,10 +162,6 @@
             {
               "t": "Ángeles Lasso: Predicciones para el año de la Cabra de Fuego",
               "l": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/angeles-lasso-predicciones-para-el-ano-de-la-cabra-de-fuego/"
-            },
-            {
-              "t": "Diego Bello y Freddy González presentan \"Masones 3\"",
-              "l": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/diego-bello-y-freddy-gonzalez-presentan-masones-3/"
             }
           ]
         }
@@ -222,6 +222,36 @@
           "tr": false,
           "items": [
             {
+              "t": "Messi recibió el Premio Princesa de Asturias",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/messi-recibio-el-premio-princesa-de-asturias-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/LZPR7PRS4NH4PDLOZ7OPDYGYRQ.JPG?auth=0c446db75b67f3305058965a4145d9f7a5b68fde1c31f01ed6ceb3f47b531952&smart=true&width=2000&height=1333"
+            },
+            {
+              "t": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
+              "l": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/HT3GB3DECVDWTBYCX4J5KBPZOU.jpg?auth=36f66431ba5ee308a0c27610872feefe8c9131a851ea29f0b77ecdc6b5832a22&smart=true&width=2000&height=1338"
+            },
+            {
+              "t": "Franco Colapinto, en vivo: la primera práctica de la Fórmula 1 en Texas",
+              "l": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/OK3XCSK7ZJAMRLQICVV3KEM5JM.JPG?auth=d6acbf9645993048fbee317604ad19ed997458f82ab7d5914c497bd7910aa93c&smart=true&width=3594&height=2396"
+            },
+            {
+              "t": "Conrado Estol, neurólogo: “Cerca del 90% de los ACV se explican por apenas diez factores de riesgo modificables, esto demuestra que la genética influye, pero no es determinante”",
+              "l": "https://www.lanacion.com.ar/salud/vida_sana/conrado-estol-neurologo-cerca-del-90-de-los-acv-se-explican-por-apenas-diez-factores-de-riesgo-nid16102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/ADDEPJUGA5FPFPA6KPFHR5RWPU.jpeg?auth=2da6a6148e06ba54504e73fcaa1c18acd67741dab4b6e504d46541b775e2cfd3&smart=true&width=8192&height=5464"
+            },
+            {
+              "t": "Natalia Lobo llega a Bienestar Fest con una experiencia para volver a la propia esencia",
+              "l": "https://www.lanacion.com.ar/salud/vida_sana/natalia-lobo-llega-a-bienestar-fest-con-una-experiencia-para-volver-a-la-propia-esencia-nid20102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/REEHBD427RBF5NKMKCAONWFIX4.JPG?auth=1a2ea7207886ac8892d72fb68e0fb3ceb0038bee9d713038d0203c9ce15cbe3e&smart=true&width=2500&height=1668"
+            },
+            {
+              "t": "Dólar hoy y dólar blue, EN VIVO:  y cuál es el precio del paralelo este viernes 23 de octubre, minuto a minuto",
+              "l": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-y-cual-es-el-precio-del-paralelo-este-viernes-23-de-octubre-minuto-a-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/CJIIXWR5DBACRAR67SPZP446CE.png?auth=4e03d168b399d8b0c482bfa87d84845ab22d13a8bc67887d80296f3ce2fd36ad&smart=true&width=1264&height=848"
+            },
+            {
               "t": "El cumpleaños de Charly García, EN VIVO: agenda de recitales y los saludos por los 75 años del genio del rock nacional",
               "l": "https://www.lanacion.com.ar/espectaculos/el-cumpleanos-de-charly-garcia-en-vivo-agenda-de-recitales-y-los-saludos-por-los-75-anos-del-genio-nid23102026/",
               "img": "https://resizer.glanacion.com/resizer/v2/5OPSVG4IOVEVVHDWTK4PUD2TOA.JPG?auth=bbd103d3a9c18b474f70e7dc56c7de5a5da545274a45e498a942a3a30554f0a0&smart=true&width=3000&height=2000"
@@ -229,37 +259,7 @@
             {
               "t": "Quién es Ariel Vallejo, el financista ligado a la AFA que quedó detenido",
               "l": "https://www.lanacion.com.ar/politica/quien-es-ariel-vallejo-el-financista-ligado-a-la-afa-que-quedo-detenido-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/24OKKA7KAJBGLN7C4KZLHYBQAE.JPG?auth=5535d081d1b76e8bc5213850cd8272e7384be850f88fb44d89e0f61871c3118d&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Franco Colapinto, en vivo: la primera práctica de la F1 en Texas",
-              "l": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/OK3XCSK7ZJAMRLQICVV3KEM5JM.JPG?auth=d6acbf9645993048fbee317604ad19ed997458f82ab7d5914c497bd7910aa93c&smart=true&width=3594&height=2396"
-            },
-            {
-              "t": "Elecciones Brasil 2026: encuestas del balotaje Lula vs. Flavio Bolsonaro y últimas noticias, hoy viernes 23 de octubre",
-              "l": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-encuestas-del-balotaje-lula-vs-flavio-bolsonaro-y-ultimas-noticias-hoy-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/2RLNIZOHBJAEJKY326WYO5CISY.jpg?auth=1159dbdc81b3b4e1c7d9383d86bbbab07c723e38db3bef022c66e2dea77d3ec7&smart=true&width=3264&height=2209"
-            },
-            {
-              "t": "Juicio a Cristina Kirchner, EN VIVO: arranca el proceso por Hotesur y Los Sauces donde investigan la corrupción K",
-              "l": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-arranca-el-proceso-por-hotesur-y-los-sauces-donde-investigan-la-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/T5ONTE3JVZHCHPHBZXKVBQKZTE.JPG?auth=56cb7063d31472617f218ab3b27a61407c72771eeb2b4d4ddd97ca53db0393da&smart=true&width=2000&height=1334"
-            },
-            {
-              "t": "Tramo por tramo, así es la ruta aérea argentina elegida como la más turbulenta del mundo",
-              "l": "https://www.lanacion.com.ar/lnmas/tramo-por-tramo-asi-es-la-ruta-aerea-argentina-elegida-como-la-mas-turbulenta-del-mundo-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/PWMRXK4WEZECHJ4EA4Y2KIICT4?auth=fa5c0eb7afc839ea6d18f17fd8d6761a70bc5d7b93fcec3a08d5ed55df72a857&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Milei recibió al vicesecretario de Estado de EE.UU., que había mencionado la preocupación de las empresas por la ley Malvinas",
-              "l": "https://www.lanacion.com.ar/politica/milei-recibio-al-vicesecretario-de-estado-de-eeuu-que-habia-mencionado-la-preocupacion-de-las-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/RJ742CHCXBAHFNFGWNA4QZ6OVM.jpeg?auth=c1d39cfd8feb57e77c00f73f4145ada6fa6473fc6b25649f62383505d495af42&smart=true&width=1205&height=904"
-            },
-            {
-              "t": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
-              "l": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/HT3GB3DECVDWTBYCX4J5KBPZOU.jpg?auth=36f66431ba5ee308a0c27610872feefe8c9131a851ea29f0b77ecdc6b5832a22&smart=true&width=2000&height=1338"
+              "img": "https://resizer.glanacion.com/resizer/v2/KOYEZRNPONFFFICU6WAU57DAXU.jpeg?auth=39efb7cbdd44b18ec0081cd87a6ea40806e865f65047bb27533cfcfa2d7b78c9&smart=true&width=501&height=376"
             }
           ]
         },
@@ -278,6 +278,11 @@
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/ACIGYRP7PZBXHNMIZNQEVFALPY.jpeg?auth=de958c6b47647de4b763e825f7a982681b90f9f1a81546bcf3fa6579ae299888&smart=true&width=5142&height=3428"
             },
             {
+              "t": "Desaparición de Nancy Godoy: imputaron a cinco detenidos y la fiscalía avanza con la hipótesis del homicidio",
+              "l": "https://www.pagina12.com.ar/2026/10/23/desaparicion-de-nancy-godoy-imputaron-a-cinco-detenidos-y-la-fiscalia-avanza-con-la-hipotesis-del-homicidio/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/TOTRYO2GXJG5RME2P3KYH3HVLQ.jpg?auth=e65a52825ee302688e919b3eb0d03dff293b2d81a6801a523d9a1991c12c7eae&smart=true&width=1200&height=800"
+            },
+            {
               "t": "“Es un secreto”: otro video de Bullrich para coquetear con una candidatura",
               "l": "https://www.pagina12.com.ar/2026/10/23/es-un-secreto-otro-video-de-bullrich-para-coquetear-con-una-candidatura/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/PDKYBKPQ5RH3JMFQEVQ67MEPCY.jpg?auth=d8b198bcd84ddc916751d9e483dad3cb4b92ad6316c9f12896dc727180b1b645&smart=true&width=1616&height=1077"
@@ -291,11 +296,6 @@
               "t": "Cumbre peronista: Máximo Kirchner, Axel Kicillof y Sergio Massa volvieron a verse cara a cara",
               "l": "https://www.pagina12.com.ar/2026/10/22/cumbre-peronista-maximo-kirchner-axel-kicillof-y-sergio-massa-vuelven-a-verse-cara-a-cara/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/MT4JNIKI2RDPZIXKP3CX2A7M24.jpg?auth=d5d22bbf415dc0a3c54de713c7bed1471c08c106b93bc03ab9287cee9d8e08a2&smart=true&width=1075&height=717"
-            },
-            {
-              "t": "La derecha española se sigue despegando de Milei tras su visita",
-              "l": "https://www.pagina12.com.ar/2026/10/23/la-derecha-espanola-se-sigue-despegando-de-milei-tras-su-visita/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/JNFURR4TWNCVHBFUG2BQYT2YHY.jpg?auth=a39a1bfa856222d112c998e8f7142302a751e856ff9ab14fb5e566c441548276&smart=true&width=1920&height=1276"
             }
           ]
         }
@@ -310,6 +310,31 @@
           "tr": true,
           "items": [
             {
+              "t": "Descubre quién es el joven que desapareció tras sufrir un golpe y grabar video llorando",
+              "l": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/23/saiba-quem-e-o-jovem-que-desapareceu-apos-sofrer-golpe-e-gravar-video-chorando.ghtml",
+              "o": "Saiba quem é o jovem que desapareceu após sofrer golpe e gravar vídeo chorando"
+            },
+            {
+              "t": "Intercambio de disparos deja un muerto y otro baleado en Viaduto da China, en la Zona Este de SP",
+              "l": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/23/troca-de-tiros-deixa-um-morto-e-outro-baleado-no-viaduto-da-china-na-zona-leste-de-sp.ghtml",
+              "o": "Troca de tiros deixa um morto e outro baleado no Viaduto da China, na Zona Leste de SP"
+            },
+            {
+              "t": "El niño que se cayó de un edificio en RS estaba jugando en una terraza, según la policía",
+              "l": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/23/menino-predio-terraco-santa-maria-policia.ghtml",
+              "o": "Menino que caiu de prédio no RS brincava em terraço, aponta polícia"
+            },
+            {
+              "t": "Camión cargado de mercancías se incendia en la BR-222, en Santa Inês",
+              "l": "https://g1.globo.com/ma/maranhao/noticia/2026/10/23/caminhao-carregado-com-mercadorias-pega-fogo-na-br-222-em-santa-ines.ghtml",
+              "o": "Caminhão carregado com mercadorias pega fogo na BR-222 em Santa Inês"
+            },
+            {
+              "t": "El padre de Meghan Markle es investigado por conservar imágenes de abuso sexual infantil",
+              "l": "https://g1.globo.com/mundo/noticia/2026/10/23/pai-de-meghan-markle-e-investigado-por-guardar-imagens-de-abuso-sexual-infantil.ghtml",
+              "o": "Pai de Meghan Markle é investigado por guardar imagens de abuso sexual infantil"
+            },
+            {
               "t": "Bancos de energía: el aeropuerto de Teresina incautó 80 cargadores; entender las reglas de vuelo",
               "l": "https://g1.globo.com/pi/piaui/noticia/2026/10/23/power-banks-aeroporto-regras-para-voos.ghtml",
               "o": "Power banks: aeroporto de Teresina apreendeu 80 carregadores; entenda regras para voos"
@@ -323,31 +348,6 @@
               "t": "Mujer detenida bajo sospecha de haber prendido fuego a la motocicleta de su pareja en el sur de Piauí",
               "l": "https://g1.globo.com/pi/piaui/noticia/2026/10/23/mulher-incendiar-moto-sul-do-piaui.ghtml",
               "o": "Mulher é detida suspeita de incendiar moto da companheira no Sul do Piauí"
-            },
-            {
-              "t": "VIDEOS: Jornal Anhanguera 1ra edición este viernes 23 de octubre de 2026",
-              "l": "https://g1.globo.com/go/goias/edicao/2026/10/23/videos-jornal-anhanguera-1-edicao-desta-sexta-feira-dia-23-de-outubro-de-2026.ghtml",
-              "o": "VÍDEOS: Jornal Anhanguera 1ª edição desta sexta-feira dia 23 de outubro de 2026"
-            },
-            {
-              "t": "VIDEOS: Jornal do Almoço Florianópolis del viernes 23 de octubre de 2026",
-              "l": "https://g1.globo.com/sc/santa-catarina/edicao/2026/10/23/videos-jornal-do-almoco-florianopolis-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-              "o": "VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 23 de outubro de 2026"
-            },
-            {
-              "t": "Gilmar alega inmunidad parlamentaria y rechaza denuncia del diputado de Flávio contra congresistas que mencionaron acusación de violación",
-              "l": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/gilmar-cita-imunidade-parlamentar-e-rejeita-queixa-de-vice-de-flavio-contra-congressistas-que-mencionaram-acusacao-de-estupro.ghtml",
-              "o": "Gilmar cita imunidade parlamentar e rejeita queixa de vice de Flávio contra congressistas que mencionaram acusação de estupro"
-            },
-            {
-              "t": "VIDEOS: NE1 del viernes 23 de octubre de 2026",
-              "l": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-              "o": "VÍDEOS: NE1 de sexta-feira, 23 de outubro de 2026"
-            },
-            {
-              "t": "Sequía: Gobierno de MG declara situación de emergencia en ciudades del Norte de MG",
-              "l": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/23/seca-governo-de-mg-decreta-situacao-de-emergencia-em-cidades-do-norte-de-mg.ghtml",
-              "o": "Seca: Governo de MG decreta situação de emergência em cidades do Norte de MG"
             }
           ]
         },
@@ -355,6 +355,26 @@
           "n": "Folha de S.Paulo",
           "tr": true,
           "items": [
+            {
+              "t": "Bruna Marquezine confirmada en la tercera temporada de 'Crime Tycoons' de Netflix",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/10/bruna-marquezine-e-confirmada-na-terceira-temporada-de-magnatas-do-crime-da-netflix.shtml",
+              "o": "Bruna Marquezine é confirmada na terceira temporada de 'Magnatas do Crime' da Netflix"
+            },
+            {
+              "t": "El encarcelamiento de jóvenes conduce al abuso sexual",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luisfranciscocarvalhofilho/2026/10/encarceramento-da-juventude-gera-abuso-sexual.shtml",
+              "o": "Encarceramento da juventude gera abuso sexual"
+            },
+            {
+              "t": "Ângela Leal se declara ante Lula y dice que pospuso la cirugía para votar: 'Aunque sea la última vez'",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/angela-leal-se-declara-para-lula-e-afirma-que-adiou-cirurgia-para-votar-nem-que-seja-a-ultima-vez.shtml",
+              "o": "Ângela Leal se declara para Lula e afirma que adiou cirurgia para votar: 'Nem que seja a última vez'"
+            },
+            {
+              "t": "Tribunal prohíbe a Guaraná Poty hacer propaganda política a empleados",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/justica-proibe-guarana-poty-de-fazer-propaganda-politica-a-funcionarios.shtml",
+              "o": "Justiça proíbe Guaraná Poty de fazer propaganda política a funcionários"
+            },
             {
               "t": "Los incendios en Manaos y ciudades vecinas se intensifican tras la primera vuelta electoral",
               "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/focos-de-fogo-em-manaus-e-cidades-vizinhas-disparam-apos-o-primeiro-turno-das-eleicoes.shtml",
@@ -374,26 +394,6 @@
               "t": "Bolsonarista publica rumor ya desmentido sobre el voto de los trabajadores electorales a Lula y pide inspección",
               "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/bolsonarista-divulga-boato-ja-desmentido-sobre-voto-de-mesarios-em-lula-e-pede-fiscalizacao.shtml",
               "o": "Bolsonarista divulga boato já desmentido sobre voto de mesários em Lula e pede fiscalização"
-            },
-            {
-              "t": "mermelada de impuestos",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/marmelada-fiscal.shtml",
-              "o": "Marmelada fiscal"
-            },
-            {
-              "t": "Soldados de escuela en Paraná son despedidos luego de que estudiantes encontraran una cámara en el baño",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/militares-de-escola-no-parana-sao-afastados-apos-alunos-encontrarem-camera-no-banheiro.shtml",
-              "o": "Militares de escola no Paraná são afastados após alunos encontrarem câmera no banheiro"
-            },
-            {
-              "t": "La cobertura de la 2ª ronda en Folha incluye proyecciones de Datafolha, recuentos en tiempo real y programas en directo",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cobertura-do-2o-turno-na-folha-tem-projecoes-do-datafolha-apuracao-em-tempo-real-e-programas-ao-vivo.shtml",
-              "o": "Cobertura do 2º turno na Folha tem projeções do Datafolha, apuração em tempo real e programas ao vivo"
-            },
-            {
-              "t": "Película en Exposición de São Paulo expone las ruinas sociales de Venezuela",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-na-mostra-de-sao-paulo-expoe-as-ruinas-sociais-da-venezuela.shtml",
-              "o": "Filme na Mostra de São Paulo expõe as ruínas sociais da Venezuela"
             }
           ]
         },
@@ -472,7 +472,7 @@
               "img": "https://imagenes.elpais.com/resizer/v2/MRGLLULFQFPRNGX3KQAGJUCXN4.jpg?auth=c9ff81de2c2f5cefd968d3e8eb43fe40e06ceeb75d7e6701c05c93c20ee46336"
             },
             {
-              "t": "Los Premios Princesa de Asturias 2026, en directo | Christina Koch: “No esperen a la próxima misión a la Luna para darse cuenta de que sus semejantes son sus compañeros de tripulación”",
+              "t": "Los Premios Princesa de Asturias 2026, en directo | Timothy Garton Ash: “Europa se encuentra hoy amenazada en su propia existencia”",
               "l": "https://elpais.com/cultura/2026-10-23/los-premios-princesa-de-asturias-en-directo.html",
               "img": "https://imagenes.elpais.com/resizer/v2/3CPRVXXRTZC2DKMCQMEQR763GA.jpg?auth=2619ed110c4fbf15cb1250f301e2cdc3abe17a7838905b36c7bdc85fbaf24b11"
             },
@@ -561,7 +561,7 @@
           "items": [
             {
               "t": "Esto es lo que los demócratas planean hacer con su poder si recuperan el Congreso",
-              "l": "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html",
+              "l": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
               "o": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress"
             },
             {
@@ -641,9 +641,9 @@
               "o": "Hacking attempts rise after flaws found in program affecting 70 percent of websites"
             },
             {
-              "t": "En medio de los ataques de Trump a DEI, cómo una universidad está elevando a los estudiantes negros",
-              "l": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-              "o": "Amid Trump's assaults on DEI, how one university is elevating Black students"
+              "t": "Por qué ir a un retiro de 'di no' es un regalo para tu yo futuro",
+              "l": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+              "o": "Why going on a 'say no' retreat is a gift to your future self"
             }
           ]
         }
