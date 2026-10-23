@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias del mundo</title>
+<style>
+:root{--bg:#f6f6f4;--card:#fff;--tx:#1a1a1a;--mu:#6b6b6b;--ac:#0b5fff;--bd:#e3e3df}
+@media(prefers-color-scheme:dark){:root{--bg:#141414;--card:#1e1e1e;--tx:#ececec;--mu:#9a9a9a;--ac:#6ea0ff;--bd:#333}}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--tx)}
+header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--bd);padding:12px 16px;z-index:5;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+h1{font-size:18px;margin:0 12px 0 0}
+button{font:inherit;border:1px solid var(--bd);background:var(--card);color:var(--tx);padding:6px 12px;border-radius:999px;cursor:pointer}
+button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+main{max-width:1200px;margin:0 auto;padding:16px}
+h2{font-size:16px;margin:24px 0 10px;color:var(--mu);text-transform:uppercase;letter-spacing:.05em}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px}
+.card h3{margin:0 0 8px;font-size:15px}
+.card ul{list-style:none;margin:0;padding:0}
+.card li{padding:7px 0;border-top:1px solid var(--bd);font-size:14px;line-height:1.35}
+.card li:first-child{border-top:0}
+a{color:var(--tx);text-decoration:none}a:hover{color:var(--ac)}
+.o{display:block;color:var(--mu);font-size:12px;margin-top:2px}
+.err,.load{color:var(--mu);font-size:13px}
+.tag{font-size:11px;color:var(--mu);font-weight:400}
+</style>
+</head>
+<body>
+<header>
+  <h1>📰 Noticias</h1>
+  <span id="tabs"></span>
+  <button id="refresh">↻ Actualizar</button>
+</header>
+<main id="app"></main>
+
+<script>
+// ---- Fuentes (editá libremente) ----
+// tr: traducir títulos al español ("pt" o "en"); sin tr = ya está en español
+const PAISES = [
+  {id:"uy", nombre:"🇺🇾 Uruguay", fuentes:[
+    {n:"Montevideo Portal", f:"https://www.montevideo.com.uy/anxml.aspx?58"},
+    {n:"El Observador",     f:"https://www.elobservador.com.uy/rss/pages/home.xml"},
+    {n:"El País",           f:"https://www.elpais.com.uy/rss/"},
+    {n:"la diaria",         f:"https://ladiaria.com.uy/feeds/articulos"}]},
+  {id:"ar", nombre:"🇦🇷 Argentina", fuentes:[
+    {n:"Clarín",     f:"https://www.clarin.com/rss/lo-ultimo/"},
+    {n:"La Nación",  f:"https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"},
+    {n:"Página/12",  f:"https://www.pagina12.com.ar/rss/portada"}]},
+  {id:"br", nombre:"🇧🇷 Brasil (traducido)", fuentes:[
+    {n:"G1",         f:"https://g1.globo.com/rss/g1/", tr:"pt"},
+    {n:"Folha",      f:"https://feeds.folha.uol.com.br/emcimadahora/rss091.xml", tr:"pt"},
+    {n:"UOL",        f:"https://rss.uol.com.br/feed/noticias.xml", tr:"pt"},
+    {n:"CNN Brasil", f:"https://www.cnnbrasil.com.br/feed/", tr:"pt"}]},
+  {id:"es", nombre:"🇪🇸 España", fuentes:[
+    {n:"El País (España)", f:"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"}]},
+  {id:"us", nombre:"🇺🇸 EE.UU. (traducido)", fuentes:[
+    {n:"The New York Times", f:"https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", tr:"en"}]}
+];
+const POR_FUENTE = 6;
+const API = "https://api.rss2json.com/v1/api.json?rss_url=";
+const TR = "https://api.mymemory.translated.net/get?q=";
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const dec = s => { const t = document.createElement("textarea"); t.innerHTML = s; return t.value; };
+
+// caché simple para no gastar la cuota de traducción
+let cache = {};
+try { cache = JSON.parse(localStorage.getItem("trcache") || "{}"); } catch(e){}
+const saveCache = () => { try { localStorage.setItem("trcache", JSON.stringify(cache)); } catch(e){} };
+
+async function traducir(txt, from){
+  const k = from + "|" + txt;
+  if (cache[k]) return cache[k];
+  try{
+    const r = await fetch(TR + encodeURIComponent(txt) + "&langpair=" + from + "|es");
+    const j = await r.json();
+    const out = j?.responseData?.translatedText;
+    if (out && j.responseStatus == 200 && !/MYMEMORY WARNING/i.test(out)){ cache[k] = out; saveCache(); return out; }
+  }catch(e){}
+  return null;
+}
+
+const PROXIES = [
+  u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+  u => "https://corsproxy.io/?url=" + encodeURIComponent(u),
+  u => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(u),
+  u => u
+];
+async function traerItems(url){
+  for (const p of PROXIES){
+    try{
+      const r = await fetch(p(url));
+      if (!r.ok) continue;
+      const d = new DOMParser().parseFromString(await r.text(), "text/xml");
+      const its = [...d.querySelectorAll("item, entry")].map(i => {
+        const l = i.querySelector("link");
+        return {title: i.querySelector("title")?.textContent?.trim() || "",
+                link: (l && (l.getAttribute("href") || l.textContent) || "").trim()};
+      }).filter(x => x.title && x.link);
+      if (its.length) return its;
+    }catch(e){}
+  }
+  try{
+    const r = await fetch(API + encodeURIComponent(url));
+    const j = await r.json();
+    if (j.status === "ok" && j.items.length) return j.items.map(x => ({title:x.title, link:x.link}));
+  }catch(e){}
+  throw new Error("el feed no respondió");
+}
+
+async function cargarFuente(src, ul){
+  try{
+    const items = (await traerItems(src.f)).slice(0, POR_FUENTE);
+    ul.innerHTML = items.map(it =>
+      `<li><a href="${esc(it.link)}" target="_blank" rel="noopener"><span class="t">${esc(dec(it.title))}</span></a><span class="o"></span></li>`
+    ).join("");
+    if (src.tr){
+      const lis = [...ul.querySelectorAll("li")];
+      for (let i = 0; i < lis.length; i++){
+        const orig = dec(items[i].title);
+        const t = await traducir(orig, src.tr);
+        if (t){ lis[i].querySelector(".t").textContent = t; lis[i].querySelector(".o").textContent = orig; }
+      }
+    }
+  }catch(e){
+    ul.innerHTML = `<li class="err">No se pudo cargar (${esc(e.message)}).</li>`;
+  }
+}
+
+function render(filtro){
+  $("#app").innerHTML = "";
+  PAISES.filter(p => filtro === "all" || p.id === filtro).forEach(p => {
+    const h = document.createElement("h2"); h.textContent = p.nombre;
+    const g = document.createElement("div"); g.className = "grid";
+    p.fuentes.forEach(s => {
+      const c = document.createElement("div"); c.className = "card";
+      c.innerHTML = `<h3>${esc(s.n)} ${s.tr ? '<span class="tag">· traducido</span>' : ""}</h3><ul><li class="load">Cargando…</li></ul>`;
+      g.appendChild(c);
+      cargarFuente(s, c.querySelector("ul"));
+    });
+    $("#app").append(h, g);
+  });
+}
+
+let actual = "all";
+function tabs(){
+  const all = [{id:"all", nombre:"Todo"}, ...PAISES];
+  $("#tabs").innerHTML = "";
+  all.forEach(p => {
+    const b = document.createElement("button");
+    b.textContent = p.nombre.replace(" (traducido)","");
+    if (p.id === actual) b.className = "on";
+    b.onclick = () => { actual = p.id; tabs(); render(actual); };
+    $("#tabs").appendChild(b);
+    $("#tabs").appendChild(document.createTextNode(" "));
+  });
+}
+$("#refresh").onclick = () => render(actual);
+tabs(); render(actual);
+</script>
+</body>
+</html>
