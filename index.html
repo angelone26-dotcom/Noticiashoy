@@ -3,88 +3,430 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Noticias del mundo</title>
+<meta name="theme-color" content="#101827">
+<meta name="description" content="Noticias de Uruguay y el mundo, reunidas en un solo lugar.">
+<title>Radar | Noticias del mundo</title>
 <style>
-:root{--bg:#f6f6f4;--card:#fff;--tx:#1a1a1a;--mu:#6b6b6b;--ac:#0b5fff;--bd:#e3e3df}
-@media(prefers-color-scheme:dark){:root{--bg:#141414;--card:#1e1e1e;--tx:#ececec;--mu:#9a9a9a;--ac:#6ea0ff;--bd:#333}}
-*{box-sizing:border-box}
-body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--tx)}
-header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--bd);padding:12px 16px;z-index:5;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-h1{font-size:18px;margin:0 12px 0 0}
-button{font:inherit;border:1px solid var(--bd);background:var(--card);color:var(--tx);padding:6px 12px;border-radius:999px;cursor:pointer}
-button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
-#upd{color:var(--mu);font-size:12px;margin-left:auto}
-main{max-width:1200px;margin:0 auto;padding:16px}
-h2{font-size:16px;margin:24px 0 10px;color:var(--mu);text-transform:uppercase;letter-spacing:.05em}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px}
-.card h3{margin:0 0 8px;font-size:15px}
-.card ul{list-style:none;margin:0;padding:0}
-.card li{padding:7px 0;border-top:1px solid var(--bd);font-size:14px;line-height:1.35}
-.card li:first-child{border-top:0}
-a{color:var(--tx);text-decoration:none}a:hover{color:var(--ac)}
-.o{display:block;color:var(--mu);font-size:12px;margin-top:2px}
-.err,.msg{color:var(--mu);font-size:13px}
-.tag{font-size:11px;color:var(--mu);font-weight:400}
+:root {
+  color-scheme: dark;
+  --bg: #0b1120;
+  --panel: #121c2e;
+  --panel2: #172338;
+  --text: #f1f5f9;
+  --muted: #96a6bb;
+  --line: #28364b;
+  --accent: #72e0b2;
+  --accentText: #071a14;
+  --shadow: 0 10px 30px #0002;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background:
+    radial-gradient(ellipse at 15% 0%, #17304a 0, transparent 35%),
+    var(--bg);
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.5;
+}
+button, a { font: inherit; }
+a { color: inherit; }
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #0b1120ed;
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(16px);
+}
+.header-inner {
+  max-width: 1450px;
+  margin: auto;
+  padding: 16px 22px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin-right: auto;
+}
+.brand-mark {
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  background: var(--accent);
+  color: var(--accentText);
+  border-radius: 13px;
+  font-size: 22px;
+  font-weight: 900;
+}
+h1 {
+  margin: 0;
+  font-size: 21px;
+  letter-spacing: -.7px;
+}
+.subtitle { color: var(--muted); font-size: 12px; }
+#updated { color: var(--muted); font-size: 12px; }
+nav {
+  display: flex;
+  gap: 7px;
+  width: 100%;
+  overflow-x: auto;
+  padding: 2px 0 3px;
+  scrollbar-width: thin;
+}
+nav button {
+  flex: 0 0 auto;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 8px 14px;
+  cursor: pointer;
+  transition: .15s ease;
+}
+nav button:hover { border-color: var(--accent); color: var(--text); }
+nav button.active {
+  background: var(--accent);
+  color: var(--accentText);
+  border-color: var(--accent);
+  font-weight: 750;
+}
+main {
+  max-width: 1450px;
+  margin: auto;
+  padding: 28px 22px 60px;
+}
+.intro {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+.eyebrow {
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 11px;
+  font-weight: 800;
+}
+.intro h2 {
+  font-size: clamp(26px, 4vw, 38px);
+  line-height: 1.15;
+  letter-spacing: -1.2px;
+  margin: 6px 0;
+}
+.intro p { color: var(--muted); margin: 0; max-width: 600px; }
+#count {
+  color: var(--muted);
+  font-size: 13px;
+  white-space: nowrap;
+}
+.country-section { margin: 34px 0 44px; }
+.country-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.country-title h2 {
+  margin: 0;
+  font-size: 23px;
+  letter-spacing: -.5px;
+}
+.country-title .rule { flex: 1; height: 1px; background: var(--line); }
+.source-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 310px), 1fr));
+  gap: 17px;
+  align-items: start;
+}
+.source-card {
+  min-width: 0;
+  overflow: hidden;
+  background: linear-gradient(155deg, var(--panel2), var(--panel));
+  border: 1px solid var(--line);
+  border-radius: 17px;
+  box-shadow: var(--shadow);
+}
+.source-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 15px 16px;
+  border-bottom: 1px solid var(--line);
+}
+.source-head h3 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 750;
+}
+.source-count {
+  color: var(--muted);
+  font-size: 11px;
+  white-space: nowrap;
+}
+.story {
+  padding: 13px 15px;
+  border-bottom: 1px solid var(--line);
+}
+.story:last-child { border-bottom: 0; }
+.story-link {
+  display: block;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1.45;
+  font-weight: 620;
+}
+.story-link:hover { color: var(--accent); }
+.story-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background: #202c40;
+}
+.original {
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 5px;
+}
+.story-number {
+  color: var(--accent);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .8px;
+  margin-bottom: 4px;
+}
+.empty, .loading, .error {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 15px;
+  padding: 24px;
+  color: var(--muted);
+}
+footer {
+  max-width: 1450px;
+  margin: auto;
+  padding: 0 22px 30px;
+  color: var(--muted);
+  font-size: 12px;
+}
+@media (min-width: 1000px) {
+  .source-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .header-inner { padding: 13px 14px; gap: 12px; }
+  main { padding: 22px 14px 45px; }
+  .intro h2 { font-size: 28px; }
+  .country-title h2 { font-size: 20px; }
+  .source-grid { grid-template-columns: 1fr; }
+  #updated { width: 100%; }
+  footer { padding: 0 14px 24px; }
+}
 </style>
 </head>
 <body>
 <header>
-  <h1>📰 Noticias</h1>
-  <span id="tabs"></span>
-  <span id="upd"></span>
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-mark">R</div>
+      <div>
+        <h1>Radar</h1>
+        <div class="subtitle">Las noticias, en un solo lugar</div>
+      </div>
+    </div>
+    <span id="updated">Conectando…</span>
+    <nav id="tabs" aria-label="Filtrar noticias por país"></nav>
+  </div>
 </header>
-<main id="app"><p class="msg">Cargando…</p></main>
+
+<main>
+  <section class="intro">
+    <div>
+      <div class="eyebrow">Radar informativo</div>
+      <h2>El mundo, de un vistazo.</h2>
+      <p>Distintos medios, distintos enfoques. Elegí un país y explorá sus titulares.</p>
+    </div>
+    <div id="count"></div>
+  </section>
+  <div id="app"><div class="loading">Cargando las últimas noticias…</div></div>
+</main>
+
+<footer>
+  Radar reúne titulares y enlaces publicados por medios externos. Las noticias pertenecen a sus respectivos medios.
+  Las imágenes, cuando están disponibles, se cargan desde las fuentes originales.
+</footer>
 
 <script>
-const $ = s => document.querySelector(s);
-const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let DATA = null, actual = "all";
+const $ = selector => document.querySelector(selector);
+const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, char => ({
+  "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+}[char]));
 
-function hace(iso){
-  const m = Math.round((Date.now() - new Date(iso)) / 60000);
-  if (m < 1) return "recién";
-  if (m < 60) return "hace " + m + " min";
-  const h = Math.round(m / 60);
-  return h < 24 ? "hace " + h + " h" : "hace " + Math.round(h / 24) + " d";
+let data = null;
+let selectedCountry = "all";
+
+function safeLink(value) {
+  try {
+    const url = new URL(value);
+    return ["https:", "http:"].includes(url.protocol) ? url.href : "";
+  } catch {
+    return "";
+  }
 }
 
-function tabs(){
-  const all = [{id:"all", nombre:"Todo"}, ...DATA.paises];
-  $("#tabs").innerHTML = "";
-  all.forEach(p => {
-    const b = document.createElement("button");
-    b.textContent = p.nombre.replace(" (traducido)", "");
-    if (p.id === actual) b.className = "on";
-    b.onclick = () => { actual = p.id; tabs(); render(); };
-    $("#tabs").append(b, " ");
-  });
+function timeAgo(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "hora no disponible";
+  const minutes = Math.max(0, Math.floor((Date.now() - date.getTime()) / 60000));
+  if (minutes < 1) return "recién";
+  if (minutes < 60) return `hace ${minutes} min`;
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) return `hace ${hours} h`;
+  return `hace ${Math.floor(hours / 24)} d`;
 }
 
-function render(){
-  let h = "";
-  DATA.paises.filter(p => actual === "all" || p.id === actual).forEach(p => {
-    h += `<h2>${esc(p.nombre)}</h2><div class="grid">`;
-    p.fuentes.forEach(s => {
-      h += `<div class="card"><h3>${esc(s.n)} ${s.tr ? '<span class="tag">· traducido</span>' : ""}</h3><ul>`;
-      if (s.items.length){
-        s.items.forEach(i => {
-          h += `<li><a href="${esc(i.l)}" target="_blank" rel="noopener">${esc(i.t)}</a>${i.o ? `<span class="o">${esc(i.o)}</span>` : ""}</li>`;
-        });
-      } else {
-        h += `<li class="err">No disponible por ahora${s.error ? " (" + esc(s.error) + ")" : ""}.</li>`;
-      }
-      h += "</ul></div>";
+function renderTabs() {
+  const countries = [
+    { id: "all", nombre: "🌐 Todo" },
+    ...data.paises.map(country => ({
+      id: country.id,
+      nombre: country.nombre
+    }))
+  ];
+
+  $("#tabs").innerHTML = countries.map(country => `
+    <button type="button"
+      class="${country.id === selectedCountry ? "active" : ""}"
+      data-country="${escapeHTML(country.id)}">
+      ${escapeHTML(country.nombre)}
+    </button>
+  `).join("");
+
+  $("#tabs").querySelectorAll("button").forEach(button => {
+    button.addEventListener("click", () => {
+      selectedCountry = button.dataset.country;
+      renderTabs();
+      renderNews();
     });
-    h += "</div>";
   });
-  $("#app").innerHTML = h;
 }
 
-fetch("news.json?t=" + Date.now())
-  .then(r => { if (!r.ok) throw new Error("no hay news.json todavía"); return r.json(); })
-  .then(d => { DATA = d; $("#upd").textContent = "Actualizado " + hace(d.updated); tabs(); render(); })
-  .catch(e => { $("#app").innerHTML = `<p class="msg">Todavía no hay noticias (${esc(e.message)}). Esperá a que termine la primera ejecución en la pestaña Actions de GitHub y recargá.</p>`; });
+function renderNews() {
+  const countries = data.paises.filter(country =>
+    selectedCountry === "all" || country.id === selectedCountry
+  );
+
+  let total = 0;
+  let sections = "";
+
+  for (const country of countries) {
+    const sources = (country.fuentes || []).filter(source =>
+      Array.isArray(source.items) && source.items.length > 0
+    );
+
+    if (!sources.length) continue;
+
+    sections += `
+      <section class="country-section">
+        <div class="country-title">
+          <h2>${escapeHTML(country.nombre)}</h2>
+          <div class="rule"></div>
+        </div>
+        <div class="source-grid">
+          ${sources.map(source => {
+            const stories = source.items.slice(0, 8);
+            total += stories.length;
+
+            return `
+              <article class="source-card">
+                <div class="source-head">
+                  <h3>${escapeHTML(source.n)}</h3>
+                  <span class="source-count">${stories.length} noticias</span>
+                </div>
+                ${stories.map((story, index) => {
+                  const link = safeLink(story.l);
+                  const image = safeLink(story.img || "");
+                  if (!link) return "";
+
+                  return `
+                    <div class="story">
+                      <div class="story-number">${String(index + 1).padStart(2, "0")}</div>
+                      ${image ? `
+                        <img class="story-image"
+                          src="${escapeHTML(image)}"
+                          alt=""
+                          loading="lazy"
+                          referrerpolicy="no-referrer"
+                          onerror="this.remove()">
+                      ` : ""}
+                      <a class="story-link"
+                        href="${escapeHTML(link)}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        ${escapeHTML(story.t)}
+                      </a>
+                      ${story.o ? `<div class="original">${escapeHTML(story.o)}</div>` : ""}
+                    </div>
+                  `;
+                }).join("")}
+              </article>
+            `;
+          }).join("")}
+        </div>
+      </section>
+    `;
+  }
+
+  $("#count").textContent = `${total} titulares disponibles`;
+
+  $("#app").innerHTML = sections || `
+    <div class="empty">
+      No hay noticias disponibles para esta selección en este momento.
+      Probá con otro país o volvé a cargar la página más tarde.
+    </div>
+  `;
+}
+
+async function loadNews() {
+  try {
+    const response = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error("No se pudo cargar news.json");
+    data = await response.json();
+
+    if (!Array.isArray(data.paises)) {
+      throw new Error("El archivo news.json tiene un formato inesperado");
+    }
+
+    $("#updated").textContent = `Actualizado ${timeAgo(data.updated)}`;
+    renderTabs();
+    renderNews();
+  } catch (error) {
+    console.error(error);
+    $("#updated").textContent = "No se pudo actualizar";
+    $("#app").innerHTML = `
+      <div class="error">
+        No pudimos cargar las noticias. Comprobá que la última ejecución de GitHub Actions
+        haya terminado correctamente y volvé a intentarlo.
+      </div>
+    `;
+  }
+}
+
+loadNews();
 </script>
 </body>
 </html>
