@@ -13,9 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: 
       - name: Descargar noticias
+        shell: python
         run: |
           import json, urllib.request, urllib.parse, html, datetime
+
           import xml.etree.ElementTree as ET
           
           UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
