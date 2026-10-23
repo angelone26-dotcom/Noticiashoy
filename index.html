@@ -1,432 +1,521 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#101827">
-<meta name="description" content="Noticias de Uruguay y el mundo, reunidas en un solo lugar.">
-<title>Radar | Noticias del mundo</title>
+<meta name="theme-color" content="#101722">
+<title>Noticias del mundo</title>
+
 <style>
 :root {
-  color-scheme: dark;
-  --bg: #0b1120;
-  --panel: #121c2e;
-  --panel2: #172338;
+  --bg: #101722;
+  --panel: #192332;
+  --card: #1d2939;
   --text: #f1f5f9;
-  --muted: #96a6bb;
-  --line: #28364b;
-  --accent: #72e0b2;
-  --accentText: #071a14;
-  --shadow: 0 10px 30px #0002;
+  --muted: #a3b1c4;
+  --accent: #68e0c0;
+  --border: #304055;
 }
+
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+
 body {
   margin: 0;
-  background:
-    radial-gradient(ellipse at 15% 0%, #17304a 0, transparent 35%),
-    var(--bg);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: var(--bg);
   color: var(--text);
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system,
-    BlinkMacSystemFont, "Segoe UI", sans-serif;
-  line-height: 1.5;
 }
-button, a { font: inherit; }
-a { color: inherit; }
+
 header {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: #0b1120ed;
-  border-bottom: 1px solid var(--line);
-  backdrop-filter: blur(16px);
+  background: rgba(16, 23, 34, .96);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 20px;
 }
-.header-inner {
+
+.top {
   max-width: 1450px;
   margin: auto;
-  padding: 16px 22px;
   display: flex;
-  align-items: center;
-  gap: 20px;
   flex-wrap: wrap;
-}
-.brand {
-  display: flex;
   align-items: center;
-  gap: 11px;
-  margin-right: auto;
+  gap: 12px;
 }
-.brand-mark {
-  width: 42px;
-  height: 42px;
-  display: grid;
-  place-items: center;
-  background: var(--accent);
-  color: var(--accentText);
-  border-radius: 13px;
-  font-size: 22px;
-  font-weight: 900;
-}
+
 h1 {
+  font-size: 22px;
   margin: 0;
-  font-size: 21px;
-  letter-spacing: -.7px;
+  letter-spacing: -.5px;
 }
-.subtitle { color: var(--muted); font-size: 12px; }
-#updated { color: var(--muted); font-size: 12px; }
-nav {
-  display: flex;
-  gap: 7px;
-  width: 100%;
-  overflow-x: auto;
-  padding: 2px 0 3px;
-  scrollbar-width: thin;
-}
-nav button {
-  flex: 0 0 auto;
-  border: 1px solid var(--line);
-  background: var(--panel);
+
+.logo { color: var(--accent); }
+
+#upd {
   color: var(--muted);
-  border-radius: 999px;
-  padding: 8px 14px;
+  font-size: 12px;
+  margin-left: auto;
+}
+
+.controls {
+  max-width: 1450px;
+  margin: 14px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+button {
+  font: inherit;
+  font-size: 13px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  padding: 8px 13px;
+  border-radius: 9px;
   cursor: pointer;
-  transition: .15s ease;
+  transition: background .15s, border-color .15s;
 }
-nav button:hover { border-color: var(--accent); color: var(--text); }
-nav button.active {
+
+button:hover { border-color: var(--accent); }
+
+button.on {
   background: var(--accent);
-  color: var(--accentText);
+  color: #10201f;
   border-color: var(--accent);
-  font-weight: 750;
+  font-weight: 700;
 }
+
+.control-label {
+  color: var(--muted);
+  font-size: 12px;
+  margin-right: 2px;
+}
+
 main {
   max-width: 1450px;
   margin: auto;
-  padding: 28px 22px 60px;
+  padding: 22px 20px 50px;
 }
-.intro {
-  display: flex;
-  justify-content: space-between;
-  align-items: end;
-  gap: 16px;
-  flex-wrap: wrap;
-  margin-bottom: 28px;
+
+.section-title {
+  font-size: 18px;
+  margin: 26px 0 14px;
+  letter-spacing: -.3px;
 }
-.eyebrow {
-  color: var(--accent);
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 11px;
-  font-weight: 800;
-}
-.intro h2 {
-  font-size: clamp(26px, 4vw, 38px);
-  line-height: 1.15;
-  letter-spacing: -1.2px;
-  margin: 6px 0;
-}
-.intro p { color: var(--muted); margin: 0; max-width: 600px; }
-#count {
+
+.section-title:first-child { margin-top: 0; }
+
+.section-subtitle {
+  font-size: 12px;
   color: var(--muted);
-  font-size: 13px;
-  white-space: nowrap;
+  font-weight: 400;
+  margin-left: 7px;
 }
-.country-section { margin: 34px 0 44px; }
-.country-title {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 16px;
-}
-.country-title h2 {
-  margin: 0;
-  font-size: 23px;
-  letter-spacing: -.5px;
-}
-.country-title .rule { flex: 1; height: 1px; background: var(--line); }
-.source-grid {
+
+.grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 310px), 1fr));
-  gap: 17px;
-  align-items: start;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  align-items: stretch;
 }
-.source-card {
+
+.news-card {
   min-width: 0;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 13px;
   overflow: hidden;
-  background: linear-gradient(155deg, var(--panel2), var(--panel));
-  border: 1px solid var(--line);
-  border-radius: 17px;
-  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  transition: transform .15s, border-color .15s;
 }
-.source-head {
+
+.news-card:hover {
+  transform: translateY(-2px);
+  border-color: #60758f;
+}
+
+.media {
+  width: 100%;
+  height: 155px;
+  flex: 0 0 155px;
+  overflow: hidden;
+  background: #263649;
+}
+
+.media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.media.no-image {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 10px;
-  padding: 15px 16px;
-  border-bottom: 1px solid var(--line);
+  justify-content: center;
+  color: #91a5bc;
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  background: linear-gradient(135deg, #26384c, #192535);
 }
-.source-head h3 {
-  margin: 0;
-  font-size: 15px;
-  font-weight: 750;
+
+.card-content {
+  padding: 13px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
-.source-count {
-  color: var(--muted);
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 9px;
+}
+
+.source {
   font-size: 11px;
-  white-space: nowrap;
+  color: var(--accent);
+  font-weight: 750;
+  letter-spacing: .2px;
 }
-.story {
-  padding: 13px 15px;
-  border-bottom: 1px solid var(--line);
+
+.tag {
+  font-size: 10px;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  padding: 2px 5px;
+  border-radius: 5px;
 }
-.story:last-child { border-bottom: 0; }
-.story-link {
-  display: block;
-  text-decoration: none;
-  font-size: 14px;
+
+.headline {
+  font-size: 15px;
   line-height: 1.45;
-  font-weight: 620;
+  font-weight: 650;
+  margin: 0;
+  overflow-wrap: anywhere;
 }
-.story-link:hover { color: var(--accent); }
-.story-image {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  background: #202c40;
+
+.headline a {
+  color: var(--text);
+  text-decoration: none;
 }
+
+.headline a:hover { color: var(--accent); }
+
 .original {
   color: var(--muted);
-  font-size: 12px;
-  margin-top: 5px;
+  font-size: 11px;
+  line-height: 1.4;
+  margin-top: 8px;
 }
-.story-number {
+
+.open-link {
+  display: inline-block;
   color: var(--accent);
-  font-size: 10px;
-  font-weight: 800;
-  letter-spacing: .8px;
-  margin-bottom: 4px;
+  font-size: 12px;
+  font-weight: 650;
+  text-decoration: none;
+  margin-top: auto;
+  padding-top: 13px;
 }
-.empty, .loading, .error {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 15px;
-  padding: 24px;
+
+.empty, .msg {
   color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 22px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
 }
+
 footer {
   max-width: 1450px;
   margin: auto;
-  padding: 0 22px 30px;
+  padding: 0 20px 24px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 11px;
 }
-@media (min-width: 1000px) {
-  .source-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+@media (max-width: 1100px) {
+  .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
-@media (max-width: 600px) {
-  .header-inner { padding: 13px 14px; gap: 12px; }
-  main { padding: 22px 14px 45px; }
-  .intro h2 { font-size: 28px; }
-  .country-title h2 { font-size: 20px; }
-  .source-grid { grid-template-columns: 1fr; }
-  #updated { width: 100%; }
-  footer { padding: 0 14px 24px; }
+
+@media (max-width: 760px) {
+  header { padding: 12px; }
+  .top, .controls { gap: 8px; }
+  h1 { font-size: 20px; }
+  #upd { margin-left: 0; width: 100%; }
+  main { padding: 18px 12px 35px; }
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .media { height: 125px; flex-basis: 125px; }
+  .card-content { padding: 10px; }
+  .headline { font-size: 13px; }
+  .section-title { font-size: 16px; }
+  button { padding: 7px 10px; }
+}
+
+@media (max-width: 420px) {
+  .grid { grid-template-columns: 1fr; }
+  .media { height: 180px; flex-basis: 180px; }
+  .headline { font-size: 15px; }
 }
 </style>
 </head>
+
 <body>
 <header>
-  <div class="header-inner">
-    <div class="brand">
-      <div class="brand-mark">R</div>
-      <div>
-        <h1>Radar</h1>
-        <div class="subtitle">Las noticias, en un solo lugar</div>
-      </div>
-    </div>
-    <span id="updated">Conectando…</span>
-    <nav id="tabs" aria-label="Filtrar noticias por país"></nav>
+  <div class="top">
+    <h1><span class="logo">◈</span> Noticias del mundo</h1>
+    <span id="upd">Cargando noticias…</span>
+  </div>
+
+  <div class="controls" id="country-controls">
+    <span class="control-label">PAÍS</span>
+  </div>
+
+  <div class="controls" id="view-controls">
+    <span class="control-label">VISTA</span>
   </div>
 </header>
 
-<main>
-  <section class="intro">
-    <div>
-      <div class="eyebrow">Radar informativo</div>
-      <h2>El mundo, de un vistazo.</h2>
-      <p>Distintos medios, distintos enfoques. Elegí un país y explorá sus titulares.</p>
-    </div>
-    <div id="count"></div>
-  </section>
-  <div id="app"><div class="loading">Cargando las últimas noticias…</div></div>
+<main id="app">
+  <p class="msg">Cargando noticias…</p>
 </main>
 
 <footer>
-  Radar reúne titulares y enlaces publicados por medios externos. Las noticias pertenecen a sus respectivos medios.
-  Las imágenes, cuando están disponibles, se cargan desde las fuentes originales.
+  Noticias recopiladas de medios públicos. Al seleccionar un titular, se abre la publicación original.
 </footer>
 
 <script>
-const $ = selector => document.querySelector(selector);
-const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, char => ({
-  "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
-}[char]));
+const $ = s => document.querySelector(s);
 
-let data = null;
-let selectedCountry = "all";
+const esc = value => String(value ?? "").replace(/[&<>"']/g, c => ({
+  "&": "&amp;",
+  "<": "&lt;",
+  ">": "&gt;",
+  '"': "&quot;",
+  "'": "&#39;"
+}[c]));
 
-function safeLink(value) {
+let DATA = null;
+let actual = "all";
+let vista = "mix";
+
+function safeUrl(value) {
   try {
-    const url = new URL(value);
-    return ["https:", "http:"].includes(url.protocol) ? url.href : "";
+    const u = new URL(value);
+    return ["https:", "http:"].includes(u.protocol) ? u.href : "";
   } catch {
     return "";
   }
 }
 
-function timeAgo(value) {
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "hora no disponible";
-  const minutes = Math.max(0, Math.floor((Date.now() - date.getTime()) / 60000));
-  if (minutes < 1) return "recién";
-  if (minutes < 60) return `hace ${minutes} min`;
-  const hours = Math.floor(minutes / 60);
-  if (hours < 24) return `hace ${hours} h`;
-  return `hace ${Math.floor(hours / 24)} d`;
+function hace(fecha) {
+  const d = new Date(fecha);
+  if (Number.isNaN(d.getTime())) return "";
+
+  const m = Math.max(0, Math.round((Date.now() - d.getTime()) / 60000));
+  if (m < 1) return "recién";
+  if (m < 60) return "hace " + m + " min";
+
+  const h = Math.round(m / 60);
+  return h < 24 ? "hace " + h + " h" : "hace " + Math.round(h / 24) + " d";
 }
 
-function renderTabs() {
-  const countries = [
-    { id: "all", nombre: "🌐 Todo" },
-    ...data.paises.map(country => ({
-      id: country.id,
-      nombre: country.nombre
-    }))
-  ];
+function paisesVisibles() {
+  return DATA.paises.filter(p => actual === "all" || p.id === actual);
+}
 
-  $("#tabs").innerHTML = countries.map(country => `
-    <button type="button"
-      class="${country.id === selectedCountry ? "active" : ""}"
-      data-country="${escapeHTML(country.id)}">
-      ${escapeHTML(country.nombre)}
-    </button>
-  `).join("");
+function fuentesDe(p) {
+  return (p.fuentes || []).filter(s => (s.items || []).length > 0);
+}
 
-  $("#tabs").querySelectorAll("button").forEach(button => {
-    button.addEventListener("click", () => {
-      selectedCountry = button.dataset.country;
-      renderTabs();
-      renderNews();
+/* Intercala titulares de diferentes medios. */
+function mezclarFuentes(fuentes) {
+  const salida = [];
+  const max = Math.max(0, ...fuentes.map(s => (s.items || []).length));
+
+  for (let i = 0; i < max; i++) {
+    fuentes.forEach(s => {
+      const item = (s.items || [])[i];
+      if (item) salida.push({ item, fuente: s });
     });
+  }
+
+  return salida;
+}
+
+function todosLosArticulos(paises) {
+  return paises.flatMap(p =>
+    mezclarFuentes(fuentesDe(p)).map(n => ({ ...n, pais: p }))
+  );
+}
+
+function crearControles() {
+  const country = $("#country-controls");
+  country.innerHTML = '<span class="control-label">PAÍS</span>';
+
+  const opciones = [{ id: "all", nombre: "Todo" }, ...DATA.paises];
+
+  opciones.forEach(p => {
+    const b = document.createElement("button");
+    b.textContent = p.nombre.replace(" (traducido)", "");
+    b.className = p.id === actual ? "on" : "";
+    b.onclick = () => {
+      actual = p.id;
+      crearControles();
+      render();
+    };
+    country.append(b);
+  });
+
+  const view = $("#view-controls");
+  view.innerHTML = '<span class="control-label">ORGANIZAR</span>';
+
+  [
+    { id: "mix", label: "Todo mezclado" },
+    { id: "country", label: "Por país" },
+    { id: "source", label: "Por diario" }
+  ].forEach(v => {
+    const b = document.createElement("button");
+    b.textContent = v.label;
+    b.className = v.id === vista ? "on" : "";
+    b.onclick = () => {
+      vista = v.id;
+      crearControles();
+      render();
+    };
+    view.append(b);
   });
 }
 
-function renderNews() {
-  const countries = data.paises.filter(country =>
-    selectedCountry === "all" || country.id === selectedCountry
-  );
+function tarjeta(n, pais) {
+  const i = n.item;
+  const s = n.fuente;
+  const link = safeUrl(i.l);
+  const img = safeUrl(i.img || i.image || i.image_url || i.thumbnail || i.imagen);
+  const titulo = esc(i.t || "Noticia sin título");
+  const nombreFuente = esc(s.n || "Medio");
+  const nombrePais = esc((pais || n.pais || {}).nombre || "");
+  const original = i.o
+    ? `<div class="original">Original: ${esc(i.o)}</div>`
+    : "";
+  const traduccion = s.tr ? '<span class="tag">Traducido</span>' : "";
 
-  let total = 0;
-  let sections = "";
-
-  for (const country of countries) {
-    const sources = (country.fuentes || []).filter(source =>
-      Array.isArray(source.items) && source.items.length > 0
-    );
-
-    if (!sources.length) continue;
-
-    sections += `
-      <section class="country-section">
-        <div class="country-title">
-          <h2>${escapeHTML(country.nombre)}</h2>
-          <div class="rule"></div>
-        </div>
-        <div class="source-grid">
-          ${sources.map(source => {
-            const stories = source.items.slice(0, 8);
-            total += stories.length;
-
-            return `
-              <article class="source-card">
-                <div class="source-head">
-                  <h3>${escapeHTML(source.n)}</h3>
-                  <span class="source-count">${stories.length} noticias</span>
-                </div>
-                ${stories.map((story, index) => {
-                  const link = safeLink(story.l);
-                  const image = safeLink(story.img || "");
-                  if (!link) return "";
-
-                  return `
-                    <div class="story">
-                      <div class="story-number">${String(index + 1).padStart(2, "0")}</div>
-                      ${image ? `
-                        <img class="story-image"
-                          src="${escapeHTML(image)}"
-                          alt=""
-                          loading="lazy"
-                          referrerpolicy="no-referrer"
-                          onerror="this.remove()">
-                      ` : ""}
-                      <a class="story-link"
-                        href="${escapeHTML(link)}"
-                        target="_blank"
-                        rel="noopener noreferrer">
-                        ${escapeHTML(story.t)}
-                      </a>
-                      ${story.o ? `<div class="original">${escapeHTML(story.o)}</div>` : ""}
-                    </div>
-                  `;
-                }).join("")}
-              </article>
-            `;
-          }).join("")}
-        </div>
-      </section>
-    `;
+  let media;
+  if (img) {
+    media = `<div class="media"><img src="${esc(img)}" alt="" loading="lazy" onerror="this.parentElement.classList.add('no-image');this.parentElement.innerHTML='📰'"></div>`;
+  } else {
+    const inicial = esc((s.n || "N").trim().slice(0, 1).toUpperCase());
+    media = `<div class="media no-image">${inicial}</div>`;
   }
 
-  $("#count").textContent = `${total} titulares disponibles`;
+  const titular = link
+    ? `<a href="${esc(link)}" target="_blank" rel="noopener noreferrer">${titulo}</a>`
+    : titulo;
 
-  $("#app").innerHTML = sections || `
-    <div class="empty">
-      No hay noticias disponibles para esta selección en este momento.
-      Probá con otro país o volvé a cargar la página más tarde.
-    </div>
-  `;
-}
-
-async function loadNews() {
-  try {
-    const response = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) throw new Error("No se pudo cargar news.json");
-    data = await response.json();
-
-    if (!Array.isArray(data.paises)) {
-      throw new Error("El archivo news.json tiene un formato inesperado");
-    }
-
-    $("#updated").textContent = `Actualizado ${timeAgo(data.updated)}`;
-    renderTabs();
-    renderNews();
-  } catch (error) {
-    console.error(error);
-    $("#updated").textContent = "No se pudo actualizar";
-    $("#app").innerHTML = `
-      <div class="error">
-        No pudimos cargar las noticias. Comprobá que la última ejecución de GitHub Actions
-        haya terminado correctamente y volvé a intentarlo.
+  return `
+    <article class="news-card">
+      ${media}
+      <div class="card-content">
+        <div class="meta">
+          <span class="source">${nombreFuente}</span>
+          ${traduccion}
+        </div>
+        <h3 class="headline">${titular}</h3>
+        ${original}
+        ${link ? `<a class="open-link" href="${esc(link)}" target="_blank" rel="noopener noreferrer">Leer noticia ↗</a>` : ""}
       </div>
-    `;
-  }
+    </article>`;
 }
 
-loadNews();
+function grilla(noticias, pais) {
+  if (!noticias.length) return "";
+  return `<div class="grid">${noticias.map(n => tarjeta(n, pais)).join("")}</div>`;
+}
+
+function render() {
+  const paises = paisesVisibles();
+  let html = "";
+
+  if (vista === "mix") {
+    const noticias = todosLosArticulos(paises);
+    html = grilla(noticias) ||
+      '<p class="empty">No hay noticias disponibles para esta selección.</p>';
+  }
+
+  if (vista === "country") {
+    paises.forEach(p => {
+      const noticias = mezclarFuentes(fuentesDe(p)).map(n => ({ ...n, pais: p }));
+      if (!noticias.length) return;
+
+      html += `<section>
+        <h2 class="section-title">${esc(p.nombre)}</h2>
+        ${grilla(noticias, p)}
+      </section>`;
+    });
+  }
+
+  if (vista === "source") {
+    paises.forEach(p => {
+      let secciones = "";
+
+      fuentesDe(p).forEach(s => {
+        const noticias = (s.items || []).map(item => ({ item, fuente: s, pais: p }));
+        secciones += `
+          <section>
+            <h3 class="section-title">${esc(s.n)}
+              ${s.tr ? '<span class="section-subtitle">Traducido al español</span>' : ""}
+            </h3>
+            ${grilla(noticias, p)}
+          </section>`;
+      });
+
+      if (secciones) {
+        html += `<section>
+          <h2 class="section-title">${esc(p.nombre)}</h2>
+          ${secciones}
+        </section>`;
+      }
+    });
+  }
+
+  if (!html) {
+    html = '<p class="empty">Por ahora no hay noticias disponibles. Probá con otro país o volvé a cargar más tarde.</p>';
+  }
+
+  $("#app").innerHTML = html;
+}
+
+fetch("news.json?t=" + Date.now(), { cache: "no-store" })
+  .then(r => {
+    if (!r.ok) throw new Error("Todavía no se generó news.json");
+    return r.json();
+  })
+  .then(d => {
+    DATA = d;
+    $("#upd").textContent = "Actualizado " + (hace(d.updated) || "recientemente");
+    crearControles();
+    render();
+  })
+  .catch(() => {
+    $("#app").innerHTML = `
+      <p class="msg">
+        No se pudieron cargar las noticias. Revisá que la acción de GitHub
+        haya terminado correctamente y que exista el archivo news.json.
+      </p>`;
+    $("#upd").textContent = "Sin conexión con las noticias";
+  });
 </script>
 </body>
 </html>
