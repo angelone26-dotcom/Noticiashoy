@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:03:10Z",
+  "updated": "2026-10-24T01:29:22Z",
   "paises": [
     {
       "id": "uy",
@@ -8,40 +8,8 @@
         {
           "n": "Montevideo Portal",
           "tr": false,
-          "items": [
-            {
-              "t": "Meteorólogo advirtió por días de lluvia en un solo departamento y qué pasará en Montevideo",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979682"
-            },
-            {
-              "t": "Recapturaron a Agustín Cuello, prófugo del Inisa que mató al policía Joel Rodríguez",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979676"
-            },
-            {
-              "t": "Estafa de más de US$ 1 millón a restaurante de Carrasco: Justicia imputó a cinco personas",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979681"
-            },
-            {
-              "t": "Clausura: Peñarol y Juventud están empatando sin goles en el Estadio Centenario",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979662"
-            },
-            {
-              "t": "Giro por la persecución a tiros: Uber emitió un comunicado y habló del dominicano muerto",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979660"
-            },
-            {
-              "t": "AUF anunció reservados por Forlán para la fecha FIFA de noviembre, con algunas sorpresas",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979653"
-            },
-            {
-              "t": "Conocido abogado imputado por acusar a una jueza de recibir soborno por tenencia de menor",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979675"
-            },
-            {
-              "t": "Javier García va a denunciar a María Julia Muñoz por decir que recibió “coimas” de Cardama",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979655"
-            }
-          ]
+          "items": [],
+          "error": "mismatched tag: line 6, column 2"
         },
         {
           "n": "El Observador",
@@ -58,9 +26,9 @@
               "img": "https://media.elobservador.com.uy/p/a0ffa7233ceec3af1853458c7477a779/adjuntos/362/imagenes/100/780/0100780570/1200x675/smart/yamandu-orsi.jpg"
             },
             {
-              "t": "Juventud vs Peñarol EN VIVO por la fecha 12 del Torneo Clausura: Diego Aguirre confirmó la formación aurinegra con cinco cambios",
+              "t": "Juventud 0-0 Peñarol: el aurinegro volvió a jugar a nada y dejó dos nuevos puntos por el camino en el Torneo Clausura",
               "l": "https://www.elobservador.com.uy/futbol/juventud-vs-penarol-vivo-la-fecha-12-del-torneo-clausura-el-aurinegro-va-busca-una-recuperacion-impostergable-n6061489",
-              "img": "https://media.elobservador.com.uy/p/60c795423eb4ee32ba0165537d9fa041/adjuntos/362/imagenes/100/781/0100781292/1200x675/534x182:554x202/20261023-abel-hernandez-penarol-torneo-clausura-2026-juventud-foto-oficialcap.jpg"
+              "img": "https://media.elobservador.com.uy/p/b076259fcf3dd82427aa94d6f189e62b/adjuntos/362/imagenes/100/781/0100781323/1200x675/721x118:741x138/20261023-eric-remedi-y-rodrigo-chagas-penarol-juventud-torneo-clausura-2026-foto-dante-fernandezfocouy.jpeg"
             },
             {
               "t": "Hay cinco detenidos por una maniobra fraudulenta millonaria con restaurantes de Carrasco que serán imputados este viernes",
@@ -94,36 +62,36 @@
           "tr": false,
           "items": [
             {
-              "t": "PN exige una “posición clara e inequívoca” del FA ante acusaciones de corrupción de María Julia Muñoz a gobierno de Lacalle Pou",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/pn-exige-una-posicion-clara-e-inequivoca-del-fa-ante-acusaciones-de-corrupcion-de-maria-julia-munoz-a-gobierno-de-lacalle-pou/"
+              "t": "Juventud y Peñarol empataron sin goles en el arranque de la fecha 12",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/juventud-y-penarol-empataron-sin-goles-en-el-arranque-de-la-fecha-12/"
             },
             {
-              "t": "Yamandú Orsi destacó el modelo educativo de San Antonio en Salto y respondió a reclamos de trabajadores salteños",
-              "l": "https://ladiaria.com.uy/salto/articulo/2026/10/yamandu-orsi-destaco-el-modelo-educativo-de-san-antonio-en-salto-y-respondio-a-reclamos-de-trabajadores-saltenos/"
+              "t": "Legisladores opositores solicitaron a Negro que releve a jerarca del MI tras filtración en el marco de la operación Trazador",
+              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/legisladores-opositores-solicitaron-a-negro-que-releve-a-jerarca-del-mi-tras-filtracion-en-el-marco-de-la-operacion-trazador/"
             },
             {
-              "t": "Forlán reservó a 42 futbolistas para la fecha FIFA de noviembre",
-              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/forlan-reservo-a-42-futbolistas-para-la-fecha-fifa-de-noviembre/"
+              "t": "La Secretaría de Derechos Humanos transfirió archivos del pasado reciente a la INDDHH",
+              "l": "https://ladiaria.com.uy/justicia/articulo/2026/10/la-secretaria-de-derechos-humanos-transfirio-archivos-del-pasado-reciente-a-la-inddhh/"
             },
             {
-              "t": "Intendencia de Montevideo proyecta ciclovía al oeste de la ciudad y ultima un plan para “cerrar la red” de infraestructura",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/intendencia-de-montevideo-proyecta-ciclovia-al-oeste-de-la-ciudad-y-ultima-un-plan-para-cerrar-la-red-de-infraestructura/"
+              "t": "Culminó el ciclo de encuentros regionales de coros de secundaria con centros educativos de Montevideo y Canelones",
+              "l": "https://ladiaria.com.uy/educacion/articulo/2026/10/culmino-el-ciclo-de-encuentros-regionales-de-coros-de-secundaria-con-centros-educativos-de-montevideo-y-canelones/"
             },
             {
-              "t": "Netanyahu anunció que lanzará una ofensiva militar en Cisjordania “que no se vio desde la guerra de los Seis Días”",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/netanyahu-anuncio-que-lanzara-una-ofensiva-militar-en-cisjordania-que-no-se-vio-desde-la-guerra-de-los-seis-dias/"
+              "t": "Psicólogo destacó la importancia del acompañamiento familiar y las redes de apoyo en enfermedades oncológicas",
+              "l": "https://ladiaria.com.uy/salto/articulo/2026/10/psicologo-destaco-la-importancia-del-acompanamiento-familiar-y-las-redes-de-apoyo-en-enfermedades-oncologicas/"
             },
             {
-              "t": "Justicia condenó al Estado uruguayo por errores, incumplimientos y graves omisiones en femicidio de 2022",
-              "l": "https://ladiaria.com.uy/feminismos/articulo/2026/10/justicia-condeno-al-estado-uruguayo-por-errores-incumplimientos-y-graves-omisiones-en-femicidio-de-2022/"
+              "t": "El Centro de Estudios Paysandú presentará un boletín económico mensual",
+              "l": "https://ladiaria.com.uy/paysandu/articulo/2026/10/el-centro-de-estudios-paysandu-presentara-un-boletin-economico-mensual/"
             },
             {
-              "t": "Adeoms en campaña: lista 1966 apuesta a la renovación y advierte sobre la precarización laboral en la Intendencia de Salto",
-              "l": "https://ladiaria.com.uy/salto/articulo/2026/10/adeoms-en-campana-lista-1966-apuesta-a-la-renovacion-y-advierte-sobre-la-precarizacion-laboral-en-la-intendencia-de-salto/"
+              "t": "Presidenta de Fuecys, Myriam Borba: “El empleo debe ser de calidad y respetar los derechos de los trabajadores”",
+              "l": "https://ladiaria.com.uy/paysandu/articulo/2026/10/presidenta-de-fuecys-myriam-borba-el-empleo-debe-ser-de-calidad-y-respetar-los-derechos-de-los-trabajadores/"
             },
             {
-              "t": "Propietario de +Colonia se reunirá con el presidente Orsi y el intendente Rodríguez por acuerdos con Praxis y WorkNomads",
-              "l": "https://ladiaria.com.uy/colonia/articulo/2026/10/propietario-de-colonia-se-reunira-con-el-presidente-orsi-y-el-intendente-rodriguez-por-acuerdos-con-praxis-y-worknomads/"
+              "t": "Gran triunfo de Sporting en su debut en la Liga Sudamericana de Básquetbol",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/gran-triunfo-de-sporting-en-su-debut-en-la-liga-sudamericana-de-basquetbol/"
             }
           ]
         },
@@ -131,6 +99,10 @@
           "n": "Teledoce",
           "tr": false,
           "items": [
+            {
+              "t": "Facturaba 1.800 huevos por día y desviaba mercadería de dos restaurantes; imputaron al exjefe de compras por USD 1,3 millones",
+              "l": "https://www.teledoce.com/telemundo/nacionales/facturaba-1-800-huevos-por-dia-y-desviaba-mercaderia-de-dos-restaurantes-imputaron-al-exjefe-de-compras-por-usd-13-millones/"
+            },
             {
               "t": "Dos delincuentes trataron de asaltar al trabajador de un reparto y le dispararon en el pie mientras fugaban",
               "l": "https://www.teledoce.com/telemundo/policiales/dos-delincuentes-trataron-de-asaltar-al-trabajador-de-un-reparto-y-le-dispararon-en-el-pie-mientras-fugaban/"
@@ -158,10 +130,6 @@
             {
               "t": "Orsi sobre cifras de delitos: \"El crimen organizado ha cambiado, es mucho más violento\"",
               "l": "https://www.teledoce.com/telemundo/nacionales/orsi-sobre-cifras-de-delitos-el-crimen-organizado-ha-cambiado-es-mucho-mas-violento/"
-            },
-            {
-              "t": "Melania Trump afirma que logró un alto el fuego en la ciudad ucraniana de Oleshky, ocupada por Rusia",
-              "l": "https://www.teledoce.com/telemundo/internacionales/melania-trump-afirma-que-logro-un-alto-el-fuego-en-la-ciudad-ucraniana-de-oleshky-ocupada-por-rusia/"
             }
           ]
         }
@@ -176,44 +144,44 @@
           "tr": false,
           "items": [
             {
-              "t": "EEUU revela reportes de avistamientos de ovnis en el siglo XX, varios cerca de California",
-              "l": "https://www.clarin.com/estados-unidos/eeuu-revela-reportes-de-avistamientos-de-ovnis-en-el-siglo-xx-varios-cerca-de-california_0_inSZEMJx55.html",
-              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
+              "t": "Una garza rehabilitada regresó a la vida silvestre tiempo después de haber sido hallada en mal estado de salud, con un hilo enredado en una de sus alas",
+              "l": "https://www.clarin.com/internacional/garza-rehabilitada-regreso-vida-silvestre-tiempo-despues-hallada-mal-estado-salud-hilo-enredado-alas_0_xDCglpuldC.html",
+              "img": "https://www.clarin.com/img/2026/10/23/4fbYP2-uS_1200x630__1.jpg"
             },
             {
-              "t": "Tras la separación, Emanuel Ortega se defendió de los rumores de infidelidad a Julieta Prandi: \"Lamentable e innecesario\"",
-              "l": "https://www.clarin.com/fama/separacion-emanuel-ortega-defendio-rumores-infidelidad-julieta-prandi-lamentable-innecesario_0_QhlQnXUVKO.html",
-              "img": "https://www.clarin.com/img/2026/10/23/Ffmhje6uV_1200x630__1.jpg"
+              "t": "Zulemita Menem cruzó a Luis Petri por sus críticas contra el Islam: “Confundirlo con el terrorismo es un grave error”",
+              "l": "https://www.clarin.com/politica/zulemita-menem-cruzo-luis-petri-criticas-islam-confundirlo-terrorismo-grave-error_0_5ASyMOaKlC.html",
+              "img": "https://www.clarin.com/img/2026/10/24/hnAl_ojln_1200x630__1.jpg"
             },
             {
-              "t": "La grave amenaza al plantel de Nueva Chicago en plena pelea por no descender: \"Hay balas para todos\"",
-              "l": "https://www.clarin.com/deportes/grave-amenaza-plantel-nueva-chicago-plena-pelea-descender-balas_0_dS2nsZrKRt.html",
-              "img": "https://www.clarin.com/img/2026/10/23/t2rfNGCcP_1200x630__1.jpg"
+              "t": "Javier Milei en la Fundación Faro: \"Hemos iniciado el camino para que las Islas Malvinas vuelvan a su legítimo dueño\"",
+              "l": "https://www.clarin.com/politica/javier-milei-fundacion-faro-iniciado-camino-islas-malvinas-vuelvan-legitimo-dueno_0_5skXVMwcOQ.html",
+              "img": "https://www.clarin.com/img/2026/10/23/v_2pNVTQe_1200x630__1.jpg"
             },
             {
-              "t": "Talarico vota en Texas en la lucha por arrebatar un bastión republicano a Trump",
-              "l": "https://www.clarin.com/estados-unidos/talarico-vota-en-texas-en-la-lucha-por-arrebatar-un-bastion-republicano-a-trump_0_5X1yxK2vDa.html",
-              "img": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg"
+              "t": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+              "l": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_PdGaEU5K1O.html",
+              "img": "https://www.clarin.com/img/2020/09/07/y1xcDRv4y_1200x630__1.jpg"
             },
             {
-              "t": "Paraguay se une a Pax Silica, la alianza de EE.UU. para la cadena de suministro de la IA",
-              "l": "https://www.clarin.com/estados-unidos/paraguay-se-une-a-pax-silica-la-alianza-de-ee-uu-para-la-cadena-de-suministro-de-la-ia_0_odoeYbIgAP.html",
-              "img": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
+              "t": "Los puntajes de Clarín de la fecha 14 de la Liga Profesional de Fútbol",
+              "l": "https://www.clarin.com/deportes/puntajes-clarin-fecha-14-liga-profesional-futbol_0_si5QXQlxR8.html",
+              "img": "https://www.clarin.com/img/2026/10/11/FV59-fznd_1200x630__1.jpg"
             },
             {
-              "t": "Colapso en Nairobi: se derrumbó un edificio en construcción y hay personas atrapadas entre los escombros",
-              "l": "https://www.clarin.com/internacional/colapso-nairobi-derrumbo-edificio-construccion-personas-atrapadas-escombros_0_G7Z1AuhKuq.html",
-              "img": "https://www.clarin.com/img/2026/10/23/quWh9hOEG_1200x630__1.jpg"
+              "t": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+              "l": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_fIYbIFC20P.html",
+              "img": "https://www.clarin.com/img/2020/09/07/jOO2DYthU_1200x630__1.jpg"
             },
             {
-              "t": "Crecen en maceta y producen frutos: los 4 árboles frutales ideales para el verano",
-              "l": "https://www.clarin.com/informacion-general/crecen-maceta-producen-frutos-4-arboles-frutales-ideales-verano_0_ZrViLzl6oR.html",
-              "img": "https://www.clarin.com/img/2026/10/22/YfJ8qexCL_1200x630__1.jpg"
+              "t": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+              "l": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_EeRMIDnpp5.html",
+              "img": "https://www.clarin.com/img/2022/06/08/dyrb7wNL6_1200x630__1.jpg"
             },
             {
-              "t": "Trump revive la idea de intervención militar en Cuba durante mitin en Florida",
-              "l": "https://www.clarin.com/estados-unidos/trump-revive-la-idea-de-intervencion-militar-en-cuba-durante-mitin-en-florida_0_KiPRMvNtcm.html",
-              "img": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg"
+              "t": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+              "l": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_CE4zKU8XOK.html",
+              "img": "https://www.clarin.com/img/2020/06/30/7Q57WRXhE_1200x630__1.jpg"
             }
           ]
         },
@@ -222,44 +190,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Quién es Anita B Queen, la telonera de los BTS: la DJ que dejó la carrera de medicina para dedicarse a la música electrónica",
-              "l": "https://www.lanacion.com.ar/espectaculos/quien-es-anita-b-queen-la-telonera-de-los-bts-la-dj-que-dejo-la-carrera-de-medicina-para-dedicarse-a-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/ZVURI2FRTNHOPHKERWNE2Q4N4Y.JPG?auth=c934138684afd37a88ace62bb998cb9b01bc80189e7a66a7a8241180b449d47e&smart=true&width=2000&height=1333"
+              "t": "Elecciones Brasil 2026: encuestas del balotaje Lula vs. Flavio Bolsonaro y últimas noticias, hoy viernes 23 de octubre",
+              "l": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-encuestas-del-balotaje-lula-vs-flavio-bolsonaro-y-ultimas-noticias-hoy-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/2RLNIZOHBJAEJKY326WYO5CISY.jpg?auth=1159dbdc81b3b4e1c7d9383d86bbbab07c723e38db3bef022c66e2dea77d3ec7&smart=true&width=3264&height=2209"
             },
             {
-              "t": "“Sin IA”: encuentros cara a cara y un álbum de recuerdos en Pinta BAphoto",
-              "l": "https://www.lanacion.com.ar/cultura/sin-ia-encuentros-cara-a-cara-y-un-album-de-recuerdos-en-pinta-baphoto-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/DP72WOHZ3VD6DFLIY4TYTKJ7FQ.jpeg?auth=8dc4f5ff96782dd5724a531fd3016a8a900353b6c69e0bda84e0add6a196ed23&smart=true&width=6000&height=4000"
+              "t": "Lula y Bolsonaro se enfrentan en su último cara a cara antes del balotaje en Brasil",
+              "l": "https://www.lanacion.com.ar/el-mundo/lula-y-bolsonaro-se-enfrentan-en-su-ultimo-cara-a-cara-antes-del-balotaje-en-brasil-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/6FE2RY57RJBWTGJWLBLOSNSWGU.JPG?auth=f8e9e03ce912150c2c113db9aea149931ad37352aeae96aee1d6ae13965c38bd&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”",
-              "l": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/KUKVRQN5FRCX7OTHMRYQHUGGSI.jpg?auth=c13580e7aa794a9640a986ff1bdf2bc26c053bceff5c411a74e38ab586790b7b&smart=true&width=2000&height=1334"
+              "t": "Perdieron el TPS y ahora se esconden o se van: el pueblo de Estados Unidos que pierde trabajadores inmigrantes",
+              "l": "https://www.lanacion.com.ar/estados-unidos/migraciones/perdieron-el-tps-y-ahora-se-esconden-o-se-van-el-pueblo-de-estados-unidos-que-pierde-trabajadores-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/QNAOIWFTXNFSFDQF42ONEQBKWQ.png?auth=e86743953622995fa469dccc957cead2a5e758f2a2ac86d6c6448fa26b8de7bd&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Día Mundial de la Pasta 2026: 10 lugares de Buenos Aires para comer pastas artesanales",
-              "l": "https://www.lanacion.com.ar/que-sale/dia-mundial-de-la-pasta-2026-10-lugares-de-buenos-aires-para-comer-pastas-artesanales-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/BDTGBNPEZ5GW3JFNRATHTTDPJY.jpg?auth=1417bc454cabc36d5d29db74d127cf80f21668cc5de2c54667b132cb40398ee7&smart=true&width=4954&height=3302"
+              "t": "Milei rechazó emitir más pesos para mejorar la actividad económica",
+              "l": "https://www.lanacion.com.ar/politica/milei-rechazo-emitir-mas-pesos-para-mejorar-la-actividad-economica-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/HIZS3BLH6ZBLHK45UJKNQGR3PI.JPG?auth=cf03bc2372b255f6abd3af518f1c2e74ace1225e36d5547781815f120649ddbf&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Q’ Lokura, de agotar diez Movistar Arenas al desafío de su primer estadio Vélez: “No sé cómo llegamos acá”",
-              "l": "https://www.lanacion.com.ar/espectaculos/qlokura-de-agotar-diez-movistar-arenas-al-desafio-de-su-primer-estadio-velez-no-se-como-llegamos-aca-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/IHY24ZREJVE2RBEQ7SBRCLRBHU.jpg?auth=924e77ca714faa542fcf3a22bda0a829ad699679a4cb20141906aeb64c4f588f&smart=true&width=1320&height=1092"
+              "t": "Milei celebró el fallo de la Justicia y aseguró: “Somos honestos, estamos limpios”",
+              "l": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/HT3GB3DECVDWTBYCX4J5KBPZOU.jpg?auth=36f66431ba5ee308a0c27610872feefe8c9131a851ea29f0b77ecdc6b5832a22&smart=true&width=2000&height=1338"
             },
             {
-              "t": "“Sin precedentes”. El trabajo en el centro de detención clandestino La Perla identificó a ocho nuevos desaparecidos",
-              "l": "https://www.lanacion.com.ar/politica/sin-precedentes-el-trabajo-en-el-centro-de-detencion-clandestino-la-perla-identifico-a-ocho-nuevos-nid23102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/XQLR7CDOM5HGVPEDEPW5ZY3IRE.jpeg?auth=6b36f67606b088e1d03d02433c610e25a257b6fd7ac831d58f75b1d01bc7bc25&smart=true&width=1600&height=1066"
+              "t": "De acuerdo con la OMS: 1.60, 1.70 y 1.80. ¿cuál es el peso ideal para cada altura?",
+              "l": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/de-acuerdo-con-la-oms-160-170-y-180-cual-es-el-peso-ideal-para-cada-altura-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/OUJ5HWFZ6FAR5D3WBMQFQZFIQA.jpg?auth=190366843db8c781f3a7a5522ee28c81e09668e6cc6ff1862e2716e51d2e7cb6&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Créditos: un banco amplía las condiciones para la compra de casas modulares",
-              "l": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/creditos-un-banco-amplia-las-condiciones-para-la-compra-de-casas-modulares-nid22102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/RYDCFFNIEFH3PH4PAQ346UEWEE.jpg?auth=2ce196f84a5d1f3b771f1486f986e0fd6812e004027b9f08d60da0451c49f9e7&smart=true&width=2000&height=1333"
+              "t": "La chef mexicana que lleva la nostalgia de la comida casera a Washington: “Gran parte de mi vida está aquí”",
+              "l": "https://www.lanacion.com.ar/estados-unidos/washington/la-chef-mexicana-que-lleva-nostalgia-migrante-al-menu-de-pascual-en-washington-gran-parte-de-mi-vida-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/7IWKISG5QBHJBJIY4Z6NXMVJNY.png?auth=963639b12d3d433aecc5e27f695fb03179bc5193ee4c0619dbbf5a5ccc3b577c&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Crédito hipotecario: un banco bajó la tasa para quienes necesitan vender su propiedad para comprar otra",
-              "l": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/credito-hipotecario-un-banco-bajo-la-tasa-para-quienes-necesitan-vender-su-propiedad-para-comprar-nid22102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/TWDVXX24NJDLRBVWEC6F6O6FEM.jpg?auth=8bad51b542693799ba3b4f6b3e7de729026ffd7048756a89e936de40b4b30a1d&smart=true&width=3000&height=2000"
+              "t": "Franco Colapinto, condenado a largar en el fondo, quedó 15° en los primeros ensayos del GP de Austin",
+              "l": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-condenado-a-largar-en-el-fondo-quedo-15-en-los-primeros-ensayos-del-gp-de-austin-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/WR5235JARFGQVLSOEB5WLZMLEE.JPG?auth=100724676ef100d1e3713eda77122121d11a05c1b6d4687e2382a69f36a74574&smart=true&width=5025&height=3350"
             }
           ]
         },
@@ -278,9 +246,9 @@
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/HP5RL2UBLBFBTNKRWJFFEQKQ5A.jpg?auth=6a32ba2b627dfb66a8a0974f9a08b6b49a0aaf7a5c88ee0c6a805f4568589c6e&smart=true&width=889&height=593"
             },
             {
-              "t": "Sobreseídos, pero Cristina y Máximo Kirchner igual en el banquillo: comenzó el juicio Hotesur-Los Sauces",
-              "l": "https://www.pagina12.com.ar/2026/10/23/sobreseidos-pero-cristina-y-maximo-kirchner-igual-en-el-banquillo-comenzo-el-juicio-hotesur-los-sauces/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/STAOX76SBZCR7GTH457BRHATWI.png?auth=f499d31ff89e4175063691b80add69bacfc9b2e6692877f43c511829a3f89b50&smart=true&width=882&height=587"
+              "t": "Ocho historias que esperaron 50 años para recuperar la identidad",
+              "l": "https://www.pagina12.com.ar/2026/10/23/ocho-historias-que-esperaron-50-anos-para-recuperar-la-identidad/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/O5O2VCQGV5DTHBIPLUACWKPQGE.jpeg?auth=094d58ffd9f744851c3b6f9c72edc8913c028e458a3cdde6775ee073b1dbe98e&smart=true&width=1600&height=1067"
             },
             {
               "t": "Violencia y represión en Plaza de Mayo: detuvieron al padre Paco Olveira y a una pareja",
@@ -288,9 +256,9 @@
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/GS3UHNWAIFBL3C5IAAO2JIVWEQ.jpg?auth=89c55d3044846a0d1a5a344867ad4d9c3a9c304193dbe3a0667118b1a6b52d4d&smart=true&width=824&height=579"
             },
             {
-              "t": "En tres milímetros, la identidad es eterna",
-              "l": "https://www.pagina12.com.ar/2026/10/23/en-tres-milimetros-la-identidad-es-eterna/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/ACIGYRP7PZBXHNMIZNQEVFALPY.jpeg?auth=de958c6b47647de4b763e825f7a982681b90f9f1a81546bcf3fa6579ae299888&smart=true&width=5142&height=3428"
+              "t": "Sobreseídos, pero Cristina y Máximo Kirchner igual en el banquillo: comenzó el juicio Hotesur-Los Sauces",
+              "l": "https://www.pagina12.com.ar/2026/10/23/sobreseidos-pero-cristina-y-maximo-kirchner-igual-en-el-banquillo-comenzo-el-juicio-hotesur-los-sauces/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/STAOX76SBZCR7GTH457BRHATWI.png?auth=f499d31ff89e4175063691b80add69bacfc9b2e6692877f43c511829a3f89b50&smart=true&width=882&height=587"
             },
             {
               "t": "El fenómeno del “Ejército de Lula” sacude las redes sociales en Brasil",
@@ -310,44 +278,44 @@
           "tr": true,
           "items": [
             {
-              "t": "VIDEO: Trabajador sufre graves quemaduras durante incendio en pastelería en Itaúna",
-              "l": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/23/video-trabalhador-sofre-queimaduras-graves-durante-incendio-em-pastelaria-em-itauna.ghtml",
-              "o": "VÍDEO: Trabalhador sofre queimaduras graves durante incêndio em pastelaria em Itaúna"
+              "t": "VIDEOS: Jornal Anhanguera 2da Edición del viernes 23 de octubre de 2026",
+              "l": "https://g1.globo.com/go/goias/edicao/2026/10/23/videos-jornal-anhanguera-2-edicao-de-sexta-feira-23-de-outubro-de-2026.ghtml",
+              "o": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 23 de outubro de 2026"
             },
             {
-              "t": "El transporte interurbano será gratuito en RO durante la segunda vuelta electoral",
-              "l": "https://g1.globo.com/ro/rondonia/noticia/2026/10/23/transporte-intermunicipal-sera-gratuito-em-ro-durante-segundo-turno-das-eleicoes.ghtml",
-              "o": "Transporte intermunicipal será gratuito em RO durante segundo turno das eleições"
+              "t": "Lotofácil hoy: resultados del concurso 3812 y números sorteados",
+              "l": "https://g1.globo.com/loterias/lotofacil/noticia/2026/10/23/lotofacil-hoje-resultado-do-concurso-3812-e-numeros-sorteados.ghtml",
+              "o": "Lotofácil hoje: resultado do concurso 3812 e números sorteados"
             },
             {
-              "t": "Meta dice que canal 'El Ejército de Lula' no viola políticas de la empresa",
-              "l": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/meta-diz-que-canal-exercito-do-lula-nao-viola-politicas-da-empresa.ghtml",
-              "o": "Meta diz que canal 'Exército do Lula' não viola políticas da empresa"
+              "t": "Quina hoy: resultados del concurso 7150 y números sorteados",
+              "l": "https://g1.globo.com/loterias/quina/noticia/2026/10/23/quina-hoje-resultado-do-concurso-7150-e-numeros-sorteados.ghtml",
+              "o": "Quina hoje: resultado do concurso 7150 e números sorteados"
             },
             {
-              "t": "Con más de 5 mil incendios en 2026, PI cuenta con 3,3 mil bomberos sobre el terreno",
-              "l": "https://g1.globo.com/pi/piaui/noticia/2026/10/23/brigadistas-incendio-piaui.ghtml",
-              "o": "Com mais de 5 mil focos de incêndio em 2026, PI tem 3,3 mil brigadistas em campo"
+              "t": "Flávio Bolsonaro y Lula participan del debate Globo",
+              "l": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-da-globo.ghtml",
+              "o": "Flávio Bolsonaro e Lula participam do debate da Globo"
             },
             {
-              "t": "TV Integração de Divinópolis en vivo: mira las noticias",
-              "l": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-              "o": "TV Integração de Divinópolis ao vivo: assista aos telejornais"
+              "t": "Globo realiza debate entre Flávio Bolsonaro (PL) y Lula (PT)",
+              "l": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml",
+              "o": "Globo realiza debate entre Flávio Bolsonaro (PL) e Lula (PT)"
             },
             {
-              "t": "TV Integração de Juiz de Fora en vivo: mira las noticias",
-              "l": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-              "o": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais"
+              "t": "En 2026, se espera que Brasil supere un nuevo récord de incidencia de rayos en la atmósfera",
+              "l": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/em-2026-brasil-deve-bater-novo-recorde-de-incidencia-de-raios-na-atmosfera.ghtml",
+              "o": "Em 2026, Brasil deve bater novo recorde de incidência de raios na atmosfera"
             },
             {
-              "t": "TV Integração de Uberaba en vivo: mira las noticias",
-              "l": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-              "o": "TV Integração de Uberaba ao vivo: assista aos telejornais"
+              "t": "Ataque terrorista mata a 2 soldados en Cisjordania; Israel anuncia que aislará parte del territorio palestino",
+              "l": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/atentado-terrorista-mata-2-soldados-na-cisjordania-israel-anuncia-que-vai-isolar-parte-do-territorio-palestino.ghtml",
+              "o": "Atentado terrorista mata 2 soldados na Cisjordânia; Israel anuncia que vai isolar parte do território palestino"
             },
             {
-              "t": "TV Integração de Uberlândia en vivo: mira las noticias",
-              "l": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-              "o": "TV Integração de Uberlândia ao vivo: assista aos telejornais"
+              "t": "Comunicador Tio Adão revela diagnóstico de cáncer de próstata y dice que está en quimioterapia",
+              "l": "https://g1.globo.com/am/amazonas/noticia/2026/10/23/comunicador-tio-adao-revela-diagnostico-de-cancer-de-prostata-e-diz-que-faz-quimioterapia.ghtml",
+              "o": "Comunicador Tio Adão revela diagnóstico de câncer de próstata e diz que faz quimioterapia"
             }
           ]
         },
@@ -356,44 +324,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Datafolha: el 49% dice tener confianza y el 48% temer por el futuro de Brasil",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-49-se-dizem-confiantes-e-48-com-medo-do-futuro-do-brasil.shtml",
-              "o": "Datafolha: 49% se dizem confiantes e 48%, com medo do futuro do Brasil"
+              "t": "Lula defiende políticas sociales y Flávio Bolsonaro dice que PT le quita dinero a la población con 'nueve dedos'",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml",
+              "o": "Lula defende políticas sociais, e Flávio Bolsonaro diz que petista tira com '9 dedos' dinheiro da população"
             },
             {
-              "t": "¿Por qué los brasileños en Japón son tan derechistas? ver vídeo",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/por-que-brasileiros-no-japao-sao-tao-de-direita-veja-video.shtml",
-              "o": "Por que brasileiros no Japão são tão de direita; veja vídeo"
+              "t": "Debate Globo tendrá cuatro bloques y reglas para movimiento de candidatos",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-da-globo-tera-quatro-blocos-e-regra-para-movimentacao-de-candidatos.shtml",
+              "o": "Debate da Globo terá quatro blocos e regra para movimentação de candidatos"
             },
             {
-              "t": "Estados Unidos clasifica a los Institutos Confucio como una amenaza a la seguridad nacional",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-classificam-institutos-confucio-como-ameaca-a-seguranca-nacional.shtml",
-              "o": "EUA classificam Institutos Confúcio como ameaça à segurança nacional"
+              "t": "El tribunal prohíbe a la dirección de Nunes presionar a los funcionarios para hacer campaña por Flávio",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/justica-proibe-gestao-nunes-de-pressionar-servidores-a-fazer-campanha-para-flavio.shtml",
+              "o": "Justiça proíbe gestão Nunes de pressionar servidores a fazer campanha para Flávio"
             },
             {
-              "t": "A Fazenda 18: Gabriel Torres renuncia al reality un día después de escapar de la finca",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-gabriel-torres-desiste-do-reality-um-dia-apos-escapar-da-roca.shtml",
-              "o": "A Fazenda 18: Gabriel Torres desiste do reality um dia após escapar da roça"
+              "t": "Perú ve aumento de muertes por dengue con El Niño",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/peru-tem-aumento-de-mortes-por-dengue-com-el-nino.shtml",
+              "o": "Peru tem aumento de mortes por dengue com El Niño"
             },
             {
-              "t": "Grupo Euro17 solicita recuperación judicial con deuda de R$ 1,7 mil millones y más de 5.000 acreedores",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/grupo-euro17-pede-recuperacao-judicial-com-divida-de-r-17-bilhao-e-mais-de-5000-credores.shtml",
-              "o": "Grupo Euro17 pede recuperação judicial com dívida de R$ 1,7 bilhão e mais de 5.000 credores"
+              "t": "La Policía Civil identifica diez sospechosos vinculados a cuatro cadáveres encontrados en SP",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-civil-diz-ter-identificado-dez-suspeitos-ligados-a-quatro-corpos-encontrados-em-sp.shtml",
+              "o": "Polícia Civil diz ter identificado dez suspeitos ligados a quatro corpos encontrados em SP"
             },
             {
-              "t": "Rio Grande do Sul elige candidata a Miss Universe Brasil 2027; ver las misiones",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/10/rio-grande-do-sul-elege-candidata-ao-miss-universe-brasil-2027-veja-as-misses.shtml",
-              "o": "Rio Grande do Sul elege candidata ao Miss Universe Brasil 2027; veja as misses"
+              "t": "¿Está en riesgo la democracia brasileña? SÍ",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-democracia-brasileira-esta-em-risco-sim.shtml",
+              "o": "A democracia brasileira está em risco? SIM"
             },
             {
-              "t": "TSE ordena eliminar audio con noticias falsas sobre trabajadores electorales en el canal 'Tropa do Flávio'",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-manda-remover-audio-com-fake-news-sobre-mesarios-de-canal-tropa-do-flavio.shtml",
-              "o": "TSE manda remover áudio com fake news sobre mesários de canal 'Tropa do Flávio'"
+              "t": "¿Está en riesgo la democracia brasileña? NO",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-democracia-brasileira-esta-em-risco-nao.shtml",
+              "o": "A democracia brasileira está em risco? NÃO"
             },
             {
-              "t": "EE.UU. y Paraguay llegan a acuerdo para abastecer infraestructura de IA con energía de Itaipú",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/eua-e-paraguai-fazem-acordo-para-abastecer-infraestrutura-de-ia-com-energia-de-itaipu.shtml",
-              "o": "EUA e Paraguai fazem acordo para abastecer infraestrutura de IA com energia de Itaipu"
+              "t": "\"Estamos todavía en democracia\", dice lector sobre intento de suspender al \"Ejército de Lula\"",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/ainda-estamos-numa-democracia-diz-leitora-sobre-tentativas-de-suspensao-do-exercito-de-lula.shtml",
+              "o": "'Ainda estamos numa democracia', diz leitora sobre tentativas de suspensão do 'Exército de Lula'"
             }
           ]
         },
@@ -402,16 +370,33 @@
           "tr": true,
           "items": [
             {
-              "t": "SEGUIMIENTO DE OFERTAS",
-              "l": "https://www.uol.com.br/guia-de-compras/ao-vivo/2025/06/18/monitor-de-ofertas-uol.htm",
-              "img": "https://imguol.com/c/guia-de-compras/06/2026/10/23/tenis-new-balance-550-1792781453008_v2_360x270.png",
-              "o": "MONITOR DE OFERTAS"
+              "t": "RADAR ELECTORAL",
+              "l": "https://noticias.uol.com.br/ao-vivo/2026/10/23/radar-da-eleicao-lula-e-flavio-debatem-na-globo-uol-confere-faz-checagem.htm",
+              "o": "RADAR DA ELEIÇÃO"
             },
             {
-              "t": "PRIMERO",
-              "l": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/23/seedorf-tem-que-estar-no-bid-ate-as-19h-diz-fabio-lazaro.ghtm",
-              "img": "https://imguol.com/c/esporte/8f/2026/10/22/seedorf-prepara-elenco-do-corinthians-para-enfrentar-o-vasco-pelo-brasileirao-1792694613993_v2_300x225.jpg",
-              "o": "DE PRIMEIRA"
+              "t": "MEDIOS Y MARKETING",
+              "l": "https://economia.uol.com.br/noticias/redacao/2026/10/23/decathlon-abraca-inovacao-para-tocar-um-bilhao-de-pessoas-ate-2030.htm",
+              "img": "https://imguol.com/c/noticias/54/2026/10/22/decathlon-tem-cinco-centros-de-desenvolvimento-de-produtos-apenas-em-lille-norte-da-franca-1792698797168_v2_300x225.jpg",
+              "o": "MÍDIA E MARKETING"
+            },
+            {
+              "t": "Leticia Casado",
+              "l": "https://noticias.uol.com.br/colunas/leticia-casado/2026/10/23/flavio-leva-governadores-eleitos-e-deixa-marcal-de-fora-do-debate-da-globo.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/6c/2024/01/26/leticia-casado---autor-1706269688458_v2_100x100.jpg",
+              "o": "Letícia Casado"
+            },
+            {
+              "t": "marcela mattos",
+              "l": "https://noticias.uol.com.br/colunas/marcela-mattos/2026/10/23/ex-ministro-de-dilma-rompe-com-willer-e-fala-em-uso-indevido-de-assinatura.htm",
+              "img": "https://conteudo.imguol.com.br/12/2026/09/04/marcela-mattos-header-1788519672383_100x100.png",
+              "o": "Marcela Mattos"
+            },
+            {
+              "t": "Mariana Barbosa",
+              "l": "https://economia.uol.com.br/colunas/mariana-barbosa/2026/10/23/oncoclinicas-protocola-novo-plano-com-50-de-adesao-e-r-57-bi-de-divida.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/8b/2025/03/21/mariana-barbosa-150-1742554794971_100x100.jpg",
+              "o": "Mariana Barbosa"
             },
             {
               "t": "Noticias forestales",
@@ -420,34 +405,16 @@
               "o": "Notícias da Floresta"
             },
             {
-              "t": "Bibi Bailas",
-              "l": "https://www1.folha.uol.com.br/colunas/bibi-bailas/2026/10/o-menor-livro-do-mundo-cabe-em-um-grao-de-arroz.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/81/2024/09/18/bibi-bailas-1726681681967_v2_100x100.jpg",
-              "o": "Bibi Bailas"
+              "t": "casagrande",
+              "l": "https://www.uol.com.br/esporte/futebol/colunas/casagrande/2026/10/23/filme-o-outro-lado-das-redes-expoe-impacto-do-facebook-na-sociedade.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/e3/2022/07/18/walter-casagrande-junior-1658138987222_v2_100x100.jpg",
+              "o": "Casagrande"
             },
             {
-              "t": "Josmar Jozino",
-              "l": "https://noticias.uol.com.br/colunas/josmar-jozino/2026/10/23/justica-veta-presenca-de-marcola-em-julgamento.htm",
-              "img": "https://conteudo.imguol.com.br/2f/2020/07/23/josmar-jozino-150-1595509024264_100x100.jpg",
-              "o": "Josmar Jozino"
-            },
-            {
-              "t": "Julianne Cerasoli",
-              "l": "https://www.uol.com.br/esporte/colunas/pole-position/2026/10/23/primeiro-treino-livre-gp-dos-eua.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/f2/2022/06/21/julianne-cerasoli-autor-colorida-1655820371335_v2_100x100.png",
-              "o": "Julianne Cerasoli"
-            },
-            {
-              "t": "Arturo Rodrigues",
-              "l": "https://noticias.uol.com.br/colunas/artur-rodrigues/2026/10/23/flavio-advogou-de-graca-em-defesa-de-pm-suspeito-de-matar-crianca-de-5-anos.htm",
-              "img": "https://conteudo.imguol.com.br/1f/2026/08/12/artur-rodrigues-autor-1786541163110_100x100.png",
-              "o": "Artur Rodrigues"
-            },
-            {
-              "t": "Janaína Figueiredo",
-              "l": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/10/23/envolvimento-de-trump-na-campanha-favoreceu-lula-diz-ian-bremmer.htm",
-              "img": "https://conteudo.imguol.com.br/5d/2026/04/30/janaina-figueiredo-header-1777580898041_100x100.png",
-              "o": "Janaína Figueiredo"
+              "t": "miguel viriato",
+              "l": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/10/sua-lci-ou-lca-a-93-do-cdi-nao-rende-o-que-voce-pensa.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/05/2023/02/01/michael-viriato-1675278301712_100x100.jpg",
+              "o": "Michael Viriato"
             }
           ]
         }
@@ -528,12 +495,7 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f6f/live/0c562b60-ce2d-11f1-9f18-490cec60aa0f.jpg"
             },
             {
-              "t": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea",
-              "l": "https://www.bbc.com/mundo/articles/cmqxn83eer03o?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c22/live/5cc2ba90-cec9-11f1-bed9-e3a2c35dfdd6.jpg"
-            },
-            {
-              "t": "Publican el video de un tiroteo policial en el que murió un bebé en EE.UU.",
+              "t": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU.",
               "l": "https://www.bbc.com/mundo/articles/cq1kdp02xdjmo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e116/live/437fa090-cf35-11f1-a701-fddedf244c16.png"
             },
@@ -546,6 +508,11 @@
               "t": "Quiénes son los \"ciudadanos palestinos de Israel\" y por qué pueden tener la llave para desbancar a Netanyahu",
               "l": "https://www.bbc.com/mundo/articles/crz9812qjxd2o?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/befa/live/5c854560-ce66-11f1-ab75-d744dbb6f3f7.jpg"
+            },
+            {
+              "t": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea",
+              "l": "https://www.bbc.com/mundo/articles/cmqxn83eer03o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c22/live/5cc2ba90-cec9-11f1-bed9-e3a2c35dfdd6.jpg"
             }
           ]
         }
@@ -560,9 +527,14 @@
           "tr": true,
           "items": [
             {
-              "t": "Esto es lo que los demócratas planean hacer con su poder si recuperan el Congreso",
-              "l": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
-              "o": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress"
+              "t": "Funcionarios de Trump buscan bloquear los resultados de la carrera por el Senado de Alaska si el republicano Dan Sullivan pierde",
+              "l": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+              "o": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses"
+            },
+            {
+              "t": "Por qué los expertos legales consideran dudoso el desafío electoral del Departamento de Justicia en Alaska",
+              "l": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
+              "o": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious"
             },
             {
               "t": "Los ataques de Trump a la votación hacen temer que intente cuestionar los resultados de mitad de mandato",
@@ -575,19 +547,9 @@
               "o": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods"
             },
             {
-              "t": "La noche: D.O.J. Se mueve para bloquear el resultado de Alaska si el Partido Republicano Pierde",
-              "l": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
-              "o": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses"
-            },
-            {
-              "t": "¿Qué tan preocupados deberíamos estar por la economía? Miremos el año 2008.",
-              "l": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
-              "o": "How Worried Should We Be About the Economy? Let’s Look at 2008."
-            },
-            {
-              "t": "El precio mundial del petróleo alcanza los 116 dólares el barril, el nivel más alto desde abril",
-              "l": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-              "o": "Global Oil Price Hits $116 a Barrel, Highest Since April"
+              "t": "En las conversaciones sobre gas de Estados Unidos con el Kremlin, surge financiación oculta para el proyecto de Alaska",
+              "l": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+              "o": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges"
             },
             {
               "t": "Los legisladores planean bloquear a los nominados de Trump por las restricciones a la red de satélites de Ucrania",
@@ -595,9 +557,14 @@
               "o": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions"
             },
             {
-              "t": "Melania Trump dice que negoció un alto el fuego en una ciudad ucraniana hambrienta",
-              "l": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
-              "o": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City"
+              "t": "La noche: D.O.J. Se mueve para bloquear el resultado de Alaska si el Partido Republicano Pierde",
+              "l": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
+              "o": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses"
+            },
+            {
+              "t": "‘Tengo que entrar’: Kaylub Giamanco describe el asesinato del pistolero en el tiroteo en una escuela de Oregón",
+              "l": "https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html",
+              "o": "‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting"
             }
           ]
         },
@@ -605,6 +572,11 @@
           "n": "NPR",
           "tr": true,
           "items": [
+            {
+              "t": "Graves inundaciones azotan la región de Four Corners y se esperan más durante el fin de semana",
+              "l": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+              "o": "Severe flooding hits Four Corners region, more expected through the weekend"
+            },
             {
               "t": "Las directrices del Pentágono para una \"IA responsable\" no siempre se siguen, según muestra un informe",
               "l": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
@@ -639,11 +611,6 @@
               "t": "Los refuerzos militares se trasladan a Medio Oriente. Y millones de estadounidenses votan anticipadamente",
               "l": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
               "o": "Military reinforcements move to Mideast. And, millions of Americans vote early"
-            },
-            {
-              "t": "Por qué Meta cobra por publicar más hipervínculos",
-              "l": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-              "o": "Why Meta is charging to post more hyperlinks"
             }
           ]
         }
