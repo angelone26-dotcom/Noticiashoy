@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:37:53Z",
+  "updated": "2026-10-24T23:04:59Z",
   "paises": [
     {
       "id": "uy",
@@ -10,16 +10,16 @@
           "tr": false,
           "items": [
             {
+              "t": "Expresidente de River Plate respaldó a Leo Jaime tras lágrimas con Peñarol ante Juventud",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979758"
+            },
+            {
               "t": "Precios elevados y poca oferta: el panorama del hospedaje para la final de la Libertadores",
               "l": "https://www.montevideo.com.uy/auc.aspx?979748"
             },
             {
               "t": "Pereira sobre gravar a los más ricos: “Está de acuerdo cualquiera que lea el Evangelio”",
               "l": "https://www.montevideo.com.uy/auc.aspx?979637"
-            },
-            {
-              "t": "Socios de Nacional aprobaron en Asamblea General Extraordinaria el proyecto del GPC",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979735"
             },
             {
               "t": "A los martillazos: así fue el momento del asalto a la joyería del shopping Punta Carretas",
@@ -30,16 +30,16 @@
               "l": "https://www.montevideo.com.uy/auc.aspx?979691"
             },
             {
-              "t": "Atlético de Madrid rendido a José María Giménez: ovación, coro y enorme pancarta",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979749"
+              "t": "Comenzó el armado del escenario en el Centenario para la vigilia del papa León XIV",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979757"
             },
             {
-              "t": "FA se desmarca de dichos de María Julia Muñoz: “No es coincidente con lo expresado”",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979747"
+              "t": "“Soy un peón más de la gente que maneja este circo”: Giménez y su regreso al Metropolitano",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979754"
             },
             {
-              "t": "Miles de huevos, viajes y auto de lujo: los detalles de la estafa al restorán de Carrasco",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979714"
+              "t": "“Desvanecido”: el fuerte relato de la violencia en una guardería a un bebé que está en CTI",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979750"
             }
           ]
         },
@@ -48,14 +48,19 @@
           "tr": false,
           "items": [
             {
+              "t": "Así fue parte del robo piraña a la joyería del shopping Punta Carretas este sábado: no hubo heridos",
+              "l": "https://www.elobservador.com.uy/nacional/asi-fue-parte-del-robo-pirana-la-joyeria-del-shopping-punta-carretas-este-sabado-no-hubo-heridos-n6061545",
+              "img": "https://media.elobservador.com.uy/p/9540083004b32c08aa1b2cd7b8de1396/adjuntos/362/imagenes/100/781/0100781411/robo-joyeria-del-shopping-punta-carretas.jpeg"
+            },
+            {
               "t": "Fernando Pereira dijo que la opinión de María Julia Muñoz sobre Cardama \"es personal\" y que \"no es coincidente\" con la del FA",
               "l": "https://www.elobservador.com.uy/nacional/fernando-pereira-dijo-que-la-opinion-maria-julia-munoz-cardama-es-personal-y-que-no-es-coincidente-la-del-fa-n6061538",
               "img": "https://media.elobservador.com.uy/p/fdfcd1f9fa942e7c43dd53efa50e4f06/adjuntos/362/imagenes/100/779/0100779963/1200x675/smart/congreso-del-fa.jpeg"
             },
             {
-              "t": "Robo piraña en joyería del shopping Punta Carretas: llegaron en motos, rompieron vidrieras y se llevaron joyas",
-              "l": "https://www.elobservador.com.uy/nacional/robo-pirana-joyeria-punta-carretas-llegaron-motos-rompieron-vidrieras-y-se-llevaron-joyas-n6061533",
-              "img": "https://media.elobservador.com.uy/p/ed909abca26e8e31cb59911a9e8d1c4a/adjuntos/362/imagenes/100/781/0100781374/1200x675/smart/hvz0gimwuaewmbh.jpg"
+              "t": "Balotaje al rojo vivo en Brasil: la polarización extrema copa las calles antes del choque entre Lula y Bolsonaro",
+              "l": "https://www.elobservador.com.uy/estados-unidos/america-latina/tension-politica-brasilia-la-polarizacion-extrema-copa-las-calles-antes-del-balotaje-n6061530",
+              "img": "https://media.elobservador.com.uy/p/022f9873bedfea5addee0493d4700060/adjuntos/367/imagenes/100/781/0100781391/1200x675/smart/brasil-elecciones-brasilia.jpeg"
             },
             {
               "t": "Por qué llora Jessica Martínez: su vida antes de Gran Hermano Uruguay, el INAU, el perdón de su mamá y la batalla por romper el patrón",
@@ -72,19 +77,14 @@
               "l": "https://www.elobservador.com.uy/nacional/el-caso-los-huevos-la-maniobra-us-1-millon-manzanar-y-rio-que-termino-un-jefe-compras-y-otros-tres-imputados-n6061504"
             },
             {
-              "t": "La historia del hotel que estuvo cerrado por 50 años y hoy tiene una nueva vida con un emprendimiento de alojamiento y salón de té",
-              "l": "https://www.elobservador.com.uy/cafe-y-negocios/la-historia-del-hotel-que-estuvo-cerrado-50-anos-y-hoy-tiene-una-nueva-vida-un-emprendimiento-alojamiento-y-salon-te-n6061473",
-              "img": "https://media.elobservador.com.uy/p/f48eea7153968aed2831ed315d9a9108/adjuntos/362/imagenes/100/781/0100781212/1200x675/smart/viejo-hotel-solis.jpeg"
+              "t": "Robo piraña en joyería del shopping Punta Carretas: llegaron en motos, rompieron vidrieras y se llevaron joyas",
+              "l": "https://www.elobservador.com.uy/nacional/robo-pirana-joyeria-punta-carretas-llegaron-motos-rompieron-vidrieras-y-se-llevaron-joyas-n6061533",
+              "img": "https://media.elobservador.com.uy/p/ed909abca26e8e31cb59911a9e8d1c4a/adjuntos/362/imagenes/100/781/0100781374/1200x675/smart/hvz0gimwuaewmbh.jpg"
             },
             {
-              "t": "Menos sanciones y más asistencia: cómo busca la DGI promover el cumplimiento de los pequeños contribuyentes",
-              "l": "https://www.elobservador.com.uy/economia-y-empresas/menos-sanciones-y-mas-asistencia-como-busca-la-dgi-promover-el-cumplimiento-los-pequenos-contribuyentes-n6061447",
-              "img": "https://media.elobservador.com.uy/p/6e1af93509eff1fe3a2dcc47ae00dce6/adjuntos/362/imagenes/100/729/0100729427/1200x675/smart/dgi-y-bps.png"
-            },
-            {
-              "t": "La historia detrás de El baño del papa, la película que hizo pedalear a César Troncoso, que \"llegó a la gente común\" y que volvió al cine",
-              "l": "https://www.elobservador.com.uy/cultura-y-espectaculos/la-historia-detras-el-bano-del-papa-la-pelicula-que-hizo-pedalear-cesar-troncoso-que-llego-la-gente-comun-y-que-volvio-al-cine-n6061373",
-              "img": "https://media.elobservador.com.uy/p/58992e3ded07816f33f7c1ad183ebaf6/adjuntos/362/imagenes/100/781/0100781002/1200x675/smart/el-bano-del-papa.jpg"
+              "t": "José María Giménez se enfrentó por primera vez al Atlético de Madrid: fue aplaudido por todo el Estadio y no pudo evitar la derrota del Deportivo de La Coruña",
+              "l": "https://www.elobservador.com.uy/futbol-internacional/jose-maria-gimenez-se-enfrento-primera-vez-al-atletico-madrid-fue-aplaudido-todo-el-estadio-y-no-pudo-evitar-la-derrota-del-deportivo-la-coruna-n6061550",
+              "img": "https://media.elobservador.com.uy/p/d7cf7da71a040068a003822cf846fd5e/adjuntos/362/imagenes/100/781/0100781423/1200x675/1577x412:1597x432/jose-maria-gimenez-su-primer-partido-contra-el-atletico-madrid.jpg"
             }
           ]
         },
@@ -92,6 +92,10 @@
           "n": "la diaria",
           "tr": false,
           "items": [
+            {
+              "t": "A horas de la segunda vuelta, Lula y Flávio Bolsonaro cerraron sus campañas con movilizaciones y actos multitudinarios",
+              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/a-horas-de-la-segunda-vuelta-lula-y-flavio-bolsonaro-cerraron-sus-campanas-con-movilizaciones-y-actos-multitudinarios/"
+            },
             {
               "t": "Fernando Pereira dijo que la opinión de María Julia Muñoz sobre el caso Cardama “no es coincidente” con la postura del FA",
               "l": "https://ladiaria.com.uy/politica/articulo/2026/10/fernando-pereira-dijo-que-la-opinion-de-maria-julia-munoz-sobre-el-caso-cardama-no-es-coincidente-con-la-postura-del-fa/"
@@ -119,10 +123,6 @@
             {
               "t": "De máquinas y humanos: nuevos discos de Pet Shop Boys y The Avalanches",
               "l": "https://ladiaria.com.uy/cultura/articulo/2026/10/de-maquinas-y-humanos-nuevos-discos-de-pet-shop-boys-y-the-avalanches/"
-            },
-            {
-              "t": "El eterno, glorioso y más pequeño circo del mundo en El Galpón los fines de semana de octubre y noviembre",
-              "l": "https://ladiaria.com.uy/cultura/articulo/2026/10/el-eterno-glorioso-y-mas-pequeno-circo-del-mundo-en-el-galpon-los-fines-de-semana-de-octubre-y-noviembre/"
             }
           ]
         },
@@ -130,6 +130,14 @@
           "n": "Teledoce",
           "tr": false,
           "items": [
+            {
+              "t": "Video: así se prepara el Estadio Centenario para recibir al papa León XIV; esperan a 70.000 personas",
+              "l": "https://www.teledoce.com/telemundo/nacionales/video-asi-se-prepara-el-estadio-centenario-para-recibir-al-papa-leon-xiv-esperan-a-70-000-personas/"
+            },
+            {
+              "t": "Hallaron un cuerpo entre la basura en la usina de Felipe Cardoso",
+              "l": "https://www.teledoce.com/telemundo/nacionales/hallaron-un-cuerpo-entre-la-basura-en-la-usina-de-felipe-cardoso/"
+            },
             {
               "t": "La magia de Ronaldinho vuelve a las canchas: debutará con un equipo de la tercera división de Italia el próximo 15 de noviembre",
               "l": "https://www.teledoce.com/nota/la-magia-de-ronaldinho-vuelve-a-las-canchas-debutara-con-un-equipo-de-la-tercera-division-de-italia-el-proximo-15-de-noviembre/"
@@ -151,16 +159,8 @@
               "l": "https://www.teledoce.com/telemundo/internacionales/una-marea-roja-con-lula-y-una-caravana-de-motos-con-bolsonaro-brasil-se-moviliza-antes-del-balotaje-con-un-empate-tecnico-en-las-encuestas/"
             },
             {
-              "t": "Seis delincuentes robaron una joyería del Punta Carretas Shopping y se llevaron miles de dólares en mercadería",
-              "l": "https://www.teledoce.com/telemundo/policiales/robaron-una-joyeria-en-el-shopping-punta-carretas-rompieron-las-vidrieras-y-se-llevaron-varias-joyas/"
-            },
-            {
-              "t": "Facturaba 1.800 huevos por día y desviaba mercadería de dos restaurantes; imputaron al exjefe de compras por USD 1,3 millones",
-              "l": "https://www.teledoce.com/telemundo/nacionales/facturaba-1-800-huevos-por-dia-y-desviaba-mercaderia-de-dos-restaurantes-imputaron-al-exjefe-de-compras-por-usd-13-millones/"
-            },
-            {
-              "t": "Dos delincuentes trataron de asaltar al trabajador de un reparto y le dispararon en el pie mientras fugaban",
-              "l": "https://www.teledoce.com/telemundo/policiales/dos-delincuentes-trataron-de-asaltar-al-trabajador-de-un-reparto-y-le-dispararon-en-el-pie-mientras-fugaban/"
+              "t": "Delincuentes robaron una joyería del Punta Carretas Shopping y se llevaron miles de dólares en mercadería",
+              "l": "https://www.teledoce.com/telemundo/policiales/delincuentes-robaron-una-joyeria-del-punta-carretas-shopping-y-se-llevaron-miles-de-dolares-en-mercaderia/"
             }
           ]
         }
@@ -175,44 +175,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Trump y la primera dama votan de manera anticipada en Palm Beach para las elecciones",
-              "l": "https://www.clarin.com/estados-unidos/trump-y-la-primera-dama-votan-de-manera-anticipada-en-palm-beach-para-las-elecciones_0_CSQaLUU1EA.html",
-              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
+              "t": "Violencia y saqueos en Barcelona: una marcha convocada por redes sociales terminó con casi 100 detenidos",
+              "l": "https://www.clarin.com/mundo/violencia-saqueos-barcelona-marcha-convocada-redes-sociales-termino-100-detenidos_0_tHoWMTn583.html",
+              "img": "https://www.clarin.com/img/2026/10/24/HiaiJV59I_1200x630__1.jpg"
             },
             {
-              "t": "Excursionistas, campeón de la Primera B: goleó a Italiano y jugará en la Primera Nacional por primera vez en su rica historia",
-              "l": "https://www.clarin.com/deportes/excursionistas-campeon-primera-b-goleo-italiano-jugara-primera-nacional-primera-vez-rica-historia_0_A1NFn0ljUV.html",
-              "img": "https://www.clarin.com/img/2026/10/24/yK0VDf9W1_1200x630__1.jpg"
+              "t": "El nuevo proyecto gastronómico de Nacho Elizalde fuera de OLGA: el insólito nombre que evalúa",
+              "l": "https://www.clarin.com/fama/nuevo-proyecto-gastronomico-nacho-elizalde-olga-insolito-nombre-evalua_0_ssOVgf9IR4.html",
+              "img": "https://www.clarin.com/img/2026/10/24/0Adl4SdB0_1200x630__1.jpg"
             },
             {
-              "t": "Murió Carlos Riganti, el histórico baterista de Alas, a los 75 años",
-              "l": "https://www.clarin.com/espectaculos/murio-carlos-riganti-historico-baterista-alas-75-anos_0_zjPsl7HnT7.html",
-              "img": "https://www.clarin.com/img/2026/10/24/8to_QU3P5_1200x630__1.jpg"
+              "t": "Con razón la gente se desconecta de la política: tal como están las cosas, todo puede ir para peor",
+              "l": "https://www.clarin.com/opinion/razon-gente-desconecta-politica-cosas-puede-ir-peor_0_mk7zjefzBs.html",
+              "img": "https://www.clarin.com/img/2026/10/24/5IE0DJBuo_1200x630__1.jpg"
             },
             {
-              "t": "Caso $LIBRA: Milei amenazó con iniciar acciones legales contra la prensa y denunció una operación",
-              "l": "https://www.clarin.com/politica/caso-libra-milei-amenazo-iniciar-acciones-legales-prensa-denuncio-operacion_0_VBHEr23lSk.html",
+              "t": "Elecciones en Israel: El \"rey Bibi\" Netanyahu busca mantener el trono tras su mandato más turbulento",
+              "l": "https://www.clarin.com/mundo/elecciones-israel-rey-bibi-netanyahu-busca-mantener-trono-mandato-turbulento_0_dka9JGSMxR.html",
+              "img": "https://www.clarin.com/img/2026/10/19/l6hKDRXmn_1200x630__1.jpg"
+            },
+            {
+              "t": "La hoguera de Javi",
+              "l": "https://www.clarin.com/opinion/hoguera-javi_0_rOLbB1O5Su.html",
               "img": "https://www.clarin.com/img/2026/10/24/Ccsy42hHL_1200x630__1.jpg"
             },
             {
-              "t": "Docente desaparecida en Corrientes: el capataz y uno de los peones acusados de femicidio seguirán detenidos",
-              "l": "https://www.clarin.com/sociedad/docente-desaparecida-corrientes-capataz-peones-acusados-femicidio-seguiran-detenidos_0_csjbOoojCu.html",
-              "img": "https://www.clarin.com/img/2026/10/24/nf_ExMYhT_1200x630__1.jpg"
+              "t": "Arquidiócesis de Nueva York acuerda más de USD 800 millones para indemnizar a víctimas de abusos sexuales",
+              "l": "https://www.clarin.com/estados-unidos/arquidiocesis-de-nueva-york-acuerda-mas-de-usd-800-millones-para-indemnizar-a-victimas-de-abusos-sexuales_0_3tU0xwYeOx.html",
+              "img": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg"
             },
             {
-              "t": "Elecciones en Brasil: Lula da Silva y Flávio Bolsonaro pelean voto a voto en un país partido en dos",
-              "l": "https://www.clarin.com/mundo/elecciones-brasil-lula-da-silva-flavio-bolsonaro-pelean-voto-voto-pais-partido_0_Eu3SlYOuWf.html",
-              "img": "https://www.clarin.com/img/2026/10/24/dezcarer__1200x630__1.jpg"
+              "t": "La encrucijada europea",
+              "l": "https://www.clarin.com/opinion/encrucijada-europea_0_nNQJ9fZULP.html",
+              "img": "https://www.clarin.com/img/2026/10/23/WrOGqWd7X_1200x630__1.jpg"
             },
             {
-              "t": "Un contratista del Gobierno de EE.UU. es arrestado por el FBI por supuestas filtraciones",
-              "l": "https://www.clarin.com/estados-unidos/un-contratista-del-gobierno-de-ee-uu-es-arrestado-por-el-fbi-por-supuestas-filtraciones_0_ZHlMncTPSo.html",
-              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
-            },
-            {
-              "t": "Detienen a un diputado evangélico en Brasil tras un disparo en un boliche: tenía el arma y una placa falsa",
-              "l": "https://www.clarin.com/internacional/detienen-diputado-evangelico-brasil-disparo-boliche-arma-placa-falsa_0_R1xlSUA1pQ.html",
-              "img": "https://www.clarin.com/img/2026/10/24/icaDxHhKJ_1200x630__1.jpg"
+              "t": "Conflicto en Ucrania: Musk reconoció haber restringido la velocidad de Starlink en el frente",
+              "l": "https://www.clarin.com/mundo/conflicto-ucrania-musk-reconocio-restringido-velocidad-starlink-frente_0_Pq85CyjAF8.html",
+              "img": "https://www.clarin.com/img/2026/02/06/YQDt9_Tsg_1200x630__1.jpg"
             }
           ]
         },
@@ -221,44 +221,44 @@
           "tr": false,
           "items": [
             {
-              "t": "León XIV en la Argentina: cómo se prepara la familia agustiniana para recibirlo, qué regalo le harán y un lema para el futuro",
-              "l": "https://www.lanacion.com.ar/sociedad/leon-xiv-en-la-argentina-como-se-prepara-la-familia-agustiniana-para-recibirlo-que-regalo-le-haran-y-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/CCYHLQ34VZEUFKKNATOYWJK5NY.jpg?auth=a64a7d8184f43957980fa6d1bc050a62d27266e899b74b7ee510f618fe9b77a6&smart=true&width=2000&height=1333"
+              "t": "Lionel Messi en Inter Miami vs. New York Red Bull, en vivo por la MLS",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-new-york-red-bull-en-vivo-por-la-mls-nid24102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/VLQ434HEONGYFJEEQLBBTBKEGI.jpg?auth=3de3adbd9fb0f186a54741bdb6d4cb00e83dbb148b12a386144d5c1b67f5e794&smart=true&width=4524&height=3016"
             },
             {
-              "t": "Murió el actor de teatro y TV, Marcelo Trepat: la conmovedora despedida de su amiga Georgina Barbarossa",
-              "l": "https://www.lanacion.com.ar/espectaculos/murio-el-actor-de-teatro-y-tv-marcelo-trepat-la-conmovedora-despedida-de-su-amiga-georgina-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/O33VWOC46JGKFIBEFBPR6F6CHE.JPG?auth=863b21917b401abf45ea1d05aa271c9a12ab975aebbb6cd1e12924902cc39c52&smart=true&width=2500&height=1778"
+              "t": "Natalia Lobo invitó a meditar “en medio del caos”",
+              "l": "https://www.lanacion.com.ar/salud/mente/natalia-lobo-invito-a-meditar-en-medio-del-caos-nid24102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/CND7TN4I3VFGRBR6W7MKRK7YWA.jpg?auth=94b6725dd609db90a1407853a65faa4f0716827caabd3fa00e0a2751a7ba41d1&smart=true&width=2000&height=1331"
             },
             {
-              "t": "Otro sábado de protestas en Francia: al menos 400.000 manifestantes, ciudades blindadas y algunos incidentes",
-              "l": "https://www.lanacion.com.ar/el-mundo/francia-y-una-nueva-protesta-contra-el-gobierno-calles-tomadas-locales-cerrados-y-70000-policias-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/OZWAL5RAFBFDLFLGS57ISUZPTE.JPG?auth=ae2d8b412ebf50f6c61ffa2823e4412038b4f8bc9d8d4445247f4cc702746dfa&smart=true&width=8256&height=5504"
+              "t": "Joseph Pilates, creador del método: “La respiración es la primera acción que realizamos en la vida, y la última; una respiración vaga e incompleta te acerca a la enfermedad”",
+              "l": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-la-respiracion-es-la-primera-accion-que-realizamos-en-la-vida-y-la-nid24102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/35CUCITKSNCNLKEBOBSQWSUW2Q.png?auth=c49f6585103753f6957540a279f9c04d6136ed6ce7db016ae1fe973eeaa0cb21&smart=true&width=1200&height=800"
             },
             {
-              "t": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales",
-              "l": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-la-nacion-por-el-caso-libra-y-dijo-que-no-descarta-iniciar-acciones-legales-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/ZFVMF66RU5HVFDQBNS2QZUW4FM.jpg?auth=97b53051be6b47f6d78c6989695a9909167e0d99ffb6dd32b4adc1de2702942e&smart=true&width=2000&height=1334"
+              "t": "Balotaje en Brasil: Lula y Flavio Bolsonaro se enfrentan en la elección más pareja en un país partido al medio",
+              "l": "https://www.lanacion.com.ar/el-mundo/balotaje-en-brasil-lula-y-flavio-bolsonaro-se-enfrentan-en-la-eleccion-mas-pareja-en-un-pais-partido-nid24102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/WL5WP6O6GJAFLAGP3QRZ3BLGGQ.JPG?auth=2b0bd2aa4fb08089dd31f48421650daf43a2fca65c252127471348ec6c5c9763&smart=true&width=7968&height=5360"
             },
             {
-              "t": "Cierres de campaña: Lula y Flavio Bolsonaro se disputan las calles de Río de Janeiro a horas de una reñida elección",
-              "l": "https://www.lanacion.com.ar/el-mundo/cierres-de-campana-lula-y-flavio-bolsonaro-se-disputan-las-calles-de-rio-de-janeiro-a-horas-de-una-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/DXGZX3D4MVEWPK5TM67WKBN25A.JPG?auth=0bde1071151f42340e9117194ff57cdce267bf879c187f565b86d689db245eaf&smart=true&width=8256&height=5504"
+              "t": "Richard Gere, de 77 años, eligió un pueblo de España para construir la casa de sus sueños",
+              "l": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/richard-gere-77-anos-eligio-un-pueblo-de-espana-para-construir-la-casa-de-sus-suenos-nid12102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/63QM2DPU6ZCUDCEL5OR77AL55A.jpg?auth=f3462ed34714c57ca76f90a3bd5a83ce63535aa95cc6d20b847e995e0762c1a2&smart=true&width=4000&height=2665"
             },
             {
-              "t": "Fue asesinado de cinco balazos en la calle, en un crimen con el sello de una venganza entre bandas internacionales",
-              "l": "https://www.lanacion.com.ar/seguridad/fue-asesinado-de-cinco-balazos-en-la-calle-en-un-crimen-con-el-sello-de-una-venganza-entre-bandas-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/YUXNBEOIUNCDRNVQCQBWPMAT4U.jpg?auth=6ed4b32c9f89b5a9dab53a67d16a06dc5f4ecb08b8a5ff1826ed53ae9bdcffa7&smart=true&width=1000&height=563"
+              "t": "Miqueas y Tomás Thärigen, los “guardianes” del Barolo: de trabajar como cadete a crear un negocio que ayuda a conservarlo",
+              "l": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/empezo-como-cadete-y-creo-un-negocio-que-ayuda-a-mantener-uno-de-los-edificios-portenos-mas-iconicos-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/2KJ4P3N2S5GUTEPT765EKTYC5I.png?auth=04420a3275ce6adf03ee8cdc6f347c89bca7afe19960c6764455525d767214dd&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Tom Fletcher, subsecretario general de Asuntos Humanitarios de la ONU: “Este fenómeno de El Niño es un gigante, una bola de demolición,  arrasará América Latina”",
-              "l": "https://www.lanacion.com.ar/el-mundo/tom-fletcher-subsecretario-general-de-asuntos-humanitarios-de-la-onu-este-fenomeno-de-el-nino-es-un-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/672TJDKZZ5AL7EPKBQWZ5I4EII.jpg?auth=8f6674fb0c38a0d212ddeb08a0a98a31d8e6ce0ce50b00566477e8da8b5e27fd&smart=true&width=2000&height=1331"
+              "t": "Villa Olímpica: los departamentos ya están a la venta con una financiación a 20 años y una de las tasas más bajas del mercado",
+              "l": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/villa-olimpica-los-departamentos-ya-estan-a-la-venta-con-una-financiacion-a-20-anos-y-una-de-las-nid23102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/BMIYPS2ZNBACLHGRCCYF5HAUW4.jpeg?auth=0f5b0a4fcb262566f9b53c80cd44032dcf1e14f0132f94b421639067d1fa7797&smart=true&width=1291&height=726"
             },
             {
-              "t": "La salud de los enfermos: una puesta inteligente y con grandes actuaciones de un desafiante cuento de Julio Cortázar",
-              "l": "https://www.lanacion.com.ar/espectaculos/teatro/la-salud-de-los-enfermos-una-puesta-inteligente-y-con-grandes-actuaciones-de-un-desafiante-cuento-de-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/FXDROXAOHFACVOSCQBLNZOG7YI.jpg?auth=15c12522bf8e64058a9d76483726d379d9bd852463fd2ab084c695135bea8f10&smart=true&width=3973&height=2649"
+              "t": "Airbnb vs. alquiler tradicional en Buenos Aires: cuánto gana realmente cada uno en octubre 2026",
+              "l": "https://www.lanacion.com.ar/propiedades/inversiones/airbnb-vs-alquiler-tradicional-en-buenos-aires-cuanto-gana-realmente-cada-uno-en-octubre-2026-nid24102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/MBQBTJZMHZCGRDOUA7LSM5TLSM.jpg?auth=693e326cc98f1c05d95054eb103ff6f29badee7745cfad648d9de13be83ff7d6&smart=true&width=2000&height=1333"
             }
           ]
         },
@@ -267,24 +267,24 @@
           "tr": false,
           "items": [
             {
+              "t": "La alianza de LLA-PRO tendrá su kilómetro 0 en Bariloche",
+              "l": "https://www.pagina12.com.ar/2026/10/24/la-alianza-de-lla-pro-tendra-su-kilometro-0-en-bariloche/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/4OO4ZT5DIVDY5KR4JHQTGBWLH4.jpg?auth=939da6d5e0bd6c903fe2b98083d94c2859e820747951c02358262be2e068cb8a&smart=true&width=1125&height=750"
+            },
+            {
               "t": "Milei intentó tapar la interna con un dedo y aseguró que Bullrich es su “socia”",
               "l": "https://www.pagina12.com.ar/2026/10/24/milei-intento-tapar-la-interna-con-un-dedo-y-aseguro-que-bullrich-es-su-socia/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/INOEYZ3GK5DTHHINKAIVDHCGDI.jpg?auth=00b7567440a1d90531896660d6ce025fbfddb5f44140583aab94bea53965cf15&smart=true&width=3601&height=2400"
             },
             {
-              "t": "Franco Colapinto en la Fórmula 1 por el GP de Estados Unidos: la clasificación, minuto a minuto",
+              "t": "Inquietudes, resquemores y expectativas por la palabra de León XIV durante su visita al país",
+              "l": "https://www.pagina12.com.ar/2026/10/24/inquietudes-resquemores-y-expectativas-por-la-palabra-de-leon-xiv-durante-su-visita-al-pais/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/7B3YUJ5EC5DCLPY47VLRPUWZJA.jpg?auth=80bf866b1f6bc682c8fb039f5d7aa4dac231c3539bfecd9547cdef92e27621e1&smart=true&width=2404&height=1602"
+            },
+            {
+              "t": "Cómo le fue a Franco Colapinto en la clasificación del GP de Estados Unidos de la Fórmula 1",
               "l": "https://www.pagina12.com.ar/2026/10/24/franco-colapinto-en-la-formula-1-por-el-gp-de-estados-unidos-la-clasificacion-minuto-a-minuto/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/7LHRO3IVZRB7BNZ7CQG3S5JAAQ.jpg?auth=2964d8873262f68456cf872279b93ed11a5f9d60bdaa794df3e9f4e8cc28c787&smart=true&width=2048&height=1366"
-            },
-            {
-              "t": "El bochorno y Lamelas",
-              "l": "https://www.pagina12.com.ar/2026/10/24/el-bochorno-y-lamelas/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/6NKE4LOJ4ZGDFH7BQQN77FWMGI.jpg?auth=a25223b5595714c60c50536cb5cc4daa8b60a56209896f20d710bc51dcc2baa9&smart=true&width=1335&height=890"
-            },
-            {
-              "t": "Nueva jornada de tensión y protestas en Francia",
-              "l": "https://www.pagina12.com.ar/2026/10/24/nueva-jornada-de-tension-y-protestas-en-francia/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/7RTN67QXBJFPJDKWPBZGPNW35Q.jpg?auth=f0a04c80e1fb069bbe2a9fb93917fb2e90eb94b047392335fa27f2784a55b141&smart=true&width=1280&height=853"
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/KIZNY2J3HNBAVEM5JQ4F7OYXYM.jpg?auth=d67be219b487430a70acbff31fd6053e7bb911165177c6bc3186aba0c7f54995&smart=true&width=6682&height=4455"
             },
             {
               "t": "Milei insultó a Lula a un día del balotaje en Brasil",
@@ -309,44 +309,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Recife tiene manifestaciones de apoyo a la reelección de Lula y una caravana en defensa de Flávio Bolsonaro",
-              "l": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/24/recife-tem-atos-de-apoio-a-reeleicao-de-lula-e-carreata-em-defesa-de-flavio-bolsonaro.ghtml",
-              "o": "Recife tem atos de apoio à reeleição de Lula e carreata em defesa de Flávio Bolsonaro"
+              "t": "Lluvia bloquea carreteras, inunda calles y deja escuela bajo el agua en Paraná",
+              "l": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/24/chuva-bloqueia-rodovias-alaga-ruas-e-deixa-escola-embaixo-de-agua-no-parana.ghtml",
+              "o": "Chuva bloqueia rodovias, alaga ruas e deixa escola embaixo de água no Paraná"
             },
             {
-              "t": "Motoboy es golpeado con palos después de ir a cobrar al jefe por un pago en la cafetería de Sorocaba",
-              "l": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/24/motoboy-e-agredido-a-pauladas-apos-ir-cobrar-patrao-por-pagamento-em-lanchonete-de-sorocaba.ghtml",
-              "o": "Motoboy é agredido a pauladas após ir cobrar patrão por pagamento em lanchonete de Sorocaba"
+              "t": "Ver noticias de TV Bahía",
+              "l": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+              "o": "Assista aos telejornais da TV Bahia"
             },
             {
-              "t": "Partidarios de Lula se manifiestan en Goiânia en vísperas de las elecciones",
-              "l": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-fazem-manifestacao-em-goiania-na-vespera-da-eleicao.ghtml",
-              "o": "Apoiadores de Lula fazem manifestação em Goiânia na véspera da eleição"
+              "t": "La venta de bebidas alcohólicas sigue prohibida durante la segunda vuelta de las elecciones de 2026 en Roraima",
+              "l": "https://g1.globo.com/rr/roraima/noticia/2026/10/24/venda-de-bebidas-alcoolicas-segue-proibida-durante-2-turno-das-eleicoes-2026-em-roraima.ghtml",
+              "o": "Venda de bebidas alcoólicas segue proibida durante 2° turno das eleições 2026 em Roraima"
             },
             {
-              "t": "Mujer es encontrada debilitada y sangrando tras salir de Venezuela hacia Guyana",
-              "l": "https://g1.globo.com/rr/roraima/noticia/2026/10/24/mulher-e-encontrada-debilitada-e-com-sangramento-apos-sair-da-venezuela-rumo-a-guiana.ghtml",
-              "o": "Mulher é encontrada debilitada e com sangramento após sair da Venezuela rumo à Guiana"
+              "t": "TV Integração de Divinópolis en vivo: mira las noticias",
+              "l": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+              "o": "TV Integração de Divinópolis ao vivo: assista aos telejornais"
             },
             {
-              "t": "Adolescente es identificado tras video de 'licencia' y conducción peligrosa en Cardoso Moreira",
-              "l": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/24/adolescente-e-identificado-apos-video-de-grau-e-direcao-perigosa-em-cardoso-moreira.ghtml",
-              "o": "Adolescente é identificado após vídeo de 'grau' e direção perigosa em Cardoso Moreira"
+              "t": "Siga la jornada de votación y el recuento de votos de la 2.ª vuelta en Espírito Santo",
+              "l": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml",
+              "o": "Acompanhe o dia de votação e a apuração dos votos no 2º turno no Espírito Santo"
             },
             {
-              "t": "En el último día de campaña, partidarios de Flávio Bolsonaro (PL) y Lula (PT) realizan manifestaciones en Fortaleza",
-              "l": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/24/em-ultimo-dia-de-campanha-apoiadores-de-flavio-bolsonaro-pl-e-lula-pt-realizam-manifestacoes-em-fortaleza.ghtml",
-              "o": "Em último dia de campanha, apoiadores de Flávio Bolsonaro (PL) e Lula (PT) realizam manifestações em Fortaleza"
+              "t": "TV Integração de Juiz de Fora en vivo: mira las noticias",
+              "l": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
+              "o": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais"
             },
             {
-              "t": "Debate en Globo: la reacción de la madre de Ana Clara cuando Flávio Bolsonaro respondió sobre la muerte de la niña en Niteroi",
-              "l": "https://g1.globo.com/politica/blog/natuza-nery/post/2026/10/24/debate-na-globo-a-reacao-da-mae-de-ana-clara-quando-flavio-bolsonaro-respondeu-sobre-a-morte-da-menina-em-niteroi.ghtml",
-              "o": "Debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi"
+              "t": "VIDEOS: RJ2 del sábado 24 de octubre de 2026",
+              "l": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-sabado-24-de-outubro-de-2026.ghtml",
+              "o": "VÍDEOS: RJ2 de sábado, 24 de outubro de 2026"
             },
             {
-              "t": "El hermano de Djidja Cardoso sale de prisión y es recibido por amigos y su madre en Manaos",
-              "l": "https://g1.globo.com/am/amazonas/noticia/2026/10/24/irmao-de-djidja-cardoso-deixa-presidio-e-e-recebido-por-amigos-e-pela-mae-em-manaus.ghtml",
-              "o": "Irmão de Djidja Cardoso deixa presídio e é recebido por amigos e pela mãe em Manaus"
+              "t": "TV Integração de Uberaba en vivo: mira las noticias",
+              "l": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
+              "o": "TV Integração de Uberaba ao vivo: assista aos telejornais"
             }
           ]
         },
@@ -355,44 +355,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Fiscalía defiende mantenimiento del 'Ejército de Lula' luego de que TSE prohibiera suspensión del canal",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/procuradoria-defende-manutencao-de-exercito-do-lula-apos-tse-barrar-suspensao-do-canal.shtml",
-              "o": "Procuradoria defende manutenção de 'Exército do Lula' após TSE barrar suspensão do canal"
+              "t": "Flávio Bolsonaro finaliza campaña en RJ con Nikolas y Douglas Ruas",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml",
+              "o": "Flávio Bolsonaro encerra campanha em ato no RJ com Nikolas e Douglas Ruas"
             },
             {
-              "t": "Ronaldinho jugará en la Serie C italiana el 15 de noviembre",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/ronaldinho-jogara-na-serie-c-italiana-em-15-de-novembro.shtml",
-              "o": "Ronaldinho jogará na Série C italiana em 15 de novembro"
+              "t": "Vicentinho Júnior tiene el 59% en la segunda vuelta de Tocantins, frente al 41% de la profesora Dorinha",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vicentinho-junior-tem-59-no-segundo-turno-do-tocantins-ante-41-de-professora-dorinha.shtml",
+              "o": "Vicentinho Júnior tem 59% no segundo turno do Tocantins, ante 41% de Professora Dorinha"
             },
             {
-              "t": "En una publicación, el médico de Einstein dice que no trata a los \"miembros cachondos del PT\"",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/em-postagem-medico-do-einstein-diz-nao-atender-petistas-vagabundos.shtml",
-              "o": "Em postagem, médico do Einstein diz não atender 'petistas vagabundos'"
+              "t": "Quaest: Omar Aziz (PSD) tiene el 59% en Amazonas, frente al 41% de Maria do Carmo (PL)",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-omar-aziz-psd-tem-59-no-amazonas-ante-41-de-maria-do-carmo-pl.shtml",
+              "o": "Quaest: Omar Aziz (PSD) tem 59% no Amazonas, ante 41% de Maria do Carmo (PL)"
             },
             {
-              "t": "La policía encuentra el 'Mein Kampf' de Hitler en la residencia de un francotirador en Francia",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/policia-encontra-mein-kampf-de-hitler-na-residencia-de-atirador-na-franca.shtml",
-              "o": "Polícia encontra 'Mein Kampf', de Hitler, na residência de atirador na França"
+              "t": "Braskem revela detalles de propuestas de reestructuración de deuda a inversores",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/braskem-divulga-a-investidores-detalhes-de-propostas-de-reestruturacao-da-divida.shtml",
+              "o": "Braskem divulga a investidores detalhes de propostas de reestruturação da dívida"
             },
             {
-              "t": "Intelectuales judíos de Brasil y del exterior firman manifiesto a favor de Lula",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/intelectuais-judeus-do-brasil-e-do-exterior-assinam-manifesto-a-favor-de-lula.shtml",
-              "o": "Intelectuais judeus do Brasil e do exterior assinam manifesto a favor de Lula"
+              "t": "BTG/Nexus: Flávio Bolsonaro tiene el 50,5% de los votos válidos y Lula, el 49,5%",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-505-dos-votos-validos-e-lula-495.shtml",
+              "o": "BTG/Nexus: Flávio Bolsonaro tem 50,5% dos votos válidos, e Lula, 49,5%"
             },
             {
-              "t": "El número de secciones modificadas aumenta a 394 en vísperas de la segunda vuelta y afecta a 123 mil electores",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/numero-de-secoes-alteradas-sobe-para-394-na-vespera-do-2o-turno-e-impacta-123-mil-eleitores.shtml",
-              "o": "Número de seções alteradas sobe para 394 na véspera do 2º turno e impacta 123 mil eleitores"
+              "t": "Flávio Bolsonaro tiene ventaja entre los más propensos a votar, según análisis de Datafolha",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml",
+              "o": "Flávio Bolsonaro tem vantagem entre mais propensos a votar, diz análise do Datafolha"
             },
             {
-              "t": "Película de brujas con Sandra Bullock y Nicole Kidman: que ver en streaming",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-de-bruxas-com-sandra-bullock-e-nicole-kidman-o-que-ver-no-streaming.shtml",
-              "o": "Filme de bruxas com Sandra Bullock e Nicole Kidman: o que ver no streaming"
+              "t": "Alrededor de 1.200 palestinos están desplazados tras la operación del ejército israelí",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cerca-de-1200-palestinos-sao-deslocados-em-hebron-apos-israel-iniciar-operacao-militar.shtml",
+              "o": "Cerca de 1.200 palestinos são deslocados após operação do Exército de Israel"
             },
             {
-              "t": "Mujeres que aman a sus verdugos",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/muniz-sodre/2026/10/mulheres-que-amam-seus-carrascos.shtml",
-              "o": "Mulheres que amam seus carrascos"
+              "t": "Pasado mañana: economía difícil y un presidente impopular",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/o-dia-depois-de-amanha-economia-dificil-e-um-presidente-impopular.shtml",
+              "o": "O dia depois de amanhã: economia difícil e um presidente impopular"
             }
           ]
         },
@@ -402,13 +402,8 @@
           "items": [
             {
               "t": "RADAR ELECTORAL",
-              "l": "https://noticias.uol.com.br/ao-vivo/2026/10/24/eleicoes-2026-acompanhe-o-que-acontece-pelo-pais.htm?c=card_1095782273_1792857386956",
+              "l": "https://noticias.uol.com.br/ao-vivo/2026/10/24/eleicoes-2026-acompanhe-o-que-acontece-pelo-pais.htm",
               "o": "RADAR DA ELEIÇÃO"
-            },
-            {
-              "t": "UFC 333",
-              "l": "https://www.uol.com.br/esporte/ao-vivo/2026/10/23/ao-vivo-ufc-333---volkanovski-x-evloev.htm",
-              "o": "UFC 333"
             },
             {
               "t": "NUESTRO PREMIO",
@@ -418,33 +413,39 @@
             },
             {
               "t": "Thais Bilenky",
-              "l": "https://noticias.uol.com.br/colunas/thais-bilenky/2026/10/24/poucas-mulheres-e-nenhum-negro-o-retrato-da-comitiva-de-flavio-na-globo.htm",
+              "l": "https://noticias.uol.com.br/colunas/thais-bilenky/2026/10/24/flavio-perdeu-mais-que-lula-na-globo-mas-segue-na-frente.htm",
               "img": "https://conteudo.imguol.com.br/c/home/1c/2024/08/14/thais-bilenky-1723648190331_100x100.jpg",
               "o": "Thais Bilenky"
             },
             {
-              "t": "Luis Henrique Matos",
-              "l": "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/10/24/conteudo-ultraprocessado-e-o-debate-eleitoral.ghtm",
-              "img": "https://conteudo.imguol.com.br/c/home/5d/2026/05/05/luiz-henrique-matos-header-1777984279991_100x100.png",
-              "o": "Luiz Henrique Matos"
+              "t": "Dora Kramer",
+              "l": "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/brasil-vai-as-urnas-mergulhado-num-mar-de-incertezas.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/73/2024/10/31/retrato-da-jornalista-e-colunista-dora-kramer-da-folha-de-sao-paulo-1730403329433_100x100.jpg",
+              "o": "Dora Kramer"
             },
             {
-              "t": "mariana sanchez",
-              "l": "https://noticias.uol.com.br/colunas/mariana-sanches/2026/10/24/o-que-o-segundo-mandato-de-trump-indica-sobre-eventual-governo-flavio.ghtm",
-              "img": "https://conteudo.imguol.com.br/c/home/25/2025/05/28/mariana-sanches-150-1748444192304_100x100.jpg",
-              "o": "Mariana Sanches"
+              "t": "Juca Kfouri",
+              "l": "https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2026/10/24/sao-paulo-escapa-de-goleada-e-empata-em-mirassol.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/53/2019/01/10/juca-kfouri-1547134077409_100x100.jpg",
+              "o": "Juca Kfouri"
             },
             {
-              "t": "Mónica Bérgamo",
-              "l": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/carlos-bolsonaro-diz-que-pai-ressurge-das-cinzas-mais-forte-ainda-com-resultado-de-flavio-na-eleicao.shtml",
-              "img": "https://conteudo.imguol.com.br/5a/2021/03/16/monica-bergamo-2-150-1615895781060_100x100.jpg",
-              "o": "Mônica Bergamo"
+              "t": "CLORURO DE POLIVINILO",
+              "l": "https://www.uol.com.br/esporte/colunas/pvc/2026/10/24/sao-paulo-esta-salvo-da-temporada-mas-adia-estatua-de-hernan-crespo.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/40/2019/01/14/pvc-1547459239301_100x100.jpg",
+              "o": "PVC"
             },
             {
-              "t": "Brasilia hoy",
-              "l": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pgr-pede-que-stf-derrube-exigencia-de-autorizacao-previa-para-transporte-de-indigenas-no-2o-turno.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/85/2024/06/21/brasilia-hoje-1718995676968_100x100.jpg",
-              "o": "Brasília Hoje"
+              "t": "miguel viriato",
+              "l": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/10/e-possivel-ficar-milionario-investindo-apenas-em-renda-fixa.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/05/2023/02/01/michael-viriato-1675278301712_100x100.jpg",
+              "o": "Michael Viriato"
+            },
+            {
+              "t": "Helio Schwartsman",
+              "l": "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/um-voto-intranquilo.shtml",
+              "img": "https://conteudo.imguol.com.br/b9/2021/03/16/helio-schwartsman-2-150-1615894602235_100x100.jpg",
+              "o": "Hélio Schwartsman"
             }
           ]
         }
@@ -469,7 +470,7 @@
               "img": "https://imagenes.elpais.com/resizer/v2/J5Y3Z3A6K5B75MZOLEQO2CHUOM.JPG?auth=4d2c2baf2cefdb36111624947f68128a8c71c8727ea1c13f49c9c58b1c6beef1"
             },
             {
-              "t": "Una protesta juvenil desencadena disturbios en el centro de Barcelona",
+              "t": "Cien detenidos por los disturbios en el centro de Barcelona",
               "l": "https://elpais.com/espana/catalunya/2026-10-24/centenares-de-jovenes-violentos-destrozan-el-centro-de-barcelona.html",
               "img": "https://imagenes.elpais.com/resizer/v2/PWC4RAILX5CC7IZYQACIU3LVFA.jpg?auth=015a8358bf7268148b3b9d520469fbe00d75279b53282f777c4218b44a273575"
             },
@@ -562,29 +563,14 @@
               "o": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands"
             },
             {
-              "t": "Por qué los expertos legales consideran dudoso el desafío electoral del Departamento de Justicia en Alaska",
-              "l": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
-              "o": "Why Legal Experts See the Justice Dept.’s Alaska Election Challenge as Dubious"
-            },
-            {
               "t": "Lo que hay que saber sobre la carrera por el Senado de Alaska",
               "l": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
               "o": "What to Know About Alaska’s Senate Race"
             },
             {
-              "t": "Cómo el despiadado anuncio de Vivek Ramaswamy en Ohio dividió a los republicanos",
-              "l": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
-              "o": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans"
-            },
-            {
-              "t": "Una encuesta presidencial de 2028 encuentra a Vance, Rubio y varios demócratas en la mezcla",
-              "l": "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html",
-              "o": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix"
-            },
-            {
-              "t": "Por qué a los demócratas podría resultarles difícil ganar el Senado a pesar de sus sólidas encuestas",
-              "l": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
-              "o": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls"
+              "t": "En Alaska, algunos sitios de votación anticipada en aldeas rurales aún no han abierto",
+              "l": "https://www.nytimes.com/2026/10/24/us/alaska-early-voting-sites.html",
+              "o": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened"
             },
             {
               "t": "Obama lanza duros ataques contra Trump y Ramaswamy a cambio de su campaña electoral",
@@ -592,9 +578,24 @@
               "o": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail"
             },
             {
-              "t": "Cómo se extendió una pequeña protesta estudiantil por Francia",
-              "l": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
-              "o": "How a Small Student Protest Spread Across France"
+              "t": "Una encuesta presidencial de 2028 encuentra a Vance, Rubio y varios demócratas en la mezcla",
+              "l": "https://www.nytimes.com/2026/10/24/us/democrats-republicans-presidential-primary-poll.html",
+              "o": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix"
+            },
+            {
+              "t": "Cómo el despiadado anuncio de Vivek Ramaswamy en Ohio dividió a los republicanos",
+              "l": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
+              "o": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans"
+            },
+            {
+              "t": "Por qué a los demócratas podría resultarles difícil ganar el Senado a pesar de sus sólidas encuestas",
+              "l": "https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html",
+              "o": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls"
+            },
+            {
+              "t": "Los disturbios estallan nuevamente en Francia, pero esta vez con menos daños a la propiedad",
+              "l": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+              "o": "Unrest Erupts Again in France, but This Time, With Less Property Damage"
             }
           ]
         },
@@ -602,6 +603,21 @@
           "n": "NPR",
           "tr": true,
           "items": [
+            {
+              "t": "La Arquidiócesis de Nueva York acuerda un acuerdo de 800 millones de dólares por denuncias de abuso sexual",
+              "l": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+              "o": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims"
+            },
+            {
+              "t": "Los aranceles comerciales causan un latigazo en Port Milwaukee",
+              "l": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+              "o": "Trade tariffs cause whiplash at Port Milwaukee"
+            },
+            {
+              "t": "Cómo los centros de datos se convirtieron en una cuestión política bipartidista en Wisconsin",
+              "l": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+              "o": "How data centers became a bipartisan political issue in Wisconsin"
+            },
             {
               "t": "Ucrania dice que Starlink ha vuelto a la normalidad después de las interrupciones",
               "l": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
@@ -626,21 +642,6 @@
               "t": "La tasa de natalidad en EE. UU. cae a un mínimo histórico, pero las mujeres mayores tienen más bebés",
               "l": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
               "o": "U.S. birth rate drops to record low, but older women are having more babies"
-            },
-            {
-              "t": "Esta década ha estado perdiendo su gran impacto a mitad de período",
-              "l": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-              "o": "This decade has been missing its big-impact midterm"
-            },
-            {
-              "t": "El suministro de agua potable disminuye en la ciudad yemení asediada por los rebeldes hutíes",
-              "l": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-              "o": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels"
-            },
-            {
-              "t": "Las inundaciones en la región de Four Corners desplazan a los residentes a medida que las tormentas se mueven hacia el sureste",
-              "l": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-              "o": "Flooding in Four Corners region displaces residents, as storms move southeast"
             }
           ]
         }
