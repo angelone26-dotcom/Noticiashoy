@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:20:47Z",
+  "updated": "2026-10-25T21:10:02Z",
   "paises": [
     {
       "id": "uy",
@@ -8,49 +8,22 @@
         {
           "n": "Montevideo Portal",
           "tr": false,
-          "items": [
-            {
-              "t": "SIP pondera libertad de prensa en Uruguay pero alerta por crisis económica",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979797"
-            },
-            {
-              "t": "“Eso fue lo que pasó...”: Jaime se refirió a su llanto en pleno partido de Peñarol",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979789"
-            },
-            {
-              "t": "Laura: la apicultora de Flores nombrada por ONU como una de las 100 “heroínas” mundiales",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979413"
-            },
-            {
-              "t": "“Turrákata”, el juego uruguayo que nació para dar fondos a otro: “Es realmente ambicioso”",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979557"
-            },
-            {
-              "t": "“Sin antecedentes”: meteorólogo advierte por lo que llega en diciembre y qué pasará luego",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979651"
-            },
-            {
-              "t": "Elecciones en Brasil: la campaña de Lula denunció problemas con los transportes públicos",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979795"
-            },
-            {
-              "t": "Corina Machado volvió a Venezuela tras 10 meses de exilio: “Nuestra voz soberana retorna”",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979794"
-            },
-            {
-              "t": "Clausura: Nacional y Liverpool cierran la fecha 12 esta noche. Horario y alineaciones",
-              "l": "https://www.montevideo.com.uy/auc.aspx?979776"
-            }
-          ]
+          "items": [],
+          "error": "mismatched tag: line 6, column 2"
         },
         {
           "n": "El Observador",
           "tr": false,
           "items": [
             {
-              "t": "EN VIVO | Brasil elige presidente: ya votaron Bolsonaro y Lula; qué dicen las encuestas y cuándo se conocerán los resultados",
+              "t": "EN VIVO | Brasil elige presidente: el Tribunal Superior Electoral publicó los primeros resultados preliminares, con Lula al frente",
               "l": "https://www.elobservador.com.uy/mundo/en-vivo-los-brasilenos-eligen-este-domingo-presidente-la-izquierda-lula-y-la-derecha-bolsonaro-n6061575",
-              "img": "https://media.elobservador.com.uy/p/6d1c9136d027678da05049556d574fb7/adjuntos/362/imagenes/100/781/0100781500/1200x675/smart/lula-y-bolsonaro.jpg"
+              "img": "https://media.elobservador.com.uy/p/32bf549a013447dde30f3078d6628418/adjuntos/362/imagenes/100/781/0100781496/1200x675/smart/lula-antes-votar-el-balotaje-del-25-octubre.jpg"
+            },
+            {
+              "t": "Resultados de elecciones en Brasil: cómo seguir el minuto a minuto del conteo de votos entre Lula y Flávio Bolsonaro",
+              "l": "https://www.elobservador.com.uy/nacional/resultados-elecciones-brasil-como-seguir-el-minuto-minuto-del-conteo-votos-lula-y-flavio-bolsonaro-n6061612",
+              "img": "https://media.elobservador.com.uy/p/e39ef62cff68b416eb4eb4d3e3f24bee/adjuntos/362/imagenes/100/780/0100780099/1200x675/smart/afp__20261018__d3nt9r6__v2__midres__topshotbrazilelectionrunoffdebate.jpg"
             },
             {
               "t": "María Corina Machado regresó a Venezuela: \"Estoy aquí, con ustedes\"",
@@ -67,23 +40,18 @@
               "img": "https://media.elobservador.com.uy/p/f78f31afc7e0f4f83451c745396b1e10/adjuntos/362/imagenes/100/556/0100556073/1200x675/smart/riordajpg.jpg"
             },
             {
-              "t": "En Uruguay se comienza a debatir sobre \"cielos oscuros\" como forma de proteger ecosistemas y la salud humana, una medida que ya adoptaron otros países",
-              "l": "https://www.elobservador.com.uy/en-uruguay-se-comienza-debatir-cielos-oscuros-como-forma-proteger-ecosistemas-y-la-salud-humana-una-medida-que-ya-adoptaron-otros-paises-n6060743",
-              "img": "https://media.elobservador.com.uy/p/90fc5062a2bee1acb6bdee352140b59d/adjuntos/362/imagenes/100/779/0100779698/1200x675/smart/turismo-astronomico_0.jpeg"
+              "t": "\"Estamos observando\": Trump evita dar su apoyo a alguno de los candidatos al balotaje en Brasil",
+              "l": "https://www.elobservador.com.uy/estados-unidos/america-latina/estamos-observando-trump-evita-dar-su-apoyo-alguno-los-candidatos-al-balotaje-brasil-n6061611",
+              "img": "https://media.elobservador.com.uy/p/6d27fe734d03c846c8ce5d1b407f3e0b/adjuntos/367/imagenes/100/781/0100781540/1200x675/smart/donald-trump-25-10-26-afp.jpg"
             },
             {
-              "t": "Brasil decide entre Lula o Bolsonaro en un balotaje peleado que define el rumbo del país e impacta en la región",
-              "l": "https://www.elobservador.com.uy/argentina/mundo/brasil-decide-lula-o-bolsonaro-un-balotaje-peleado-que-define-el-rumbo-del-pais-e-impacta-la-region-n6061517",
-              "img": "https://media.elobservador.com.uy/p/edb82dffa127fb0d53ac7138aba2c47d/adjuntos/367/imagenes/100/781/0100781170/1200x675/smart/brasil-elecciones-afp.jpg"
-            },
-            {
-              "t": "Balotaje al rojo vivo en Brasil: la polarización extrema copa las calles antes del choque entre Lula y Bolsonaro",
-              "l": "https://www.elobservador.com.uy/estados-unidos/america-latina/tension-politica-brasilia-la-polarizacion-extrema-copa-las-calles-antes-del-balotaje-n6061530",
-              "img": "https://media.elobservador.com.uy/p/022f9873bedfea5addee0493d4700060/adjuntos/367/imagenes/100/781/0100781391/1200x675/smart/brasil-elecciones-brasilia.jpeg"
+              "t": "Ordenan detener a un funcionario por la falta de ómnibus durante los comicios en Brasil",
+              "l": "https://www.elobservador.com.uy/mundo/ordenan-detener-un-funcionario-la-falta-autobuses-los-comicios-brasil-n6061609",
+              "img": "https://media.elobservador.com.uy/p/fe4269286d4c762a4725ec9bda97072e/adjuntos/362/imagenes/100/781/0100781539/1200x675/smart/afp__20261025__d4e28wf__v1__midres__brazilelectionrunoffvote.jpg"
             },
             {
               "t": "Por qué Minas Gerais será un estado clave en el balotaje que disputan Lula y Bolsonaro en Brasil",
-              "l": "https://www.elobservador.com.uy/argentina/mundo/por-que-minas-gerais-sera-un-estado-clave-el-balotaje-que-disputan-lula-y-bolsonaro-brasil-n6061531",
+              "l": "https://www.elobservador.com.uy/estados-unidos/america-latina/por-que-minas-gerais-sera-un-estado-clave-el-balotaje-que-disputan-lula-y-bolsonaro-brasil-n6061467",
               "img": "https://media.elobservador.com.uy/p/ef59e4b7fe1644e88e9dfd000c2f6b66/adjuntos/367/imagenes/100/781/0100781235/1200x675/smart/brasil-elecciones-2026-juiz-fora-minas-gerais-afp.jpg"
             }
           ]
@@ -93,36 +61,36 @@
           "tr": false,
           "items": [
             {
-              "t": "Bolsonaro dijo que llegó la hora de un “cambio” y Lula que su contrincante quiere “gobernar con la bandera estadounidense”",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/bolsonaro-dijo-que-llego-la-hora-de-un-cambio-y-lula-que-su-contrincante-quiere-gobernar-con-la-bandera-estadounidense/"
+              "t": "Brasil: se extendió el horario de votación en todo el territorio hasta las 19:00",
+              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/brasil-se-extendio-el-horario-de-votacion-en-todo-el-territorio-hasta-las-1900/"
             },
             {
-              "t": "En la última: Deportivo Maldonado le ganó 2-1 a Danubio y acorta distancia en la tabla anual",
-              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/en-la-ultima-deportivo-maldonado-le-gano-2-1-a-danubio-y-acorta-distancia-en-la-tabla-anual/"
+              "t": "Comité Central de la Comunidad Judía Uruguaya expresó su “firme rechazo” a un comunicado de la Coordinación por Palestina",
+              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/comite-central-de-la-comunidad-judia-uruguaya-expreso-su-firme-rechazo-a-un-comunicado-de-la-coordinacion-por-palestina/"
             },
             {
-              "t": "Sindicato de Montecon expresó su “enérgico rechazo” a declaraciones del gerente de Relaciones Institucionales de Katoen Natie",
-              "l": "https://ladiaria.com.uy/trabajo/articulo/2026/10/sindicato-de-montecon-expreso-su-energico-rechazo-a-declaraciones-del-gerente-de-relaciones-institucionales-de-katoen-natie/"
+              "t": "Policrisis y potencia juvenil: quién organiza la fuerza de los jóvenes en Uruguay",
+              "l": "https://ladiaria.com.uy/opinion/articulo/2026/10/policrisis-y-potencia-juvenil-quien-organiza-la-fuerza-de-los-jovenes-en-uruguay/"
             },
             {
-              "t": "Central Español cayó ante Albion y se sigue hundiendo en el descenso",
-              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/central-espanol-cayo-ante-albion-y-se-sigue-hundiendo-en-el-descenso/"
+              "t": "Andrade en los 106 años del PCU: el Frente Amplio “tiene que transformarse en trinchera de las causas latinoamericanas”",
+              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/andrade-en-los-106-anos-del-pcu-el-frente-amplio-tiene-que-transformarse-en-trinchera-de-las-causas-latinoamericanas/"
             },
             {
-              "t": "Santana do Livramento se prepara para la segunda vuelta de las elecciones de Brasil",
-              "l": "https://ladiaria.com.uy/rivera/articulo/2026/10/santana-do-livramento-se-prepara-para-la-segunda-vuelta-de-las-elecciones-de-brasil/"
+              "t": "Nacional campeón de la Liga de Futsal Femenino",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/nacional-campeon-de-la-liga-de-futsal-femenino/"
             },
             {
-              "t": "A horas de la segunda vuelta, Lula y Flávio Bolsonaro cerraron sus campañas con movilizaciones y actos multitudinarios",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/a-horas-de-la-segunda-vuelta-lula-y-flavio-bolsonaro-cerraron-sus-campanas-con-movilizaciones-y-actos-multitudinarios/"
+              "t": "María Corina Machado regresó a Venezuela",
+              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/maria-corina-machado-regreso-a-venezuela/"
             },
             {
-              "t": "Fernando Pereira dijo que la opinión de María Julia Muñoz sobre el caso Cardama “no es coincidente” con la postura del FA",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/fernando-pereira-dijo-que-la-opinion-de-maria-julia-munoz-sobre-el-caso-cardama-no-es-coincidente-con-la-postura-del-fa/"
+              "t": "Torque venció a Cerro y es líder provisional del Clausura",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/torque-vencio-a-cerro-y-es-lider-provisional-del-clausura/"
             },
             {
-              "t": "Se define",
-              "l": "https://ladiaria.com.uy/articulo/2026/10/se-define/"
+              "t": "El Partido de los Trabajadores denunció una reducción de transporte público en Salvador y San Pablo",
+              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/el-partido-de-los-trabajadores-denuncio-una-reduccion-de-transporte-publico-en-salvador-y-san-pablo/"
             }
           ]
         },
@@ -130,6 +98,18 @@
           "n": "Teledoce",
           "tr": false,
           "items": [
+            {
+              "t": "Brasil extendió hasta las 19:00 la votación de la segunda vuelta tras reclamos de Lula y Bolsonaro",
+              "l": "https://www.teledoce.com/telemundo/internacionales/brasil-extendio-hasta-las-1900-la-votacion-de-la-segunda-vuelta-tras-reclamos-de-lula-y-bolsonaro/"
+            },
+            {
+              "t": "Entre la denuncia de Lula sobre los obstáculos para votar y la promesa de “mano dura” de Flávio Bolsonaro, Brasil elige presidente",
+              "l": "https://www.teledoce.com/telemundo/internacionales/entre-la-denuncia-de-lula-sobre-los-obstaculos-para-votar-y-la-promesa-de-mano-dura-de-flavio-bolsonaro-brasil-elige-presidente/"
+            },
+            {
+              "t": "Dos adolescentes de 15 y 16 años irán al Inisa tras ser imputados por matar a un joven para robarle la moto en Toledo Chico",
+              "l": "https://www.teledoce.com/telemundo/nacionales/dos-adolescentes-de-15-y-16-anos-iran-al-inisa-tras-ser-imputados-por-matar-a-un-joven-para-robarle-la-moto-en-toledo-chico/"
+            },
             {
               "t": "Un hombre de 58 años fue asesinado de un disparo en Paysandú",
               "l": "https://www.teledoce.com/telemundo/policiales/un-hombre-de-58-anos-fue-asesinado-de-un-disparo-en-paysandu/"
@@ -149,18 +129,6 @@
             {
               "t": "Pablo Álvarez: \"Lo que veo de este Nacional me representa\"",
               "l": "https://www.teledoce.com/programas/polideportivo/pablo-alvarez-lo-que-veo-de-este-nacional-me-representa/"
-            },
-            {
-              "t": "Video: así se prepara el Estadio Centenario para recibir al papa León XIV; esperan a 70.000 personas",
-              "l": "https://www.teledoce.com/telemundo/nacionales/video-asi-se-prepara-el-estadio-centenario-para-recibir-al-papa-leon-xiv-esperan-a-70-000-personas/"
-            },
-            {
-              "t": "Hallaron un cuerpo entre la basura en la usina de Felipe Cardoso",
-              "l": "https://www.teledoce.com/telemundo/nacionales/hallaron-un-cuerpo-entre-la-basura-en-la-usina-de-felipe-cardoso/"
-            },
-            {
-              "t": "La magia de Ronaldinho vuelve a las canchas: debutará con un equipo de la tercera división de Italia el próximo 15 de noviembre",
-              "l": "https://www.teledoce.com/nota/la-magia-de-ronaldinho-vuelve-a-las-canchas-debutara-con-un-equipo-de-la-tercera-division-de-italia-el-proximo-15-de-noviembre/"
             }
           ]
         }
@@ -175,44 +143,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Fallo en la red elétrica deja sin servicio a dos provincias cubanas",
-              "l": "https://www.clarin.com/estados-unidos/fallo-en-la-red-eletrica-deja-sin-servicio-a-dos-provincias-cubanas_0_iyr7R7MYAh.html",
-              "img": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg"
+              "t": "Jaafar Jackson rompió el silencio: habló de las escenas eliminadas de la película de Michael Jackson sobre las denuncias de abuso sexual infantil",
+              "l": "https://www.clarin.com/espectaculos/jaafar-jackson-rompio-silencio-hablo-escenas-eliminadas-pelicula-michael-jackson-denuncias-abuso-sexual-infantil_0_QRAHBxpUCx.html",
+              "img": "https://www.clarin.com/img/2026/02/02/kWDa2dg0y_1200x630__1.jpg"
             },
             {
-              "t": "En 2002, Houston utilizó cenizas y residuos industriales para construir una pista de aeropuerto: el resultado superó las expectativas de los ingenieros",
-              "l": "https://www.clarin.com/estados-unidos/2002-houston-utilizo-cenizas-residuos-industriales-construir-pista-aeropuerto-resultado-supero-expectativas-ingenieros_0_p0iNSUA7oR.html",
-              "img": "https://www.clarin.com/img/2026/10/12/GW9T_eeqg_1200x630__1.jpg"
+              "t": "La SIP cuestionó el proyecto de Milei contra la “desinformación” y alertó por sus ataques a periodistas",
+              "l": "https://www.clarin.com/politica/sip-cuestiono-proyecto-milei-desinformacion-alerto-ataques-periodistas_0_oqo0yXDNy2.html",
+              "img": "https://www.clarin.com/img/2026/10/25/8QsXWvgy5_1200x630__1.jpg"
             },
             {
-              "t": "La psicología dice que mirar fijamente a los ojos  durante una charla  incrementa procesos cognitivos y es una señal de confianza, pero también puede incomodar por varias razones",
-              "l": "https://www.clarin.com/estados-unidos/psicologia-dice-mirar-fijamente-ojos-charla-incrementa-procesos-cognitivos-senal-confianza-puede-incomodar-varias-razones_0_JXwxs5nkha.html",
-              "img": "https://www.clarin.com/img/2022/05/11/URorxuPlO_1200x630__1.jpg"
+              "t": "Carlos Jornet asumió como presidente de la SIP y advirtió por las amenazas a la libertad de prensa",
+              "l": "https://www.clarin.com/politica/carlos-jornet-asumio-presidente-sip-advirtio-amenazas-libertad-prensa_0_Xy9n7oEgHi.html",
+              "img": "https://www.clarin.com/img/2026/10/25/3O0qUEZRJ_1200x630__1.jpg"
             },
             {
-              "t": "Virginia instaló 42 paneles solares sobre su huerto de otoño, y debajo siguieron creciendo repollo, nabos y bok choy, mientras que la luz solar y las baterías suministraban el 97% de la energía de la granja, convirtiendo ese mismo terreno en un jardín y una minicentral eléctrica",
-              "l": "https://www.clarin.com/estados-unidos/virginia-instalo-42-paneles-solares-huerto-otono-debajo-siguieron-creciendo-repollo-nabos-bok-choy-luz-solar-baterias-suministraban-97-energia-granja-convirtiendo-mismo-terreno-jardin-minicentral-electrica_0_gq8sy9gwQ9.html",
-              "img": "https://www.clarin.com/img/2026/09/02/f65cDJlU6_1200x630__1.jpg"
+              "t": "\"Te estamos esperando\": el mensaje de la pareja del senderista desaparecido en Tucumán hace 13 días",
+              "l": "https://www.clarin.com/sociedad/esperando-mensaje-pareja-senderista-desaparecido-tucuman-hace-13-dias_0_Dtql7MvYA6.html",
+              "img": "https://www.clarin.com/img/2026/10/22/2wSRU9rPO_1200x630__1.jpg"
             },
             {
-              "t": "Por qué regalar un jazmín en octubre: el significado especial de esta planta y sus beneficios",
-              "l": "https://www.clarin.com/informacion-general/regalar-jazmin-octubre-significado-especial-planta-beneficios_0_vLqGl00gt4.html",
-              "img": "https://www.clarin.com/img/2026/10/22/36hIS6zp2_1200x630__1.jpg"
+              "t": "La carga de la brigada equivocada (cuando nació la corresponsalía de guerra)",
+              "l": "https://www.clarin.com/opinion/carga-brigada-equivocada-nacio-corresponsalia-guerra_0_gQm2HkOBW1.html",
+              "img": "https://www.clarin.com/img/2026/10/25/cZ7DaSUJJ_1200x630__1.jpg"
             },
             {
-              "t": "Ganaron $35.000 como jóvenes agricultores del año en Arkansas, con 1.200 acres de maíz, arroz, soja y nueces pecanas: \"Estamos honrados de ganar\"",
-              "l": "https://www.clarin.com/estados-unidos/ganaron-35000-jovenes-agricultores-ano-arkansas-1200-acres-maiz-arroz-soja-nueces-pecanas-honrados-ganar_0_NhjCEZdXVg.html",
-              "img": "https://www.clarin.com/img/2026/10/08/e81S9f9nQ_1200x630__1.jpg"
+              "t": "Turismo Carretera: Lambiris ganó de punta a punta en Rosario y Santero quedó como líder de la Copa de Oro, a dos fechas del final",
+              "l": "https://www.clarin.com/deportes/turismo-carretera-lambiris-gano-punta-punta-rosario-santero-quedo-lider-copa-oro-fechas-final_0_phGiHeQjHZ.html",
+              "img": "https://www.clarin.com/img/2026/10/25/jIbLRQCPf_1200x630__1.jpg"
             },
             {
-              "t": "\"No tenemos por qué encajar en los encorsetados cánones que dictan que solo es posible florecer en la juventud\": los \"late bloomers\" reivindican que el mejor momento puede llegar en la madurez",
-              "l": "https://www.clarin.com/internacional/encajar-encorsetados-canones-dictan-solo-posible-florecer-juventud-late-bloomers-reivindican-mejor-momento-puede-llegar-madurez_0_WdKjkaV5HW.html",
-              "img": "https://www.clarin.com/img/2026/10/25/nSLny_L2v_1200x630__1.jpg"
+              "t": "El contador de los Kirchner y el juicio Hotesur-Los Sauces: \"Me arrepiento de haber participado de estas maniobras de lavado\"",
+              "l": "https://www.clarin.com/politica/contador-kirchner-juicio-hotesur-los-sauces-arrepiento-participado-maniobras-lavado_0_Pzyofrn9f1.html",
+              "img": "https://www.clarin.com/img/2026/10/25/_vzac4Ysv_1200x630__1.jpg"
             },
             {
-              "t": "Israel: el premier Netanyahu amenaza a Irán con un golpe \"aplastante\" a dos días de las elecciones",
-              "l": "https://www.clarin.com/mundo/israel-premier-netanyahu-amenaza-iran-golpe-aplastante-dias-elecciones_0_SOuAD57hvC.html",
-              "img": "https://www.clarin.com/img/2026/10/25/Jb1-sEDWM_1200x630__1.jpg"
+              "t": "Zelenski afirma que habrá reunión entre Ucrania, Rusia y EEUU en noviembre",
+              "l": "https://www.clarin.com/estados-unidos/zelenski-afirma-que-habra-reunion-entre-ucrania-rusia-y-eeuu-en-noviembre_0_YvF3qVsBU2.html",
+              "img": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg"
             }
           ]
         },
@@ -221,9 +189,19 @@
           "tr": false,
           "items": [
             {
-              "t": "La SIP advirtió sobre el aumento de la violencia contra periodistas y las presiones de los gobiernos en América",
-              "l": "https://www.lanacion.com.ar/sociedad/la-sip-advirtio-sobre-el-aumento-de-la-violencia-contra-periodistas-y-las-presiones-de-los-gobiernos-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/IIXE4BQP4NHCFIA6WO5Q3V54YA.png?auth=b5cfed308f5a9fbc1f510548459be1f00a4cfec799590c3372200cce2430696a&smart=true&width=607&height=372"
+              "t": "Dirigentes políticos e intelectuales condenaron los ataques de Milei a periodistas: “Pasó todos los límites”",
+              "l": "https://www.lanacion.com.ar/politica/la-ucr-y-el-frente-renovador-condenaron-los-ataques-de-milei-a-periodistas-paso-todos-los-limites-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/RQCNXGNG5BEY7EHIZMF5HWC4KQ.JPG?auth=0790ca388d51392f7d6deb885189a2af4dbfe0141b07a90c38d80a112a792d6e&smart=true&width=2048&height=1366"
+            },
+            {
+              "t": "Independiente vs. Boca, por el Torneo Clausura, en vivo: el minuto a minuto del partido",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/independiente/independiente-vs-boca-por-el-torneo-clausura-en-vivo-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/BI6TXJW7BVAJ3KR3XUILDLXE54.JPG?auth=d98f96d040cd90c632ebeec1c023098330f9dc725809e1db9f3e325d94b0791f&smart=true&width=2000&height=1333"
+            },
+            {
+              "t": "Franco Colapinto, en el Gran Premio de Austin de la Fórmula 1, en vivo",
+              "l": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-austin-en-vivo-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/RDV2DEERCVG6VNC5EFZSHWXSDQ.jpg?auth=9cf111e176ab4fbb4a40ae92ca07b221cdd3c455d326d3bd5eaef96f2752fd74&smart=true&width=4370&height=2913"
             },
             {
               "t": "Cómo van las elecciones Brasil 2026, EN VIVO: resultados y quién va ganando el balotaje entre Lula y Flavio Bolsonaro",
@@ -231,34 +209,24 @@
               "img": "https://resizer.glanacion.com/resizer/v2/WRO2ZJMHCBCSHOUVSHJT7WQ6XY.JPG?auth=6678e6465db75d4d166f919122f7ef32c15fac7f63fa831bede333dda8f9a7b9&smart=true&width=5808&height=3900"
             },
             {
-              "t": "Una joven de 27 años fue hallada muerta en un departamento de Retiro tras una cita con un hombre",
-              "l": "https://www.lanacion.com.ar/seguridad/una-joven-de-27-anos-fue-hallada-muerta-en-un-departamento-de-retiro-tras-una-cita-con-un-hombre-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/Z4LF3V7M6VE7XBNCT7XMQRTKYA.jpg?auth=41ce9289521ba7379b3d0686cce0c40dfaa4a1c692eaba18c90cb4e519349ba8&smart=true&width=850&height=547"
+              "t": "Resultados en vivo de las elecciones en Brasil: cómo va el balotaje presidencial 2026",
+              "l": "https://www.lanacion.com.ar/el-mundo/resultados-en-vivo-de-las-elecciones-en-brasil-como-va-el-balotaje-presidencial-2026-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/I5G3MKY5KJHAROWJ2JRMITTCWM.JPG?auth=02e0566f5b85a55e23163de1d569e2c7d22bd014fa68b2bbb64ceed1bf2ed22c&smart=true&width=5711&height=3626"
             },
             {
-              "t": "Hugo Lattanzi, productor que invirtió en un campo en Río Negro: “Siempre vi a la zona con mucho potencial”",
-              "l": "https://www.lanacion.com.ar/economia/campo/hugo-lattanzi-productor-que-invirtio-en-un-campo-en-rio-negro-siempre-vi-a-la-zona-con-mucho-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/JTSCXPEIEZELVGXEQVJ2UECRHE.jpeg?auth=9ae996ad8c1bd02e19c44303dae707a5e97e4b28163ef3c7b26a718f7d79575c&smart=true&width=1600&height=1200"
+              "t": "Según los nutricionistas, no hay plato más fácil de digerir que uno de arroz",
+              "l": "https://www.lanacion.com.ar/lnmas/segun-los-nutricionistas-no-hay-plato-mas-facil-de-digerir-que-uno-de-arroz-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/SAITDAQHWRGEJCOTNZZXHNFNUM.jpg?auth=e90a41f3be0a4471c3ffc27f46392c6f9d1d45da4a8d22708c99e44198c073f8&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Elecciones en Brasil 2026, EN VIVO: Lula y Bolsonaro ya votaron y se espera un reñido balotaje",
-              "l": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-y-las-ultimas-noticias-del-balotaje-voto-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/Z5ZINYGANNGERJZZ67AI67XTJI.jpg?auth=e43223ca4a7ae9ede831b06dcf0d6cf6efaf1200fcba3d86db6afa9bd76b0eeb&smart=true&width=2000&height=1333"
+              "t": "Robin Sharma, especialista en desarrollo personal: “Sé de personas excepcionales que protegen su tiempo y eso no significa que tengan que matarse trabajando”",
+              "l": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-desarrollo-personal-se-de-personas-excepcionales-que-protegen-su-tiempo-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/FMXIPBYCQFB5VAP32QHNRFRQNI.jpg?auth=8043f949260b659d0c00af3797b55926768fca67d4feb11bc25649887d919939&smart=true&width=700&height=420"
             },
             {
-              "t": "Por dónde pasan hoy Independiente vs. Boca y qué canal lo transmite en vivo",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-hoy-independiente-vs-boca-y-que-canal-lo-transmite-en-vivo-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/4WPQCEXV3VA3XIWKKIK3TERGKU.jpg?auth=75dc2b151fd39ef4c97fd8c92674bdc82ed66b7fe159de174cf75cd1581b3894&smart=true&width=4147&height=2765"
-            },
-            {
-              "t": "Por dónde pasan el GP de Estados Unidos de la Fórmula 1 y qué canal lo transmite en vivo",
-              "l": "https://www.lanacion.com.ar/deportes/automovilismo/por-donde-pasan-el-gp-de-estados-unidos-de-la-formula-1-y-que-canal-lo-transmite-en-vivo-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/XIBFHCAYTFGONEZLBNBBNUA2FE.JPG?auth=903964ae3c16ab2e5e2e90baeeb218bb4d9c019d37aee1f390db2239436e1fae&smart=true&width=2048&height=1475"
-            },
-            {
-              "t": "Visec Carne: así funciona el mundo de los negocios, guste o no",
-              "l": "https://www.lanacion.com.ar/economia/campo/visec-carne-asi-funciona-el-mundo-de-los-negocios-guste-o-no-nid25102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/TF4OFWBD7BH53KVXNJ3YKROPZA.jpeg?auth=6c80322adb2a419b96d26a1782854116ab56bbcec26a0e6e98f2b854ea363127&smart=true&width=1280&height=960"
+              "t": "Qué se sabe de los resultados de las Elecciones Brasil 2026, este domingo 25 de octubre",
+              "l": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-resultados-de-las-elecciones-brasil-2026-este-domingo-25-de-octubre-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/I5G3MKY5KJHAROWJ2JRMITTCWM.JPG?auth=02e0566f5b85a55e23163de1d569e2c7d22bd014fa68b2bbb64ceed1bf2ed22c&smart=true&width=5711&height=3626"
             }
           ]
         },
@@ -267,9 +235,24 @@
           "tr": false,
           "items": [
             {
-              "t": "El Gobierno intentará destrabar el proyecto de Defensa de la Soberanía",
-              "l": "https://www.pagina12.com.ar/2026/10/25/el-gobierno-intentara-destrabar-el-proyecto-de-defensa-de-la-soberania/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/O3HAWUJXRBHNNJDS6VRMPQKPDM.jpg?auth=5deb1666a2ed6618136ffa707cd015c50bc2e4a20fde24197c448e1f11a57bd9&smart=true&width=3000&height=2000"
+              "t": "Resultados Elecciones Brasil 2026: el balotaje entre Lula y Bolsonaro",
+              "l": "https://www.pagina12.com.ar/2026/10/25/elecciones-brasil-2026-el-balotaje-entre-lula-y-bolsonaro/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/44U5MWICNZGTPG4A2JSYBBSHRQ.jpg?auth=7fb2e39d278c164354264cccef7a82efd5ead301a1b34c67fb67bf2c74b0c69b&smart=true&width=1800&height=1200"
+            },
+            {
+              "t": "Racismo en el acto bolsonarista",
+              "l": "https://www.pagina12.com.ar/2026/10/25/racismo-en-el-acto-bolsonarista/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/VKCCJQV73RCY7CA4E7GKSLEEGU.jpg?auth=91612a471a1ec27bdf57f15779d72eb42743c7d545bd55c2a058a8938fec79b9&smart=true&width=624&height=416"
+            },
+            {
+              "t": "Franco Colapinto en la Fórmula 1 por el GP de Estados Unidos: la carrera, minuto a minuto",
+              "l": "https://www.pagina12.com.ar/2026/10/25/franco-colapinto-en-la-formula-1-por-el-gp-de-estados-unidos-la-carrera-minuto-a-minuto/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/Q6GGWGFIA5GA5C7ZR6JX2Z2HFE.jpg?auth=a1bf7e0f765223aae88ca1c628d3fbd31956959be4c31d74490b710825d70e92&smart=true&width=6303&height=4202"
+            },
+            {
+              "t": "Una vergüenza nacional",
+              "l": "https://www.pagina12.com.ar/2026/10/25/una-verguenza-nacional/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/HXJMTKIXVFAYFK6N6IA3FPG2DI.jpg?auth=68b0889d2ab15377987c5cd1ea53fb3059dc0a90a88c5c11cd63d534b7d645a0&smart=true&width=1024&height=768"
             },
             {
               "t": "Cumbre del G11: los acuerdos y los límites de la unidad peronista",
@@ -277,24 +260,9 @@
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/ZO2YHRGZV5BITOWOAEVKP6QCOQ.jpg?auth=2f5e1b415911c8a8db0e6de58d8bccf5a7c043c93705fb5ab43b6dfcc7bd161b&smart=true&width=8256&height=5504"
             },
             {
-              "t": "Apriete para que la ley no sancione a empresas norteamericanas",
-              "l": "https://www.pagina12.com.ar/2026/10/25/apriete-para-que-la-ley-no-sancione-a-empresas-norteamericanas/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/4D3TBMAGPJG73OK7GFEQVQPQMQ.jpg?auth=ea57a0f0dfd849583613060fca29dd630af31788be553e85ff7ac564ad78ff2c&smart=true&width=930&height=620"
-            },
-            {
-              "t": "La duda del poder es la “paz social” en plena crisis",
-              "l": "https://www.pagina12.com.ar/2026/10/24/la-duda-del-poder-es-la-paz-social-en-plena-crisis/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/TRFTFHYLCZC73FMR7F3JPIZOSY.jpg?auth=94e3e1b06b37b084984a974053f5ddcb8acc9a80977dbbea0bbec49e26016843&smart=true&width=1758&height=1172"
-            },
-            {
               "t": "Brasil elige entre Lula y Flavio Bolsonaro",
               "l": "https://www.pagina12.com.ar/2026/10/25/brasil-elige-entre-lula-y-flavio-bolsonaro/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/CSVM4J4XPNC2FFXA4E4EDMNX7A.jpg?auth=c45be82243bab6999da093e0f6a910febd3e6759c000adaeca1016e3ed2fff8b&smart=true&width=8256&height=5504"
-            },
-            {
-              "t": "Elecciones Brasil 2026: el balotaje entre Lula y Bolsonaro",
-              "l": "https://www.pagina12.com.ar/2026/10/25/elecciones-brasil-2026-el-balotaje-entre-lula-y-bolsonaro/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/QH5BRLZYX5HJJF4ZJEU3RKWXWU.jpg?auth=9dfd33ddd809644c1e1e8a653a7ed1079a7dde49a1991459b1893082306cde19&smart=true&width=950&height=634"
             }
           ]
         }
@@ -309,44 +277,44 @@
           "tr": true,
           "items": [
             {
-              "t": "EN TIEMPO REAL: siga la jornada de votación y el recuento de votos de la 2ª vuelta en Espírito Santo",
+              "t": "Elecciones 2026: Ministro amplía horario de votación en el país; TRE-RR no responde si cumplirá con la decisión",
+              "l": "https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-a-cobertura-do-2-turno-em-roraima.ghtml",
+              "o": "Eleições 2026: Ministro prorrogra horário de votação no país; TRE-RR não responde se vai acatar a decisão"
+            },
+            {
+              "t": "Elecciones 2026: Anac dice que no ha identificado anomalías en el horario de vuelos comerciales",
+              "l": "https://g1.globo.com/economia/noticia/2026/10/25/eleicoes-2026-anac-diz-nao-ter-identificado-anormalidades-na-programacao-de-voos-comerciais.ghtml",
+              "o": "Eleições 2026: Anac diz não ter identificado anormalidades na programação de voos comerciais"
+            },
+            {
+              "t": "Secciones electorales en DF cerraron urnas y liberaron a trabajadores electorales antes del aviso de prórroga, dice TRE",
+              "l": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/fechamento-urnas-df-prorrogacao.ghtml",
+              "o": "Seções eleitorais no DF fecharam urnas e liberaram mesários antes do aviso de prorrogação, diz TRE"
+            },
+            {
+              "t": "Deslaves e inundaciones provocan bloqueos de varias carreteras en Paraná; ver extractos",
+              "l": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml",
+              "o": "Deslizamentos e alagamentos provocam bloqueio de diversas rodovias do Paraná; veja trechos"
+            },
+            {
+              "t": "Después de que el STF prorrogó la votación, los trabajadores electorales no recibieron orientación y algunas escuelas fueron cerradas en SP; los votantes no pueden votar",
+              "l": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/apos-stf-prorrogar-votacao-mesarios-nao-recebem-orientacao-e-escolas-sao-fechadas-em-sp-eleitores-podem-ficar-sem-votar.ghtml",
+              "o": "Após STF prorrogar votação, mesários não recebem orientação e parte das escolas são fechadas em SP; eleitores podem ficar sem votar"
+            },
+            {
+              "t": "EN TIEMPO REAL: siga la votación y el recuento de votos de la 2ª vuelta en Espírito Santo",
               "l": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml",
-              "o": "EM TEMPO REAL: acompanhe o dia de votação e a apuração dos votos no 2º turno no Espírito Santo"
+              "o": "EM TEMPO REAL: acompanhe a votação e a apuração dos votos no 2º turno no Espírito Santo"
             },
             {
-              "t": "Electores del PB denuncian falta de buses interurbanos para votar en la 2da vuelta de las Elecciones 2026",
-              "l": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/eleitores-da-pb-denunciam-falta-de-onibus-intermunicipais-para-votar-no-2o-turno-das-eleicoes-2026.ghtml",
-              "o": "Eleitores da PB denunciam falta de ônibus intermunicipais para votar no 2º turno das Eleições 2026"
+              "t": "STF ordena extender período de votación hasta las 19:00 horas en todo el país; seguir",
+              "l": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-bauru-itapetininga-presidente-prudente-rio-preto-sorocaba.ghtml",
+              "o": "STF manda estender período de votação até as 19h em todo o país; siga"
             },
             {
-              "t": "La votación tiene pegada la llave de la urna, arrestan y el votante es sorprendido filmando la votación",
-              "l": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-segundo-turno-mato-grosso-do-sul.ghtml",
-              "o": "Votação têm tecla de urna colada, prisão e eleitor flagrado filmando o voto"
-            },
-            {
-              "t": "EN VIVO: La votación en RN es tranquila en la madrugada",
-              "l": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-no-rio-grande-do-norte.ghtml",
-              "o": "AO VIVO: Votação no RN é tranquila nas primeiras horas"
-            },
-            {
-              "t": "Elecciones 2026: Siga la cobertura de la 2.ª vuelta en São Carlos, Araraquara y la región",
-              "l": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-em-sao-carlos-araraquara-e-regiao.ghtml",
-              "o": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Carlos, Araraquara e região"
-            },
-            {
-              "t": "Electores isleños son rescatados en barco para votar en el interior de Carolina del Sur",
-              "l": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/25/eleitores-ilhados-resgatados-embarcacao-votar-aguas-chapeco.ghtml",
-              "o": "Eleitores ilhados são resgatados de barco para conseguir votar no interior de SC"
-            },
-            {
-              "t": "TSE exige explicaciones sobre reducción de autobuses en Bahía y pospone análisis de investigación por abuso de poder",
-              "l": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/25/tse-cobra-explicacoes-sobre-reducao-de-onibus-na-bahia-e-adia-analise-de-investigacao-por-abuso-de-poder.ghtml",
-              "o": "TSE cobra explicações sobre redução de ônibus na Bahia e adia análise de investigação por abuso de poder"
-            },
-            {
-              "t": "Elector es detenido tras entregar celular a funcionario electoral y registrar el voto con otro dispositivo en MG",
-              "l": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/10/25/eleitor-e-detido-apos-entregar-celular-a-mesario-e-gravar-voto-com-outro-aparelho-em-mg.ghtml",
-              "o": "Eleitor é detido após entregar celular a mesário e gravar voto com outro aparelho em MG"
+              "t": "Segunda vuelta electoral en Petrolina y Región: siga la cobertura de la prórroga en los colegios electorales",
+              "l": "https://g1.globo.com/pe/petrolina-regiao/eleicoes/2026/ao-vivo/acompanhe-como-foi-o-segundo-turno-em-petrolina-e-regiao.ghtml",
+              "o": "Segundo turno das eleições em Petrolina e Região: acompanhe a cobertura da prorrogação nas seções eleitorais"
             }
           ]
         },
@@ -355,44 +323,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Brasil podría ser el próximo en la 'ola MAGA' y la última oportunidad de Lula 'gigante de la izquierda': cómo ve la prensa internacional las elecciones",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/brasil-pode-ser-proximo-em-onda-maga-e-ultima-chance-de-lula-gigante-da-esquerda-como-a-imprensa-internacional-ve-a-eleicao.shtml",
-              "o": "Brasil pode ser próximo em 'onda MAGA' e última chance de Lula 'gigante da esquerda': como a imprensa internacional vê a eleição"
+              "t": "Los viajes de los votantes se multiplican tras fallas en el transporte en la 2da vuelta",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caronas-para-eleitores-se-multiplicam-apos-falhas-no-transporte-no-2o-turno.shtml",
+              "o": "Caronas para eleitores se multiplicam após falhas no transporte no 2º turno"
             },
             {
-              "t": "La navegación en Ormuz no volverá a los estándares de antes de la guerra, dice el ministro de Asuntos Exteriores de Irán",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/navegacao-em-hormuz-nao-voltara-ao-padrao-pre-guerra-diz-chanceler-do-ira.shtml",
-              "o": "Navegação em Hormuz não voltará ao padrão pré-guerra, diz chanceler do Irã"
+              "t": "Rita Guedes, Bruna Griphao y Ticiane Pinheiro van al repechaje en Dança dos Famosos",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/rita-guedes-bruna-griphao-e-ticiane-pinheiro-vao-a-repescagem-no-danca-dos-famosos.shtml",
+              "o": "Rita Guedes, Bruna Griphao e Ticiane Pinheiro vão à repescagem no Dança dos Famosos"
             },
             {
-              "t": "La lluvia y la falta de autobuses afectan la votación de la segunda vuelta de este domingo (25)",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/chuva-e-falta-de-onibus-prejudicam-votacao-do-segundo-turno-neste-domingo-25.shtml",
-              "o": "Chuva e falta de ônibus prejudicam votação do segundo turno neste domingo (25)"
+              "t": "Polarización después de la certeza",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/10/a-polarizacao-depois-da-certeza.shtml",
+              "o": "A polarização depois da certeza"
             },
             {
-              "t": "Nunes niega falta de autobuses y dice que el PT utiliza 'mala estrategia' al explorar el tema",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-nega-falta-de-onibus-e-diz-que-pt-usa-estrategia-ruim-ao-explorar-tema.shtml",
-              "o": "Nunes nega falta de ônibus e diz que PT usa 'estratégia ruim' ao explorar tema"
+              "t": "El home office revela la vida personal y mejora la colaboración en el trabajo",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/home-office-revela-vida-pessoal-e-melhora-colaboracao-no-trabalho.shtml",
+              "o": "Home office revela vida pessoal e melhora colaboração no trabalho"
             },
             {
-              "t": "SPTrans habla de 'desafíos operativos' para cumplir con la orden de disponer del 100% de la flota de autobuses de SP el día del segundo turno",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sptrans-fala-em-desafios-operacionais-para-cumprir-ordem-de-disponibilizar-100-da-frota-de-onibus-de-sp-no-dia-do-segundo-turno.shtml",
-              "o": "SPTrans fala em 'desafios operacionais' para cumprir ordem de disponibilizar 100% da frota de ônibus de SP no dia do segundo turno"
+              "t": "¿Cómo ganar dinero con renta fija incluso cuando las empresas quiebran?",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/10/como-ganhar-dinheiro-na-renda-fixa-mesmo-com-empresas-quebrando.shtml",
+              "o": "Como ganhar dinheiro na renda fixa mesmo com empresas quebrando?"
             },
             {
-              "t": "La policía incauta casi 2 millones de reales en un puf perteneciente a un jefe de policía de São Paulo",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-apreende-quase-r-2-milhoes-em-pufe-que-seria-de-delegada-de-sao-paulo.shtml",
-              "o": "Polícia apreende quase R$ 2 milhões em pufe que seria de delegada de São Paulo"
+              "t": "Eduardo Bolsonaro y aliados critican ampliación del horario de votación en Brasil",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-bolsonaro-e-aliados-criticam-extensao-de-horario-de-votacao-no-brasil.shtml",
+              "o": "Eduardo Bolsonaro e aliados criticam extensão de horário de votação no Brasil"
             },
             {
-              "t": "Película sobre Anthony Bourdain: que ver en TV y streaming el lunes",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-sobre-anthony-bourdain-o-que-ver-na-tv-e-no-streaming-segunda.shtml",
-              "o": "Filme sobre Anthony Bourdain: o que ver na TV e no streaming segunda"
+              "t": "Ampliación del horario de votación podría cancelar la 2ª vuelta, dice profesor de la FGV",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/professor-da-fgv-diz-que-decisao-do-stf-pode-levar-a-anulacao-do-turno.shtml",
+              "o": "Extensão do horário de votação pode anular 2º turno, diz professor da FGV"
             },
             {
-              "t": "Los usuarios de Netflix ven menos y abren la aplicación con menos frecuencia",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/usuarios-da-netflix-assistem-menos-e-abrem-o-aplicativo-com-menor-frequencia.shtml",
-              "o": "Usuários da Netflix assistem menos e abrem o aplicativo com menor frequência"
+              "t": "Elon Musk publica un extracto de 'La Odisea' creado por inteligencia artificial",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/elon-musk-divulga-trecho-de-a-odisseia-feito-por-inteligencia-artificial.shtml",
+              "o": "Elon Musk divulga trecho de 'A Odisseia' feito por inteligência artificial"
             }
           ]
         },
@@ -402,8 +370,38 @@
           "items": [
             {
               "t": "RADAR ELECTORAL",
-              "l": "https://noticias.uol.com.br/ao-vivo/2026/10/25/eleicoes-2026-acompanhe-a-votacao-do-segundo-turno-pelo-pais.htm?c=card_1647714008_1792948639315",
+              "l": "https://noticias.uol.com.br/ao-vivo/2026/10/25/eleicoes-2026-acompanhe-a-votacao-do-segundo-turno-pelo-pais.htm?c=card_189840151_1792961305645",
               "o": "RADAR DA ELEIÇÃO"
+            },
+            {
+              "t": "NOTICIAS UOL",
+              "l": "https://www.uol.com.br/flash/?c=6ade689c8fae8c5e91b0dc05",
+              "img": "https://imguol.com/c/home/e9/2026/10/25/garagem-de-onibus-da-frota-urbana-em-salvador-ba-1792961910305_v2_300x225.jpg",
+              "o": "UOL NEWS"
+            },
+            {
+              "t": "VIVIR",
+              "l": "https://motorsport.uol.com.br/f1/live-text/gp-dos-estados-unidos-1128085/1128085/",
+              "img": "https://imguol.com/c/esporte/95/2026/10/23/kimi-antonelli-da-mercedes-nos-treinos-livres-do-gp-dos-eua-1792799787732_v2_150x112.jpg",
+              "o": "AO VIVO"
+            },
+            {
+              "t": "Blanca Santana",
+              "l": "https://www1.folha.uol.com.br/colunas/bianca-santana/2026/10/bloqueios-de-redes-nos-eua-e-no-brasil-foram-falhas-ou-cumprimentos-da-meta.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/3c/2020/05/26/bianca-santana---150-1590498470926_100x100.jpg",
+              "o": "Bianca Santana"
+            },
+            {
+              "t": "Elio Gaspari",
+              "l": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/as-alavancas-que-moviam-as-mutretas-das-compras-de-vacinas-para-a-covid.shtml",
+              "img": "https://conteudo.imguol.com.br/90/2021/03/16/elio-gaspari-2-150-1615900047316_100x100.jpg",
+              "o": "Elio Gaspari"
+            },
+            {
+              "t": "Antonio Prata",
+              "l": "https://www1.folha.uol.com.br/colunas/antonioprata/2026/10/i-have-a-dream.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/38/2019/04/01/antonio-prata-1554164559435_100x100.jpg",
+              "o": "Antonio Prata"
             },
             {
               "t": "Marcelo Leita",
@@ -416,36 +414,6 @@
               "l": "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/10/25/lula-e-flavio-chegam-a-eleicao-com-promessas-que-pressionam-contas-publicas.htm",
               "img": "https://conteudo.imguol.com.br/c5/2026/10/20/jessica-santana-header-1792501641470_100x100.png",
               "o": "Jéssica Sant'Ana"
-            },
-            {
-              "t": "Ruy Castro",
-              "l": "https://www1.folha.uol.com.br/colunas/ruycastro/2026/10/meu-pe-de-pau-brasil.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/13/2025/01/15/retrato-de-ruy-castro-1736952999911_100x100.jpg",
-              "o": "Ruy Castro"
-            },
-            {
-              "t": "julio gomes",
-              "l": "https://www.uol.com.br/esporte/colunas/julio-gomes/2026/10/24/rodrigo-nestor-expoe-o-idiota-chamado-neymar.htm",
-              "img": "https://conteudo.imguol.com.br/49/2020/09/29/julio-gomes-150-1601411079441_100x100.jpg",
-              "o": "Julio Gomes"
-            },
-            {
-              "t": "Milton Nieves",
-              "l": "https://www.uol.com.br/esporte/colunas/milton-neves/2026/10/25/10-anos-sem-carlos-alberto-torres-o-pele-da-camisa-4.htm",
-              "img": "https://conteudo.imguol.com.br/3c/2021/05/13/milton-neves-nova-150-1620927754530_100x100.jpg",
-              "o": "Milton Neves"
-            },
-            {
-              "t": "rafael reyes",
-              "l": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2026/10/25/7-brasileiros-em-baixa-no-exterior-para-seu-time-buscar-na-proxima-janela.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/8a/2026/01/07/rafael-reis---colunista---janeiro2026-1767819644398_v2_100x100.jpg",
-              "o": "Rafael Reis"
-            },
-            {
-              "t": "CLORURO DE POLIVINILO",
-              "l": "https://www.uol.com.br/esporte/colunas/pvc/2026/10/25/o-brasil-vota-com-duas-licoes-que-deve-aprender-sobre-o-corinthians.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/40/2019/01/14/pvc-1547459239301_100x100.jpg",
-              "o": "PVC"
             }
           ]
         }
@@ -465,39 +433,39 @@
               "img": "https://imagenes.elpais.com/resizer/v2/CUJP2IM2TNEZFF26CWNROUXXGQ.jpg?auth=4079bf9f7f4de22980d2470593600b22a2261c5b03e317d5777a87ca6ecfe96a"
             },
             {
-              "t": "El regreso de María Corina Machado a Venezuela, en vivo | Marco Rubio: “Las condiciones que permiten el regreso de Machado son resultado de las conversaciones apoyadas por EE UU”",
+              "t": "Trump, sobre el regreso de Maria Corina Machado a Venezuela: “Espero que esté a salvo, es una mujer muy agradable”",
+              "l": "https://elpais.com/us/2026-10-25/trump-sobre-el-regreso-de-maria-corina-machado-a-venezuela-espero-que-este-a-salvo-es-una-mujer-muy-agradable.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/CCU7Q5ZTWZFAZLAAGYAKDQG2LA.jpg?auth=6502e0e876609b96de07e62dd4fe16356098d7e7ff19f6304e7e6cf3fc56095b"
+            },
+            {
+              "t": "El regreso de María Corina Machado a Venezuela, en vivo | María Corina Machado hará tres paradas en su camino hacia Caracas",
               "l": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/P7MRIPG2G5BOLE6B4S6R7CRRX4.jpeg?auth=e9ecbdb56864ffc47e846dd7190cc65d16fe87666ad490f26f6e9dd9ef4ec00c"
+              "img": "https://imagenes.elpais.com/resizer/v2/OZLN6I2ZRFFN3EMVY4HJGC6R7Y.jpeg?auth=b96f0f828432e9dbcb352efde5bafefa9a1f21e18b872db9ce3eeb50fc19a125"
             },
             {
-              "t": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/5S72FGMFZ5GR3CAGIN4WBARIAM.jpg?auth=7d4e573b80666cc9628ff9ad62096ad274c863a6a843b00a9b2cabced51339a4"
+              "t": "El regreso de María Corina Machado busca acelerar la transición y retar al chavismo",
+              "l": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-busca-acelerar-la-transicion-y-retar-al-chavismo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/CQFWTGP2IFAZXBOTEZKZEP7RBM.jpeg?auth=55a62574efdfe2a4c58ded9e7a62ebf6b1b8071bd4e5a05d5e18169a10a38f78"
             },
             {
-              "t": "Sol prepara su adiós: comienza a desmontarse el campamento a falta de un anuncio oficial",
-              "l": "https://elpais.com/espana/madrid/2026-10-25/sol-prepara-su-adios-comienzan-a-retirarse-lonas-y-carpas-a-falta-de-un-anuncio-oficial-de-desacampada.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/E3HXVPG3HJPMNJN4MTQ35KFGPU.jpg?auth=e0e4df3469a1044aef7a89b8a8d91c2379228a6678ec6d80cc8859b0c3b8e94c"
+              "t": "Resultados de las elecciones en Brasil, en vivo|Brasil extiende el horario de votación dos horas",
+              "l": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/UY44QPOBDZFIFK7CTMSUWR4EHU.jpg?auth=3ebcc7d8f70d50393b01e98a09575cab26df3a92a1c92374d3f8822e4a11df7f"
             },
             {
-              "t": "Detenido en la acampada de Sol un hombre de 26 años por agredir sexualmente a una mujer de 22",
-              "l": "https://elpais.com/espana/madrid/2026-10-25/detenido-en-la-acampada-de-sol-un-hombre-de-26-anos-por-agredir-sexualmente-a-una-mujer-de-22.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/Y57CVXAYBJEJRIRH5VCI7RTXGQ.jpg?auth=e19d6885e92a803df723facb816e0f8cf8afb04c8182ea346c0dd8b68cc13619"
+              "t": "Lula se asoma a otro triunfo épico o al abismo",
+              "l": "https://elpais.com/america/2026-10-24/lula-se-asoma-al-abismo-o-a-otro-triunfo-epico.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/XBU5ABKZMRC6XOJGJ3IWXHODGE.jpeg?auth=36a67de75ea1bd46d446da23093f9fd6567c83c85cbeae9e772b8b4b85226399"
             },
             {
-              "t": "El delegado del Gobierno en Madrid dimite tras quedarse fuera de las listas del PSOE para el 29-N",
-              "l": "https://elpais.com/espana/madrid/2026-10-25/el-delegado-del-gobierno-en-madrid-dimite-tras-quedarse-fuera-de-las-listas-del-psoe-del-29-n.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/H4JYBAX65NP3HFRMFWKRZI6NZM.jpg?auth=a30877724d6f3f18035c1bcb5857ac1ec7caf8e17c91728777900ef5511919b2"
+              "t": "Flávio Bolsonaro, el heredero que acaricia la vuelta al poder del clan ultra",
+              "l": "https://elpais.com/america/2026-10-24/flavio-bolsonaro-el-heredero-que-acaricia-la-vuelta-al-poder-del-clan.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/IWGGRJWOSBASXOFXZ7E5LD5KKA.jpeg?auth=f7811fb047aa98bc16b30ab9a7dd9966935fc84dabbda15a121f35b6870c6573"
             },
             {
-              "t": "Feijóo señala a Sánchez por los disturbios en Barcelona: “Está jugando con fuego”",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-10-25/feijoo-senala-a-sanchez-por-los-disturbios-en-barcelona-esta-jugando-con-fuego.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/S4X3RV5QRNHRNJECV6YPWR7ZTE.jpg?auth=dc097257ee28022a74b11b65fa0220c4e54cc54d6971d14cf2e7d1caacb099ef"
-            },
-            {
-              "t": "Al menos 20 heridos de gravedad en un accidente de autobús que ha caído veinte metros en Fogars de Montclús (Barcelona)",
-              "l": "https://elpais.com/espana/catalunya/2026-10-25/al-menos-40-heridos-en-un-accidente-entre-un-autobus-y-un-coche-en-barcelona.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/EDZJBWSELVH67H5BI5FKJVKNVI.jpg?auth=68757401157425b569e2a4ff010f20a0b58fe66375eacfaf86de8f72fc590cb6"
+              "t": "La jornada electoral de Brasil, en imágenes",
+              "l": "https://elpais.com/america/2026-10-25/la-jornada-electoral-de-brasil-en-imagenes.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/NIBC2EKYMNOHRCJ2XZGXGXQCWY.jpg?auth=a2f45d0d5c00ad5fa329a29c50dcfb082287ce1348e185259c4f18449cc50ecf"
             }
           ]
         },
@@ -506,14 +474,14 @@
           "tr": false,
           "items": [
             {
+              "t": "Extienden por 2 horas la votación y suspenden la divulgación de resultados de la ajustada disputa entre Lula y Bolsonaro por la presidencia de Brasil",
+              "l": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f2/live/5af33290-cd88-11f1-9a39-31b474234113.png"
+            },
+            {
               "t": "\"Estoy aquí. Con ustedes\": la líder opositora María Corina Machado regresa a Venezuela 10 meses después",
               "l": "https://www.bbc.com/mundo/articles/c62ke94w14x2o?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/494e/live/9a74fdb0-d09c-11f1-aeb2-977af36708cb.png"
-            },
-            {
-              "t": "Lula y Bolsonaro se enfrentan voto a voto en la cerrada segunda vuelta por la presidencia de Brasil",
-              "l": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f2/live/5af33290-cd88-11f1-9a39-31b474234113.png"
             },
             {
               "t": "Fuerza internacional contra las pandillas de Haití contradice a Bukele y no descarta que los cuerpos encontrados sean los 4 soldados salvadoreños secuestrados",
@@ -521,7 +489,7 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c7e/live/9ad7c750-d011-11f1-a701-fddedf244c16.jpg"
             },
             {
-              "t": "Cómo una mansión de California se convirtió en la \"casa de los horrores\", en la que se investiga el abuso a 14 niños surrogados",
+              "t": "Cómo una mansión de California se convirtió en la \"casa de los horrores\", en la que se investiga el abuso a 14 niños subrogados",
               "l": "https://www.bbc.com/mundo/articles/cqly0mlerpnvo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/654c/live/26d45cf0-ceff-11f1-93e1-3b657b665bcf.png"
             },
@@ -558,26 +526,6 @@
           "tr": true,
           "items": [
             {
-              "t": "Un nuevo nivel de amenaza y miedo amenaza a Estados Unidos e Irán de nuevo a la guerra total",
-              "l": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
-              "o": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War"
-            },
-            {
-              "t": "Arabia Saudita reabre el aeropuerto de Riad incluso cuando los hutíes amenazan con nuevos ataques",
-              "l": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-              "o": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes"
-            },
-            {
-              "t": "Los archivos Epstein producen un arma poco probable para las guerras de mensajes hutíes",
-              "l": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-              "o": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars"
-            },
-            {
-              "t": "Presentamos una nueva forma de entender las elecciones: Times Voter Trends",
-              "l": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-              "o": "Introducing a New Way to Understand the Election: Times Voter Trends"
-            },
-            {
               "t": "María Corina Machado regresa a Venezuela",
               "l": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
               "o": "María Corina Machado Returns to Venezuela"
@@ -588,14 +536,34 @@
               "o": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration"
             },
             {
-              "t": "Lo que hay que saber sobre las elecciones de Brasil mientras Bolsonaro se enfrenta a Lula",
-              "l": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-              "o": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula"
+              "t": "Los ataques electorales de Trump entran en una nueva fase preventiva",
+              "l": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+              "o": "Trump’s Election Attacks Enter New Pre-emptive Phase"
+            },
+            {
+              "t": "En la carrera por el Senado de Texas, Talarico se inclina hacia una creciente rivalidad con Elon Musk",
+              "l": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
+              "o": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk"
+            },
+            {
+              "t": "Los archivos Epstein producen un arma poco probable para las guerras de mensajes hutíes",
+              "l": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+              "o": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars"
+            },
+            {
+              "t": "Arabia Saudita reabre el aeropuerto de Riad incluso cuando los hutíes amenazan con nuevos ataques",
+              "l": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+              "o": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes"
             },
             {
               "t": "METRO con Sarah Koenig: Episodio 1",
               "l": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
               "o": "METRO with Sarah Koenig: Episode 1"
+            },
+            {
+              "t": "No puedo permitirme una casa. No puedo permitirme un bebé. No puedo permitirme la vida. Esto es 30.",
+              "l": "https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html",
+              "o": "Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30."
             }
           ]
         },
@@ -603,6 +571,11 @@
           "n": "NPR",
           "tr": true,
           "items": [
+            {
+              "t": "Los casos de sarampión en EE. UU. aumentan a más del doble que el año pasado a medida que se propaga el brote",
+              "l": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+              "o": "U.S. measles cases more than double what they were last year as outbreak spreads"
+            },
             {
               "t": "Blanche defiende la demanda del Departamento de Justicia que bloquea los resultados del Senado de Alaska si el republicano pierde",
               "l": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
@@ -637,11 +610,6 @@
               "t": "Más padres toman licencia familiar remunerada por un nuevo bebé, a veces tanto como lo hacen las madres",
               "l": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
               "o": "More dads taking paid family leave for a new baby, sometimes as much as moms are"
-            },
-            {
-              "t": "Los candidatos independientes perciben un momento. Algunos demócratas esperan tener razón.",
-              "l": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
-              "o": "Independent candidates sense a moment. Some Democrats hope they're right."
             }
           ]
         }
