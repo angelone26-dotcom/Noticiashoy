@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T23:44:43Z",
+  "updated": "2026-10-27T04:49:10Z",
   "paises": [
     {
       "id": "uy",
@@ -8,8 +8,40 @@
         {
           "n": "Montevideo Portal",
           "tr": false,
-          "items": [],
-          "error": "mismatched tag: line 6, column 2"
+          "items": [
+            {
+              "t": "“Seguiremos juntos”: Lula respondió al saludo de Orsi tras ganar el balotaje",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979991"
+            },
+            {
+              "t": "Balón de Oro: Harry Kane fue elegido mejor jugador del mundo por encima de Mbappé y Yamal",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979983"
+            },
+            {
+              "t": "María Julia Muñoz volvió a hablar de Javier García por denuncia: “Soy una señora jubilada”",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979979"
+            },
+            {
+              "t": "Con poca ropa y firmando ante la DEA: difunden videos inéditos de Sebastián Marset",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979994"
+            },
+            {
+              "t": "Meteorólogo anuncia 30 ºC en tres departamentos de Uruguay y buen sol: cuándo y dónde será",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979978"
+            },
+            {
+              "t": "Le salvó la vida a delincuente en Pocitos y, 4 meses después, le quiso robar el comercio",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979970"
+            },
+            {
+              "t": "“Gran blanco”: murió Carlos Sarthou, histórico militante nacionalista y funcionario de BPS",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979990"
+            },
+            {
+              "t": "Argentina: Muslera sufrió un mareo en pleno partido, lo detuvo y generó preocupación",
+              "l": "https://www.montevideo.com.uy/auc.aspx?979980"
+            }
+          ]
         },
         {
           "n": "El Observador",
@@ -62,36 +94,36 @@
           "tr": false,
           "items": [
             {
-              "t": "“El triunfo del presidente Lula nos ayuda a reforzar fuertemente la región”, afirmó Lubetkin",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/el-triunfo-del-presidente-lula-nos-ayuda-a-reforzar-fuertemente-la-region-afirmo-lubetkin/"
+              "t": "Centro Juvenil de Villa Sonia seleccionado en Fondos Trama de INAU para recuperar un espacio público",
+              "l": "https://ladiaria.com.uy/rivera/articulo/2026/10/centro-juvenil-de-villa-sonia-seleccionado-en-fondos-trama-de-inau-para-recuperar-un-espacio-publico/"
             },
             {
-              "t": "Peñarol o Torque por el último cupo entre los mejores de la Copa Uruguay",
-              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/penarol-o-torque-por-el-ultimo-cupo-entre-los-mejores-de-la-copa-uruguay/"
+              "t": "La nueva gerontolescencia y cómo la longevidad cambia el modo de vida",
+              "l": "https://ladiaria.com.uy/cotidiana/articulo/2026/10/la-nueva-gerontolescencia-y-como-la-longevidad-cambia-el-modo-de-vida/"
             },
             {
-              "t": "Trump llama a los israelíes a votar a Netanyahu en las elecciones de este martes para “terminar el trabajo” en Irán",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/10/trump-llama-a-los-israelies-a-votar-a-netanyahu-en-las-elecciones-de-este-martes-para-terminar-el-trabajo-en-iran/"
+              "t": "Orsi se reunió con compañía tecnológica que se instalará en +Colonia: se prevé una inversión de más de 40 millones de dólares",
+              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/orsi-se-reunio-con-compania-tecnologica-que-se-instalara-en-colonia-se-preve-una-inversion-de-mas-de-40-millones-de-dolares/"
             },
             {
-              "t": "Elecciones en Brasil: tres mujeres fueron electas gobernadoras por primera vez en 20 años",
-              "l": "https://ladiaria.com.uy/feminismos/articulo/2026/10/elecciones-en-brasil-tres-mujeres-fueron-electas-gobernadoras-por-primera-vez-en-20-anos/"
+              "t": "Pide cancha",
+              "l": "https://ladiaria.com.uy/articulo/2026/10/pide-cancha/"
             },
             {
-              "t": "MGAP suspendió ingreso de aves y productos avícolas tras foco de enfermedad viral en Brasil",
-              "l": "https://ladiaria.com.uy/trabajo/articulo/2026/10/mgap-suspendio-ingreso-de-aves-y-productos-avicolas-tras-foco-de-enfermedad-viral-en-brasil/"
+              "t": "Denuncian que Lula sacó a millones de personas del hambre para que lo voten",
+              "l": "https://ladiaria.com.uy/humor/articulo/2026/10/denuncian-que-lula-saco-a-millones-de-personas-del-hambre-para-que-lo-voten/"
             },
             {
-              "t": "El ajedrez uruguayo mueve sus piezas entre Tacuarembó y Montevideo",
-              "l": "https://ladiaria.com.uy/deporte/articulo/2026/10/el-ajedrez-uruguayo-mueve-sus-piezas-entre-tacuarembo-y-montevideo/"
+              "t": "Donald Trump exige que “Donald Trump” sea elegida como palabra del año",
+              "l": "https://ladiaria.com.uy/humor/articulo/2026/10/donald-trump-exige-que-donald-trump-sea-elegida-como-palabra-del-ano/"
             },
             {
-              "t": "Andrade anunció que se está trabajando en una regulación contra el “uso extorsivo del seguro de paro” en la industria frigorífica",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/10/andrade-anuncio-que-se-esta-trabajando-en-una-regulacion-contra-el-uso-extorsivo-del-seguro-de-paro-en-la-industria-frigorifica/"
+              "t": "Prohibirán el ingreso con pensamientos impuros a la misa que dará el papa en el estadio Centenario",
+              "l": "https://ladiaria.com.uy/humor/articulo/2026/10/prohibiran-el-ingreso-con-pensamientos-impuros-a-la-misa-que-dara-el-papa-en-el-estadio-centenario/"
             },
             {
-              "t": "Sobre el reconocimiento del Uruguay indígena",
-              "l": "https://ladiaria.com.uy/opinion/articulo/2026/10/sobre-el-reconocimiento-del-uruguay-indigena/"
+              "t": "Después de la virada",
+              "l": "https://ladiaria.com.uy/articulo/2026/10/despues-de-la-virada/"
             }
           ]
         },
@@ -144,44 +176,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Un senador de La Rioja regresó al bloque del PJ, que reclama dos bancas en el Consejo de la Magistratura",
-              "l": "https://www.clarin.com/politica/senador-rioja-regreso-bloque-pj-reclama-bancas-consejo-magistratura_0_00Va51T1bf.html",
-              "img": "https://www.clarin.com/img/2026/08/18/WH1_hmwlg_1200x630__1.jpg"
+              "t": "Grizzlies superan 110-105 a Jazz para su 2da victoria en 4 juegos ante Utah",
+              "l": "https://www.clarin.com/estados-unidos/grizzlies-superan-110-105-a-jazz-para-su-2da-victoria-en-4-juegos-ante-utah_0_rIpGbfJxk7.html",
+              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
             },
             {
-              "t": "Mejor que el Papa venga rápido",
-              "l": "https://www.clarin.com/opinion/mejor-papa-venga-rapido_0_YUR92qyfud.html",
-              "img": "https://www.clarin.com/img/2026/10/26/lMyXY9GX8_1200x630__1.jpg"
+              "t": "Jueza suspende hasta nuevo aviso proyecto de campo de golf de Trump en Washington",
+              "l": "https://www.clarin.com/estados-unidos/jueza-suspende-hasta-nuevo-aviso-proyecto-de-campo-de-golf-de-trump-en-washington_0_M1OHpKTGO2.html",
+              "img": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg"
             },
             {
-              "t": "Puerto de Nuevo México readmite ganado mexicano libre del gusano barrenador",
-              "l": "https://www.clarin.com/estados-unidos/puerto-de-nuevo-mexico-readmite-ganado-mexicano-libre-del-gusano-barrenador_0_kOdSFG6xqI.html",
-              "img": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
-            },
-            {
-              "t": "Tras la derrota frente a Lula, la Justicia le prohibió salir del país a Flávio Bolsonaro",
-              "l": "https://www.clarin.com/mundo/derrota-frente-lula-policia-prohibio-salir-pais-flavio-bolsonaro_0_PM9OOlpqVu.html",
-              "img": "https://www.clarin.com/img/2026/10/26/SaSdl6xoZ_1200x630__1.jpg"
-            },
-            {
-              "t": "Sepetiba, un balneario que entró en el mapa de la inédita politización brasileña",
-              "l": "https://www.clarin.com/mundo/sepetiba-balneario-entro-mapa-inedita-politizacion-brasilena_0_5yrirZX3kj.html",
-              "img": "https://www.clarin.com/img/2026/10/26/NLNuTKNle_1200x630__1.jpg"
-            },
-            {
-              "t": "Trump llama \"estúpido\" a Obama por burlarse de sus reformas en la Casa Blanca",
-              "l": "https://www.clarin.com/estados-unidos/trump-llama-estupido-a-obama-por-burlarse-de-sus-reformas-en-la-casa-blanca_0_3LQpHxWsUv.html",
-              "img": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
-            },
-            {
-              "t": "Hombre de Illinois es acusado de enviar polvo blanco por correo a legisladores",
-              "l": "https://www.clarin.com/estados-unidos/hombre-de-illinois-es-acusado-de-enviar-polvo-blanco-por-correo-a-legisladores_0_2h95jXOPLL.html",
+              "t": "Trump y Rubio planean visitar en Texas un petrolero con crudo venezolano",
+              "l": "https://www.clarin.com/estados-unidos/trump-y-rubio-planean-visitar-en-texas-un-petrolero-con-crudo-venezolano_0_98yWqqmi4U.html",
               "img": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg"
             },
             {
-              "t": "La psicología dice que hay personas que pueden conversar con desconocidos, participar en reuniones y desenvolverse sin dificultades en situaciones sociales, pero encuentran complicado mantener amistades cercanas. Aunque conocen a mucha gente, pocas veces sienten que esas relaciones alcanzan la profundidad emocional que desean",
-              "l": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-pueden-conversar-desconocidos-participar-reuniones-desenvolverse-dificultades-situaciones-sociales-encuentran-complicado-mantener-amistades-cercanas-conocen-mucha-gente-pocas-veces-sienten-relaciones-alcanzan-profundidad-emocional-desean_0_DOskka75rk.html",
-              "img": "https://www.clarin.com/img/2026/10/19/YGLBduZdW_1200x630__1.jpg"
+              "t": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este martes 27 octubre de 2026",
+              "l": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-martes-27-octubre-2026_0_PfFizEQXBQ.html",
+              "img": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg"
+            },
+            {
+              "t": "Sengun anota 29 puntos y Rockets siguen invictos al vencer 120-110 a Hawks",
+              "l": "https://www.clarin.com/estados-unidos/sengun-anota-29-puntos-y-rockets-siguen-invictos-al-vencer-120-110-a-hawks_0_QCryzVfVNn.html",
+              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
+            },
+            {
+              "t": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 27 octubre de 2026",
+              "l": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-27-octubre-2026_0_U7RJNW0VEL.html",
+              "img": "https://www.clarin.com/img/2025/04/30/D7oJD2O4p_1200x630__1.jpg"
+            },
+            {
+              "t": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este martes 27 octubre de 2026",
+              "l": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-martes-27-octubre-2026_0_V6ehS7Kr2t.html",
+              "img": "https://www.clarin.com/img/2025/04/30/jvRgQTPhm_1200x630__1.jpg"
+            },
+            {
+              "t": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este martes 27 octubre de 2026",
+              "l": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-martes-27-octubre-2026_0_RgFilj7obG.html",
+              "img": "https://www.clarin.com/img/2025/04/30/FDp8zU61M_1200x630__1.jpg"
             }
           ]
         },
@@ -190,44 +222,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Santos, de 67 años, vive en el monte cordobés: “Hay que aprovechar la tierra para producir alimentos sanos para uno”",
-              "l": "https://www.lanacion.com.ar/lifestyle/santos-de-67-anos-vive-en-el-monte-cordobes-hay-que-aprovechar-la-tierra-para-producir-alimentos-nid24102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/K72QMQG2VVCZFGRKLKFFTJ2CUY.jpg?auth=0ccdcf31123a828a93191fe9e62abfe06ede7d60ae71afe5a157d5b1b8cd6a45&smart=true&width=6000&height=4000"
+              "t": "Riquelme defendió el arbitraje del fútbol argentino y apuntó contra Macri",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/riquelme-defendio-el-arbitraje-del-futbol-argentino-y-apunto-contra-macri-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/NLD4J6HINNGMLBTMXR3373ZNDI.png?auth=6fe7d7f30ad39b5599164b6138504f07652c95bb086eb45eee39a7d7d32fc682&smart=true&width=834&height=373"
             },
             {
-              "t": "Feriados de noviembre 2026: cuándo son los asuetos por la llegada del papa León XIV a la Argentina",
-              "l": "https://www.lanacion.com.ar/feriados/feriados-de-noviembre-2026-cuando-son-los-asuetos-por-la-llegada-del-papa-leon-xiv-a-la-argentina-nid26102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/CHKMPBCNBJG5PF7KOSN3LIKV4E.JPG?auth=6817ad25238ef8d36fd1924b8f007da9e704500acfcde593000ad54c3954c143&smart=true&width=8256&height=5504"
+              "t": "Netanyahu se juega su futuro en una de las elecciones más transcendentales de la historia de Israel",
+              "l": "https://www.lanacion.com.ar/el-mundo/netanyahu-se-juega-su-futuro-en-una-de-las-elecciones-mas-transcendentales-de-la-historia-de-israel-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/NTEZIEP23BBGHCMBJUIPZHT7HQ.jpg?auth=1e2ee309ef77a0a83fa7f1e73eccba8eb88af455a5cdda1b7e0dd2265986296a&smart=true&width=6720&height=4480"
             },
             {
-              "t": "Feriados de la visita del papa León XIV: uno por uno, estos son los días de noviembre afectados",
-              "l": "https://www.lanacion.com.ar/feriados/feriados-de-la-visita-del-papa-leon-xiv-uno-por-uno-estos-son-los-dias-de-noviembre-afectados-nid21102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/J22GCBUMZVHM7GC7UDVI7RBTZU.jpg?auth=5b399150b8c097be839a2a9629ebd97deb3e94d8d8b4b89c31a9875777842424&smart=true&width=7381&height=4921"
+              "t": "Los planes demócratas contra los aranceles y las deportaciones de Trump",
+              "l": "https://www.lanacion.com.ar/opinion/los-planes-democratas-contra-los-aranceles-y-las-deportaciones-de-trump-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/3AKUXVWSAVHOLOIP2DMJK52EMY.jpg?auth=0509501f7521461e965c373b6144ebdf1017ef467237d2b62b1d3d641290ff90&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Qué dice la psicología de las personas que hablan solas mientras cocinan",
-              "l": "https://www.lanacion.com.ar/sociedad/que-dice-la-psicologia-de-las-personas-que-hablan-solas-mientras-cocinan-nid26102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/UHJRSCW3RVBATK7EEYE6JUJQYI.jpg?auth=6fa5204e75fb72747a301dcf1e96fe00d428348ea80586f712b1e586271980a8&smart=true&width=2000&height=1333"
+              "t": "De antiguo taller mecánico a vanguardia gastronómica: la esquina de Palermo que hoy se juega al “all day”",
+              "l": "https://www.lanacion.com.ar/revista-lugares/de-antiguo-taller-mecanico-a-vanguardia-gastronomica-la-esquina-de-palermo-que-hoy-se-juega-al-all-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/2T2UW2S67BBPZG2MWR7OUA7QYE.jpg?auth=1bd51bc2c0b4c4fcb46e14ed46b234369e0bd5fc491c77bcd52f09e788c3a205&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Cuándo es el próximo feriado de noviembre 2026 en la Argentina",
-              "l": "https://www.lanacion.com.ar/feriados/cuando-es-el-proximo-feriado-de-noviembre-2026-nid12102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/3OLFHSXPLZAUNO7M3MD3645ZR4.png?auth=8e994779ac17dc9bd85d21ef100e44b45d0565f2ef8cf6ac91c93c12d6349815&smart=true&width=2000&height=1333"
+              "t": "“No tengo cuerpo”. Argentinos murieron en Ucrania combatiendo por dinero y sus familiares quieren saber qué pasó",
+              "l": "https://www.lanacion.com.ar/sociedad/no-tengo-cuerpo-argentinos-murieron-en-ucrania-combatiendo-por-dinero-y-sus-familiares-quieren-saber-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/GNLW3MI425HTHFJKABRMXG6D5E.jpg?auth=5f3645017f0ca3f9bcf7cd204a0cb71d455452664bceb38f9d404003d588c6df&smart=true&width=600&height=400"
             },
             {
-              "t": "Calendario para imprimir de noviembre 2026 en la Argentina",
-              "l": "https://www.lanacion.com.ar/lifestyle/calendario-para-imprimir-de-noviembre-2026-en-la-argentina-nid21102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/MNAFAOB3S5BWJGPVOSXIZPWXBY.jpg?auth=0326c6b4981bb12ab9e9f79f39aed865a1af8086ffa8a9d491b52723774119cd&smart=true&width=2000&height=1333"
+              "t": "Malvinas: la diplomacia como instrumento de soberanía",
+              "l": "https://www.lanacion.com.ar/editoriales/malvinas-la-diplomacia-como-instrumento-de-soberania-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/XF4UQLNH7JGH7KUG5YUFPDXNYA.jpg?auth=f75b27bc8275033c31e1cc6f22a972665d1bcffc896e5a1f77c4de48a6405dc9&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Balón de Oro 2026: Harry Kane es el mejor futbolista de la temporada y Lionel Messi finalizó quinto",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-en-vivo-nid26102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/6B4N4AMTKZAG7LYGRVFEAN56OI.jpg?auth=311212f94ef9ea282e555ffcc80a66393fdcc0ebabb3f46ee203c8bf97683368&smart=true&width=3616&height=2411"
+              "t": "El jadrdín de democracias que se bifurcan",
+              "l": "https://www.lanacion.com.ar/opinion/el-jadrdin-de-democracias-que-se-bifurcan-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/EMW5QPEGGZC53PYYTIWMO55ADQ.jpg?auth=e15bd825d3d1bcbfe8ec064c38942e1dbfdf4fc981589d7883c796e5a0b01fc6&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Prohíben salir del país a Flavio Bolsonaro, que abandona su intento de anular la elección",
-              "l": "https://www.lanacion.com.ar/el-mundo/la-justicia-le-prohibe-a-flavio-bolsonaro-salir-del-pais-por-una-causa-y-lo-intima-a-entregar-su-nid26102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/NXM7GRBC65CZTJMEOO7NPATFTA.jpg?auth=c94da3b8a91ab7ee047632eecee4bd1fa88db23301034155ade094bb92bd2c16&smart=true&width=2000&height=1271"
+              "t": "Arde Europa",
+              "l": "https://www.lanacion.com.ar/editoriales/arde-europa-nid27102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/4ECCBDPRJBEJVNZ7KGJNF653SI.JPG?auth=4d67559838119fec396f0a12c407a7c70f3588dfdd92e6fc603ce22619e6888b&smart=true&width=7005&height=4670"
             }
           ]
         },
@@ -236,34 +268,24 @@
           "tr": false,
           "items": [
             {
-              "t": "Trump cuestionó las elecciones en Brasil tras la victoria de Lula y habló de elecciones “amañadas”",
-              "l": "https://www.pagina12.com.ar/2026/10/26/trump-cuestiono-las-elecciones-en-brasil-tras-la-victoria-de-lula-y-hablo-de-fraude/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/EQGONNUYBBAGXKEIFO5ZEFBBT4.jpg?auth=aacab2d86ba9b7ad5cbc093be9fc0660498191879d6082ede600f93508536a06&smart=true&width=3333&height=2274"
+              "t": "El silencio atroz de Milei ante la histórica remontada de Lula",
+              "l": "https://www.pagina12.com.ar/2026/10/26/milei-reunio-a-su-gabinete-en-medio-del-silencio-por-la-derrota-de-flavio-bolsonaro/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/KBUV3Q3VUBAKFFFZCR3P67DZBM.jpg?auth=d3101965d078cefc4ea07706abaa32c675e04d8189a7cce2c31a4a779ac510b6&smart=true&width=2560&height=1706"
             },
             {
-              "t": "La Justicia brasileña le retuvo el pasaporte a Flávio Bolsonaro y le prohibió salir del país",
-              "l": "https://www.pagina12.com.ar/2026/10/26/la-justicia-brasilena-le-retuvo-el-pasaporte-a-flavio-bolsonaro-y-le-prohibio-salir-del-pais/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/T3VRZS2HBNHAHN3GBEBBR7D55I.jpg?auth=5587003847c0cdaa9d7aef4ba5d7826bd1ead7fd7f8ac7db3ca12ccea1c0b7fc&smart=true&width=3000&height=2000"
+              "t": "El peronismo se abrazó al triunfo de Lula con la expectativa puesta en 2027",
+              "l": "https://www.pagina12.com.ar/2026/10/27/el-peronismo-se-abrazo-al-triunfo-de-lula-con-la-expectativa-puesta-en-2027/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/DKO6LTVUPVDJFI3CZKUYCGIGE4.jpg?auth=9e7cd4bddd7304a8a0a64d3fd9536638168fb3bbbcfb4946b2a5fc6a9ee886ac&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Las elecciones mutiladas de Israel",
-              "l": "https://www.pagina12.com.ar/2026/10/26/las-elecciones-mutiladas-de-israel/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/OFTYTEEQYZBDBKDEAYFDAV6MVQ.jpg?auth=51148e8f121bd67550045468352527c0730b47623f4b2603bb22b23e2bb43c2b&smart=true&width=2811&height=1874"
+              "t": "Tras el balotaje, la justicia de Brasil le prohibió salir del país a Flávio Bolsonaro",
+              "l": "https://www.pagina12.com.ar/2026/10/27/tras-el-balotaje-la-justicia-de-brasil-le-prohibio-salir-del-pais-a-flavio-bolsonaro/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/EF6B5EGPGJHLTM54YUHQFVEWSU.jpg?auth=22c691e22cf415324ce1ed060b60728c565e92c925f51e47b170b55fc4575799&smart=true&width=5187&height=3307"
             },
             {
-              "t": "La victoria de Lula, desde adentro: “Hay una movilización joven muy importante”",
-              "l": "https://www.pagina12.com.ar/2026/10/26/la-victoria-de-lula-desde-adentro-hay-una-movilizacion-joven-muy-importante/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/ONZL7STVTBDHRDGCLSDUFTR6RU.jpg?auth=f7c6051489e350a3db3f0aa961bbd28070085aac870636a515750aed6730c8d9&smart=true&width=3984&height=2656"
-            },
-            {
-              "t": "El papa León XIV confirmó su visita a la Argentina",
-              "l": "https://www.pagina12.com.ar/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/4LSDNVDWXFCMNC3WU5JXRWPHII.jpg?auth=a380822aea0e1b333313dc886d5fd6e948740a14b904eaf1107409cac0b3d076&smart=true&width=1439&height=959"
-            },
-            {
-              "t": "Las relaciones carnales entre River y funcionarios de Donald Trump",
-              "l": "https://www.pagina12.com.ar/2026/10/26/las-relaciones-carnales-entre-river-y-funcionarios-de-donald-trump/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/6VIWXGSKTBC27GOXT6S4CYBHN4.jpg?auth=9d995732a1b9d1f5de15ca465f7d64efd9d87196ceca2596ce0f1a8121c6edee&smart=true&width=1616&height=1077"
+              "t": "La epopeya brasileña y su líder carismático",
+              "l": "https://www.pagina12.com.ar/2026/10/27/la-epopeya-brasilena-y-su-lider-carismatico/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/6WIW3DLOFVH3HCNTKNTVX44E6U.jpg?auth=71daac35b15a4a54bfd5860e4ce5133304b953fbd28729c715e9f4bfd0697f01&smart=true&width=4000&height=2667"
             }
           ]
         }
@@ -276,92 +298,52 @@
         {
           "n": "G1",
           "tr": true,
-          "items": [
-            {
-              "t": "VIDEOS: Jornal Anhanguera 2da Edición-TO del lunes 26 de octubre de 2026",
-              "l": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-26-de-outubro-de-2026.ghtml",
-              "o": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 26 de outubro de 2026"
-            },
-            {
-              "t": "Las tormentas pusieron bajo alerta a 69 ciudades en MT esta semana; ver lista",
-              "l": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/26/temporais-colocam-69-cidades-de-mt-sob-alerta-nesta-semana-veja-lista.ghtml",
-              "o": "Temporais colocam 69 cidades de MT sob alerta nesta semana; veja lista"
-            },
-            {
-              "t": "Omar Aziz dice preparará brigadas y reforzará supervisión para combatir incendios en AM",
-              "l": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/omar-aziz-diz-que-vai-preparar-brigadas-e-reforcar-fiscalizacao-para-combater-queimadas-no-am.ghtml",
-              "o": "Omar Aziz diz que vai preparar brigadas e reforçar fiscalização para combater queimadas no AM"
-            },
-            {
-              "t": "VIDEOS: MG2 del lunes 26 de octubre de 2026",
-              "l": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-segunda-feira-26-de-outubro-de-2026.ghtml",
-              "o": "VÍDEOS: MG2 de segunda-feira, 26 de outubro de 2026"
-            },
-            {
-              "t": "Ebony, Black Pantera y Gang do Eletro realizan espectáculos gratuitos en el Festival Quebramar en Macapá",
-              "l": "https://g1.globo.com/ap/amapa/noticia/2026/10/26/ebony-black-pantera-e-gang-do-eletro-fazem-shows-gratuitos-no-festival-quebramar-em-macapa.ghtml",
-              "o": "Ebony, Black Pantera e Gang do Eletro fazem shows gratuitos no Festival Quebramar em Macapá"
-            },
-            {
-              "t": "Empleado es agredido por acompañante de un paciente en una unidad de salud en Presidente Prudente",
-              "l": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/26/funcionaria-e-agredida-por-acompanhante-de-paciente-em-unidade-de-saude-de-presidente-prudente.ghtml",
-              "o": "Funcionária é agredida por acompanhante de paciente em unidade de saúde de Presidente Prudente"
-            },
-            {
-              "t": "Con ayuda de un helicóptero, cuatro son detenidos con droga en el MGC-497, en Uberlândia",
-              "l": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/26/com-ajuda-de-helicoptero-quatro-sao-presos-com-drogas-na-mgc-497-em-uberlandia.ghtml",
-              "o": "Com ajuda de helicóptero, quatro são presos com drogas na MGC-497, em Uberlândia"
-            },
-            {
-              "t": "VIDEO: marido toma como rehén a su esposa y muere en enfrentamiento con la policía en MT",
-              "l": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/26/video-marido-faz-mulher-de-refem-e-e-morto-em-confronto-com-a-pm-em-mt.ghtml",
-              "o": "VÍDEO: marido faz mulher de refém e é morto em confronto com a PM em MT"
-            }
-          ]
+          "items": [],
+          "error": "not well-formed (invalid token): line 1, column 0"
         },
         {
           "n": "Folha de S.Paulo",
           "tr": true,
           "items": [
             {
-              "t": "Consulta la lista completa de ganadores del Balón de Oro",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/veja-a-lista-completa-de-ganhadores-da-bola-de-ouro.shtml",
-              "o": "Veja a lista completa de ganhadores da Bola de Ouro"
+              "t": "Renace el mobiliario de Gian Garlo Gasperini, Roberto Aflalo y Vilanova Artigas",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/10/moveis-de-gian-garlo-gasperini-roberto-aflalo-e-vilanova-artigas-renascem.shtml",
+              "o": "Móveis de Gian Garlo Gasperini, Roberto Aflalo e Vilanova Artigas renascem"
             },
             {
-              "t": "Globo lanza Favela Potência en SP, liderada por Celso Athayde",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/globo-lanca-em-sp-o-favela-potencia-comandado-por-celso-athayde.shtml",
-              "o": "Globo lança em SP o Favela Potência, comandado por Celso Athayde"
+              "t": "Una Fazenda 18: 'Te comportas como un alcohólico', le dice Daniel Erthal a Darlin Ferrattry",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-voce-age-como-uma-alcoolatra-dispara-daniel-erthal-para-darlin-ferrattry.shtml",
+              "o": "A Fazenda 18: 'Você age como uma alcoólatra', dispara Daniel Erthal para Darlin Ferrattry"
             },
             {
-              "t": "Líder del PL renuncia a postularse para presidente de la Cámara tras la derrota de Flávio Bolsonaro",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lider-do-pl-desiste-de-disputar-presidencia-da-camara-apos-derrota-de-flavio-bolsonaro.shtml",
-              "o": "Líder do PL desiste de disputar presidência da Câmara após derrota de Flávio Bolsonaro"
+              "t": "A Fazenda 18: 'No es la realidad la que aburre, los seres humanos somos aburridos', dice Galisteu",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-nao-e-o-reality-que-esta-chato-o-ser-humano-esta-chato-afirma-galisteu.shtml",
+              "o": "A Fazenda 18: 'Não é o reality que está chato, o ser humano está chato', afirma Galisteu"
             },
             {
-              "t": "Muere a los 90 años Walter Koenig, actor de Chekov en la serie de ficción 'Star Trek'",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/morre-walter-koenig-ator-de-chekov-na-serie-de-ficcao-star-trek-aos-90-anos.shtml",
-              "o": "Morre Walter Koenig, ator de Chekov na série de ficção 'Star Trek', aos 90 anos"
+              "t": "Brasil tiene 63,9 millones de personas sin educación básica completa, según encuesta",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/brasil-tem-639-milhoes-de-pessoas-sem-educacao-basica-completa-aponta-levantamento.shtml",
+              "o": "Brasil tem 63,9 milhões de pessoas sem educação básica completa, aponta levantamento"
             },
             {
-              "t": "Harry Kane gana el Balón de Oro por primera vez",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/harry-kane-conquista-a-bola-de-ouro-pela-primeira-vez.shtml",
-              "o": "Harry Kane conquista a Bola de Ouro pela primeira vez"
+              "t": "¿Te gusta la comida japonesa? Sando y gyoza están en el menú del Folha Gourmet Festival",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/10/gosta-de-comida-japonesa-sando-e-guioza-estao-menu-do-folha-gourmet-festival.shtml",
+              "o": "Gosta de comida japonesa? Sando e guioza estão menu do Folha Gourmet Festival"
             },
             {
-              "t": "Festival de cine saudí contará con novedades de Brasil y debates con directores",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/festival-de-cinema-saudita-tera-filmes-ineditos-no-brasil-e-debates-com-diretores.shtml",
-              "o": "Festival de cinema saudita terá filmes inéditos no Brasil e debates com diretores"
+              "t": "El mercado de valores avanzó con Lula en los primeros tres mandatos, pero enfrentará desafíos de crecimiento en el cuarto",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bolsa-avancou-sob-lula-nos-primeiros-tres-mandatos-mas-tera-desafio-de-crescimento-no-quarto.shtml",
+              "o": "Bolsa avançou sob Lula nos primeiros três mandatos, mas terá desafio de crescimento no quarto"
             },
             {
-              "t": "La derrota de Flávio es una oportunidad para la derecha",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/a-derrota-de-flavio-e-uma-oportunidade-para-a-direita.shtml",
-              "o": "A derrota de Flávio é uma oportunidade para a direita"
+              "t": "Los jurados del premio Jabuti informan sobre un maratón para evaluar cientos de libros",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/jurados-do-premio-jabuti-relatam-maratona-para-avaliar-centenas-de-livros.shtml",
+              "o": "Jurados do prêmio Jabuti relatam maratona para avaliar centenas de livros"
             },
             {
-              "t": "Trump ofrece recompensa de un millón de dólares a quien descubra fraude electoral",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trump-oferece-recompensa-us-1-milhao-para-quem-apontar-fraude-em-eleicoes.shtml",
-              "o": "Trump oferece recompensa de US$ 1 milhão para quem apontar fraude em eleições"
+              "t": "Lula deberá reorganizar ministros y enfrentará el desafío de albergar en el gobierno a aliados derrotados en las elecciones",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-deve-remanejar-ministros-e-tera-desafio-de-abrigar-no-governo-aliados-derrotados-em-eleicoes.shtml",
+              "o": "Lula deve remanejar ministros e terá desafio de abrigar no governo aliados derrotados em eleições"
             }
           ]
         },
@@ -474,9 +456,19 @@
           "tr": false,
           "items": [
             {
+              "t": "El desafío del \"rey Bibi\": cómo el legado del 7 de octubre define si Netanyahu logra un séptimo mandato como líder de Israel",
+              "l": "https://www.bbc.com/mundo/articles/cjg473r01g73o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3df0/live/ab437ae0-c8b8-11f1-a64c-550be9e3c66b.png"
+            },
+            {
               "t": "Los gráficos que explican la inédita remontada de Lula en las elecciones presidenciales de Brasil",
               "l": "https://www.bbc.com/mundo/articles/cr2ke8j4944po?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e82/live/5e90f5d0-d185-11f1-8d7e-c9ff4ede405b.jpg"
+            },
+            {
+              "t": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota y su partido sí reconoce los resultados",
+              "l": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be14/live/39026d40-d1a7-11f1-958c-9d3074094b31.jpg"
             },
             {
               "t": "\"Me pareció otra elección amañada\": la reacción de Donald Trump ante la victoria de Lula en las presidenciales de Brasil",
@@ -484,34 +476,24 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ed8/live/bae5d9f0-d184-11f1-8d7e-c9ff4ede405b.jpg"
             },
             {
-              "t": "El \"ejército digital\" de 10 millones de personas en WhatsApp que ayudó a Lula a lograr una victoria histórica",
-              "l": "https://www.bbc.com/mundo/articles/cqkgj20700nzo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ff3/live/59157b20-d168-11f1-87df-afb7a168a1f2.jpg"
-            },
-            {
-              "t": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
-              "l": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6c1/live/423f7880-d12f-11f1-a94e-6dd2aca774ac.jpg"
-            },
-            {
               "t": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
               "l": "https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c236/live/039691e0-d134-11f1-be77-d1864d279cb0.jpg"
             },
             {
-              "t": "Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos",
-              "l": "https://www.bbc.com/mundo/articles/c6vg7pg5gezno?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3a0/live/68eb6e70-d14e-11f1-9eb5-811878e0f07d.jpg"
+              "t": "El \"ejército digital\" de 10 millones de personas en WhatsApp que ayudó a Lula a lograr una victoria histórica",
+              "l": "https://www.bbc.com/mundo/articles/cqkgj20700nzo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ff3/live/59157b20-d168-11f1-87df-afb7a168a1f2.jpg"
+            },
+            {
+              "t": "La mayoría de los presidentes de derecha de países vecinos reconocen el triunfo de Lula en Brasil a pesar de los cuestionamientos de Bolsonaro",
+              "l": "https://www.bbc.com/mundo/articles/cm5yn43g9nn4o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d87/live/3a18c410-d14b-11f1-9eb5-811878e0f07d.jpg"
             },
             {
               "t": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
               "l": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2ef/live/50d2f430-d12a-11f1-9a61-7b8d75492b97.jpg"
-            },
-            {
-              "t": "Lula gana las elecciones de Brasil con una remontada histórica y tendrá un cuarto mandato",
-              "l": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3aef/live/be39ad90-d13c-11f1-8d4e-ef1672a07d66.jpg"
             }
           ]
         }
@@ -526,14 +508,14 @@
           "tr": true,
           "items": [
             {
+              "t": "Dos candidatos, dos Israel, una nación en juego",
+              "l": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+              "o": "Two Candidates, Two Israels, One Nation in the Balance"
+            },
+            {
               "t": "Netanyahu presionó para atacar a Irán antes de las elecciones israelíes, dicen funcionarios",
               "l": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
               "o": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say"
-            },
-            {
-              "t": "Los judíos israelíes de todo el espectro se enfrentan a una elección llena de temores",
-              "l": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-              "o": "Israeli Jews Across the Spectrum Face an Election of Fears"
             },
             {
               "t": "Israel ha cometido actos genocidas en Gaza desde el alto el fuego, dice el Panel de Derechos Humanos de la ONU",
@@ -546,6 +528,16 @@
               "o": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks"
             },
             {
+              "t": "El rey Carlos se enfrenta a una prueba de alto riesgo con su gira por el Caribe",
+              "l": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+              "o": "King Charles Faces High Stakes Test With Caribbean Tour"
+            },
+            {
+              "t": "¿Qué es la Commonwealth? Lo que debe saber mientras el rey Carlos organiza una reunión en el Caribe",
+              "l": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
+              "o": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean"
+            },
+            {
               "t": "La campaña Jet-Setting financiada por el estado de Ken Paxton atrae el escrutinio de la campaña",
               "l": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
               "o": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny"
@@ -554,16 +546,6 @@
               "t": "Cómo las peleas en los mítines de Trump reflejan sus eventos pasados",
               "l": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
               "o": "How Scuffles at Trump Rallies Echo His Past Events"
-            },
-            {
-              "t": "El Tribunal de Apelaciones se niega a intervenir en la demanda electoral de California",
-              "l": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
-              "o": "Appeals Court Declines to Intervene in California Ballot Lawsuit"
-            },
-            {
-              "t": "Anthropic revela un rápido crecimiento de los ingresos y un gasto aún más rápido",
-              "l": "https://www.nytimes.com/2026/10/26/briefing/anthropic-ipo-trump-mississippi-campaigning.html",
-              "o": "Anthropic Reveals Rapid Revenue Growth, and Even Faster Spending"
             }
           ]
         },
@@ -571,6 +553,11 @@
           "n": "NPR",
           "tr": true,
           "items": [
+            {
+              "t": "La administración Trump intenta procesar nuevamente al ex director del FBI James Comey",
+              "l": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+              "o": "Trump administration attempting to prosecute former FBI Director James Comey again"
+            },
             {
               "t": "La administración Trump impulsa la actualización de la tarjeta de asistencia alimentaria para luchar contra el fraude",
               "l": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
@@ -605,11 +592,6 @@
               "t": "Trump intensifica los ataques antimusulmanes contra El-Sayed en Michigan",
               "l": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
               "o": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan"
-            },
-            {
-              "t": "Cómo la IA está transformando los pronósticos de huracanes",
-              "l": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
-              "o": "How AI is transforming hurricane forecasts"
             }
           ]
         }
