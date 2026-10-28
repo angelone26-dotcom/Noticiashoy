@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:24:07Z",
+  "updated": "2026-10-28T11:33:31Z",
   "paises": [
     {
       "id": "uy",
@@ -10,36 +10,36 @@
           "tr": false,
           "items": [
             {
+              "t": "España: sube a 30 cifra de muertos en choque de trenes. No se reportan victimas uruguayas",
+              "l": "https://www.montevideo.com.uy/auc.aspx?980131"
+            },
+            {
+              "t": "Bolsonaro se fue recién a la medianoche: cruzó a Argentina y voló a Ecuador",
+              "l": "https://www.montevideo.com.uy/auc.aspx?980128"
+            },
+            {
+              "t": "Diego Aguirre: “La gente siempre tiene razón” y “con el hincha de Peñarol está todo bien”",
+              "l": "https://www.montevideo.com.uy/auc.aspx?980129"
+            },
+            {
               "t": "\"Que se vayan todos\": las bengalas y el rechazo a la barra del resto de hinchas de Peñarol",
               "l": "https://www.montevideo.com.uy/auc.aspx?980123"
-            },
-            {
-              "t": "Copa AUF Uruguay: City Torque derrotó 2-0 a un pobrísimo Peñarol y lo eliminó en el CDS",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980109"
-            },
-            {
-              "t": "Estados Unidos recibirá a Flávio Bolsonaro y su familia, confirmó gobierno de Trump",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980115"
-            },
-            {
-              "t": "“¡Vengan!”: balacera en un partido de baby fútbol con 80 niños en Montevideo quedó grabada",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980081"
             },
             {
               "t": "Un entrenador de fútbol femenino imputado por abusar sexualmente de una alumna de 13 años",
               "l": "https://www.montevideo.com.uy/auc.aspx?980100"
             },
             {
+              "t": "Rivera: se encadenó en reclamo por retiro de moto y una vecina lo reconoció como ladrón",
+              "l": "https://www.montevideo.com.uy/auc.aspx?980146"
+            },
+            {
+              "t": "Caso Mbappé: Real Madrid se disculpó, pero China confirmó que no emitirá La Liga",
+              "l": "https://www.montevideo.com.uy/auc.aspx?980147"
+            },
+            {
               "t": "Libertadores: Peñarol, Nacional, Torque y Albion involucrados en la final de noviembre",
               "l": "https://www.montevideo.com.uy/auc.aspx?980118"
-            },
-            {
-              "t": "Italia: Juan Rodríguez y su presente en Cagliari le otorgaron 500.000 euros a Peñarol",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980114"
-            },
-            {
-              "t": "Casas bajo el puente en la Interbalnearia: la empresa aclaró qué pasó con los camiones",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980117"
             }
           ]
         },
@@ -48,44 +48,42 @@
           "tr": false,
           "items": [
             {
-              "t": "Flávio Bolsonaro huyó del país tras la prohibición de la Justicia y llegó a Estados Unidos",
+              "t": "Giro de novela: Flávio Bolsonaro voló en un avión privado desde Argentina a Ecuador tras huir de Brasil",
               "l": "https://www.elobservador.com.uy/estados-unidos/america-latina/la-policia-brasil-investiga-si-flavio-bolsonaro-huyo-del-pais-la-prohibicion-la-justicia-n6061824",
               "img": "https://media.elobservador.com.uy/p/f20ee30a6790031edd1df3b1313fdef2/adjuntos/367/imagenes/100/782/0100782032/1200x675/smart/flavio-bolsonaro-balotaje-25-10-26-afp.jpg"
             },
             {
-              "t": "Caso Jonathan Correa: condenaron a 20 años de prisión al hombre que asesinó a golpes a su hijo de 15 años",
-              "l": "https://www.elobservador.com.uy/nacional/caso-jonathan-correa-condenaron-20-anos-prision-al-hombre-que-asesino-golpes-su-hijo-15-anos-n6061873",
-              "img": "https://media.elobservador.com.uy/p/9caf879a16a4a394580ecba91f655b19/adjuntos/362/imagenes/100/723/0100723272/1200x675/smart/jonathan-calero.jpg"
+              "t": "Terminal de contenedores: la parte del contrato que blinda a Katoen Natie, las presiones para modificarla y lo que maneja el gobierno",
+              "l": "https://www.elobservador.com.uy/economia-y-empresas/terminal-contenedores-la-parte-del-contrato-que-blinda-katoen-natie-las-presiones-modificarla-y-lo-que-espera-el-gobierno-n6061885",
+              "img": "https://media.elobservador.com.uy/p/25963d56aea29e22c98103c389b06d25/adjuntos/362/imagenes/100/771/0100771112/1200x675/smart/katoen-natie.jpg"
             },
             {
-              "t": "Sara Goldring fue condenada a dos años de prisión por apropiación indebida, pero no irá a la cárcel: los detalles del acuerdo",
-              "l": "https://www.elobservador.com.uy/nacional/sara-goldring-fue-condenada-dos-anos-prision-apropiacion-indebida-pero-no-ira-la-carcel-los-detalles-del-acuerdo-n6061827",
+              "t": "Más de 27.000 inmigrantes podrán acceder a la residencia en Uruguay: los requisitos y un problema de fondo sin solución aún",
+              "l": "https://www.elobservador.com.uy/nacional/mas-27000-inmigrantes-podran-acceder-la-residencia-uruguay-los-requisitos-y-un-problema-fondo-solucion-aun-n6060736"
+            },
+            {
+              "t": "Crónica de una condena negociada: reproches entre los abogados de las víctimas marcaron la audiencia en la que se cerró el caso penal de Sara Goldring",
+              "l": "https://www.elobservador.com.uy/cronica-una-condena-negociada-reproches-los-abogados-las-victimas-marcaron-la-audiencia-la-que-se-condeno-sara-goldring-n6061884",
               "img": "https://media.elobservador.com.uy/p/5f583ba8a3847117d7688d57cfb09d6e/adjuntos/362/imagenes/100/782/0100782020/sara-goldring.png"
             },
             {
-              "t": "Primeros sondeos en la elección de Israel: el militar opositor Eisenkot aventaja a Netanyahu, pero no le alcanzaría para formar gobierno",
-              "l": "https://www.elobservador.com.uy/espana/impacto-global/primeros-sondeos-la-eleccion-israel-el-militar-opositor-eisenkot-aventaja-netanyahu-pero-no-le-alcanzaria-formar-gobierno-n6061882",
-              "img": "https://media.elobservador.com.uy/p/998918539e83f11c0928515c24a22a35/adjuntos/364/imagenes/100/782/0100782138/1200x675/smart/fotonoticia_20261027211915_1920.jpg"
+              "t": "Otra tragedia por choque de trenes en España: al menos 46 muertos por un descarrilamiento en Toledo y está interrumpido el AVE a Andalucía",
+              "l": "https://www.elobservador.com.uy/espana/actualidad/grave-accidente-trenes-toledo-dos-formaciones-chocaron-hay-heridos-y-esta-interrumpido-el-servicio-n6061907"
             },
             {
-              "t": "Peñarol 0-2 Montevideo City Torque: el aurinegro fue eliminado de la Copa AUF Uruguay al perder sin levante en el Campeón del Siglo",
-              "l": "https://www.elobservador.com.uy/futbol/penarol-vs-montevideo-city-torque-vivo-copa-auf-uruguay-se-juega-la-ultima-plaza-los-octavos-final-del-torneo-n6061880",
-              "img": "https://media.elobservador.com.uy/p/e4140bedd7e5500a488685a8e1757d6a/adjuntos/362/imagenes/100/782/0100782163/1200x675/1128x252:1148x272/20261027-sebastian-caceres-penarol-montevideo-city-torque-copa-auf-uruguay-foto-enzo-santos-focouy-1.jpeg"
+              "t": "De las góndolas a la bolsa: claves de la emisión de acciones de Farmashop que pagará dividendos en pesos y donde podrán participar pequeños inversores",
+              "l": "https://www.elobservador.com.uy/economia-y-empresas/de-las-gondolas-la-bolsa-claves-la-emision-acciones-farmashop-que-pagara-dividendos-pesos-y-donde-podran-participar-pequenos-inversores-n6061881",
+              "img": "https://media.elobservador.com.uy/p/f331c300c310b65cf34cc78bac468d15/adjuntos/362/imagenes/100/782/0100782131/1200x675/smart/image.png"
             },
             {
-              "t": "El meme de la polémica de Mbappé y China: repasá lo que dijo y sus disculpas, los contratos que ya perdió, y la decisión de no transmitir por TV LaLiga de España",
-              "l": "https://www.elobservador.com.uy/futbol-internacional/el-meme-la-polemica-mbappe-y-china-repasa-lo-que-dijo-y-sus-disculpas-los-contratos-que-ya-perdio-y-la-decision-no-transmitir-tv-laliga-espana-n6061859",
-              "img": "https://media.elobservador.com.uy/p/ae2fb317c67aeb405b974c18b11a2a14/adjuntos/362/imagenes/100/782/0100782109/1200x675/smart/el-meme-la-polemica-mbappe.jpg"
+              "t": "Graves incidentes en el Campeón del Siglo: parte de la barra de Peñarol intentó deliberadamente suspender el partido ante City Torque y se generó una batalla campal en la Tribuna Cataldi",
+              "l": "https://www.elobservador.com.uy/futbol/graves-incidentes-el-campeon-del-siglo-parte-la-barra-penarol-intento-deliberadamente-suspender-el-partido-city-torque-y-otra-respondio-golpes-n6061894",
+              "img": "https://media.elobservador.com.uy/p/ab53bac10597875c822455c2ac9b4cc2/adjuntos/362/imagenes/100/782/0100782168/1200x675/smart/20261027-penarol-montevideo-city-torque-copa-auf-uruguay-bengalas-violencia-incidentes-sebastian-britos-brian-barboza-barra-penarol.jpeg"
             },
             {
-              "t": "El papa León XIV se reunirá con víctimas de abuso por miembros de la Iglesia durante su viaje a Sudamérica",
-              "l": "https://www.elobservador.com.uy/mundo/el-papa-leon-xiv-se-reunira-victimas-abuso-miembros-la-iglesia-su-viaje-sudamerica-n6061879",
-              "img": "https://media.elobservador.com.uy/p/112f04c05ded8cee292ebd015e8430c5/adjuntos/362/imagenes/100/780/0100780868/1200x675/smart/papa-leon-xiv.jpg"
-            },
-            {
-              "t": "Lula, la reelección y el riesgo del populismo electoral",
-              "l": "https://www.elobservador.com.uy/opinion/lula-la-reeleccion-y-el-riesgo-del-populismo-electoral-n6061838",
-              "img": "https://media.elobservador.com.uy/p/893459a3c6bec0b0446ba6c205963ea1/adjuntos/362/imagenes/100/781/0100781686/1200x675/smart/lula-da-silva-fue-reelecto-presidente-brasil.jpg"
+              "t": "Elecciones en Israel: Netanyahu encabeza el recuento, pero sin mayoría para gobernar",
+              "l": "https://www.elobservador.com.uy/espana/impacto-global/elecciones-israel-netanyahu-encabeza-el-recuento-pero-mayoria-gobernar-n6061905",
+              "img": "https://media.elobservador.com.uy/p/dbd4bac311e0fe015177ac1e373931ba/adjuntos/364/imagenes/100/782/0100782181/1200x675/smart/afp__20261028__d4mg2gg__v1__midres__israelvote.jpg"
             }
           ]
         },
@@ -132,6 +130,10 @@
           "tr": false,
           "items": [
             {
+              "t": "Tragedia en España: al menos 30 personas murieron tras el choque de dos trenes de alta velocidad",
+              "l": "https://www.teledoce.com/telemundo/internacionales/tragedia-en-espana-al-menos-30-personas-murieron-tras-el-choque-de-dos-trenes-de-alta-velocidad/"
+            },
+            {
               "t": "\"Brasil es su segunda patria, la primera es lamerle las botas a EE.UU.\": Lula arremetió contra Flávio Bolsonaro tras las versiones de su huida",
               "l": "https://www.teledoce.com/telemundo/internacionales/brasil-es-su-segunda-patria-la-primera-es-lamerle-las-botas-a-ee-uu-lula-arremetio-contra-flavio-bolsonaro-tras-las-versiones-de-su-huida/"
             },
@@ -158,10 +160,6 @@
             {
               "t": "Inseguridad alimentaria en Uruguay: el índice moderado o grave bajó del 13,2 % al 12,4 %",
               "l": "https://www.teledoce.com/programas/esta-boca-es-mia/inseguridad-alimentaria-en-uruguay-el-indice-moderado-o-grave-bajo-del-132-al-124/"
-            },
-            {
-              "t": "Flávio Bolsonaro huyó a Estados Unidos y, según allegados, recibirá asilo del gobierno de Trump",
-              "l": "https://www.teledoce.com/telemundo/internacionales/flavio-bolsonaro-huyo-a-estados-unidos-y-segun-allegados-recibira-asilo-del-gobierno-de-trump/"
             }
           ]
         }
@@ -176,44 +174,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Los Rays de Tampa Bay remontan en la 12ª entrada del 4to juego y evitan barrida en la Serie Mundial ante Cerveceros",
-              "l": "https://www.clarin.com/estados-unidos/los-rays-de-tampa-bay-remontan-en-la-12-entrada-del-4to-juego-y-evitan-barrida-en-la-serie-mundial-ante-cerveceros_0_o6gXoGaEIf.html",
-              "img": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg"
+              "t": "Misteriosa criatura: creen haber filmado un chupacabras en México",
+              "l": "https://www.clarin.com/internacional/misteriosa-criatura-creen-filmado-chupacabras-mexico_0_SWrdf82qdB.html",
+              "img": "https://www.clarin.com/img/2026/10/28/QbojRGuc0_1200x630__1.jpg"
             },
             {
-              "t": "El avión privado que esperó todo un día a sus pasajeros finalmente despegó desde Iguazú pasada la medianoche",
-              "l": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html",
-              "img": "https://www.clarin.com/img/2026/10/28/R_PXUln5d_1200x630__1.jpg"
+              "t": "Flávio Bolsonaro y su huída de Brasil, EN VIVO: el senador ya partió de Ecuador y su destino podría ser Miami",
+              "l": "https://www.clarin.com/mundo/flavio-bolsonaro-huida-brasil-vivo-senador-partio-ecuador-destino-podria-miami_0_7gkZW4m5BB.html",
+              "img": "https://www.clarin.com/img/2026/10/27/UvuqYite4_1200x630__1.jpg"
             },
             {
-              "t": "La psicología dice que a los 20 años, algunas personas imaginan que a los 30 tendrán su vida organizada. Cuando llegan a esa edad, trasladan la expectativa a los 40. Sin embargo, al alcanzar los 50 descubren que todavía experimentan inseguridades y dudas",
-              "l": "https://www.clarin.com/estados-unidos/psicologia-dice-20-anos-personas-imaginan-30-vida-organizada-llegan-edad-trasladan-expectativa-40-embargo-alcanzar-50-descubren-todavia-experimentan-inseguridades-dudas_0_frQ2blj8a7.html",
-              "img": "https://www.clarin.com/img/2026/10/15/tIoeZ8nJV_1200x630__1.jpg"
+              "t": "Flávio Bolsonaro huye de Brasil vía Argentina y se espera que aterrice en Miami",
+              "l": "https://www.clarin.com/estados-unidos/flavio-bolsonaro-huye-de-brasil-via-argentina-y-se-espera-que-aterrice-en-miami_0_0KOp4pjn1w.html",
+              "img": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
             },
             {
-              "t": "La escasez de agua fuerza a cubanos a cavar pozos para abastecerse",
-              "l": "https://www.clarin.com/estados-unidos/la-escasez-de-agua-fuerza-a-cubanos-a-cavar-pozos-para-abastecerse_0_FHcGVzQSN1.html",
+              "t": "Flávio Bolsonaro hace breve parada en Ecuador tras huir de Brasil",
+              "l": "https://www.clarin.com/estados-unidos/flavio-bolsonaro-hace-breve-parada-en-ecuador-tras-huir-de-brasil_0_YnQBiy8DVq.html",
               "img": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg"
             },
             {
-              "t": "Máximo Kirchner recordó a Néstor y pidió por la liberación de Cristina: \"¿La vamos a hacer presidenta?\"",
-              "l": "https://www.clarin.com/politica/maximo-kirchner-recordo-nestor-pidio-liberacion-cristina-vamos-hacer-presidenta_0_MnHzdsiwlx.html",
-              "img": "https://www.clarin.com/img/2026/10/28/NhcTd4rr__1200x630__1.jpg"
+              "t": "Un juez limita la responsabilidad de la influencer que dijo que Brigitte Macron es hombre",
+              "l": "https://www.clarin.com/estados-unidos/un-juez-limita-la-responsabilidad-de-la-influencer-que-dijo-que-brigitte-macron-es-hombre_0_jkxgbC8rF2.html",
+              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
             },
             {
-              "t": "Knicks logran 1ra victoria de la temporada: 111-97 ante Pistons que estaban invictos",
-              "l": "https://www.clarin.com/estados-unidos/knicks-logran-1ra-victoria-de-la-temporada-111-97-ante-pistons-que-estaban-invictos_0_D2R2cGqYdD.html",
-              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
+              "t": "Euro hoy en Perú: precio y cotización de la divisa este miércoles 28 de octubre de 2026",
+              "l": "https://www.clarin.com/economia/euro-hoy-en-peru-precio-y-cotizacion-de-la-divisa-este-miercoles-28-de-octubre-de-2026_0_P2s9NZpOFK.html",
+              "img": "https://www.clarin.com/img/2022/01/19/P2ZVV0DA5_1200x630__1.jpg"
             },
             {
-              "t": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este miércoles 28 octubre de 2026",
-              "l": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-miercoles-28-octubre-2026_0_md1lmSHT4U.html",
-              "img": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg"
+              "t": "Euro hoy en Uruguay: precio y cotización de la divisa este miércoles 28 de octubre de 2026",
+              "l": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-miercoles-28-de-octubre-de-2026_0_3envMUwbzO.html",
+              "img": "https://www.clarin.com/img/2018/08/29/B1sEYYBv7_1200x630__1.jpg"
             },
             {
-              "t": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este miércoles 28 octubre de 2026",
-              "l": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-miercoles-28-octubre-2026_0_KWaJU0Vjwf.html",
-              "img": "https://www.clarin.com/img/2025/04/30/g8BBYIxw-_1200x630__1.jpg"
+              "t": "Euro hoy en Honduras: precio y cotización de la divisa este miércoles 28 de octubre de 2026",
+              "l": "https://www.clarin.com/economia/euro-hoy-en-honduras-precio-y-cotizacion-de-la-divisa-este-miercoles-28-de-octubre-de-2026_0_oN9j6eTj27.html",
+              "img": "https://www.clarin.com/img/2016/12/30/Sy03el4Sg_1200x630.jpg"
             }
           ]
         },
@@ -222,44 +220,44 @@
           "tr": false,
           "items": [
             {
-              "t": "El Gobierno confirmó que Flavio Bolsonaro despegó esta madrugada desde Puerto Iguazú",
-              "l": "https://www.lanacion.com.ar/el-mundo/revuelo-en-el-aeropuerto-de-puerto-iguazu-tras-el-despegue-del-avion-que-esperaba-a-bolsonaro-nid28102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/DSF3AGK6VVGMJCRTMU2ABAQMNA.png?auth=61973c150e19e7f5067320f42ada46dc4a61b7240d0876a13ac55ed0a75673ec&smart=true&width=936&height=457"
+              "t": "Fecha de cobro de Anses: el cronograma de pagos para este miércoles 28 de octubre",
+              "l": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-miercoles-28-de-octubre-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/Q3US5D4UXJA35OHREKSWLRNAPY.png?auth=666dda261775f57cba9597b2491c69c4152ddff9c2b9612043a34e6e4f8707a7&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Gabriel Rolón, sobre la finitud: “Ser humano es vivir con el sentimiento trágico de la vida”",
-              "l": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-la-finitud-ser-humano-es-vivir-con-el-sentimiento-tragico-de-la-vida-nid28102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/JYIIPBGOPJEOLBZ42CF7LVDGNM.jpg?auth=65b9f8445c87af93f8b9cae22546a87bbc1bcb7e62578060e71c5a645e80970b&smart=true&width=950&height=534"
+              "t": "Aprender a caer del caballo, una asignatura pendiente en el polo: también se puede entrenar",
+              "l": "https://www.lanacion.com.ar/deportes/polo/aprender-a-caer-del-caballo-una-asignatura-pendiente-en-el-polo-tambien-se-puede-entrenar-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/NEUGDUCX5NFGFCK7BLTZEVK3JE.jpg?auth=c47a701792cf1d761660381ecb12e70bd82a90a1b0f97b83f5a034ecb6cc0e2c&smart=true&width=2000&height=1331"
             },
             {
-              "t": "La frase del día de Séneca: “La suerte es donde confluyen la preparación y la oportunidad”",
-              "l": "https://www.lanacion.com.ar/sociedad/la-frase-del-dia-de-seneca-la-suerte-es-donde-confluyen-la-preparacion-y-la-oportunidad-nid28102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/W2RJAYA4DZEEZLWUTAGSEK2PUQ.jpg?auth=6a28624c3828e3bacec78cf177e51be627e2ff32205c3b2439f0a77d3b9947c4&smart=true&width=800&height=600"
+              "t": "Quién va ganando las midterms 2026 entre republicanos y demócratas: resultados en vivo y nuevos distritos por las elecciones en USA",
+              "l": "https://www.lanacion.com.ar/estados-unidos/washington/quien-va-ganando-las-midterms-2026-entre-republicanos-y-democratas-resultados-en-vivo-y-nuevos-nid25102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/I7KRACLPSVGNJEPO5FQQTMBO4M.jpg?auth=32543b6dce130e2103ff9f70bcfe48948d04f47750d621ab14e16842d540eefb&smart=true&width=2000&height=1331"
             },
             {
-              "t": "El partido de Netanyahu fue el más votado, pero sin mayoría para formar gobierno en Israel",
-              "l": "https://www.lanacion.com.ar/el-mundo/netanyahu-denuncio-que-quieren-robar-las-elecciones-mientras-la-participacion-alcanza-niveles-nid27102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/QFZ3VYAFKJBJZAA7XFQCN6EJUI.JPG?auth=90890becbe376662a3057bea8cad0a1b11c5d3cb958b04211eadb500aa97208c&smart=true&width=8256&height=5504"
+              "t": "Accidente en España, EN VIVO: qué se sabe del accidente de trenes de alta velocidad en Toledo",
+              "l": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-del-accidente-de-trenes-de-alta-velocidad-en-espana-hoy-choque-descarrilamiento-y-las-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/ANBOUQXZCJGEPCMMHTLPJR6JWU.jpg?auth=af38ff369d62fe659fc5da8e841ecc353f93aad570762b6f410e0ba66a73cc82&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Elecciones en Israel 2026: Benjamín Netanyahu busca retener el poder y las últimas noticias de los comicios, voto a voto",
-              "l": "https://www.lanacion.com.ar/el-mundo/elecciones-en-israel-2026-en-vivo-benjamin-netanyahu-busca-retener-el-poder-y-las-ultimas-noticias-nid27102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/3KU4H35VWJB3ZDS7GBUOCIPC7A.JPG?auth=a06c5fa1a2ef59cf69d335106739744918a7eeb352635b518303e52ec794df9b&smart=true&width=2048&height=1365"
+              "t": "El mensaje de Migraciones sobre Flavio Bolsonaro: “Ingresó a la Argentina con documentación hábil sin ningún impedimento legal”",
+              "l": "https://www.lanacion.com.ar/el-mundo/el-mensaje-de-migraciones-sobre-flavio-bolsonaro-ingreso-a-la-argentina-con-documentacion-habil-sin-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/36QX3LEOVVETPFIDUDGHV2ZG4Q.jpg?auth=842a876cd6de1c012aa2f486d055e4b8e620b6886bf231b04452f6404867244f&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Afirman que el gobierno de Trump participó en la fuga de Flavio Bolsonaro y le concederá un visado",
-              "l": "https://www.lanacion.com.ar/estados-unidos/afirman-que-el-gobierno-de-trump-participo-en-la-fuga-de-flavio-bolsonaro-y-le-concedera-asilo-nid27102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/ZH57O2M5UBDYFFOEALS65DJCSE.jpg?auth=708054570fcb04da124abf0b72ce22f0c51982c77a466d94e5a22970befeea09&smart=true&width=2000&height=1333"
+              "t": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones",
+              "l": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/HT3GB3DECVDWTBYCX4J5KBPZOU.jpg?auth=36f66431ba5ee308a0c27610872feefe8c9131a851ea29f0b77ecdc6b5832a22&smart=true&width=2000&height=1338"
             },
             {
-              "t": "Lego transforma una antigua refinería de Shanghái en un paisaje botánico",
-              "l": "https://www.lanacion.com.ar/revista-jardin/lego-transforma-una-antigua-refineria-de-shanghai-en-un-paisaje-botanico-nid28102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/FNBKEF7PWVHX7EFDHEJMUUU43A.jpg?auth=dc6b9c406141a429fb297848bb41554d1d2b55bbc2c6619f32b1da6cf9f1741e&smart=true&width=2002&height=1333"
+              "t": "Quién ganó las elecciones de Israel 2026: números parejos mientras Netanyahu pide esperar los “resultados reales”",
+              "l": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-de-israel-2026-numeros-parejos-mientras-netanyahu-pide-esperar-los-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/KWEN67XVQBEBPCH7EQWSVZLI3M.jpg?auth=2c1e33792caf9b275ccc79ad1836156404e52b116f2947aea101e8f2e20fbc9a&smart=true&width=2000&height=1333"
             },
             {
-              "t": "La estancia irlandesa de 1845 ubicada en Areco que hoy se reinventa con arte y músicos del Colón",
-              "l": "https://www.lanacion.com.ar/revista-lugares/la-estancia-irlandesa-de-1845-ubicada-en-areco-que-hoy-se-reinventa-con-arte-y-musicos-del-colon-nid28102026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/FKLE4L2POVDXBEJTN7FFSMMEQA.jpg?auth=488f2c956c69cb117884cb3352e84bfb6233ce2d2be04098041ade0748aaa1ac&smart=true&width=2000&height=1333"
+              "t": "Dos trenes de alta velocidad chocaron en Toledo: al menos 30 muertos",
+              "l": "https://www.lanacion.com.ar/el-mundo/dos-trenes-de-alta-velocidad-chocaron-en-toledo-al-menos-10-muertos-nid28102026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/BHBV5TYGWZCTJI7CZKXE5UOZAI.jpg?auth=621cb956af04aac2f72c1d8c4d902cd610b5001a95288177934b8d74a80619b3&smart=true&width=2000&height=1333"
             }
           ]
         },
@@ -267,6 +265,11 @@
           "n": "Página/12",
           "tr": false,
           "items": [
+            {
+              "t": "El Gobierno de Milei, clave en la huida de Bolsonaro: partió en la madrugada de Puerto Iguazú escoltado por la policía",
+              "l": "https://www.pagina12.com.ar/2026/10/28/el-gobierno-de-milei-clave-en-la-huida-de-bolsonaro-partio-en-la-madrugada-de-puerto-iguazu-escoltado-por-la-policia/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/FAXX72SLI5EERO6LNX7YZIDHEQ.jpg?auth=d0a0d7328a994804429b8dc9442d61df9129d41eb396a9258456b624b4831040&smart=true&width=1200&height=806"
+            },
             {
               "t": "La fuga de Flávio Bolsonaro: visas de Trump, un avión en Iguazú y el sello de la cobardía",
               "l": "https://www.pagina12.com.ar/2026/10/28/la-fuga-de-flavio-bolsonaro-visas-de-trump-un-avion-en-iguazu-y-el-sello-de-la-cobardia/",
@@ -278,14 +281,19 @@
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/RHV72EVNNZEK7MPNTXHJ6FU7YY.jpg?auth=98f9092a0924e085485f9632b61bb38803c7d9a134d440b2f334acc0f3f3e3ce&smart=true&width=4776&height=3232"
             },
             {
+              "t": "La estratega de 21 años que hackeó al bolsonarismo y blindó a Lula",
+              "l": "https://www.pagina12.com.ar/2026/10/27/la-estratega-de-21-anos-que-hackeo-al-bolsonarismo-y-blindo-a-lula/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/7YWDLJZKOVFS7KGTAY6TCOSHSQ.jpg?auth=129c9f451b952c1bae11492e906491685eefee480dd500276a49fdb01361998e&smart=true&width=640&height=480"
+            },
+            {
               "t": "“Cristina tiene la vocación de representar a los argentinos”",
               "l": "https://www.pagina12.com.ar/2026/10/28/cristina-tiene-la-vocacion-de-representar-a-los-argentinos/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/52ZL3XKIEFECFBR2REAX7UPLKM.jpeg?auth=c3ac52db8568330f92a14807c3c8ee7dd10ee481c5bfe5ae865639f1557cae83&smart=true&width=1280&height=853"
             },
             {
-              "t": "Los bloques de Netanyahu y la oposición empatan en las legislativas en Israel",
-              "l": "https://www.pagina12.com.ar/2026/10/28/los-bloques-de-netanyahu-y-la-oposicion-empatan-en-las-legislativas-en-israel/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/WQIUBRYIJ5DDHCL5PVF56BEGGE.jpg?auth=12006a186be3eb34c486389c6d22fa6f0af60be53feeb61f83a36c11fd976788&smart=true&width=1276&height=850"
+              "t": "Choque de trenes en España: hay al menos 30 muertos y decenas de heridos",
+              "l": "https://www.pagina12.com.ar/2026/10/28/choque-de-trenes-en-espana-hay-al-menos-10-muertos-y-decenas-de-heridos/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/QFS3FVSFW5CHZEURQNK4TFHPYI.jpg?auth=40d1eb3f102006492163d008671d813a9541b6101a964d40dd30f45c9247010e&smart=true&width=549&height=305"
             }
           ]
         }
@@ -298,52 +306,92 @@
         {
           "n": "G1",
           "tr": true,
-          "items": [],
-          "error": "not well-formed (invalid token): line 1, column 0"
+          "items": [
+            {
+              "t": "Elecciones 2026: Piauí registra 337 votos después de las 17 horas en la segunda vuelta",
+              "l": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/28/eleicoes-2026-piaui-votos.ghtml",
+              "o": "Eleições 2026: Piauí registra 337 votos após as 17h no segundo turno"
+            },
+            {
+              "t": "El coche utilizado por el sospechoso de intentar matar a su exmujer en Balsas es encontrado abandonado en un matorral",
+              "l": "https://g1.globo.com/ma/maranhao/noticia/2026/10/28/carro-usado-por-suspeito-de-tentar-matar-ex-mulher-em-balsas-e-encontrado-abandonado-em-matagal.ghtml",
+              "o": "Carro usado por suspeito de tentar matar ex-mulher em Balsas é encontrado abandonado em matagal"
+            },
+            {
+              "t": "Después de las elecciones, el gobierno federal otorga garantía para un préstamo de R$ 7 mil millones de un consorcio de bancos a Correios",
+              "l": "https://g1.globo.com/economia/noticia/2026/10/28/passadas-eleicoes-governo-federal-concede-garantia-para-emprestimo-de-r-7-bilhoes-de-consorcio-de-bancos-aos-correios.ghtml",
+              "o": "Passadas eleições, governo federal concede garantia para empréstimo de R$ 7 bilhões de consórcio de bancos aos Correios"
+            },
+            {
+              "t": "Cortometraje de terror realizado en Jundiaí se convertirá en largometraje con la productora de 'Cidade de Deus' y 'Central do Brasil'",
+              "l": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/28/curta-de-terror-feito-em-jundiai-vai-virar-longa-com-produtora-de-cidade-de-deus-e-central-do-brasil.ghtml",
+              "o": "Curta de terror feito em Jundiaí vai virar longa com produtora de 'Cidade de Deus' e 'Central do Brasil'"
+            },
+            {
+              "t": "Boicot a empresas en AL: listas publican nombres de partidarios de Lula; MPT monitorea casos",
+              "l": "https://g1.globo.com/al/alagoas/noticia/2026/10/28/boicote-a-empresas-em-al-listas-divulgam-nomes-de-apoiadores-a-lula-mpt-acompanha-casos.ghtml",
+              "o": "Boicote a empresas em AL: listas divulgam nomes de apoiadores a Lula; MPT acompanha casos"
+            },
+            {
+              "t": "Hombre es arrestado bajo sospecha de estafar a bancos digitales; pérdida superó los R$ 290 mil",
+              "l": "https://g1.globo.com/ba/bahia/noticia/2026/10/28/homem-e-preso-por-suspeita-de-aplicar-golpes-em-banco-digital.ghtml",
+              "o": "Homem é preso por suspeita de aplicar golpes em banco digital; prejuízo ultrapassou R$ 290 mil"
+            },
+            {
+              "t": "Secretario de Pau dos Ferros publica mensajes ofensivos contra votantes de Lula; el ayuntamiento dice que tomará medidas",
+              "l": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/28/secretaria-pau-dos-ferros-mensagens-contra-eleitores-lula-prefeitura-adota-providencias.ghtml",
+              "o": "Secretária de Pau dos Ferros publica mensagens ofensivas contra eleitores de Lula; prefeitura diz que vai adotar providências"
+            },
+            {
+              "t": "Localizan e incautan rifle desaparecido tras fuga de soldado del Ejército después de 11 días",
+              "l": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/28/fuzil-desaparecido-apos-fuga-de-soldado-do-exercito-e-localizado.ghtml",
+              "o": "Fuzil desaparecido após fuga de soldado do Exército é localizado e apreendido após 11 dias"
+            }
+          ]
         },
         {
           "n": "Folha de S.Paulo",
           "tr": true,
           "items": [
             {
-              "t": "Flávio Bolsonaro aterriza en EE.UU. tras huir de Brasil, dice diario",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desembarca-nos-eua-apos-fugir-do-brasil-diz-jornal.shtml",
-              "o": "Flávio Bolsonaro desembarca nos EUA após fugir do Brasil, diz jornal"
+              "t": "OpenAI debería cerrar un trato para comprar chips de Google, dice el sitio web",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-deve-fechar-acordo-para-comprar-chips-do-google-diz-site.shtml",
+              "o": "OpenAI deve fechar acordo para comprar chips do Google, diz site"
             },
             {
-              "t": "Flávio Bolsonaro se escondió en Argentina y acaba de partir hacia Estados Unidos, dice canal argentino",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-estava-escondido-na-argentina-e-acaba-de-decolar-para-os-eua-diz-canal-argentino.shtml",
-              "o": "Flávio Bolsonaro estava escondido na Argentina e acaba de decolar para os EUA, diz canal argentino"
+              "t": "Accidente entre trenes de alta velocidad mata al menos a 30 personas en España",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/acidente-entre-trens-de-alta-velocidade-mata-ao-menos-30-pessoas-na-espanha.shtml",
+              "o": "Acidente entre trens de alta velocidade mata ao menos 30 pessoas na Espanha"
             },
             {
-              "t": "Las muertes por la Operación Contención no aparecen en las cámaras de la policía, dice ONG",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-da-operacao-contencao-nao-aparecem-em-cameras-da-pm-diz-ong.shtml",
-              "o": "Mortes da Operação Contenção não aparecem em câmeras da PM, diz ONG"
+              "t": "Trump relaja reglas que obligaban a las empresas a reducir las emisiones de gases súper contaminantes",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/trump-afrouxa-regras-que-obrigavam-empresas-a-diminuir-emissao-de-gas-superpoluente.shtml",
+              "o": "Trump afrouxa regras que obrigavam empresas a diminuir emissão de gás superpoluente"
             },
             {
-              "t": "El recuento en curso en Israel muestra al partido de Netanyahu a la cabeza con el 22,2% de los votos",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/apuracao-em-andamento-em-israel-mostra-partido-de-netanyahu-a-frente-com-222-dos-votos.shtml",
-              "o": "Apuração em andamento em Israel mostra partido de Netanyahu à frente com 22,2% dos votos"
+              "t": "Virginia se pronuncia tras las críticas de Silvia Abravanel: 'La falta de respeto va más allá de los límites'",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/virginia-se-manifesta-apos-criticas-de-silvia-abravanel-desrespeitar-ultrapassa-limites.shtml",
+              "o": "Virginia se manifesta após críticas de Silvia Abravanel: 'Desrespeitar ultrapassa limites'"
             },
             {
-              "t": "A Fazenda 18: Giovanna Gold está en la finca; Darlin, Maíra y Ana Bruna compiten en la Prueba del Granjero",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-giovanna-gold-esta-na-roca-darlin-maira-e-ana-bruna-disputam-prova-do-fazendeiro.shtml",
-              "o": "A Fazenda 18: Giovanna Gold está na roça; Darlin, Maíra e Ana Bruna disputam Prova do Fazendeiro"
+              "t": "CCSP muestra cortos de Buster Keaton con música en vivo y entrada gratuita",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/10/ccsp-exibe-curtas-de-buster-keaton-com-musica-ao-vivo-e-entrada-gratuita.shtml",
+              "o": "CCSP exibe curtas de Buster Keaton com música ao vivo e entrada gratuita"
             },
             {
-              "t": "Ruy Castro logra inédita victoria en Jabuti y Eliana Alves Cruz gana mejor novela literaria",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/premio-jabuti-comeca-a-anunciar-livros-vencedores-de-2026-acompanhe.shtml",
-              "o": "Ruy Castro tem vitória inédita no Jabuti e Eliana Alves Cruz ganha melhor romance literário"
+              "t": "La fuga del amarillo",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/10/a-fuga-do-amarelao.shtml",
+              "o": "A fuga do amarelão"
             },
             {
-              "t": "MPF presenta denuncia de Nikolas Ferreira contra redactor de la ley de apuestas",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mpf-arquiva-denuncia-de-nikolas-ferreira-contra-redator-da-lei-das-bets.shtml",
-              "o": "MPF arquiva denúncia de Nikolas Ferreira contra redator da lei das bets"
+              "t": "Románticar el tercer sector es una forma elegante de no tomarlo en serio",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/10/romantizar-o-terceiro-setor-e-uma-forma-elegante-de-nao-leva-lo-a-serio.shtml",
+              "o": "Romantizar o terceiro setor é uma forma elegante de não levá-lo a sério"
             },
             {
-              "t": "Cámara aprueba ampliación de frontera adicional y aumenta gasto gubernamental",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-aprova-ampliacao-de-adicional-de-fronteira-e-eleva-gasto-do-governo.shtml",
-              "o": "Câmara aprova ampliação de adicional de fronteira e eleva gasto do governo"
+              "t": "Esto no es una barra de chocolate.",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/10/isso-nao-e-uma-barra-de-chocolate.shtml",
+              "o": "Isso não é uma barra de chocolate"
             }
           ]
         },
@@ -351,6 +399,12 @@
           "n": "UOL",
           "tr": true,
           "items": [
+            {
+              "t": "MISIÓN DE SABER",
+              "l": "https://tab.uol.com.br/colunas/missao-saber/2026/10/28/bookster-comprar-livro-no-idioma-local-e-meu-grande-souvenir-de-viagem.htm",
+              "img": "https://imguol.com/c/noticias/48/2026/10/27/pedro-pacifico-o-bookster-no-missao-saber-1793135610402_v2_300x225.png",
+              "o": "MISSÃO SABER"
+            },
             {
               "t": "vamos vino",
               "l": "https://www.uol.com.br/nossa/colunas/vamos-de-vinho/2026/10/27/oito-vinhos-para-viajar-por-portugal-sem-sair-da-taca.htm",
@@ -392,12 +446,6 @@
               "l": "https://www.uol.com.br/splash/colunas/luciana-bugni/2026/10/27/noah-wyle-por-que-pessoas-fora-do-padrao-sexy-sao-tao-desejaveis.htm",
               "img": "https://conteudo.imguol.com.br/c/home/d1/2019/01/08/luciana-bugni-150-1546989864557_100x100.png",
               "o": "Luciana Bugni"
-            },
-            {
-              "t": "Felipe Salto",
-              "l": "https://economia.uol.com.br/colunas/felipe-salto/2026/10/27/lula-tem-a-faca-e-o-queijo-na-mao-e-fara-bom-governo.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/e7/2023/11/06/felipe-salto---150-1699267276808_v2_100x100.png",
-              "o": "Felipe Salto"
             }
           ]
         }
@@ -412,44 +460,43 @@
           "tr": false,
           "items": [
             {
-              "t": "Netanyahu gana las elecciones en Israel, pero su coalición queda lejos de la mayoría",
-              "l": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/CZZ6DIVPN5EYPE3LXKRTS5GCOM.jpg?auth=a19a507db5c10ddaec1876ca14d544b8681ab80856bfcd828c885325ca09aaa4"
+              "t": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes en Urda",
+              "l": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/4VT4667TARG4DPDCVGFT5JJCZQ.jpeg?auth=87a2437ce4cdc6efefdeb2bac6dd9c8738be02afcd1fb38206c7a2b92b3f429b"
             },
             {
-              "t": "Netanyahu llama a formar un Gobierno “de derechas fuerte” y advierte contra los pactos con partidos árabes",
-              "l": "https://elpais.com/internacional/2026-10-28/netanyahu-llama-a-formar-un-gobierno-de-derechas-fuerte-y-advierte-contra-los-pactos-con-partidos-arabes.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/LYL4Y32KABMAHOLVQ2BO2XFJFY.jpg?auth=425a34d121a2b7c480a5c09e240dfa19ea65fe6ccbd89166a43faa9b666e0bd9"
+              "t": "El accidente de trenes de Toledo, desde la cafetería del AVE siniestrado: “Los viajeros han salido despedidos”",
+              "l": "https://elpais.com/espana/2026-10-28/un-testigo-del-accidente-la-gente-estaba-intentando-salir-por-las-ventanas.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/YTBZEMEE5BGCTFGI76MTB5X74Y.jpeg?auth=11758397c72718d0b952f6d9c2bc25d73715ec8dc8155a6432de7d001bb4dba3"
             },
             {
-              "t": "Elecciones en Israel 2026, en directo | Netanyahu apela a reeditar un Gobierno “de derechas y fuerte” y Eisenkot se compromete a construir una mayoría “sionista y estable”",
-              "l": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/LYL4Y32KABMAHOLVQ2BO2XFJFY.jpg?auth=425a34d121a2b7c480a5c09e240dfa19ea65fe6ccbd89166a43faa9b666e0bd9"
+              "t": "¿Por qué han chocado dos trenes en Toledo? La investigación apunta a una orden errónea al AVE desde el centro de control",
+              "l": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/KPFEE7YOVNC5NF4SVPYSGWHWNY.jpg?auth=c955ce72c6c94881e7236e98b473799cb225f754b7e8886eb1a95b2a8946df0c"
             },
             {
-              "t": "Abascal teme que Feijóo descuide al votante de centro por disputarle el electorado de Vox",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-10-28/abascal-teme-que-feijoo-descuide-al-votante-de-centro-por-disputarle-el-electorado-de-vox.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/WZHLPSM4KJHDNP4VYWM7343KSY.jpg?auth=6c396fd34542cb5336c03b40da90e146bdf2ee36a023aca5f883383cd44e9a88"
+              "t": "Claves del accidente en Toledo | ¿Qué se sabe hasta el momento del choque de trenes?",
+              "l": "https://elpais.com/espana/2026-10-28/que-se-sabe-hasta-el-momento-del-accidente-de-trenes-en-toledo.html",
+              "img": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230917_103359_still.0000001.jpg"
             },
             {
-              "t": "José María Ridao: “El temor de una incidencia de la ley de nietos en el resultado electoral es difícil de sostener con las cifras”",
-              "l": "https://elpais.com/espana/2026-10-28/jose-maria-ridao-el-temor-de-una-incidencia-de-la-ley-de-nietos-en-el-resultado-electoral-es-dificil-de-sostener-con-las-cifras.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/UAWSQZ66BRACNB2M3KNSOLW3AE.jpg?auth=77476248ed04b3dc325040ea3f863d9039e77ebe00e63c646d8d8b337d4e04e9"
+              "t": "¿Dónde ha sido el choque? Mapas y primeros datos del accidente de tren en Toledo",
+              "l": "https://elpais.com/espana/2026-10-28/donde-ha-sido-el-choque-mapas-y-primeras-informaciones-del-accidente-de-tren-en-toledo.html"
             },
             {
-              "t": "Montero y Rufián, los nuevos Javis, vuelven loco a Broncano",
-              "l": "https://elpais.com/espana/2026-10-27/montero-y-rufian-los-nuevos-javis-vuelven-loco-a-broncano.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/N2GOA3H2SNISDKE6XN5N5VU42Q.jpg?auth=efe283fd136e7d0df3cbffc53c60a08ae83e98353f10dbe10ddb824098f54e82"
+              "t": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes",
+              "l": "https://elpais.com/espana/2026-10-28/el-accidente-de-dos-trenes-de-alta-velocidad-en-toledo-en-imagenes.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/KM2JRU7IQ5GF3AJY7LPCEE4MS4.jpg?auth=39119b981e9c7e9b9469b8279a31b9c46a5e1ebcd00f30946813ebabf37af36d"
             },
             {
-              "t": "¿Cómo se reparten los escaños en el Congreso y en el Senado?",
-              "l": "https://elpais.com/videos/2026-10-28/como-se-reparten-los-escanos-en-el-congreso-y-en-el-senado.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/LX6GCAUQLVHMPGV6ADHOORCOZQ.png?auth=0c44e2042838ab07cc08eca9835d4f2e897bd5c474e7cecc239d361066526446"
+              "t": "Varios vagones descarrilados: las imágenes aéreas del accidente de trenes en Toledo",
+              "l": "https://elpais.com/espana/2026-10-28/varios-vagones-descarrilados-las-imagenes-aereas-del-accidente-de-trenes-en-toledo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/YM2XBABPBFADLEK4XMKRDLV7OM.jpg?auth=f60190e6f15e6e42fc0aa85957dddcdd703a69ca2db95e2a7bb2843e52a6e660"
             },
             {
-              "t": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
-              "l": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/JRPWVWJ6TZGSZPWQRRLODGTANY.jpg?auth=8f12e3ae94f7e5119bfee7942122081ab119be2abcb02c5aef56f9351ad63b94"
+              "t": "Al menos 30 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
+              "l": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/KM2JRU7IQ5GF3AJY7LPCEE4MS4.jpg?auth=39119b981e9c7e9b9469b8279a31b9c46a5e1ebcd00f30946813ebabf37af36d"
             }
           ]
         },
@@ -458,9 +505,14 @@
           "tr": false,
           "items": [
             {
-              "t": "Flávio Bolsonaro llega a EE.UU. después de que Brasil cancelara sus pasaportes",
-              "l": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/76c5/live/cce08f60-d125-11f1-9a61-7b8d75492b97.jpg"
+              "t": "Al menos 30 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
+              "l": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef1/live/dea81ff0-d2c0-11f1-8e79-5381b0a9d682.jpg"
+            },
+            {
+              "t": "Mueren decenas de personas al chocar dos trenes de alta velocidad en España",
+              "l": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/993b/live/9514f4b0-d2b8-11f1-93e1-3b657b665bcf.jpg"
             },
             {
               "t": "Cómo las elecciones en Israel y EE.UU. tendrán consecuencias globales",
@@ -468,9 +520,9 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg"
             },
             {
-              "t": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot y a los partidos árabes con récord de escaños en el Parlamento",
-              "l": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/1e6b5b60-d268-11f1-b441-2b33b063138f.png"
+              "t": "Argentina confirmó que Flávio Bolsonaro cruzó desde Brasil y luego abordó un avión con destino a Ecuador; la nave con el excandidato presidencial ya estaría camino a EE.UU.",
+              "l": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/76c5/live/cce08f60-d125-11f1-9a61-7b8d75492b97.jpg"
             },
             {
               "t": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
@@ -478,9 +530,9 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/88c5/live/9aad39e0-d24b-11f1-8ba3-9fd3e261415f.png"
             },
             {
-              "t": "La hazaña de Charlyn Corral, la jugadora que hizo historia para México al ganar el Balón de Oro a la mejor delantera",
-              "l": "https://www.bbc.com/mundo/articles/cq62ygg3e245o?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed8b/live/aaae9080-d211-11f1-b3b6-c1e79e957e40.jpg"
+              "t": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
+              "l": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/1e6b5b60-d268-11f1-b441-2b33b063138f.png"
             },
             {
               "t": "Cómo el sorpresivo triunfo de Lula en Brasil es un golpe para las ambiciones de Trump en América Latina",
@@ -491,11 +543,6 @@
               "t": "Análisis: los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump",
               "l": "https://www.bbc.com/mundo/articles/ck9qz5pyrnzjo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/725c/live/634334d0-d1e9-11f1-b360-61fb5d34dc08.jpg"
-            },
-            {
-              "t": "Mbappé se disculpa por un comentario sobre Mao que desató una ola de críticas y boicot en China",
-              "l": "https://www.bbc.com/mundo/articles/cwkgj2p1ym37o?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8309/live/1496e7a0-d21b-11f1-8f84-ebd3099fed63.jpg"
             }
           ]
         }
@@ -510,24 +557,24 @@
           "tr": true,
           "items": [
             {
-              "t": "Qué esperar ahora que las urnas están cerradas en Israel",
-              "l": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
-              "o": "What to Expect Now That Polls Are Closed in Israel"
+              "t": "Para los vecinos de Israel en Medio Oriente, las elecciones ofrecen pocas esperanzas de reinicio",
+              "l": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+              "o": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset"
             },
             {
-              "t": "La fuerte actuación de los partidos árabes puede contribuir a la formación del próximo gobierno de Israel",
+              "t": "Elecciones en Israel: ¿Cuándo sabremos quién será el Primer Ministro?",
+              "l": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
+              "o": "Israel’s Election: When Will We Know Who Will Be Prime Minister?"
+            },
+            {
+              "t": "Una demostración histórica de fuerza para la minoría árabe de Israel",
               "l": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
-              "o": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government"
+              "o": "A Historic Show of Strength for Israel’s Arab Minority"
             },
             {
-              "t": "Flávio Bolsonaro deja Brasil para ir a Estados Unidos tras su derrota electoral",
-              "l": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-              "o": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat"
-            },
-            {
-              "t": "El gran jurado se niega a presentar cargos contra Cassidy Hutchinson",
-              "l": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
-              "o": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson"
+              "t": "Flávio Bolsonaro huye de Brasil hacia EE. UU. y cómo ChatGPT diseñó un plan médico peligroso",
+              "l": "https://www.nytimes.com/2026/10/28/podcasts/the-headlines/bolsonaro-brazil-chatgpt-medical-plan.html",
+              "o": "Flávio Bolsonaro Flees Brazil for the U.S., and How ChatGPT Laid Out a Dangerous Medical Plan"
             },
             {
               "t": "El Departamento de Justicia intensifica medidas contra Comey y otros a medida que se acercan las elecciones de mitad de período",
@@ -535,19 +582,19 @@
               "o": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near"
             },
             {
-              "t": "La Casa Blanca tiene un estricto control sobre el FBI en la persecución de los objetivos de Trump, dice un agente",
-              "l": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
-              "o": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says"
+              "t": "Los fiscales estadounidenses que llevan a cabo los casos de quejas y elecciones de Trump",
+              "l": "https://www.nytimes.com/2026/10/28/us/politics/trump-us-attorneys-elections-protests-cases.html",
+              "o": "The U.S. Attorneys Carrying Out Trump’s Election and Grievance Cases"
             },
             {
-              "t": "El influyente cristiano en el centro de la nueva vida de Ken Paxton",
-              "l": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
-              "o": "The Christian Influencer at the Center of Ken Paxton’s New Life"
+              "t": "El Departamento de Justicia se niega a revelar la orden de registro de la casa de Ilhan Omar",
+              "l": "https://www.nytimes.com/2026/10/28/us/politics/ilhan-omar-doj-search-warrant.html",
+              "o": "Justice Dept. Declines to Unseal Warrant for Search of Ilhan Omar’s Home"
             },
             {
-              "t": "Los rivales del Senado de Texas convergen en Lubbock, con Trump en la mezcla",
-              "l": "https://www.nytimes.com/2026/10/27/us/elections/paxton-talarico-texas-senate-rally-lubbock.html",
-              "o": "Texas Senate Rivals Converge on Lubbock, With Trump in the Mix"
+              "t": "La carrera por el Senado de Carolina del Sur, fuertemente republicana, es un fracaso, según una encuesta",
+              "l": "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html",
+              "o": "Heavily Republican South Carolina’s Senate Race Is a Tossup, Poll Finds"
             }
           ]
         },
@@ -556,44 +603,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Estados Unidos emitirá visas a Flávio Bolsonaro porque su paradero sigue sin estar claro",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-              "o": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear"
+              "t": "Las elecciones en Israel están demasiado reñidas para ser convocadas. Y el brote de ébola alcanza un hito sombrío",
+              "l": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+              "o": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone"
             },
             {
-              "t": "Las estimaciones de daños por inundaciones en el suroeste son de cientos de millones solo para Nuevo México",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-              "o": "Southwest flood damage estimates are hundreds of millions for New Mexico alone"
+              "t": "Al menos 30 muertos en un accidente entre dos trenes en el centro de España, según los medios",
+              "l": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+              "o": "At least 30 dead in crash between two trains in central Spain, media say"
             },
             {
-              "t": "La participación electoral en Israel se dispara mientras Netanyahu se enfrenta a unas elecciones reñidas",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-              "o": "Israel's voter turnout soars as Netanyahu faces a tight election"
+              "t": "Los candidatos al Senado acumularon enormes fondos de campaña con donaciones de otros estados",
+              "l": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+              "o": "Senate candidates built up massive campaign war chests with out-of-state donations"
             },
             {
-              "t": "El brote de ébola está batiendo récords y acaba de marcar un hito sombrío",
-              "l": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-              "o": "The Ebola outbreak is breaking records -- and just marked a grim milestone"
+              "t": "Por qué muchos estudiantes votantes tienen derecho a elegir dónde registrarse para votar",
+              "l": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+              "o": "Why many student voters have a right to choose where to register to vote"
             },
             {
-              "t": "Un juez detuvo las renovaciones del campo de golf de D.C. Trump dice que aún comenzarán el próximo mes",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-              "o": "A judge halted D.C. golf course renovations. Trump says they'll still start next month"
+              "t": "Aumentan las asociaciones entre ICE y la policía local, según un informe",
+              "l": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+              "o": "Partnerships between ICE and local police surge, report finds"
             },
             {
-              "t": "El partido de Bolsonaro acepta la derrota electoral en Brasil, pero él se niega a ceder",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-              "o": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede"
+              "t": "Así se preparan los demócratas en el Congreso para las acusaciones de fraude electoral",
+              "l": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+              "o": "Here's how Democrats in Congress are preparing for election fraud claims"
             },
             {
-              "t": "Versos discursivos: Jay-Z, el Super Bowl y jugar con el dinero de la casa",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-              "o": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money"
+              "t": "¿Es usted donante de órganos? Aquí hay algunos cambios de reglas que quizás quieras saber.",
+              "l": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+              "o": "Are you an organ donor? Here are some rule changes you may want to know"
             },
             {
-              "t": "Un 'Ejército Verde' quiere frenar las inundaciones de El Niño",
-              "l": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-              "o": "A 'Green Army' is out to thwart El Niño flooding"
+              "t": "Cómo un republicano de toda la vida llegó a liderar la batalla de los centros de datos en Ohio",
+              "l": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+              "o": "How a lifelong Republican came to lead the data center battle in Ohio"
             }
           ]
         }
