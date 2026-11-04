@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:55:19Z",
+  "updated": "2026-11-04T15:20:28Z",
   "paises": [
     {
       "id": "uy",
@@ -8,83 +8,52 @@
         {
           "n": "Montevideo Portal",
           "tr": false,
-          "items": [
-            {
-              "t": "Meteorólogo advierte por ciclón extratropical en 4 departamentos uruguayos: cuándo y dónde",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980927"
-            },
-            {
-              "t": "Ministerio de Defensa recibió informe del Ejército sobre la tragedia en Fray Bentos",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980921"
-            },
-            {
-              "t": "“Hacen gárgaras con los derechos humanos”: Diputados rechazó debatir acto por Fidel Castro",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980922"
-            },
-            {
-              "t": "Polémica por los colores del Vaticano en el Parlamento: comisión no tratará el tema",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980925"
-            },
-            {
-              "t": "Saralegui: “La camiseta de Peñarol juega sola, es un poquito lo que tienen que poder”",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980919"
-            },
-            {
-              "t": "Nacional enfrenta a Ferro Carril en octavos de la Copa AUF Uruguay: “No los subestimamos”",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980933"
-            },
-            {
-              "t": "Grupo de hinchas de Peñarol realizaron banderazo en el Palacio y cantaron contra Ruglio",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980929"
-            },
-            {
-              "t": "“No nos provoquen porque sino vamos al barro”: Juri por la interpelación a Castillo",
-              "l": "https://www.montevideo.com.uy/auc.aspx?980928"
-            }
-          ]
+          "items": [],
+          "error": "mismatched tag: line 6, column 2"
         },
         {
           "n": "El Observador",
           "tr": false,
           "items": [
             {
-              "t": "EN VIVO | Midterms 2026: los demócratas toman control del Senado, con triunfos históricos en Texas y Kansas",
-              "l": "https://www.elobservador.com.uy/mundo/estados-unidos-vota-unas-elecciones-clave-trump-las-midterms-y-el-control-del-congreso-juego-n6062520",
-              "img": "https://media.elobservador.com.uy/p/63f8ef7376c2053115f7f065d276c868/adjuntos/362/imagenes/100/783/0100783619/1200x675/smart/afp__20261104__d6cm46q__v1__midres__usvotetexas.jpg"
+              "t": "Giro político en Estados Unidos: los demócratas toman control del Congreso y le dan un durísimo golpe a Trump",
+              "l": "https://www.elobservador.com.uy/estados-unidos/politica/giro-politico-estados-unidos-los-democratas-toman-control-del-congreso-y-le-dan-un-durisimo-golpe-trump-n6062677",
+              "img": "https://media.elobservador.com.uy/p/56cff017e0bd6e8ea68e35bfb265993d/adjuntos/367/imagenes/100/783/0100783753/1200x675/smart/ap26308205742075.jpg"
             },
             {
-              "t": "Madre de uno de los soldados ahogados se queja de falta de información sobre qué ocurrió en el ejercicio fatal de nado en Fray Bentos",
-              "l": "https://www.elobservador.com.uy/nacional/madre-uno-los-soldados-ahogados-se-queja-falta-informacion-que-ocurrio-el-ejercicio-fatal-nado-fray-bentos-n6062617",
-              "img": "https://media.elobservador.com.uy/p/1231bb0cf9a6f6fbca1f5a3545b14517/adjuntos/362/imagenes/100/752/0100752115/1200x675/smart/el-ejercito-nacional-traslada-vehiculos-que-seran-entregados-en-calidad-de-prestamo-al-mi-5-1024x683.jpeg"
+              "t": "República Ganadera: informe concluyó que existió \"una maniobra coordinada de desvío de fondos y vaciamiento patrimonial\" de la empresa",
+              "l": "https://www.elobservador.com.uy/nacional/republica-ganadera-informe-tecnico-concluyo-que-existio-una-maniobra-coordinada-desvio-fondos-y-vaciamiento-patrimonial-la-empresa-n6062635",
+              "img": "https://media.elobservador.com.uy/p/b5fcab824e144aaf784ff9ab3ec7d034/adjuntos/362/imagenes/100/701/0100701281/1200x675/smart/mauro-mussio-y-nicolas-jasidakis-fiscalia.jpeg"
             },
             {
-              "t": "¡Habemus papamóvil!: presentaron el vehículo en el que se trasladará el papa León XIV en Uruguay",
-              "l": "https://www.elobservador.com.uy/nacional/habemus-papamovil-presentaron-el-vehiculo-el-que-se-trasladara-el-papa-leon-xiv-uruguay-n6062628",
-              "img": "https://media.elobservador.com.uy/p/f9b1c47f7fa60ac2cd0ada8d02cf8353/adjuntos/362/imagenes/100/783/0100783583/1200x675/smart/papamovil-la-visita-leon-xiv-uruguay-presentacion-nordex.jpeg"
+              "t": "\"Esos países que tanto quiero\": el papa León XIV pidió oraciones por su viaje a Uruguay, Argentina y Perú",
+              "l": "https://www.elobservador.com.uy/nacional/esos-paises-que-tanto-quiero-el-papa-leon-xiv-pidio-oraciones-su-viaje-uruguay-argentina-y-peru-n6062689",
+              "img": "https://media.elobservador.com.uy/p/841e17e2b2f21c69e7788edcf6ca0e6d/adjuntos/362/imagenes/100/783/0100783756/1200x675/smart/image.png"
             },
             {
-              "t": "Escándalo en Paraguay: cierra un banco que tenía fondos estatales y 3 millones de clientes",
-              "l": "https://www.elobservador.com.uy/economia-y-empresas/escandalo-paraguay-cierra-un-banco-que-tenia-fondos-estatales-y-3-millones-clientes-n6062611",
-              "img": "https://media.elobservador.com.uy/p/1d610a93645c4a4479be1544a7f55b92/adjuntos/362/imagenes/100/783/0100783546/1200x675/smart/banco-central-paraguay.jpg"
+              "t": "Clima de negocios y evaluación de gobierno: nueva caída en la confianza empresarial y deterioro en los juicios sobre la gestión oficial",
+              "l": "https://www.elobservador.com.uy/clima-negocios-y-evaluacion-gobierno-nueva-caida-la-confianza-empresarial-y-deterioro-los-juicios-la-gestion-del-gobierno-n6062624",
+              "img": "https://media.elobservador.com.uy/p/4c7929ef387c7a3e61305e49bf6c7e89/adjuntos/362/imagenes/100/783/0100783581/1200x675/smart/image.png"
             },
             {
-              "t": "\"En la casa de la democracia, no\": blancos y colorados rechazan homenaje a Fidel Castro en el Parlamento",
-              "l": "https://www.elobservador.com.uy/nacional/en-la-casa-la-democracia-no-blancos-y-colorados-rechazan-homenaje-fidel-castro-el-parlamento-n6062616",
-              "img": "https://media.elobservador.com.uy/p/50417323bbfa5dee4137d8125ddaa226/adjuntos/362/imagenes/100/692/0100692120/1200x675/smart/httpswwwbbccommundoarticlescm2dl44yvnno.jpg"
+              "t": "Puerto de aguas profundas en Rocha: Orsi reflota la idea y actualizará el proyecto en que trabajó Mujica",
+              "l": "https://www.elobservador.com.uy/nacional/puerto-oceanico-rocha-orsi-reflota-la-idea-y-actualizara-el-proyecto-que-trabajo-mujica-n6062613",
+              "img": "https://media.elobservador.com.uy/p/42760abcf700e49d4368e9ac7a648efa/adjuntos/362/imagenes/100/783/0100783563/1200x675/smart/puerto-aguas-profundas.jpg"
             },
             {
-              "t": "Quién es Jesús Owono, el arquero que causó la muerte de Jesús de Miguel de Tenerife, y cómo se expresó en sus redes sociales",
-              "l": "https://www.elobservador.com.uy/futbol-internacional/quien-es-jesus-owono-el-arquero-que-causo-la-muerte-jesus-miguel-tenerife-y-como-se-expreso-sus-redes-sociales-n6062542"
+              "t": "El día después de la muerte de Jesús de Miguel: Owono, muy afectado, no fue a entrenar con Andorra, se aplazaron partidos y Tenerife despide a su futbolista",
+              "l": "https://www.elobservador.com.uy/futbol/el-dia-despues-la-muerte-jesus-miguel-owono-muy-afectado-no-fue-entrenar-andorra-se-aplazaron-partidos-y-tenerife-despidio-su-futbolista-n6062699",
+              "img": "https://media.elobservador.com.uy/p/5a736b1a46c48eff39c6e4bd888e3291/adjuntos/362/imagenes/100/783/0100783774/1200x675/smart/santa-cruz-tenerife-03112026-cientos-personas-se-han-reunido-este-martes-el-exterior-del-estadio-heliodoro-rodriguez-lopez-despedir-un-minuto-silencio-y-una-ofrenda-flores-al-jugador-jesus-miguel-fallecido-esta-manana-tras.jpg"
             },
             {
-              "t": "Los uruguayos \"no somos tibios, somos picantes, somos Catán a veces\": Matías Catán y el devenir de un protagonista de Gran Hermano Uruguay",
-              "l": "https://www.elobservador.com.uy/cultura-y-espectaculos/los-uruguayos-no-somos-tibios-somos-picantes-somos-catan-veces-matias-catan-y-el-devenir-un-protagonista-gran-hermano-uruguay-n6062567",
-              "img": "https://media.elobservador.com.uy/p/48a9692b7aba7ebaede34dd59d58c0c0/adjuntos/362/imagenes/100/783/0100783258/1200x675/smart/matias-catan-gran-hermano-uruguay.jpg"
+              "t": "Europa necesita crecer más rápido y mira la agenda de reformas de Latinoamérica",
+              "l": "https://www.elobservador.com.uy/mundo/europa-necesita-crecer-mas-rapido-y-mira-la-agenda-reformas-latinoamerica-n6062604",
+              "img": "https://media.elobservador.com.uy/p/05ee25d96cfc670d55d8c506913ab85d/adjuntos/362/imagenes/100/783/0100783508/1200x675/smart/la-presidenta-ejecutiva-banco-santander-ana-botin-y-el-presidente-chile-jose-antonio-kast-la-conferencia-internacional-banca-banco-santander-2026.jpeg"
             },
             {
-              "t": "\"No soy MAGA\": el republicano latino que defiende a ICE y busca dar vuelta un bastión demócrata en Texas",
-              "l": "https://www.elobservador.com.uy/estados-unidos/politica/no-soy-maga-el-republicano-latino-que-defiende-ice-y-busca-dar-vuelta-un-bastion-democrata-texas-n6062570",
-              "img": "https://media.elobservador.com.uy/p/034065ee30c13269150d8ae480a6d549/adjuntos/367/imagenes/100/783/0100783534/1200x675/smart/marcus-cardenas.jpg"
+              "t": "Estancamiento regional: Uruguay, Argentina y Brasil muestran un pobre desempeño económico",
+              "l": "https://www.elobservador.com.uy/economia-y-empresas/estancamiento-regional-uruguay-argentina-y-brasil-muestran-un-pobre-desempeno-economico-n6062614",
+              "img": "https://media.elobservador.com.uy/p/51a84be1c88e0dae4a26870db05df689/adjuntos/362/imagenes/100/783/0100783564/1200x675/smart/image.png"
             }
           ]
         },
@@ -92,6 +61,18 @@
           "n": "la diaria",
           "tr": false,
           "items": [
+            {
+              "t": "Liga Uruguaya: Malvín le sacó el invicto a Biguá",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-malvin-le-saco-el-invicto-a-bigua/"
+            },
+            {
+              "t": "Presentaron denuncia penal contra Fernando Vilar por “actos de odio con apariencia delictiva contra la población trans”",
+              "l": "https://ladiaria.com.uy/feminismos/articulo/2026/11/presentaron-denuncia-penal-contra-fernando-vilar-por-actos-de-odio-con-apariencia-delictiva-contra-la-poblacion-trans/"
+            },
+            {
+              "t": "Exportaciones en octubre crecieron 1% interanual y la Unión Europea fue el principal destino",
+              "l": "https://ladiaria.com.uy/economia/articulo/2026/11/exportaciones-en-octubre-crecieron-1-interanual-y-la-union-europea-fue-el-principal-destino/"
+            },
             {
               "t": "Teléfono para Donald",
               "l": "https://ladiaria.com.uy/articulo/2026/11/telefono-para-donald/"
@@ -111,18 +92,6 @@
             {
               "t": "Cambios profundos en la televisión: Juan Ramón Carrasco irá a Buscadores y Fernando Vilar a El Observador TV",
               "l": "https://ladiaria.com.uy/humor/articulo/2026/11/cambios-profundos-en-la-television-juan-ramon-carrasco-ira-a-buscadores-y-fernando-vilar-a-el-observador-tv/"
-            },
-            {
-              "t": "Protestas en Albania: el águila contra los flamencos",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/protestas-en-albania-el-aguila-contra-los-flamencos/"
-            },
-            {
-              "t": "España: el ministro de Transportes anunció su dimisión y la renuncia a ir en las listas para el 29N",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/espana-el-ministro-de-transportes-anuncio-su-dimision-y-la-renuncia-a-ir-en-las-listas-para-el-29n/"
-            },
-            {
-              "t": "Papamóvil hecho acá",
-              "l": "https://ladiaria.com.uy/articulo/2026/11/papamovil-hecho-aca/"
             }
           ]
         },
@@ -131,36 +100,36 @@
           "tr": false,
           "items": [
             {
-              "t": "“Me enteré por televisión” y “era una persona maravillosa”: el dolor de las familias de los militares fallecidos en Fray Bentos",
-              "l": "https://www.teledoce.com/telemundo/nacionales/me-entere-por-television-y-era-una-persona-maravillosa-el-dolor-de-las-familias-de-los-militares-fallecidos-en-fray-bentos/"
+              "t": "Una mujer de unos 80 años está grave tras caer en la calle y ser atropellada por un auto en Capurro",
+              "l": "https://www.teledoce.com/telemundo/policiales/una-mujer-de-unos-80-anos-esta-grave-tras-caer-en-la-calle-y-ser-atropellada-por-un-auto-en-capurro/"
             },
             {
-              "t": "Longines Breeders' Cup Classic",
-              "l": "https://www.teledoce.com/programas/mundo-turf/longines-breeders-cup-classic/"
+              "t": "Chocó con su Mercedes-Benz a dos adolescentes en moto y huyó; su padre asumió la culpa ante la Policía, pero finalmente imputaron al hijo",
+              "l": "https://www.teledoce.com/telemundo/policiales/choco-con-su-mercedes-benz-a-dos-adolescentes-en-moto-y-huyo-su-padre-asumio-la-culpa-ante-la-policia-pero-finalmente-imputaron-al-hijo/"
             },
             {
-              "t": "Renunció el ministro de Transportes de España tras accidente de tren en el que murieron 69 personas",
-              "l": "https://www.teledoce.com/telemundo/internacionales/renuncio-el-ministro-de-transportes-de-espana-tras-accidente-de-tren-en-el-que-murieron-69-personas/"
+              "t": "Esteban Lamothe llega a Montevideo con \"Sombras, por supuesto\"",
+              "l": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/esteban-lamothe-llega-a-montevideo-con-sombras-por-supuesto/"
             },
             {
-              "t": "Presentaron el papamóvil fabricado en Uruguay: cómo es el vehículo que utilizará León XIV",
-              "l": "https://www.teledoce.com/telemundo/nacionales/presentaron-el-papamovil-fabricado-en-uruguay-como-es-el-vehiculo-que-utilizara-leon-xiv/"
+              "t": "Dos hombres resultaron con graves heridas tras tiroteo a la salida de un gimnasio en Bella Unión",
+              "l": "https://www.teledoce.com/telemundo/policiales/dos-hombres-resultaron-con-graves-heridas-tras-tiroteo-a-la-salida-de-un-gimnasio-en-bella-union/"
             },
             {
-              "t": "Siete vuelos  que cubrían distintas rutas europeas fueron blanco de presuntas amenazas de bomba",
-              "l": "https://www.teledoce.com/telemundo/internacionales/siete-vuelos-que-cubrian-distintas-rutas-europeas-fueron-blanco-de-presuntas-amenazas-de-bomba/"
+              "t": "Hablar de amor: el desafío de encontrarnos hoy",
+              "l": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/hablar-de-amor-el-desafio-de-encontrarnos-hoy/"
             },
             {
-              "t": "Diputados analizan exigir un seguro para perros potencialmente peligrosos: \"La responsabilidad siempre es del humano\"",
-              "l": "https://www.teledoce.com/telemundo/nacionales/diputados-analizan-exigir-un-seguro-para-perros-potencialmente-peligrosos-la-responsabilidad-siempre-es-del-humano/"
+              "t": "\"La prioridad la tienen las familias\": Intendencia de Paysandú y Sinae trabajan en atender a afectados tras tormenta de granizo en la zona",
+              "l": "https://www.teledoce.com/telemundo/nacionales/la-prioridad-la-tienen-las-familias-intendencia-de-paysandu-y-sinae-trabajan-en-atender-a-afectados-tras-tormenta-de-granizo-en-la-zona/"
             },
             {
-              "t": "Abuso sexual en la infancia: sobrevivientes reclaman poder denunciar sin límite de tiempo",
-              "l": "https://www.teledoce.com/programas/esta-boca-es-mia/abuso-sexual-en-la-infancia-sobrevivientes-reclaman-poder-denunciar-sin-limite-de-tiempo/"
+              "t": "Montelongo: \"Decano barato\"",
+              "l": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/montelongo-decano-barato/"
             },
             {
-              "t": "¿Lluvias y tormentas durante la visita del papa León XIV a Uruguay? Esto pronostica Inumet para los tres días",
-              "l": "https://www.teledoce.com/telemundo/nacionales/lluvias-y-tormentas-durante-la-visita-del-papa-leon-xiv-a-uruguay-esto-pronostica-inumet-para-los-tres-dias/"
+              "t": "Zonas a evitar sí o sí y cómo llegar: consejos para circular en Montevideo y las rutas durante los días de la visita del papa León XIV",
+              "l": "https://www.teledoce.com/telemundo/nacionales/zonas-a-evitar-si-o-si-y-como-llegar-consejos-para-circular-en-montevideo-y-las-rutas-durante-los-dias-de-la-visita-del-papa-leon-xiv/"
             }
           ]
         }
@@ -175,44 +144,44 @@
           "tr": false,
           "items": [
             {
-              "t": "En 1984, el portaaviones USS Kitty Hawk, de 80.000 toneladas, colisionó con un submarino nuclear ruso que se desplazaba a 15 nudos: partes del submarino quedaron adheridas al casco del portaaviones",
-              "l": "https://www.clarin.com/estados-unidos/1984-portaaviones-uss-kitty-hawk-80000-toneladas-colisiono-submarino-nuclear-ruso-desplazaba-15-nudos-partes-submarino-quedaron-adheridas-casco-portaaviones_0_kqC5f89gLi.html",
-              "img": "https://www.clarin.com/img/2026/10/22/7I7XkK67d_1200x630__1.jpg"
+              "t": "José Antonio Marina, filósofo español: \"Hemos dado demasiada importancia al trabajo y no a los 'hobbies'\"",
+              "l": "https://www.clarin.com/internacional/jose-antonio-marina-filosofo-espanol-dado-demasiada-importancia-trabajo-hobbies_0_ZD6lH78L1M.html",
+              "img": "https://www.clarin.com/img/2026/07/15/puerww_cr_1200x630__1.jpg"
             },
             {
-              "t": "James Talarico, el seminarista progresista que conquistó el conservador Texas",
-              "l": "https://www.clarin.com/estados-unidos/james-talarico-el-seminarista-progresista-que-conquisto-el-conservador-texas_0_juv3hUmD5V.html",
-              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
-            },
-            {
-              "t": "Talarico, senador demócrata por Texas, tras su histórica victoria: Le ganamos a Goliat",
-              "l": "https://www.clarin.com/estados-unidos/talarico-senador-democrata-por-texas-tras-su-historica-victoria-le-ganamos-a-goliat_0_Km0gz12B3c.html",
-              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
-            },
-            {
-              "t": "El principal negociador de Irán afirma que los estadounidenses votaron \"no a la guerra\"",
-              "l": "https://www.clarin.com/estados-unidos/el-principal-negociador-de-iran-afirma-que-los-estadounidenses-votaron-no-a-la-guerra_0_cs6buKQ96c.html",
-              "img": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg"
-            },
-            {
-              "t": "El muro rojo de los republicanos en Florida resiste a la ola azul demócrata en EE.UU.",
-              "l": "https://www.clarin.com/estados-unidos/el-muro-rojo-de-los-republicanos-en-florida-resiste-a-la-ola-azul-democrata-en-ee-uu_0_fuXzvelzoI.html",
-              "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
-            },
-            {
-              "t": "La demócrata latina Gina Hinojosa, el rostro del cambio político en Texas",
-              "l": "https://www.clarin.com/estados-unidos/la-democrata-latina-gina-hinojosa-el-rostro-del-cambio-politico-en-texas_0_YiHtoRnvEZ.html",
+              "t": "Alaska y Misisipi continúan el conteo de votos en medio de históricas victorias demócratas",
+              "l": "https://www.clarin.com/estados-unidos/alaska-y-misisipi-continuan-el-conteo-de-votos-en-medio-de-historicas-victorias-democratas_0_GPAIKJWRVg.html",
               "img": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
             },
             {
-              "t": "Las 4 razas de perros medianos más elegidos en EE.UU.: características, tamaño y los tipos de personalidad que debes conocer de cada una",
-              "l": "https://www.clarin.com/estados-unidos/4-razas-perros-medianos-elegidos-eeuu-caracteristicas-tamano-tipos-personalidad-debes-conocer_0_9iDfGoYD1J.html",
-              "img": "https://www.clarin.com/img/2021/07/24/3Dn0wkdzV_1200x630__1.jpg"
+              "t": "Rating del martes: la intriga de la final no le alcanzó a Popstars para despedirse bien arriba",
+              "l": "https://www.clarin.com/espectaculos/rating-martes-intriga-final-alcanzo-popstars-despedirse-bien-arriba_0_ZW1IHjWCVK.html",
+              "img": "https://www.clarin.com/img/2026/11/04/OpoL8gjLo_1200x630__1.jpg"
             },
             {
-              "t": "Susan Collins, la histórica senadora \"moderada\" arrastrada por la ola contra Trump",
-              "l": "https://www.clarin.com/estados-unidos/susan-collins-la-historica-senadora-moderada-arrastrada-por-la-ola-contra-trump_0_7xUmt7Bvqn.html",
-              "img": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
+              "t": "Una adolescente de 15 años fue obligada a prostituirse durante cuatro meses: 900 clientes y 70 mil dólares en ingresos",
+              "l": "https://www.clarin.com/internacional/adolescente-15-anos-obligada-prostituirse-meses-900-clientes-70-mil-dolares-ingresos_0_vO6dhHcX7r.html",
+              "img": "https://www.clarin.com/img/2026/11/04/Dq5TrvB1O_1200x630__1.jpg"
+            },
+            {
+              "t": "Cabeceó una pelota, se le cayó el implante capilar y siguió jugando con el peluquín en la mano: insólito momento en el fútbol brasileño",
+              "l": "https://www.clarin.com/deportes/cabeceo-pelota-cayo-implante-capilar-siguio-jugando-peluquin-mano-insolito-momento-futbol-brasileno_0_Eki0G4BEgF.html",
+              "img": "https://www.clarin.com/img/2026/11/04/nqK9Sw2X8_1200x630__1.jpg"
+            },
+            {
+              "t": "Mariano Rajoy criticó los duros ataques de Milei a Pedro Sánchez: \"Se puede ser más fino\"",
+              "l": "https://www.clarin.com/politica/mariano-rajoy-critico-duros-ataques-milei-pedro-sanchez-puede-fino_0_WYJDy0C3df.html",
+              "img": "https://www.clarin.com/img/2026/07/13/mIqo50Bv1_1200x630__1.jpg"
+            },
+            {
+              "t": "\"Por primera vez, dejé a mi marido y a mis tres hijos para asistir a una conferencia de trabajo. Al final, añadí dos días para viajar sola\"",
+              "l": "https://www.clarin.com/estados-unidos/primera-vez-deje-marido-hijos-asistir-conferencia-trabajo-final-anadi-dias-viajar-sola_0_xUNMUq0e6H.html",
+              "img": "https://www.clarin.com/img/2026/10/12/_5Tess4zp_1200x630__1.jpg"
+            },
+            {
+              "t": "Ana Botín, número uno del Banco Santander, destacó las mejoras de Argentina, pero advirtió: \"Lo importante es traducir la política macro a lo micro\"",
+              "l": "https://www.clarin.com/economia/ana-botin-numero-banco-santander-destaco-mejoras-argentina-advirtio-importante-traducir-politica-macro-micro_0_hritf0Hr8I.html",
+              "img": "https://www.clarin.com/img/2026/11/04/R3ONDBMSD_1200x630__1.jpg"
             }
           ]
         },
@@ -221,44 +190,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Los demócratas le arrebataron a Trump el control del Congreso en las elecciones de medio término",
-              "l": "https://www.lanacion.com.ar/estados-unidos/los-democratas-se-perfilan-como-favoritos-para-arrebatarle-a-trump-el-control-del-congreso-nid03112026/",
+              "t": "Resultados de las elecciones 2026 en Estados Unidos: así quedó la nueva composición del Congreso",
+              "l": "https://www.lanacion.com.ar/estados-unidos/washington/resultados-en-vivo-de-las-elecciones-en-estados-unidos-como-van-las-legislativas-de-medio-termino-nid03112026/",
               "img": "https://resizer.glanacion.com/resizer/v2/4TV22KM7YFCDBBWMINXD7IUC7E.JPG?auth=32eec06c7a8326e431737747a7e1daf8732d09af7d62724b7f33ede97e93a91b&smart=true&width=6162&height=4010"
             },
             {
-              "t": "La reacción de los medios del mundo ante la victoria demócrata en las elecciones intermedias de Estados Unidos",
-              "l": "https://www.lanacion.com.ar/el-mundo/la-reaccion-de-los-medios-del-mundo-ante-la-victoria-democrata-en-las-elecciones-intermedias-de-nid04112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/YR5HFCVUONE3ZCRY6HNXA4L22U.jpeg?auth=fe55274718824798f6293b029b5f4fd604032c8b90471c091df55e120841e7d2&smart=true&width=1280&height=854"
+              "t": "Cómo sigue la salud de las dos jóvenes baleadas tras escapar de un control policial en Arrecifes",
+              "l": "https://www.lanacion.com.ar/seguridad/como-sigue-la-salud-de-las-dos-jovenes-baleadas-tras-escapar-de-un-control-policial-en-arrecifes-nid04112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/C5OASSHKM5CGTAISGKGDEXQPDA.jpg?auth=381af542329c3dbf302658b8f7323a901ca5f54cd8123be160eb02541f267270&smart=true&width=1360&height=910"
             },
             {
-              "t": "Resultados en vivo de las elecciones en California: quién gana entre Xavier Becerra y Steve Hilton",
-              "l": "https://www.lanacion.com.ar/estados-unidos/california/resultados-en-vivo-de-las-elecciones-en-california-quien-gana-entre-xavier-becerra-y-steve-hilton-nid03112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/PXQJWFTELBEQHLALURSIL3HDBE.jpg?auth=842836affd925b82bff94caa17b56c95f191e41814f458dabf1112b70ec6f7d9&smart=true&width=2000&height=1333"
+              "t": "Cristina Kirchner, 73 años, sobre su rutina en prisión domiciliaria: “Hago ejercicio cuatro o cinco veces por semana y estudio inglés y chino para evitar que mis neuronas envejezcan”",
+              "l": "https://www.lanacion.com.ar/salud/vida_sana/cristina-kirchner-73-anos-sobre-su-rutina-en-prision-domiciliaria-hago-ejercicio-cuatro-o-cinco-nid02112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/I5LIDPB2HJHYPBPAYR4ITCNUFM.JPG?auth=9f9de57630adc85b836d2499b6d965edc3b905e63dec35ef02227697e29e061a&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Mamdani confirmó que inmigrantes con SNAP en Nueva York podrán recibir un 40% más para comprar frutas y verduras desde enero",
-              "l": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-confirmo-que-los-beneficiarios-de-snap-en-nueva-york-podran-recibir-un-40-mas-para-comprar-nid03112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/3SWHAWCLWNEOTKLLZ7Y5VS44XI.jpg?auth=8f4a620cac7dde5ba44706fe2a8aa05dbfe53b9650b24c279d38e585282cc846&smart=true&width=2000&height=1333"
+              "t": "Jennifer Aniston, 57 años, sobre cómo se cuida: “Antes pensaba que entrenar era transpirar durante 45 minutos o una hora”",
+              "l": "https://www.lanacion.com.ar/salud/jennifer-aniston-57-anos-sobre-como-se-cuida-antes-pensaba-que-entrenar-era-transpirar-durante-45-nid03112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/EUBGTL737JGH3PI3U5WXTRBTYY.png?auth=74326c1c084a4b9c0bbcfbd88ffd6c80cda4ba7db192bebfb9431b72919b5cd2&smart=true&width=515&height=433"
             },
             {
-              "t": "Con 58 años, se animó a empezar de nuevo y buscar oportunidades en España: “No quiero que el miedo decida por mí”",
-              "l": "https://www.lanacion.com.ar/lifestyle/con-58-anos-se-animo-a-empezar-de-nuevo-y-buscar-oportunidades-en-espana-no-quiero-que-el-miedo-nid04112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/5W2BAI2SNNH6XD7VHCHU3KIADE.jpg?auth=3f48e2f36dc5003cea8e843369efcc0f9780ba1fc9c2b2064a327082db88670f&smart=true&width=1360&height=905"
+              "t": "Stefano Di Carlo, presidente de River: “Además de ser un muy mal árbitro, Ramírez fue decididamente a complicar el partido”",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/river-plate/stefano-di-carlo-presidente-de-river-ademas-de-ser-un-muy-mal-arbitro-ramirez-fue-decididamente-a-nid04112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/ALQ4JI3RKVEPPCA5XVISAFRT2U.jpeg?auth=949aef7ff041bef200f5528db41ef791c4ba0af035b838634d3bf4fe5af1a491&smart=true&width=1360&height=910"
             },
             {
-              "t": "Resultados en vivo de las elecciones en Estados Unidos: cómo van las legislativas de medio término 2026",
-              "l": "https://www.lanacion.com.ar/estados-unidos/washington/resultados-en-vivo-de-las-elecciones-en-estados-unidos-como-van-las-legislativas-de-medio-termino-nid03112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/ANAZOD5BPZFOBO4PRH4XDSLSUQ.JPG?auth=f1339ddea7a231e512db00c78191d4e26b0fb2b4ab33b0fe1c8e8498f6a54b6b&smart=true&width=3351&height=2234"
+              "t": "Quién ganó las elecciones en Florida 2026 y resultados de las midterms en Miami, Orlando y Tampa",
+              "l": "https://www.lanacion.com.ar/estados-unidos/florida/quien-gano-las-elecciones-en-florida-2026-y-resultados-de-las-midterms-en-miami-orlando-y-tampa-nid03112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/YQ6Z2JENSFGRDAGAJDSIZKQXSM.jpg?auth=16a77ea0acb89590abe0b08778a0f1cdcc1aa49200f49473e00fd32fcde80098&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Ni entrada ni acompañamiento, el plato español es el corazón del negocio: “Las tortillas son jugosas sin llegar a babé”",
-              "l": "https://www.lanacion.com.ar/lifestyle/ni-entrada-ni-acompanamiento-el-plato-espanol-es-el-corazon-del-negocio-las-tortillas-son-jugosas-nid04112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/3QFAMHWSGNHVNAAGMHJUC7ZZGY.JPG?auth=996b61fa5535c920989d2c987d7b972cacae0ca46dcf4a231742f1ecec150833&smart=true&width=2400&height=1800"
+              "t": "La debacle en las elecciones de EE.UU. deja una herida difícil de cerrar para Trump: los motivos y el debate para el futuro",
+              "l": "https://www.lanacion.com.ar/estados-unidos/la-debacle-en-las-elecciones-de-eeuu-deja-una-herida-dificil-de-cerrar-para-trump-los-motivos-y-el-nid04112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/VGT5JNMIWJGIPJ7Q5XBOUQ3HHM.jpg?auth=a49a56c782dd76825d3bb6de874d51fd03a1f2b6a1fec33f2046a5d66a362bde&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Gachi Ferrari: la conductora que marcó a una generación con “El libro gordo de Petete” repasa su historia de amor de más de cuatro décadas",
-              "l": "https://www.lanacion.com.ar/revista-hola/gachi-ferrari-la-conductora-que-marco-a-una-generacion-con-el-libro-gordo-de-petete-repasa-su-nid04112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/R7COTMGHQBCYJH2LN7FVEG7QMI.jpg?auth=8ca17fef14ee4be02ed6d9c65c28eb7bfb9697f6e3e764698cc20a5b4575d576&smart=true&width=4381&height=2921"
+              "t": "Elecciones en Estados Unidos 2026, EN VIVO: republicanos vs. demócratas y las últimas noticias de cómo quedan la Cámara y el Senado, voto a voto",
+              "l": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-estados-unidos-2026-en-vivo-republicanos-vs-democratas-y-las-ultimas-noticias-de-como-nid03112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/SB5LZVUN6RDCRGJDZKFAME5EE4.JPG?auth=bdf6c18b4cf38d19a8e549f5bc0c12c05d4684ad978f03a37b9515963964b4e2&smart=true&width=3409&height=2273"
             }
           ]
         },
@@ -267,24 +236,33 @@
           "tr": false,
           "items": [
             {
+              "t": "Resultados de las elecciones en Estados Unidos: una dura derrota para Donald Trump y un dolor de cabeza para Javier Milei",
+              "l": "https://www.pagina12.com.ar/2026/11/03/elecciones-en-estados-unidos-un-test-sobre-el-gobierno-de-donald-trump-y-un-dolor-de-cabeza-para-javier-milei/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/CDBFICA5IVDFZKVPKS7CGMJOWI.jpg?auth=6ecdc64c5a0f1380c0785c850106cea2cb7d5986b0983cdb45a4676436cdfcee&smart=true&width=4962&height=3307"
+            },
+            {
               "t": "Los demócratas toman el control total del Congreso de EE.UU. en un duro golpe a Trump",
               "l": "https://www.pagina12.com.ar/2026/11/04/estados-unidos-los-primeros-resultados-de-las-legislativas-castigan-la-gestion-de-trump/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/W2PMFJ2TTVBX3M2J3OKHLUBR64.jpg?auth=1707d2d688f58e741aed838f5549dbeb2b66dd1050d98640fb0304af5b049c7b&smart=true&width=4961&height=3307"
             },
             {
-              "t": "Una democracia de baja calidad",
-              "l": "https://www.pagina12.com.ar/2026/11/04/una-democracia-de-baja-calidad/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/VDM7VKMZZNAHBCVZKTI6GBKOIY.jpg?auth=f356ea3c87edf3c3a42e60dd30cd060543b5e66e521baa5c22e4d111bf7eba31&smart=true&width=3000&height=2000"
+              "t": "De la derrota republicana en Texas al primer senador musulmán: seis hitos de las elecciones en EE.UU.",
+              "l": "https://www.pagina12.com.ar/2026/11/04/de-la-derrota-republicana-en-texas-al-primer-senador-musulman-seis-hitos-de-las-elecciones-en-eeuu/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/IOK6MW4OGJFCZGQW45ML32M7GM.jpg?auth=12165bbfc7bef933497ea6ca2874e6580f624002e0caef69c678bfd37e352a39&smart=true&width=1200&height=748"
             },
             {
-              "t": "Resultados elecciones en Estados Unidos: un test sobre el gobierno de Donald Trump y un dolor de cabeza para Javier Milei",
-              "l": "https://www.pagina12.com.ar/2026/11/03/elecciones-en-estados-unidos-un-test-sobre-el-gobierno-de-donald-trump-y-un-dolor-de-cabeza-para-javier-milei/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/LZFTMS5BTVD6RDLZW4JCDRCYYQ.jpg?auth=8c4a9c46daaa5b63bcc759dfb9122e3f2b1aa1d42fb6f1678cb72675ef59df6f&smart=true&width=4480&height=2984"
+              "t": "La chicana de Cristina Kirchner a Trump y Milei tras la derrotas de las elecciones",
+              "l": "https://www.pagina12.com.ar/2026/11/04/la-chicana-de-cristina-kirchner-a-trump-y-milei-tras-la-derrotas-de-las-elecciones/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/CNNXLWOR7RHAPHLX6PXRDXVVBI.jpg?auth=70cc9054b4fef1d8420271d5368e7589c1e168d59503aea38e520edbc1a0f51b&smart=true&width=2500&height=1667"
             },
             {
-              "t": "Caputo ofrece cuidados paliativos a una industria en terapia",
-              "l": "https://www.pagina12.com.ar/2026/11/03/caputo-ofrece-cuidados-paliativos-a-una-industria-en-terapia/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/LINLTOX63ND25KCB23GICOMRRE.jpg?auth=0005d746d03550544f9012874e56374606fb94515381c0c01bd8ca9ebc180b32&smart=true&width=2484&height=1656"
+              "t": "El mapa con todos los resultados de las elecciones de Estados Unidos 2026",
+              "l": "https://www.pagina12.com.ar/2026/11/04/el-mapa-con-todos-los-resultados-de-las-elecciones-de-estados-unidos/"
+            },
+            {
+              "t": "Dólar blue, dólar hoy: a cuánto cotizan el miércoles 4 de noviembre de 2026",
+              "l": "https://www.pagina12.com.ar/2026/11/04/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-miercoles-4-de-noviembre-de-2026/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/MI2TQZBZMZSGCM3BMRSWIMBVHA.jpg?auth=42d427818275da6adb4fab7051cbc162ab8ac01a1cf3961e00985abfe0c7094f&smart=true&width=3000&height=2000"
             }
           ]
         }
@@ -299,44 +277,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Los demócratas logran mayoría en la Cámara y el Senado e imponen la derrota a Trump; SEGUIR",
-              "l": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
-              "o": "Democratas alcançam maioria na Câmara e no Senado e impõe derrota a Trump; ACOMPANHE"
+              "t": "Tras pedido de revocación, alcalde de Caçapava niega irregularidades y dice que el uso de fondos de transporte fue una 'inversión'",
+              "l": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/04/apos-pedido-de-cassacao-prefeito-de-cacapava-nega-irregularidades-e-diz-que-uso-de-verba-do-transporte-foi-investimento.ghtml",
+              "o": "Após pedido de cassação, Prefeito de Caçapava nega irregularidades e diz que uso de verba do transporte foi 'investimento'"
             },
             {
-              "t": "Elecciones en Estados Unidos: los demócratas obtienen la mayoría en la Cámara y el Senado, derrotan a Trump y toman el control del Congreso",
-              "l": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-democratas-conquistam-maioria-da-camara-e-no-senado-impoem-derrota-a-trump-e-assumem-controle-do-congresso.ghtml",
-              "o": "Eleições nos EUA: democratas conquistam maioria da Câmara e do Senado, impõem derrota a Trump e assumem controle do Congresso"
+              "t": "Zezé Di Camargo denuncia mal uso de su imagen para promocionar una plataforma de apuestas",
+              "l": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/11/04/zeze-di-camargo-denuncia-uso-indevido-de-sua-imagem-para-a-promocao-de-plataforma-de-bets.ghtml",
+              "o": "Zezé Di Camargo denuncia uso indevido de sua imagem para a promoção de plataforma de bets"
             },
             {
-              "t": "Elecciones estadounidenses: el demócrata gana la carrera por el Senado en Maine",
-              "l": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-democrata-vence-disputa-no-senado-pelo-maine.ghtml",
-              "o": "Eleições nos EUA: democrata vence disputa no Senado pelo Maine"
+              "t": "La inundación abre un cráter en la carretera y bloquea el acceso a la ciudad en el norte de RS",
+              "l": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/04/cratera-rs-463-tapejara-coxilha.ghtml",
+              "o": "Enxurrada abre cratera em rodovia e bloqueia acesso a cidade no Norte do RS"
             },
             {
-              "t": "Alexa+ acierta con su nombre, habla mejor y gana fuerza con la pantalla, pero sigue exagerando en la publicidad",
-              "l": "https://g1.globo.com/guia/guia-de-compras/tecnologia/alexa-acerta-nome-conversa-melhor-e-ganha-forca-com-tela-mas-ainda-exagera-na-propaganda.ghtml",
-              "o": "Alexa+ acerta nome, conversa melhor e ganha força com tela, mas ainda exagera na propaganda"
+              "t": "Dúo es detenido por deforestación ilegal y quema en Careiro, AM",
+              "l": "https://g1.globo.com/am/amazonas/noticia/2026/11/04/dupla-e-presa-em-flagrante-por-desmatamento-e-queimada-ilegal-em-careiro-no-am.ghtml",
+              "o": "Dupla é presa em flagrante por desmatamento e queimada ilegal em Careiro, no AM"
             },
             {
-              "t": "Agentes armados, explosiones y operaciones en el bosque; entender las acciones del Ibama contra la minería ilegal en Amazonas",
-              "l": "https://g1.globo.com/am/amazonas/noticia/2026/11/04/agentes-armados-explosoes-e-operacoes-na-mata-entenda-a-atuacao-do-ibama-contra-o-garimpo-ilegal-no-amazonas.ghtml",
-              "o": "Agentes armados, explosões e operações na mata; entenda a atuação do Ibama contra o garimpo ilegal no Amazonas"
+              "t": "Dos prófugos de la justicia son capturados por el PM en Jaíba; uno fue condenado a 20 años por violación de una persona vulnerable",
+              "l": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/04/dois-foragidos-da-justica-sao-capturados-pela-pm-em-jaiba-um-foi-condenado-a-20-anos-por-estupro-de-vulneravel.ghtml",
+              "o": "Dois foragidos da Justiça são capturados pela PM em Jaíba; um foi condenado a 20 anos por estupro de vulnerável"
             },
             {
-              "t": "Mitad de mandato: las apuestas para las elecciones ya generan más de R$ 8 mil millones en EE.UU.; ¿Puedes confiar en las previsiones?",
-              "l": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-mercados-de-previsao.ghtml",
-              "o": "Midterms: apostas para as eleições já movimentam mais de R$ 8 bilhões nos EUA; dá para confiar nas previsões?"
+              "t": "El cuerpo del instructor muerto en un accidente de ala delta en Río es enterrado en Río",
+              "l": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/11/04/despedida-instrutor-morto-em-queda-de-asa-delta.ghtml",
+              "o": "Corpo de instrutor morto em queda de asa-delta no Rio é velado no Rio"
             },
             {
-              "t": "¿Existe un límite de tiempo para tomar café sin afectar el sueño? Mira lo que dice la ciencia",
-              "l": "https://g1.globo.com/saude/noticia/2026/11/04/existe-um-horario-limite-para-tomar-cafe-sem-prejudicar-o-sono-veja-o-que-diz-a-ciencia.ghtml",
-              "o": "Existe um horário-limite para tomar café sem prejudicar o sono? Veja o que diz a ciência"
+              "t": "Madre que se encadenó en el hospital usa galones de agua para bañar a su hijo durante una crisis de agua: 'Con una taza pequeña, para ahorrar dinero'",
+              "l": "https://g1.globo.com/to/tocantins/noticia/2026/11/04/mae-que-se-acorrentou-em-hospital-usa-galoes-de-agua-para-dar-banho-no-filho-durante-crise-hidrica-no-to-de-copinho-para-economizar.ghtml",
+              "o": "Mãe que se acorrentou em hospital usa galões de água para dar banho no filho durante crise hídrica: 'De copinho, para economizar'"
             },
             {
-              "t": "RS registra 67 feminicidios en 2026; ver cómo pedir ayuda en casos de violencia doméstica",
-              "l": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/04/rs-registra-67-feminicidios-2026-veja-como-pedir-ajuda-violencia-domestica.ghtml",
-              "o": "RS registra 67 feminicídios em 2026; veja como pedir ajuda em casos de violência doméstica"
+              "t": "Video: servidor es atropellado durante celebración tras resultados electorales en MT",
+              "l": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/04/video-servidora-e-atropelada-durante-comemoracao-apos-resultado-das-eleicoes-em-mt.ghtml",
+              "o": "Vídeo: servidora é atropelada durante comemoração após resultado das eleições em MT"
             }
           ]
         },
@@ -345,44 +323,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Trump dice que aceptará los resultados electorales y trabajará con el Partido Demócrata",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-diz-que-aceitara-resultado-das-eleicoes-e-trabalhara-com-o-partido-democrata.shtml",
-              "o": "Trump diz que aceitará resultado das eleições e trabalhará com o Partido Democrata"
+              "t": "Por qué 'Calígula', de Tinto Brass, fue censurada y considerada el 'imperio de la orgía'",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/por-que-caligula-de-tinto-brass-foi-censurado-e-considerado-o-imperio-da-orgia.shtml",
+              "o": "Por que 'Calígula', de Tinto Brass, foi censurado e considerado o 'império da orgia'"
             },
             {
-              "t": "Tras la derrota de Trump, la 'ola azul' sorprende en las elecciones de EE.UU.",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/em-derrota-para-trump-onda-azul-surpreende-nas-eleicoes-dos-eua.shtml",
-              "o": "Em derrota para Trump, 'onda azul' surpreende nas eleições dos EUA"
+              "t": "Muere Tinto Brass, director del controvertido y clásico de culto 'Calígula', a los 93 años",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/morre-tinto-brass-diretor-do-polemico-e-classico-cult-caligula-aos-93-anos.shtml",
+              "o": "Morre Tinto Brass, diretor do polêmico e clássico cult 'Calígula', aos 93 anos"
             },
             {
-              "t": "James Talarico se convierte en el primer senador demócrata electo de Texas en casi 40 años",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/james-talarico-se-torna-1o-democrata-eleito-senador-pelo-texas-em-quase-40-anos.shtml",
-              "o": "James Talarico se torna 1º democrata eleito senador pelo Texas em quase 40 anos"
+              "t": "Entidad que representa a la policía federal de caminos celebra PEC de Seguridad y exige estructura",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/entidade-que-representa-policiais-rodoviarios-federais-celebra-pec-da-seguranca-e-cobra-estrutura.shtml",
+              "o": "Entidade que representa policiais rodoviários federais celebra PEC da Segurança e cobra estrutura"
             },
             {
-              "t": "Florida elige al primer gobernador negro, el republicano Byron Donalds, aliado de Trump",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/florida-elege-1o-governador-negro-o-republicano-byron-donalds-aliado-de-trump.shtml",
-              "o": "Flórida elege 1º governador negro, o republicano Byron Donalds, aliado de Trump"
+              "t": "Eve, de Embraer, cierra un acuerdo para vender hasta 12 coches voladores a la startup Flybis",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/eve-da-embraer-fecha-acordo-de-venda-de-ate-12-carros-voadores-para-startup-flybis.shtml",
+              "o": "Eve, da Embraer, fecha acordo de venda de até 12 carros voadores para startup Flybis"
             },
             {
-              "t": "New York Times explica la investigación sobre supuesta maniobra de los demócratas en Alaska en vísperas de las elecciones",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/new-york-times-explica-investigacao-sobre-suposta-manobra-de-democratas-no-alasca-as-vesperas-da-eleicao.shtml",
-              "o": "New York Times explica investigação sobre suposta manobra de democratas no Alasca às vésperas da eleição"
+              "t": "Oracle cancela acuerdo por 7.000 millones de dólares tras presión de Trump",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/oracle-cancela-acordo-de-us-7-bilhoes-apos-pressao-de-trump.shtml",
+              "o": "Oracle cancela acordo de US$ 7 bilhões após pressão de Trump"
             },
             {
-              "t": "Diego Souza suspendido por un año por usar una licencia de entrenador falsa",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/diego-souza-e-suspenso-por-um-ano-por-uso-de-licenca-falsa-de-treinador.shtml",
-              "o": "Diego Souza é suspenso por um ano por uso de licença falsa de treinador"
+              "t": "Lula 4 reabre el debate sobre el fin de los supersalarios y la evaluación de los funcionarios",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-4-reabre-debate-sobre-fim-dos-supersalarios-e-avaliacao-de-servidores.shtml",
+              "o": "Lula 4 reabre debate sobre fim dos supersalários e avaliação de servidores"
             },
             {
-              "t": "Los aliados de los demócratas reclutaron al homónimo del senador republicano para presentarse a las elecciones en Alaska, dice un periódico",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/aliados-de-democrata-recrutaram-homonimo-de-senador-republicano-para-disputar-eleicao-no-alasca-diz-jornal.shtml",
-              "o": "Aliados de democrata recrutaram homônimo de senador republicano para disputar eleição no Alasca, diz jornal"
+              "t": "Las etiquetas de prueba simplificadas pueden llevar a los médicos a realizar diagnósticos erróneos",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/rotulos-simplificados-de-exames-podem-levar-medicos-a-erros-de-diagnostico.shtml",
+              "o": "Rótulos simplificados de exames podem levar médicos a erros de diagnóstico"
             },
             {
-              "t": "Ministerio Público de Chile acusa a Valdivia de delitos sexuales y busca arresto",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/ministerio-publico-do-chile-acusa-valdivia-de-crimes-sexuais-e-pede-prisao.shtml",
-              "o": "Ministério Público do Chile acusa Valdivia de crimes sexuais e pede prisão"
+              "t": "Olvidé su cumpleaños por primera vez desde que murió. ¿Seguir viviendo traiciona la memoria?",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/amor-cronico/2026/11/esqueci-o-aniversario-dela-pela-primeira-vez-desde-que-ela-morreu-seguir-vivendo-e-trair-a-memoria.shtml",
+              "o": "Esqueci o aniversário dela pela primeira vez desde que ela morreu. Seguir vivendo é trair a memória?"
             }
           ]
         },
@@ -391,52 +369,51 @@
           "tr": true,
           "items": [
             {
-              "t": "UOL EM 8",
-              "l": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/03/boletim-uol-em-8-prisao-por-agressao-em-osasco-bets-no-stf-e-ciclone.ghtm",
-              "img": "https://imguol.com/c/noticias/d7/2026/06/11/frente-fria-associada-a-ciclone-extratropical-traz-temporal-e-ventos-fortes-ao-sul-1781190963137_v2_300x225.jpg",
-              "o": "UOL EM 8"
+              "t": "SEGUIMIENTO DE OFERTAS",
+              "l": "https://www.uol.com.br/flash/?c=6aeb323eec8e2ed6aadc25df",
+              "img": "https://imguol.com/c/guia-de-compras/e0/2026/06/01/samsung-galaxy-a37-5g-1780343019646_v2_150x112.png",
+              "o": "MONITOR DE OFERTAS"
             },
             {
-              "t": "Vinicius Torres Freire",
-              "l": "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/plano-lara-resende-e-variantes-fracassariam-antes-mesmo-de-comecar.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/81/2023/01/10/vinicius-torres-freire-1673361669339_100x100.jpg",
-              "o": "Vinicius Torres Freire"
+              "t": "DISCULPA ALGO",
+              "l": "https://www.uol.com.br/universa/noticias/redacao/2026/11/04/maria-mariana-no-desculpa-alguma-coisa-com-tati-bernardi.htm",
+              "img": "https://imguol.com/c/home/73/2026/11/04/maria-mariana-no-desculpa-alguma-coisa-1793799559819_v2_300x225.jpg",
+              "o": "DESCULPA ALGUMA COISA"
             },
             {
-              "t": "Luciana Bugni",
-              "l": "https://www.uol.com.br/splash/colunas/luciana-bugni/2026/11/03/luma-e-ruy-barbosa-por-politica-ou-nao-fim-de-amizade-e-sempre-triste.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/d1/2019/01/08/luciana-bugni-150-1546989864557_100x100.png",
-              "o": "Luciana Bugni"
+              "t": "MISIÓN DE SABER",
+              "l": "https://www.uol.com.br/vida/colunas/missao-saber/2026/11/04/ser-traido-pode-causar-trauma-severo-e-roubar-identidade-diz-psicanalista.htm",
+              "img": "https://imguol.com/c/noticias/70/2026/11/03/elisama-santos-no-missao-saber-1793738716939_v2_300x225.png",
+              "o": "MISSÃO SABER"
             },
             {
-              "t": "¿Qué impuesto es este?",
-              "l": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/entidades-pedem-adiamento-da-reforma-tributaria.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/fc/2025/09/02/que-imposto-e-esse---eduardo-cucolo-1756828997431_v2_100x100.jpg",
-              "o": "Que Imposto é Esse"
+              "t": "VERIFICACIÓN DE UOL",
+              "l": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/11/04/eleitorado-maior-que-populacao-de-municipios-nao-indica-fraude.ghtm",
+              "o": "UOL CONFERE"
             },
             {
-              "t": "Claudio Hebdo",
-              "l": "https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/11/vale-tudo-na-politica-instabilidade-na-economia.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/6c/2022/12/15/claudio-hebdo-1671112940124_100x100.jpg",
-              "o": "Cláudio Hebdô"
+              "t": "Pedro López",
+              "l": "https://www.uol.com.br/esporte/colunas/pedro-lopes/2026/11/04/futebol-brasileiro-pensa-em-si-mesmo-e-e-cumplice-do-proprio-drama-com-bets.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/e0/2025/11/12/pedro-lopes-autor-blog-1762947198729_v2_100x100.jpg",
+              "o": "Pedro Lopes"
             },
             {
-              "t": "acioli ayuda",
-              "l": "https://www1.folha.uol.com.br/colunas/socorro-acioli/2026/11/estou-de-lua-de-mel-em-montevideu-mas-busquei-um-tema-antropologico.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/41/2026/05/04/socorro-acioli-1777921222978_100x100.jpg",
-              "o": "Socorro Acioli"
+              "t": "Aline Sordili",
+              "l": "https://economia.uol.com.br/colunas/aline-sordili/2026/11/04/agentes-de-ia-escolhem-criterios-e-esvaziam-supervisao-humana.htm",
+              "img": "https://conteudo.imguol.com.br/c/noticias/3d/2025/12/09/aline-sordili-e-jornalista-e-especialista-em-transformacao-digital-midia-e-distribuicao-de-conteudo-1765282140065_v2_100x100.jpg",
+              "o": "Aline Sordili"
             },
             {
-              "t": "Página cinco",
-              "l": "https://www.uol.com.br/splash/colunas/pagina-cinco/2026/11/03/eduardo-galeano-infantil-mar-de-foguinhos.htm",
-              "img": "https://conteudo.imguol.com.br/85/2020/09/02/pagina-cinco-splash---150-1599062338701_100x100.jpg",
-              "o": "Página Cinco"
+              "t": "Jessica Sant'Ana",
+              "l": "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/11/04/mercado-espera-sinal-duro-do-copom-diante-de-incertezas-sobre-lula-4.htm",
+              "img": "https://conteudo.imguol.com.br/c5/2026/10/20/jessica-santana-header-1792501641470_100x100.png",
+              "o": "Jéssica Sant'Ana"
             },
             {
-              "t": "miguel viriato",
-              "l": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/por-que-uma-empresa-que-cresce-mais-pode-valer-menos.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/05/2023/02/01/michael-viriato-1675278301712_100x100.jpg",
-              "o": "Michael Viriato"
+              "t": "Rogerio Gentile",
+              "l": "https://noticias.uol.com.br/colunas/rogerio-gentile/2026/11/04/justica-penhora-salario-de-romario-no-senado-por-divida-de-r-179-mil.htm",
+              "img": "https://conteudo.imguol.com.br/3c/2021/03/16/rogerio-gentile-2-150-1615905616342_100x100.jpg",
+              "o": "Rogério Gentile"
             }
           ]
         }
@@ -451,13 +428,18 @@
           "tr": false,
           "items": [
             {
-              "t": "Las ‘midterms’ 2026, en vivo | Vuelco político en Estados Unidos: los demócratas logran el control total del Congreso en un duro castigo a Trump",
-              "l": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/OGOS67X725O7VPZSHLROM2OXBY.jpg?auth=da90c94d61061f8fb9d4035a52e36b1bf34e0ad56d4226ebe4438cd018fc5487"
+              "t": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
+              "l": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/OQX5NF6F5FEJPGMJAL6Y3NFSJU.jpg?auth=f3db7bb011574e5bfe99e44a84a53462923492457b17bc6a8d0ae02b0e0e8459"
+            },
+            {
+              "t": "Las ‘midterms’ 2026, en vivo | Comienzan los reproches republicanos tras la ola azul que le arrebató el control del Congreso y repudió a Trump",
+              "l": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/WJALBCEW6VKAPDIYDNRWL6Z6JI.jpg?auth=a2f2aee1fe31f13836b9014831e22c6831b897c28bf55b7d4441d33942438356"
             },
             {
               "t": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
-              "l": "https://elpais.com/us/2026-11-03/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html"
+              "l": "https://elpais.com/us/2026-11-04/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html"
             },
             {
               "t": "Trump admite la amarga derrota en las ‘midterms’: “Estoy un poco sorprendido. Pensé que lo haríamos mejor”",
@@ -465,29 +447,24 @@
               "img": "https://imagenes.elpais.com/resizer/v2/7BOORU6SW5HO3MYQOOBXP3RCDU.JPG?auth=b031f5c148602cac61ff583ed544109daca76e7cee6d99d1aa200217d7328df5"
             },
             {
-              "t": "Los demócratas arrasan en las ‘midterms’ a lomos del voto de castigo a la caótica presidencia de Trump",
-              "l": "https://elpais.com/us/2026-11-04/los-democratas-arrasan-en-las-midterms-a-lomos-del-voto-de-castigo-a-la-caotica-presidencia-de-trump.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/JTZRKIHPPBBMBJOB4YCGV75MGE.jpg?auth=954f6099ede4d774c8ecad3f37504a36793e17446f524d82cc7ff3543ed7beb5"
-            },
-            {
               "t": "Cuatro victorias clave (y dos sorpresas): repaso de los triunfos demócratas en las elecciones",
               "l": "https://elpais.com/us/2026-11-04/cuatro-victorias-clave-y-dos-sorpresas-repaso-a-los-triunfos-democratas-en-las-elecciones.html",
               "img": "https://imagenes.elpais.com/resizer/v2/3CVQGTMFYBOTNME7ZRN6227S2U.jpg?auth=41bd6ba278104a7d93963f38d9f12906b13d09c5e8d5e8f8fc6d6a82587ec549"
             },
             {
-              "t": "James Talarico pone fin a décadas de hegemonía republicana en Texas con su victoria en el Senado",
-              "l": "https://elpais.com/us/2026-11-04/james-talarico-pone-fin-a-decadas-de-hegemonia-republicana-en-texas-con-su-victoria-en-el-senado.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/3PSYWCESWRAKRNL3UEECENPWUY.jpg?auth=5f9d0f437355e38ecfcd22b0744f28fadcfe3d9f6610bf22b7f76a8214458520"
+              "t": "Acorralado en la Casa Blanca, Trump puede ser más peligroso para el mundo",
+              "l": "https://elpais.com/videos/2026-11-04/acorralado-en-la-casa-blanca-trump-puede-ser-mas-peligroso-para-el-mundo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/DRT7IPB7YBD2ZLCLUYMWNDOSUA.jpeg?auth=652dc71a203225a19873dada7d2bc20acb4439eebdf583d4d8b168a663b7117b"
             },
             {
-              "t": "La demócrata Gina Hinojosa da la sorpresa en Texas para convertirse en la primera mujer hispana en ser gobernadora",
-              "l": "https://elpais.com/us/2026-11-04/la-democrata-gina-hinojosa-da-la-sorpresa-en-texas-para-convertirse-en-la-primera-mujer-hispana-en-ser-gobernadora.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/CQW7EBP24RDR3CU7O6XSHM4MWY.jpg?auth=0f05bf179f07597b79b92eacd06bad6c9297cb5520f78f705b05c0b1dd05904b"
+              "t": "Un vuelco electoral en EE UU provocado, sobre todo, por el coste de la vida",
+              "l": "https://elpais.com/videos/2026-11-04/un-vuelco-electoral-en-ee-uu-provocado-sobre-todo-por-el-coste-de-la-vida.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/WTRIXLDU7JCUDOMXAQJVEGAFUQ.jpg?auth=9ab428425b81465e4384614faff388a6f5a5b6825663db805d8afbd1aff7878b"
             },
             {
-              "t": "Puente dimite para intentar salvar la campaña del PSOE pese al respaldo de Sánchez a su gestión",
-              "l": "https://elpais.com/espana/2026-11-04/puente-se-aparta-para-intentar-salvar-la-campana-del-psoe-pese-al-respaldo-de-sanchez-a-su-gestion.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/4M2TDINEZVH53PSOZLGPSDD4ZA.jpg?auth=827f968b68dfd41b8dd01f9fa1ac15507ae7f3f13dbf81fea23f78c436b4714e"
+              "t": "Sánchez encarga a Cuerpo la gestión de Transportes para dar “confianza, seguridad y certidumbre”",
+              "l": "https://elpais.com/espana/elecciones-generales/2026-11-04/sanchez-encarga-a-cuerpo-la-gestion-de-transportes-para-dar-confianza-seguridad-y-certidumbre.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/BSHNL3GTJNCKDLBOPL7VQQF3R4.jpg?auth=bb98c23d96db630589ba751351e6ae50fd54951b16fcdee60dbffb115c21948c"
             }
           ]
         },
@@ -496,9 +473,29 @@
           "tr": false,
           "items": [
             {
-              "t": "\"Ola azul\": los demócratas ganan el control del Congreso en un histórico triunfo para los opositores de Trump en las elecciones de medio mandato de EE.UU.",
+              "t": "\"Ola azul\" en EE.UU.: los demócratas recuperan el control del Congreso y asestan un duro golpe a Trump en las elecciones de medio mandato; resultados y reacciones",
               "l": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa5/live/31cb1d60-d80f-11f1-93e1-3b657b665bcf.jpg"
+              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b3f/live/e8ee44d0-d83d-11f1-9a87-07a62b4549a2.jpg"
+            },
+            {
+              "t": "Los gráficos y mapas que muestran la magnitud del histórico triunfo de los demócratas en EE.UU.",
+              "l": "https://www.bbc.com/mundo/articles/c63dj78e4z40o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+            },
+            {
+              "t": "\"No lo considero un revés para mí\": la reacción de Trump tras el aplastante triunfo de los demócratas en el Congreso",
+              "l": "https://www.bbc.com/mundo/articles/ck62y4ql3wggo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6de/live/d79450c0-d82f-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "t": "Quiénes son los grandes vencedores de la triunfal noche demócrata",
+              "l": "https://www.bbc.com/mundo/articles/cqe9lej2zpzno?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5fa/live/fd1e82a0-d804-11f1-85f7-474f0be56cef.jpg"
+            },
+            {
+              "t": "Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
+              "l": "https://www.bbc.com/mundo/articles/cqn06jxe3zexo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e15b/live/24709d40-d81c-11f1-a9b6-0f4245e849b7.jpg"
             },
             {
               "t": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
@@ -506,34 +503,14 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f37/live/cf425e80-d807-11f1-86d4-9befa71eab23.jpg"
             },
             {
-              "t": "\"Terremoto electoral\" en Texas: quién es James Talarico, el primer demócrata en ganar un lugar en el Senado de EE.UU. desde 1988",
-              "l": "https://www.bbc.com/mundo/articles/cwg7xk8ljmdyo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67fe/live/1e577ed0-d806-11f1-9545-cf5ae4240be4.jpg"
+              "t": "Quién es Abdul El-Sayed, el demócrata de Michigan que se convirtió en el primer senador musulmán en la historia de EE.UU.",
+              "l": "https://www.bbc.com/mundo/articles/cjx23zy222y6o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/60b8/live/99ed9820-d795-11f1-801d-cf196dc7232c.jpg"
             },
             {
-              "t": "5 victorias que muestran la magnitud del histórico triunfo demócrata en las elecciones de mitad de mandato en EE.UU.",
-              "l": "https://www.bbc.com/mundo/articles/cmwyvz50dd8do?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6c1/live/58a47d00-d80f-11f1-bc0e-b5a9e0785e4b.jpg"
-            },
-            {
-              "t": "Quiénes son los grandes vencedores de la triunfal noche demócrata en las elecciones de medio mandato en EE.UU.",
-              "l": "https://www.bbc.com/mundo/articles/cqe9lej2zpzno?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5fa/live/fd1e82a0-d804-11f1-85f7-474f0be56cef.jpg"
-            },
-            {
-              "t": "La madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre y ahora un fallo histórico le otorga una indemnización millonaria",
-              "l": "https://www.bbc.com/mundo/articles/cm3el01qqeqxo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/024b/live/41301ca0-cec4-11f1-b9e0-e5f0da03dc7f.jpg"
-            },
-            {
-              "t": "Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
-              "l": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b123/live/8c1666c0-d7ca-11f1-a719-bf3dc3a3d5b5.jpg"
-            },
-            {
-              "t": "Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con el arquero rival",
-              "l": "https://www.bbc.com/mundo/articles/c64g1vx4vv3go?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4424/live/937af390-d775-11f1-a956-ff083523ef77.png"
+              "t": "Análisis: los demócratas destrozan el mapa político de Trump en una noche histórica",
+              "l": "https://www.bbc.com/mundo/articles/cwy8lzy41z7lo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb44/live/543807b0-d7fa-11f1-a701-fddedf244c16.jpg"
             }
           ]
         }
@@ -548,44 +525,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Trump dice en entrevista que aceptará los resultados electorales",
-              "l": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html",
-              "o": "Trump Says in Interview That He Will Accept Election Results"
+              "t": "¿Qué hace que estos resultados electorales sean tan históricos?",
+              "l": "https://www.nytimes.com/video/us/elections/100000011261200/what-makes-these-election-results-so-historic.html",
+              "o": "What Makes These Election Results So Historic"
             },
             {
-              "t": "Más iraníes piden armas nucleares después de la guerra con Estados Unidos",
-              "l": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-              "o": "More Iranians Call for Nuclear Weapons After War With U.S."
+              "t": "Votantes enojados marcan el comienzo del fin de la era Trump",
+              "l": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-trump-voters.html",
+              "o": "Angry Voters Usher in Beginning of the End to the Trump Era"
             },
             {
-              "t": "Pieza clave del avión que se estrelló en un accidente mortal en Florida encontrada lejos del lugar del impacto",
-              "l": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
-              "o": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site"
+              "t": "Los demócratas arrasan en el Congreso y Trump dice que está “dispuesto a aceptar esos resultados”",
+              "l": "https://www.nytimes.com/2026/11/04/podcasts/the-headlines/midterm-election-results.html",
+              "o": "Democrats Take Congress in a Landslide, and Trump Says He’s ‘Willing to Accept Those Results’"
             },
             {
-              "t": "Los investigadores que buscan la causa del accidente del Learjet dicen que el hielo fue \"sin duda un factor\"",
-              "l": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
-              "o": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’"
-            },
-            {
-              "t": "Cómo está reaccionando el mercado de valores a las elecciones de mitad de período",
+              "t": "Las acciones suben a medida que los demócratas pierden el control del Congreso",
               "l": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-              "o": "How the Stock Market Is Reacting to the Midterm Elections"
+              "o": "Stocks Rise as Democrats Flip Control of Congress"
             },
             {
-              "t": "Estados Unidos ayudó a Venezuela en un mortal ataque con drones, dicen funcionarios",
-              "l": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-              "o": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say"
+              "t": "Las acciones de SpaceX y Tesla caen después de que los candidatos respaldados por Elon Musk perdieran en Texas",
+              "l": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+              "o": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas"
             },
             {
-              "t": "Trump presiona a Venezuela para que llegue a un acuerdo que permita quedarse a las tropas estadounidenses",
-              "l": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
-              "o": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay"
+              "t": "El presidente de Israel podría desempeñar un papel clave para romper el estancamiento postelectoral",
+              "l": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+              "o": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock"
             },
             {
-              "t": "Una bolsa de plástico de 80 centavos está salvando a miles de mujeres de morir durante el parto",
-              "l": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
-              "o": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth"
+              "t": "WeRateDogs ama a todos los perros. AI. Los cachorros son otra historia.",
+              "l": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
+              "o": "WeRateDogs Loves All Dogs. A.I. Puppies Are Another Story."
+            },
+            {
+              "t": "CVS dividirá el negocio farmacéutico, poniendo fin a la era de los conglomerados de atención médica",
+              "l": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+              "o": "CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era"
             }
           ]
         },
@@ -594,44 +571,44 @@
           "tr": true,
           "items": [
             {
-              "t": "El líder demócrata de la Cámara de Representantes, Hakeem Jeffries, declara que \"Estados Unidos ha vuelto\"",
-              "l": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
-              "o": "House Democratic Leader Hakeem Jeffries declares \"America is back\""
+              "t": "Abdul El-Sayed acoge con satisfacción el plan de Trump de recortar la ayuda a Israel y pide el fin de la venta de armas",
+              "l": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+              "o": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales"
             },
             {
-              "t": "Troy Jackson gana la carrera por el Senado de Maine sobre Susan Collins, en un gran golpe para los demócratas",
-              "l": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
-              "o": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats"
+              "t": "El mundo está reaccionando a la aplastante victoria de los demócratas en las elecciones de mitad de mandato",
+              "l": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+              "o": "The world is reacting to the Democrats' sweeping midterm elections victory"
             },
             {
-              "t": "Así votaron algunos grupos demográficos clave en las elecciones intermedias",
-              "l": "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics",
-              "o": "Here's how some key demographic groups voted in the midterms"
+              "t": "Los demócratas toman el control total del Congreso. Y qué candidatos hicieron historia anoche",
+              "l": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+              "o": "Democrats seize full control of Congress. And, which candidates made history last night"
             },
             {
-              "t": "El exgobernador de Arkansas dice que los avances de los demócratas son \"más significativos de lo que jamás se anticipó\"",
-              "l": "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated",
-              "o": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'"
+              "t": "Seis conclusiones de la gran ola demócrata la noche de las elecciones",
+              "l": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+              "o": "6 takeaways from Democrats' big wave on election night"
             },
             {
-              "t": "Los demócratas obtienen el control total del Congreso, iniciando una nueva era de gobierno dividido",
-              "l": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-              "o": "Democrats win full control of Congress, ushering in a new era of divided government"
+              "t": "Aún se cuentan votos para ver quién representará a Mississippi en el Senado",
+              "l": "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race",
+              "o": "Votes are still being counted to see who will represent Mississippi in the Senate"
             },
             {
-              "t": "El demócrata Josh Turek gana el escaño del Senado en Iowa",
-              "l": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
-              "o": "Democrat Josh Turek wins the Senate seat in Iowa"
+              "t": "Reseña: El remake de The Legend of Zelda: Ocarina of Time es magnífico, optimizado y seguro",
+              "l": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+              "o": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe"
             },
             {
-              "t": "En una noche histórica para los socialistas democráticos, Mamdani dice que las elecciones intermedias muestran el poder de los votantes de la clase trabajadora",
-              "l": "https://www.npr.org/2026/11/03/nx-s1-6028105/on-a-historic-night-for-democratic-socialists-mamdani-says-midterms-show-power-of-working-class-voters",
-              "o": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters"
+              "t": "Hakeem Jeffries está listo para convertirse en el primer presidente negro de la Cámara",
+              "l": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+              "o": "Hakeem Jeffries is poised to become the first Black speaker of the House"
             },
             {
-              "t": "El demócrata David Crowley será el primer gobernador negro de Wisconsin",
-              "l": "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor",
-              "o": "Democrat David Crowley will be Wisconsin's first Black governor"
+              "t": "Estos 10 candidatos a gobernador hicieron historia en las elecciones de 2026",
+              "l": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+              "o": "These 10 candidates for governor made history in the 2026 election"
             }
           ]
         }
