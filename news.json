@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T17:36:20Z",
+  "updated": "2026-11-05T22:49:31Z",
   "paises": [
     {
       "id": "uy",
@@ -10,36 +10,36 @@
           "tr": false,
           "items": [
             {
-              "t": "Resiliencia y generosidad: los últimos mensajes de Moratorio trascendieron lo personal",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981146"
+              "t": "“Tenía una manera extraordinaria de vivir”: el mensaje de la esposa de Gonzalo Moratorio",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981215"
             },
             {
-              "t": "Renunció Santiago Peña, el presidente de Paraguay, en medio de la crisis bancaria",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981151"
+              "t": "Santiago Peña debe seguir en el cargo: Congreso sin cuórum para tratar su renuncia",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981213"
             },
             {
-              "t": "El velorio de Gonzalo Moratorio será este jueves en el Salón de los Pasos Perdidos",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981142"
+              "t": "AUF: Nacional fue sancionado con dos cierres de cancha y una multa económica fuerte",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981212"
             },
             {
-              "t": "“Viví gracias a mi hija”: quién era Gonzalo Moratorio, científico que dio lucha al cáncer",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981141"
+              "t": "“Buscamos hasta en la basura”: sigue sin aparecer cuerpo del bebé que murió en el Policial",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981181"
             },
             {
-              "t": "“Estoy aferrado a la vida”: la última e inspiradora entrevista que dio Gonzalo Moratorio",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981155"
+              "t": "Familia de Sebastián Marset envió flores al Palacio Legislativo por la muerte de Moratorio",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981210"
             },
             {
-              "t": "Peñarol: Carlos Lazzarino se bajó de las elecciones y apuntó a dichos de Ruglio contra él",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981124"
+              "t": "El gobierno decretó dos días de duelo nacional por la muerte de Gonzalo Moratorio",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981194"
             },
             {
-              "t": "Incidentes en Aguada-Goes: operativo terminó sin detenidos y tampoco se reportaron heridos",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981119"
+              "t": "Le avisaron: a través de TikTok, enviaron una amenaza al narco asesinado en Marconi",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981214"
             },
             {
-              "t": "Caídas de altura: un trabajador fallecido y otro herido grave en sendos accidentes",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981095"
+              "t": "Despiden al científico Gonzalo Moratorio en el Palacio Legislativo",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981185"
             }
           ]
         },
@@ -48,24 +48,23 @@
           "tr": false,
           "items": [
             {
-              "t": "Santiago Peña renunció a la Presidencia de Paraguay en medio del escándalo por la caída de Ueno Bank",
+              "t": "\"Se va como un héroe\": se realiza el velatorio del científico Gonzalo Moratorio en el Palacio Legislativo",
+              "l": "https://www.elobservador.com.uy/nacional/asi-sera-el-ultimo-adios-gonzalo-moratorio-n6062858",
+              "img": "https://media.elobservador.com.uy/p/ac5ab566647c64573a698f27c61e96f3/adjuntos/362/imagenes/100/784/0100784153/1200x675/smart/velorio-gonzalo-moratorio.jpeg"
+            },
+            {
+              "t": "Crisis política en Paraguay: legisladores del oficialismo se fueron de sala y quedó trabada la renuncia de Santiago Peña",
               "l": "https://www.elobservador.com.uy/mundo/santiago-pena-renuncio-la-presidencia-paraguay-medio-del-escandalo-la-caida-ueno-bank-n6062861",
               "img": "https://media.elobservador.com.uy/p/6a61796050915c67a7619db93e163cd9/adjuntos/362/imagenes/100/784/0100784034/1200x675/smart/santiago-pena-presidente-paraguay.jpg"
             },
             {
-              "t": "Murió Gonzalo Moratorio: el destacado científico uruguayo luchaba contra un cáncer cerebral",
-              "l": "https://www.elobservador.com.uy/nacional/murio-gonzalo-moratorio-los-44-anos-el-destacado-cientifico-uruguayo-luchaba-contra-un-cancer-cerebral-n6060974",
-              "img": "https://media.elobservador.com.uy/p/f38fe4cc3024deca6923b5a7877809ab/adjuntos/362/imagenes/100/740/0100740345/1200x675/796x370:816x390/gonzalo-moratorio.jpeg"
+              "t": "La quiebra de Ueno Bank y la crisis del Grupo Vázquez en Paraguay también alcanza a trabajadores uruguayos",
+              "l": "https://www.elobservador.com.uy/economia-y-empresas/la-quiebra-ueno-bank-y-la-crisis-del-grupo-vazquez-paraguay-tambien-alcanza-trabajadores-uruguayos-n6062868",
+              "img": "https://media.elobservador.com.uy/p/ab677ae71408d19e998c3c85cc949e4d/adjuntos/362/imagenes/100/784/0100784106/1200x675/smart/crisis-paraguay-ueno-bank.jpg"
             },
             {
-              "t": "\"Uruguay le estará eternamente agradecido\": el sentido mensaje de Yamandú Orsi para despedir a Gonzalo Moratorio",
-              "l": "https://www.elobservador.com.uy/nacional/uruguay-le-estara-eternamente-agradecido-el-sentido-mensaje-yamandu-orsi-despedir-gonzalo-moratorio-n6062840",
-              "img": "https://media.elobservador.com.uy/p/4515f88bacf6da01763ae9590118415b/adjuntos/362/imagenes/100/780/0100780571/1200x675/smart/yamandu-orsi.jpg"
-            },
-            {
-              "t": "Cuatro claves para entender la crisis de Ueno Bank en Paraguay por la que renunció el presidente Santiago Peña",
-              "l": "https://www.elobservador.com.uy/bbc-news-mundo/4-claves-entender-la-crisis-ueno-bank-paraguay-la-que-piden-un-juicio-politico-al-presidente-santiago-pena-n6062851",
-              "img": "https://media.elobservador.com.uy/p/fd2132b6d57d5ae04239fef820bd9a1f/adjuntos/362/imagenes/100/784/0100784089/1200x675/smart/httpswwwbbccommundoarticlescqx28zrgd0yxo.jpg"
+              "t": "Gobierno decretó dos días de duelo nacional por la muerte del científico Gonzalo Moratorio",
+              "l": "https://www.elobservador.com.uy/nacional/gobierno-decreto-dos-dias-duelo-nacional-la-muerte-del-cientifico-gonzalo-moratorio-n6062892"
             },
             {
               "t": "Todo lo que tenés que saber de la visita del papa León XIV a Uruguay: agenda completa, horarios, cortes de calles y cambios en ómnibus",
@@ -73,14 +72,14 @@
               "img": "https://media.elobservador.com.uy/p/847c82bf0192901771df8b37ffa65728/adjuntos/362/imagenes/100/627/0100627602/1200x675/smart/papa-leon-xiv.jpg"
             },
             {
-              "t": "\"Memoria criminal\": la batalla del Liberaij, el tiroteo de 14 horas entre 350 policías y tres delincuentes argentinos en Montevideo",
-              "l": "https://www.elobservador.com.uy/nacional/memoria-criminal-la-batalla-del-liberaij-el-tiroteo-14-horas-350-policias-y-tres-delincuentes-argentinos-montevideo-n6062427",
-              "img": "https://media.elobservador.com.uy/p/c1183e402c8bd00c8dfd27cd8dd85de9/adjuntos/362/imagenes/100/783/0100783191/1200x675/smart/portada-liberaijjpg.jpeg"
+              "t": "Cuatro claves para entender la crisis de Ueno Bank en Paraguay por la que renunció el presidente Santiago Peña",
+              "l": "https://www.elobservador.com.uy/bbc-news-mundo/4-claves-entender-la-crisis-ueno-bank-paraguay-la-que-piden-un-juicio-politico-al-presidente-santiago-pena-n6062851",
+              "img": "https://media.elobservador.com.uy/p/fd2132b6d57d5ae04239fef820bd9a1f/adjuntos/362/imagenes/100/784/0100784089/1200x675/smart/httpswwwbbccommundoarticlescqx28zrgd0yxo.jpg"
             },
             {
-              "t": "Así será el último adiós de Gonzalo Moratorio",
-              "l": "https://www.elobservador.com.uy/nacional/asi-sera-el-ultimo-adios-gonzalo-moratorio-n6062858",
-              "img": "https://media.elobservador.com.uy/p/aa13b950a27eaa9d99fa683c5266412a/adjuntos/362/imagenes/100/740/0100740342/1200x675/621x165:641x185/gonzalo-moratorio.jpeg"
+              "t": "Caso Penadés: tribunal de apelaciones confirmó para el juicio a los dos testigos que habían sido cuestionados por defensas",
+              "l": "https://www.elobservador.com.uy/nacional/caso-penades-tribunal-apelaciones-confirmo-los-dos-testigos-que-habian-sido-cuestionados-defensas-n6062891",
+              "img": "https://media.elobservador.com.uy/p/a3e9047539e35798482d684d98eff55e/adjuntos/362/imagenes/100/757/0100757584/1200x675/smart/penades-julio2.jpeg"
             },
             {
               "t": "Gonzalo Moratorio: el zaguero recio y cazador de virus que corría olas en tablón",
@@ -94,36 +93,36 @@
           "tr": false,
           "items": [
             {
-              "t": "Jorge Gandini sobre el caso Leiva: “Tengo que asumir la carga de estas casualidades”",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/11/jorge-gandini-sobre-el-caso-leiva-tengo-que-asumir-la-carga-de-estas-casualidades/"
+              "t": "Uruguay Sub 200 compartirá en Salto los descubrimientos de su histórica expedición científica marina",
+              "l": "https://ladiaria.com.uy/salto/articulo/2026/11/uruguay-sub-200-compartira-en-salto-los-descubrimientos-de-su-historica-expedicion-cientifica-marina/"
             },
             {
-              "t": "Renunció el presidente de Paraguay, Santiago Peña, en el marco de la crisis que desató la intervención de Ueno Bank",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/renuncio-el-presidente-de-paraguay-santiago-pena-en-el-marco-de-la-crisis-que-desato-la-intervencion-de-ueno-bank/"
+              "t": "Lito redondo: goleó a Wanderers 4-0 y se metió entre los mejores ocho de la Copa Uruguay",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/11/lito-redondo-goleo-a-wanderers-4-0-y-se-metio-entre-los-mejores-ocho-de-la-copa-uruguay/"
             },
             {
-              "t": "Orsi despidió a Gonzalo Moratorio: “Uruguay le estará eternamente agradecido”",
-              "l": "https://ladiaria.com.uy/politica/articulo/2026/11/orsi-despidio-a-gonzalo-moratorio-uruguay-le-estara-eternamente-agradecido/"
+              "t": "Un hombre de 38 años fue asesinado en el barrio Marconi",
+              "l": "https://ladiaria.com.uy/justicia/articulo/2026/11/un-hombre-de-38-anos-fue-asesinado-en-el-barrio-marconi/"
             },
             {
-              "t": "Cristiano Ronaldo anunció su retiro de la selección de Portugal: “Quise ser el mejor y hacer historia”",
-              "l": "https://ladiaria.com.uy/deporte/articulo/2026/11/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal-quise-ser-el-mejor-y-hacer-historia/"
+              "t": "En Israel, Eisenkot tiene apoyos para ser primer ministro, pero la decisión depende de su postura y la de algunos de sus aliados",
+              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/en-israel-eisenkot-tiene-apoyos-para-ser-primer-ministro-pero-la-decision-depende-de-su-postura-y-la-de-algunos-de-sus-aliados/"
             },
             {
-              "t": "La ciencia de luto: falleció Gonzalo Moratorio",
-              "l": "https://ladiaria.com.uy/ciencia/articulo/2026/11/la-ciencia-de-luto-fallecio-gonzalo-moratorio/"
+              "t": "“Las redes sociales potencian este tipo de éxitos brutales”: La Trampa agotó tres Antel Arena y va por una cuarta función",
+              "l": "https://ladiaria.com.uy/cultura/articulo/2026/11/las-redes-sociales-potencian-este-tipo-de-exitos-brutales-la-trampa-agoto-tres-antel-arena-y-va-por-una-cuarta-funcion/"
             },
             {
-              "t": "América Latina necesita más inversión climática para proteger su futuro, y Uruguay tiene una oportunidad “única”, afirma experto",
-              "l": "https://ladiaria.com.uy/economia/articulo/2026/11/america-latina-necesita-mas-inversion-climatica-para-proteger-su-futuro-y-uruguay-tiene-una-oportunidad-unica-afirma-experto/"
+              "t": "Cambiemos el foco: una muestra fotográfica que busca romper los estereotipos sobre las personas mayores",
+              "l": "https://ladiaria.com.uy/paysandu/articulo/2026/11/cambiemos-el-foco-una-muestra-fotografica-que-busca-romper-los-estereotipos-sobre-las-personas-mayores/"
             },
             {
-              "t": "Gráfico de la semana | Las materias primas enfrentan un escenario de fuertes presiones al alza e incertidumbre",
-              "l": "https://ladiaria.com.uy/economia/articulo/2026/11/grafico-de-la-semana-las-materias-primas-enfrentan-un-escenario-de-fuertes-presiones-al-alza-e-incertidumbre/"
+              "t": "La Justicia imputó a un hombre por tentativa de femicidio de una mujer frente a una escuela de Artigas",
+              "l": "https://ladiaria.com.uy/justicia/articulo/2026/11/la-justicia-imputo-a-un-hombre-por-tentativa-de-femicidio-de-una-mujer-frente-a-una-escuela-de-artigas/"
             },
             {
-              "t": "Otros futuros son posibles: más Thoreau y menos Prozac",
-              "l": "https://ladiaria.com.uy/economia/articulo/2026/11/otros-futuros-son-posibles-mas-thoreau-y-menos-prozac/"
+              "t": "Condenaron con 25 años de prisión a un hombre por un homicidio ocurrido en Colonia en octubre de 2025",
+              "l": "https://ladiaria.com.uy/colonia/articulo/2026/11/condenaron-con-25-anos-de-prision-a-un-hombre-por-un-homicidio-ocurrido-en-colonia-en-octubre-de-2025/"
             }
           ]
         },
@@ -132,36 +131,36 @@
           "tr": false,
           "items": [
             {
-              "t": "Zapallitos rellenos",
-              "l": "https://www.teledoce.com/programas/la-receta/zapallitos-rellenos-7/"
+              "t": "Así es por dentro la Nunciatura Apostólica, donde se alojará el papa León XIV en Montevideo: mirá las fotos",
+              "l": "https://www.teledoce.com/telemundo/nacionales/asi-es-por-dentro-la-nunciatura-apostolica-donde-se-alojara-el-papa-leon-xiv-en-montevideo-mira-las-fotos/"
             },
             {
-              "t": "Renunció el presidente de Paraguay, Santiago Peña, en medio del escándalo por la caída del Ueno Bank",
-              "l": "https://www.teledoce.com/telemundo/internacionales/renuncio-el-presidente-de-paraguay-santiago-pena-en-medio-del-escandalo-por-la-caida-del-ueno-bank/"
+              "t": "Detienen en Cuba a la periodista Yoani Sánchez; su medio denuncia que fue \"secuestrada por la policía política\"",
+              "l": "https://www.teledoce.com/telemundo/internacionales/detienen-en-cuba-a-la-periodista-yoani-sanchez-su-medio-denuncia-que-fue-secuestrada-por-la-policia-politica/"
             },
             {
-              "t": "\"Siempre optimista, sorteando con inteligencia y coraje los obstáculos\": el recuerdo de Lacalle Pou sobre Moratorio",
-              "l": "https://www.teledoce.com/telemundo/nacionales/siempre-optimista-sorteando-con-inteligencia-y-coraje-los-obstaculos-el-recuerdo-de-lacalle-pou-sobre-moratorio/"
+              "t": "Imputaron por intento de femicidio a un brasileño que atacó a su expareja frente a una escuela en Artigas",
+              "l": "https://www.teledoce.com/telemundo/policiales/imputaron-por-intento-de-femicidio-a-un-brasileno-que-ataco-a-su-expareja-frente-a-una-escuela-en-artigas/"
             },
             {
-              "t": "Policía baleó y detuvo a un rapiñero que estaba armado tras una persecución en Flor de Maroñas",
-              "l": "https://www.teledoce.com/telemundo/policiales/policia-baleo-y-detuvo-a-un-rapinero-que-estaba-armado-tras-una-persecucion-en-flor-de-maronas/"
+              "t": "\"Se va como un héroe\": Radi y Salinas recordaron el legado de Gonzalo Moratorio y su aporte durante la pandemia",
+              "l": "https://www.teledoce.com/telemundo/nacionales/se-va-como-un-heroe-radi-y-salinas-recordaron-el-legado-de-gonzalo-moratorio-y-su-aporte-durante-la-pandemia/"
             },
             {
-              "t": "Inés Estévez y Germán Palacios presentan \"El hombre inesperado\"",
-              "l": "https://www.teledoce.com/programas/desayunos-informales/segunda-manana/ines-estevez-y-german-palacios-presentan-el-hombre-inesperado-2/"
+              "t": "Desarticularon tres puntos de venta de drogas en Maldonado: siete detenidos y un condenado",
+              "l": "https://www.teledoce.com/telemundo/policiales/desarticularon-tres-puntos-de-venta-de-drogas-en-maldonado-siete-detenidos-y-un-condenado/"
             },
             {
-              "t": "Escándalo en Colombia: acusan al expresidente Petro de ofrecer contratos públicos a cambio de sexo y divulgan video",
-              "l": "https://www.teledoce.com/telemundo/internacionales/escandalo-en-colombia-acusan-al-expresidente-petro-de-ofrecer-contratos-publicos-a-cambio-de-sexo-y-divulgan-video/"
+              "t": "Uruguay despide a Gonzalo Moratorio",
+              "l": "https://www.teledoce.com/programas/esta-boca-es-mia/uruguay-despide-a-gonzalo-moratorio/"
             },
             {
-              "t": "Actor británico Russell Brand fue declarado culpable de haber violado a una de sus seguidoras y de agresión sexual contra otras tres mujeres",
-              "l": "https://www.teledoce.com/telemundo/internacionales/actor-britanico-russell-brand-fue-declarado-culpable-de-haber-violado-a-una-de-sus-seguidoras-y-de-agresion-sexual-contra-otras-tres-mujeres/"
+              "t": "¿Qué dejó la interpelación al ministro Castillo?",
+              "l": "https://www.teledoce.com/programas/esta-boca-es-mia/que-dejo-la-interpelacion-al-ministro-castillo/"
             },
             {
-              "t": "\"Despedimos a un gran compañero\" y \"deja una huella enorme\": el mensaje del Institut Pasteur de Montevideo por la muerte de Moratorio",
-              "l": "https://www.teledoce.com/telemundo/nacionales/despedimos-a-un-gran-companero-y-deja-una-huella-enorme-el-mensaje-del-institut-pasteur-de-montevideo-por-la-muerte-de-moratorio/"
+              "t": "Hombre de 38 años fue asesinado de varios disparos en el Marconi",
+              "l": "https://www.teledoce.com/telemundo/policiales/hombre-de-35-anos-fue-asesinado-de-varios-disparos-en-el-marconi/"
             }
           ]
         }
@@ -176,44 +175,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Colapso bancario en Paraguay: renunció el presidente Santiago Peña tras perder el apoyo de su propio Partido Colorado",
-              "l": "https://www.clarin.com/mundo/crisis-bancaria-paraguay-renuncio-presidente-santiago-pena-perder-apoyo-propio-partido-colorado_0_OdRKoFllM1.html",
-              "img": "https://www.clarin.com/img/2026/11/05/B5rqjpSxh_1200x630__1.jpg"
+              "t": "El fin de LIV Golf: la liga de los petrodólares que quiso revolucionar el golf y desaparece tras perder más de 5.000 millones de dólares",
+              "l": "https://www.clarin.com/deportes/fin-liv-golf-liga-petrodolares-quiso-revolucionar-golf-desaparece-perder-5000-millones-dolares_0_KA0dP4l7AW.html",
+              "img": "https://www.clarin.com/img/2026/11/05/IKCkVV7uF_1200x630__1.jpg"
             },
             {
-              "t": "Melania Trump pide un alto el fuego \"más duradero\" en Ucrania",
-              "l": "https://www.clarin.com/estados-unidos/melania-trump-pide-un-alto-el-fuego-mas-duradero-en-ucrania_0_2pyehBjGb6.html",
-              "img": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg"
+              "t": "\"Me presentaré y ejerceré mi derecho a la defensa\": Santiago Peña confirmó que acatará el juicio político",
+              "l": "https://www.clarin.com/mundo/presentare-ejercere-derecho-defensa-santiago-pena-confirmo-acatara-juicio-politico_0_Izw5vZ1caT.html",
+              "img": "https://www.clarin.com/img/2026/11/05/5MbMLB8xF_1200x630__1.jpg"
             },
             {
-              "t": "En qué puntos se podrá ver al Papa en su recorrido al Cottolengo Don Orione",
-              "l": "https://www.clarin.com/zonales/puntos-podra-ver-papa-recorrido-cottolengo-don-orione_0_oUpVwNwxeW.html",
-              "img": "https://www.clarin.com/img/2026/11/01/9gVPdDlNw_1200x630__1.jpg"
+              "t": "Texas prepara cambios históricos en sus escuelas: qué puede pasar con la enseñanza religiosa y los fondos para colegios privados",
+              "l": "https://www.clarin.com/estados-unidos/texas-prepara-cambios-historicos-escuelas-puede-pasar-ensenanza-religiosa-fondos-colegios-privados_0_7pbsk6o9xg.html",
+              "img": "https://www.clarin.com/img/2026/06/27/aG23GXBYa_1200x630__1.jpg"
             },
             {
-              "t": "Franco Colapinto habló en la previa del GP de San Pablo, hizo un balance de su año y se ilusiona con Alpine para 2027: \"Esperemos dar un salto grande\"",
-              "l": "https://www.clarin.com/deportes/franco-colapinto-hablo-previa-gp-san-pablo-hizo-balance-ano-ilusiona-alpine-2027-esperemos-dar-salto-grande_0_l0KKlrOy6a.html",
-              "img": "https://www.clarin.com/img/2026/11/05/dLWBaIjLR_1200x630__1.jpg"
+              "t": "Mar del Plata se prepara para el fin de semana XL: Abel Pintos, cine internacional, recitales y un festival gastronómico",
+              "l": "https://www.clarin.com/sociedad/mar-plata-prepara-fin-semana-xl-abel-pintos-cine-internacional-recitales-festival-gastronomico_0_V9u80GhqkP.html",
+              "img": "https://www.clarin.com/img/2026/11/05/xAY8SO8U-_1200x630__1.jpg"
             },
             {
-              "t": "El mensaje completo de Santiago Peña tras su renuncia a la Presidencia de Paraguay: qué dijo el mandatario",
-              "l": "https://www.clarin.com/mundo/mensaje-completo-santiago-pena-renuncia-presidencia-paraguay-dijo-mandatario_0_sooYny7ifp.html",
-              "img": "https://www.clarin.com/img/2026/11/05/TKrot2etv_1200x630__1.jpg"
-            },
-            {
-              "t": "Quién es Pedro Alliana, el hombre que asumirá la presidencia de Paraguay tras la renuncia de Santiago Peña",
-              "l": "https://www.clarin.com/mundo/paraguay-renuncia-santiago-pena-mecanismo-constitucional-determina-sucede_0_DcXTBQahRd.html",
-              "img": "https://www.clarin.com/img/2023/08/15/YN4ZFV3r0_1200x630__1.jpg"
-            },
-            {
-              "t": "Un piloto muerto y dos heridos en accidente de helicóptero que filmaba botes en Miami",
-              "l": "https://www.clarin.com/estados-unidos/un-piloto-muerto-y-dos-heridos-en-accidente-de-helicoptero-que-filmaba-botes-en-miami_0_H92QV20VsV.html",
+              "t": "Marco Rubio no contempla abandonar el Gobierno de Trump, afirma su oficina",
+              "l": "https://www.clarin.com/estados-unidos/marco-rubio-no-contempla-abandonar-el-gobierno-de-trump-afirma-su-oficina_0_ynsh5R1JKx.html",
               "img": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
             },
             {
-              "t": "Le diagnosticaron esclerosis múltiple a los 37 años, pero los síntomas empeoraron: descubrieron que tenía cáncer de útero en etapa 4",
-              "l": "https://www.clarin.com/estados-unidos/diagnosticaron-esclerosis-multiple-37-anos-sintomas-empeoraron-descubrieron-cancer-utero-etapa-4_0_AYXGZuQWsE.html",
-              "img": "https://www.clarin.com/img/2026/10/31/UEyWKpn4f_1200x630__1.jpg"
+              "t": "El fiscal general de Paraguay formuló cargos contra Santiago Peña por el colapso del banco Ueno",
+              "l": "https://www.clarin.com/mundo/fiscal-general-paraguay-formulo-cargos-santiago-pena-colapso-banco-ueno_0_G6M9H9Zo02.html",
+              "img": "https://www.clarin.com/img/2026/11/05/Ax1GATy5H_1200x630__1.jpg"
+            },
+            {
+              "t": "Wall Street cierra con una fuerte caída por temores en el sector de la IA",
+              "l": "https://www.clarin.com/estados-unidos/wall-street-cierra-con-una-fuerte-caida-por-temores-en-el-sector-de-la-ia_0_i1Jpx0wh58.html",
+              "img": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg"
+            },
+            {
+              "t": "Se conoció la dura sanción para Gonzalo Montiel por su expulsión en el Superclásico: se perderá el inicio de los playoffs con River",
+              "l": "https://www.clarin.com/deportes/conocio-dura-sancion-gonzalo-montiel-expulsion-superclasico-perdera-inicio-playoffs-river_0_0TPnt4gsDe.html",
+              "img": "https://www.clarin.com/img/2026/11/04/2lLPK76sk_1200x630__1.jpg"
             }
           ]
         },
@@ -222,44 +221,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Aldosivi vs. River, EN VIVO",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/aldosivi-vs-river-en-vivo-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/QN35NLBHXJGMHM2PL5PGFT353Y.jpg?auth=b69384f1070df18f15daf0ece27d8c5c04845c40278b921fd4b23928035d4aa4&smart=true&width=2000&height=1333"
+              "t": "Qué reveló el informe preliminar de la autopsia de Jesús de Miguel tras el choque que derivó en su muerte",
+              "l": "https://www.lanacion.com.ar/deportes/que-revelo-el-informe-preliminar-de-la-autopsia-de-jesus-de-miguel-tras-el-choque-que-derivo-en-su-nid05112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/S2SSHU6PEFGZPKJFXE4BMKJVTM.jpg?auth=9867c91585859eaf81e3ab52e49d04c4b71b27891d766ef24a0f59b0010aa908&smart=true&width=1178&height=883"
             },
             {
-              "t": "Qué se sabe de la visita del papa León XIV a la Argentina: la agenda completa, los feriados y las últimas noticias",
-              "l": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-visita-del-papa-leon-xiv-a-la-argentina-la-agenda-completa-los-feriados-y-las-nid05112026/",
+              "t": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
+              "l": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/VKIJ5MPH4VE3XJJJ6SV4CWEZWE.jpg?auth=8608606648060ed4eeda717e86bc919f30ed93b1008b6a8a36721cf481f5b233&smart=true&width=2048&height=1365"
+            },
+            {
+              "t": "Un blooper entre Otamendi y Beltrán terminó en gol de Aldosivi, pero River se salvó y minutos más tarde marcó de penal",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/un-blooper-entre-otamendi-y-beltran-termino-en-gol-de-aldosivi-pero-river-se-salvo-y-minutos-mas-nid05112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/R7K6EDB3TREI5F2LL5UDFMTY4Q.png?auth=6e3b76c6d18cf1711d7febfdec56d218f916dcb2af275479d3b7b6feb65b1181&smart=true&width=813&height=610"
+            },
+            {
+              "t": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+              "l": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/RINJNYO5RVHU3O2H6XJ3SVD2CY.jpg?auth=de951cee41c478e38360b9a5e1a544c2ab39026ea7aa7ec7e7a9d02b0dfc8ff4&smart=true&width=1200&height=800"
+            },
+            {
+              "t": "La bicicleta de Prestianni, el blooper de Barrenechea y los golazos que tuvo la noche de las copas de Europa",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/la-bicicleta-de-prestianni-el-blooper-de-barrenechea-y-los-golazos-que-tuvo-la-noche-de-las-copas-de-nid05112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/CAR5BLIF25DI5C2I3LB4TQVYGE.JPG?auth=9531410f42d1e47f90b2930b1242cb8a96d0c50af7bb756e154880d96d1708b3&smart=true&width=4522&height=3020"
+            },
+            {
+              "t": "Otra derrota para Tapia: la Corte anuló el fallo que le impedía a la Inspección General de Justicia controlar los balances de la AFA",
+              "l": "https://www.lanacion.com.ar/politica/otra-derrota-para-tapia-la-corte-anulo-el-fallo-que-le-impedia-a-la-inspeccion-general-de-justicia-nid05112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/B2LAQ2PKCBH5PLKKSMNWCD6RRM.JPG?auth=c0de8ce4cd84cff3186d7f75497705d79b7bf76a6fe17403b4b405fe3486ed32&smart=true&width=4010&height=3007"
+            },
+            {
+              "t": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
+              "l": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-estamos-a-velocidad-digital-y-somos-nid04112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/ZWK2GHMSGBCJ5MHSFZSNHRGSZU.png?auth=f3f7ffe31c2122f63e28b8e1cff393e430ab9d75c267edeb94e9cc8187385475&smart=true&width=2000&height=1333"
+            },
+            {
+              "t": "Papa León XIV en la Argentina: el médico Jorge Tartaglione explicó cómo influye la fe en la salud",
+              "l": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-el-medico-jorge-tartaglione-explico-como-influye-la-fe-en-la-salud-nid05112026/",
               "img": "https://resizer.glanacion.com/resizer/v2/7TGEY24SEBA3NGA4IPMYKSUUDU.JPG?auth=31f5f10dc59669d831b38248ce9664671f673259790bb37a865218b835f17e63&smart=true&width=3639&height=2426"
-            },
-            {
-              "t": "A qué hora juega hoy River vs. Aldosivi y por dónde se puede ver en vivo",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-river-vs-aldosivi-y-por-donde-se-puede-ver-en-vivo-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/UZLVVORGNRC57KKYEQQYVC2ZXU.jpg?auth=3b454e29a0e76133c8998163793287b5750db909b52bcd0d884bd232b13cb341&smart=true&width=4096&height=2731"
-            },
-            {
-              "t": "Los detalles de la ampliación de la denuncia penal contra Hernán Casciari que involucra a Andy Kusnetzoff",
-              "l": "https://www.lanacion.com.ar/espectaculos/los-detalles-de-la-ampliacion-de-la-denuncia-penal-contra-hernan-casciari-que-involucra-a-andy-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/RFO6WVQ7JFEIPEJP5F3IGJI5WM.jpg?auth=4729dcfb8a8b0f3206f7a25a82bb4d99994c4b99b6a4ca6a2a9712b0321802a6&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Renunció el presidente de Paraguay: así viven Tim Payne y su familia el escándalo financiero y político desde Asunción",
-              "l": "https://www.lanacion.com.ar/el-mundo/tim-payne-y-michelle-peters-en-medio-del-escandalo-financiero-en-paraguay-es-muy-angustiante-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/BUAAJPJKM5DGNKMVSI4FEXGMKQ.jpg?auth=bfc4626b6fc818dcdc077cf7de4ab0bdf5268d9b2388c158c2975d6aba0b7114&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Tomás Etcheverry perdió una buena chance de llegar a los cuartos de final de un Masters 1000 por primera vez",
-              "l": "https://www.lanacion.com.ar/deportes/tenis/tomas-etcheverry-perdio-una-buena-chance-de-llegar-a-los-cuartos-de-final-de-un-masters-1000-por-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/EJG6MAKGPFAODGAD2TWCETHD34.JPG?auth=af6d5d094a62a090e6b4899e648dae34ed453b2e9b23ed3d3da5e64051209b04&smart=true&width=2048&height=1365"
-            },
-            {
-              "t": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 5 de noviembre, minuto a minuto",
-              "l": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/HGBZWIHSVVDBVBCF23NUUJ2XLY.jpg?auth=40e09115afc78a149c92d253c6c6877abd691d700b49b22373bfe4895a7d234d&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 5 de noviembre",
-              "l": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-jueves-5-de-noviembre-nid05112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/QKTFXMJBP5FXVJVB33H2G7TPKE.jpg?auth=5b5af16f1dc4284fd7a2d40a55d62e89d36b17763195a9d828f0af19ae49f15a&smart=true&width=740&height=493"
             }
           ]
         },
@@ -268,34 +267,34 @@
           "tr": false,
           "items": [
             {
-              "t": "Crisis en Paraguay: Santiago Peña presentó su renuncia a la Presidencia",
+              "t": "Crisis en Paraguay: Santiago Peña renunció a la Presidencia",
               "l": "https://www.pagina12.com.ar/2026/11/05/crisis-en-paraguay-santiago-pena-en-la-cuerda-floja-por-el-caso-ueno-bank/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/OKFMLF2EUNHBHFG2IALG3V22NI.jpg?auth=1043521f77ff3584448174caf79afe301b4ab7824764a7abf7a64067169ba447&smart=true&width=1920&height=1280"
             },
             {
-              "t": "El video de Santiago Peña con el anuncio de su renuncia",
-              "l": "https://www.pagina12.com.ar/2026/11/05/el-video-de-santiago-pena-con-el-anuncio-de-su-renuncia/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/FKXIZ7VRYBFT3M4CN6CGDGZXNM.jpg?auth=a9ad88135b90d1aeaf64c30635c1a69fdaefaacea84316504a93cf47dad1dab3&smart=true&width=1613&height=1075"
+              "t": "El banco se llevó puesto al presidente de Paraguay",
+              "l": "https://www.pagina12.com.ar/2026/11/05/el-banco-se-llevo-puesto-al-presidente-de-paraguay/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/XNKTF6HCAZANLNYHGS6Q7PSUYQ.jpg?auth=2d46b090ba25ff351ef117235779068772d1612e076364eefbeafae0a8883699&smart=true&width=4961&height=3307"
             },
             {
-              "t": "Dólar blue, dólar hoy: a cuánto cotizan el jueves 5 de noviembre de 2026",
-              "l": "https://www.pagina12.com.ar/2026/11/05/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-5-de-noviembre-de-2026/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/GNRGGMZXGBRWMYRYGZQTKY3BGU.jpg?auth=699ea7326e6502de1c41cd59d8aa97b97a44433fd40a0fd5d6860291f54a2bf3&smart=true&width=4256&height=2832"
+              "t": "Santiago Peña: el ascenso, los negocios familiares y la caída del expresidente paraguayo",
+              "l": "https://www.pagina12.com.ar/2026/11/05/santiago-pena-el-ascenso-los-negocios-familiares-y-la-caida-del-expresidente-paraguayo/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/IKJ457NDUBHUPI6JOQQY4ATOVQ.jpg?auth=d395098285ea2662e7593df905b883dd6fcbf90203ff5fa4aa41c1539edf7351&smart=true&width=1200&height=800"
             },
             {
-              "t": "Mientras digiere la derrota de Trump, Milei retomó su campaña contra Pedro Sánchez en España",
-              "l": "https://www.pagina12.com.ar/2026/11/05/mientras-digiere-la-derrota-de-trump-milei-retomo-su-campana-contra-pedro-sanchez-en-espana/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/CLS4VJJEWJBOPKBQDGWPM67KDI.jpg?auth=78255b407a67a574ea3ad10dd4247af098d570e4e4db9d666e1031f1923aa608&smart=true&width=1200&height=800"
+              "t": "Hay un “León” especialista en crecimiento y no es Milei",
+              "l": "https://www.pagina12.com.ar/2026/11/05/hay-un-leon-especialista-en-crecimiento-y-no-es-milei/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/OCIGMDG3OZH7TIVK6565RN6L7M.JPG?auth=78992d879c061437bd5c5849fe6186cf3b1514115f7d6fc16a6a9a92eb142f34&smart=true&width=6000&height=4078"
             },
             {
-              "t": "Murió Patricia Walsh, la exdiputada que impulsó la nulidad de las leyes de la impunidad",
-              "l": "https://www.pagina12.com.ar/2026/11/05/murio-patricia-walsh-la-exdiputada-que-impulso-la-nulidad-de-las-leyes-de-la-impunidad/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/4IPYJKG32ZAFDGHKMCUDBRG7XI.jpg?auth=4c85d733edc3f3992d785c973b6e0e3c5a269dbf43885e16018582262d6bcefc&smart=true&width=1620&height=1080"
+              "t": "La Corte confirmó un fallo histórico sobre la responsabilidad de la Ford en secuestros durante la dictadura",
+              "l": "https://www.pagina12.com.ar/2026/11/05/la-corte-confirmo-un-fallo-historico-sobre-la-responsabilidad-de-la-ford-en-secuestros-durante-la-dictadura/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/GZSDOMTCMM4TKYJWGJSTMZBQMQ.jpg?auth=6bbc9fad1593f53bdb4ba32e1620b7b8cbb148a52dc6c746667752ca82ff5924&smart=true&width=1280&height=853"
             },
             {
-              "t": "Ciudad sitiada: los cortes de tránsito por la visita del Papa León XIV",
-              "l": "https://www.pagina12.com.ar/2026/11/05/ciudad-sitiada-los-cortes-de-transito-en-la-por-la-visita-del-papa-leon-xiv/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/DLNW2K5FNZHOFMJSMQVLZF55G4.jpg?auth=d69ebb27130125cbcae27dd506be5cb98a8f3735564f6a390d9121d36ac05505&smart=true&width=8256&height=5504"
+              "t": "Torneo Clausura: salió el sol para River que volvió a ganar pero tiene que seguir mejorando",
+              "l": "https://www.pagina12.com.ar/2026/11/05/torneo-clausura-salio-el-sol-para-river-que-volvio-a-ganar-pero-tiene-que-seguir-mejorando/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/XO2CQ7XPEBHPZJZBGW7BEAHHSI.jpg?auth=59c63363a7c86fddf021eb766f65678363c7b42fac3fee6f15a3a5e37cb11035&smart=true&width=4096&height=2731"
             }
           ]
         }
@@ -310,36 +309,36 @@
           "tr": true,
           "items": [
             {
-              "t": "Casal suspeito de matar americano desenvolvedor de jogos no Paraná é preso na Argentina",
-              "l": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/05/casal-suspeito-de-matar-americano-desenvolvedor-de-jogos-no-parana-e-preso-na-argentina.ghtml"
+              "t": "Mulher conhece engenheiro em aplicativo de namoro e diz ter perdido R$ 26 mil em golpe",
+              "l": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/05/mulher-conhece-engenheiro-em-aplicativo-de-namoro-e-diz-ter-perdido-r-26-mil-em-golpe.ghtml"
             },
             {
-              "t": "Congresso paraguaio aprova seguir com processo impeachment do  presidente do Paraguai, mesmo após renúncia",
-              "l": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-aprova-seguir-com-processo-impeachment-do-presidente-do-paraguai-mesmo-apos-renuncia.ghtml"
+              "t": "Assista aos telejornais da TV Liberal",
+              "l": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml"
             },
             {
-              "t": "É #FAKE que cena de pessoas pegando comida em caminhão de lixo ocorreu durante governo Lula; vídeo foi gravado em 2021",
-              "l": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-que-cena-de-pessoas-pegando-comida-em-caminhao-de-lixo-ocorreu-durante-governo-lula-video-foi-gravado-em-2021.ghtml"
+              "t": "Assista aos telejornais da TV Subaé",
+              "l": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml"
             },
             {
-              "t": "ONG de rainha da Suécia visita Campinas para criar centro contra abuso infantil",
-              "l": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/05/ong-de-rainha-da-suecia-visita-campinas-para-criar-centro-contra-abuso-infantil.ghtml"
+              "t": "Assista aos telejornais da TV Bahia",
+              "l": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
             },
             {
-              "t": "Natal na Grande Vitória terá roda-gigante, patinação no gelo, desfiles, tobogã e até sala sensorial de graça; veja horários de visitação",
-              "l": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/05/natal-tera-roda-gigante-patinacao-no-gelo-desfiles-toboga-e-ate-sala-sensorial-veja-horarios-de-visitacao-gratuita.ghtml"
+              "t": "Assista ao Bom Dia Amapá desta sexta (6)",
+              "l": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quinta-5.ghtml"
             },
             {
-              "t": "Mega-Sena 3081: 11 apostas do oeste do PA acertam a quadra; prêmio vai a R$ 55 milhões",
-              "l": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/05/mega-sena-3081-11-apostas-do-oeste-do-pa-acertam-a-quadra-premio-vai-a-r-55-milhoes.ghtml"
+              "t": "Siga o EPTV 2 Ribeirão e Franca",
+              "l": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml"
             },
             {
-              "t": "Suspeito de estuprar enteada de 13 anos e ameaçar pessoas com arma para evitar denúncias é preso no PI",
-              "l": "https://g1.globo.com/pi/piaui/noticia/2026/11/05/suspeito-estupro-enteada-preso.ghtml"
+              "t": "Rio Branco termina outubro com chuvas quase 50% abaixo do previsto, diz Defesa Civil",
+              "l": "https://g1.globo.com/ac/acre/noticia/2026/11/05/rio-branco-termina-outubro-com-chuvas-quase-50percent-abaixo-do-previsto-diz-defesa-civil.ghtml"
             },
             {
-              "t": "Autor do vídeo que registrou arraia 'cortando onda' de surfista no Recreio conta que se surpreendeu: 'Um momento único'",
-              "l": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/05/autor-do-video-que-mostrou-arraia-cortando-onda-de-surfista-no-recreio-conta-que-se-surpreendeu-um-momento-unico.ghtml"
+              "t": "VÍDEOS: GR2 de quinta-feira, 5 de novembro de 2026",
+              "l": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-quinta-feira-5-de-novembro-de-2026.ghtml"
             }
           ]
         },
@@ -348,36 +347,36 @@
           "tr": true,
           "items": [
             {
-              "t": "Cade condiciona compra da Medley pela EMS à venda de marcas de medicamentos",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cade-condiciona-compra-da-medley-pela-ems-a-venda-de-marcas-de-medicamentos.shtml"
+              "t": "Após acordo eleitoral, Tarcísio deve dar secretaria a Ricardo Salles",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/apos-acordo-eleitoral-tarcisio-deve-dar-secretaria-a-ricardo-salles.shtml"
             },
             {
-              "t": "Após polêmica com Galliano, Met Gala anuncia moda do dia a dia como tema de 2027",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/apos-polemica-com-galliano-met-gala-anuncia-moda-do-dia-a-dia-como-tema-de-2027.shtml"
+              "t": "Veja em dez pontos as semelhanças e diferenças entre Ueno Bank e Banco Master",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/veja-em-dez-pontos-as-semelhancas-e-diferencas-entre-ueno-bank-e-banco-master.shtml"
             },
             {
-              "t": "Fabricante de iates Azimut se junta a incorporadora argentina para expandir no país",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/fabricante-de-iates-se-junta-a-incorporadora-argentina-para-expandir-no-pais.shtml"
+              "t": "Casal suspeito de matar norte-americano em Maringá (PR) é preso na Argentina",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/casal-suspeito-de-matar-norte-americano-em-maringa-pr-e-preso-na-argentina.shtml"
             },
             {
-              "t": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/apos-acordo-com-mercosul-vendas-do-brasil-para-a-uniao-europeia-subiram-us-64-bi-diz-apex.shtml"
+              "t": "Dívida externa de países em desenvolvimento atinge recorde de US$ 9,4 tri em 2025, diz Banco Mundial",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/divida-externa-de-paises-em-desenvolvimento-atinge-recorde-de-us-94-tri-em-2025-diz-banco-mundial.shtml"
             },
             {
-              "t": "Cena de sexo gay em 'Quem Ama Cuida' deve ir ao limite permitido pelo horário",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/cena-de-sexo-gay-em-quem-ama-cuida-deve-ir-ao-limite-permitido-pelo-horario.shtml"
+              "t": "Alvo de operação, remédio falsificado contra o câncer tinha só sódio e cloro, mostra laudo",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/alvo-de-operacao-remedio-falsificado-contra-o-cancer-tinha-so-sodio-e-cloro-mostra-laudo.shtml"
             },
             {
-              "t": "Tenda vê reforma tributária e fim da escala 6x1 como aliados de seu modelo industrial",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/tenda-ve-reforma-tributaria-e-fim-da-escala-6x1-como-aliados-de-seu-modelo-industrial.shtml"
+              "t": "Onda azul nos Estados Unidos pode favorecer produtor brasileiro",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/onda-azul-nos-estados-unidos-pode-favorecer-produtor-brasileiro.shtml"
             },
             {
-              "t": "A lição de Eric Clapton sobre ajudar outro adicto em recuperação",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/vida-de-alcoolatra/2026/11/a-licao-de-eric-clapton-sobre-ajudar-outro-adicto-em-recuperacao.shtml"
+              "t": "Vereadora pede à agência nacional de dados que multe Prefeitura em R$ 50 milhões por falhas no Smart Sampa",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/vereadora-pede-a-agencia-nacional-de-dados-que-multe-prefeitura-em-r-50-milhoes-por-falhas-no-smart-sampa.shtml"
             },
             {
-              "t": "Nubank desmonta time de investigação após IA diminuir fila de queixas de fraude em 80%",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nubank-desmonta-time-de-investigacao-apos-ia-diminuir-fila-de-queixas-de-fraude-em-80.shtml"
+              "t": "Aborto, pessoas trans, armas e bilionários também estavam nas cédulas durante eleição nos EUA",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/aborto-pessoas-trans-armas-e-bilionarios-tambem-estavam-nas-cedulas-durante-eleicao-nos-eua.shtml"
             }
           ]
         },
@@ -386,42 +385,44 @@
           "tr": true,
           "items": [
             {
-              "t": "UOL EM 8",
-              "l": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/05/boletim-uol-em-8-corte-de-privilegios-e-impeachment-de-hegseth.ghtm"
+              "t": "EXCLUSIVO",
+              "l": "https://economia.uol.com.br/colunas/monica-scaramuzzo/2026/11/05/exclusivo-credores-da-raizen-sao-procurados-para-vender-distribuidora.htm",
+              "img": "https://imguol.com/c/noticias/ef/2026/07/31/raizen-1785507035932_v2_300x225.png"
             },
             {
-              "t": "UOL NEWS ESPORTE",
-              "l": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/05/sao-paulo-tem-quinta-amarga-mas-alento-e-que-nao-caira-diz-arnaldo.ghtm",
-              "img": "https://imguol.com/c/home/11/2026/11/05/luciano-lamenta-chance-desperdicada-em-sao-paulo-0-x-0-corinthians-1793895595528_300x225.jpg"
+              "t": "Pedro Lopes",
+              "l": "https://www.uol.com.br/esporte/colunas/pedro-lopes/2026/11/05/dorival-e-rafinha-nao-sao-o-que-sao-paulo-precisa-para-se-reformular.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/e0/2025/11/12/pedro-lopes-autor-blog-1762947198729_v2_100x100.jpg"
             },
             {
-              "t": "MONITOR DE OFERTAS",
-              "l": "https://www.uol.com.br/guia-de-compras/ao-vivo/2025/06/18/monitor-de-ofertas-uol.htm",
-              "img": "https://imguol.com/c/guia-de-compras/f0/2026/11/05/amaciante-concentrado-brisa-de-verao-downy-1793881082489_v2_150x112.png"
+              "t": "PVC",
+              "l": "https://www.uol.com.br/esporte/colunas/pvc/2026/11/05/palmeirense-janones-acredita-minha-habilidade-em-viradas-e-o-palmeiras.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/40/2019/01/14/pvc-1547459239301_100x100.jpg"
             },
             {
-              "t": "O POVO QUER SABER",
-              "l": "https://www.uol.com.br/splash/noticias/2026/11/05/lipe-ribeiro-diz-que-saiu-de-a-fazenda-com-r-440-mil-em-premios.ghtm",
-              "img": "https://imguol.com/c/splash/06/2026/11/04/veteranos-do-de-ferias-com-o-ex-expoem-cache-1793818161518_v2_300x225.jpg"
+              "t": "Cláudio Hebdô",
+              "l": "https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/11/depois-da-eleicao-o-deficit-das-contas.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/6c/2022/12/15/claudio-hebdo-1671112940124_100x100.jpg"
             },
             {
-              "t": "ALT TABET",
-              "l": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/05/ana-claudia-michels-no-alt-tabet.ghtm",
-              "img": "https://imguol.com/c/noticias/e1/2026/11/04/ana-claudia-michels-no-alt-tabet-1793835425827_v2_300x225.png"
+              "t": "Laura Muller",
+              "l": "https://www1.folha.uol.com.br/colunas/laura-muller/2026/11/relacionamentos-via-telas-ou-presenciais-o-que-e-melhor.shtml",
+              "img": "https://conteudo.imguol.com.br/c/entretenimento/97/2019/09/05/laura-muller-e-psicologa-e-sexologa-que-tem-quadro-de-perguntas-e-respostas-no-altas-horas-1567700521098_v2_100x100.jpg"
             },
             {
-              "t": "QUE PIRA É ESSA?",
-              "l": "https://www.uol.com.br/flash/?c=6aeba33114ded9bdd5102105",
-              "img": "https://conteudo.imguol.com.br/c/entretenimento/flash/28/2026/11/04/emoji-de-choro-1793826526904_v2_300x225.png"
+              "t": "Suzana Houzel",
+              "l": "https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2026/11/rumo-a-coisas-melhores-antartida.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/b8/2019/04/09/suzana-herculano-houzel-1554827937055_100x100.jpg"
             },
             {
-              "t": "PODCAST UOL PRIME",
-              "l": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/05/como-as-emendas-abastecem-empresas-de-parentes-e-amigos-de-congressistas.htm"
+              "t": "Wálter Maierovitch",
+              "l": "https://noticias.uol.com.br/colunas/walter-maierovitch/2026/11/05/trump-netanyahu-e-o-abraco-dos-afogados.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/1a/2021/09/28/walter-maierovitch-150-1632837806803_100x100.jpg"
             },
             {
-              "t": "Sakamoto",
-              "l": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/11/05/trump-tentou-derrotar-o-ira-mas-foi-o-ira-que-ajudou-a-derrota-lo.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/1e/2026/01/07/leonardo-sakamoto---colunista-1767818290321_v2_100x100.png"
+              "t": "Marcos Nogueira",
+              "l": "https://www1.folha.uol.com.br/colunas/marcosnogueira/2026/11/socorro-a-geladeira-quer-matar-minha-familia.shtml",
+              "img": "https://conteudo.imguol.com.br/c/noticias/98/2019/08/20/marcos-nogueira-do-blog-cozinha-bruta-1566335845323_v2_100x100.jpg"
             }
           ]
         }
@@ -436,14 +437,14 @@
           "tr": false,
           "items": [
             {
-              "t": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones con destino a ciudades europeas",
+              "t": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa",
               "l": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/6A4ME6CNWRC3ZMEJWJZE43AY4E.JPG?auth=734e86a40e5375ddcf6cb5550ac7df697ddfb20a56400ec1050357afdd353c9b"
+              "img": "https://imagenes.elpais.com/resizer/v2/MKZUVNWTWZDONLAFNXV4YCKDHE.JPG?auth=a01729b8dbe86f00123d5f4122b8150ac0374e556321472c2212fa45a43dcc39"
             },
             {
-              "t": "Última hora de la Cumbre Iberoamericana, en directo | Sánchez afirma que la dimisión de Puente fue “por empatía por las víctimas y para restablecer la confianza” en el sistema ferroviario",
-              "l": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/SZ2O4LYO4JEW7K7QUC6W5Q5ENM.JPG?auth=374e18a3efa773c729394f60837cd3cf2b5ac1603937cf3a8dc3427867fd7905"
+              "t": "Cuerpo asegura que no hay “previsión” de cerrar durante las obras la línea Madrid-Barcelona",
+              "l": "https://elpais.com/espana/2026-11-05/cuerpo-asegura-que-no-hay-prevision-de-cerrar-durante-las-obras-la-linea-madrid-barcelona.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/GZ7RSWJFINIHXGMWFPRHUBDETE.jpg?auth=5369e9f71a150c8a2a3394b46c2414ddcee7d8d3302e428ba270b1d161622012"
             },
             {
               "t": "Las vidas que se pararon para siempre en Urda",
@@ -455,6 +456,11 @@
               "l": "https://elpais.com/podcasts/2026-11-05/como-estan-cambiando-las-encuestas-tras-el-accidente.html"
             },
             {
+              "t": "Santiago Abascal acudirá este lunes a ‘La revuelta’ mientras que Ada Colau lo hará el martes",
+              "l": "https://elpais.com/television/2026-11-05/santiago-abascal-acudira-este-lunes-a-la-revuelta-mientras-que-ada-colau-lo-hara-el-martes.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/LXAOLG77GFDA3A3NPM7IM5O3VI.jpg?auth=fb8921a35e3599d438e09e8097e1ab1cf0b39482da1271bb833fe2c8e5fe84e0"
+            },
+            {
               "t": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
               "l": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
               "img": "https://imagenes.elpais.com/resizer/v2/SOZTB5J5F5DYXIGGNWQFGR6QNA.jpg?auth=4c82416f4b709291d2087c8ed712be0b459058366d15e3a2a1a640daea136313"
@@ -462,17 +468,12 @@
             {
               "t": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
               "l": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/VK5TDQWPQRHRXASYJUSN32GCWE.jpg?auth=60318bd8e01b7930208dab8c293333b73c4cb68604f411efd513d6640068e525"
+              "img": "https://imagenes.elpais.com/resizer/v2/PQYG2ODFVZFEXOUQ2OUGJV6QNY.jpg?auth=90c7a04f496c00bcdebf6a9c65ed7c063a6de7097662929426a0972bfa47f229"
             },
             {
               "t": "El Gran Wyoming se jubila y Gonzo presentará ‘El intermedio’ desde enero",
               "l": "https://elpais.com/television/2026-11-05/el-gran-wyoming-se-jubila-y-gonzo-presentara-el-intermedio-desde-enero.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/TYYPNXBQ2BFK5LBRJUUSJ5FHYM.jpg?auth=ec1fb1cc12ece02a63cccd558dc364ef9957170cf7b862cc23ad9e9a60f32ae8"
-            },
-            {
-              "t": "El Asador Etxebarri, elegido el mejor restaurante del mundo",
-              "l": "https://elpais.com/gastronomia/2026-11-05/el-asador-etxebarri-elegido-el-mejor-restaurante-del-mundo.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/ZDCLSXTDNVDNNPAFQ2ZA4JPTEQ.jpg?auth=053913650f58f8c09c233f0088d0abf0c59269907a091d7ec0cfad962255f6c8"
+              "img": "https://imagenes.elpais.com/resizer/v2/7TT3LLHZYNB3VBZOIRSTVEZ67I.jpg?auth=dc791551d93ff25da189f7be7af78e09d301699173908d77cd5b76914da503c7"
             }
           ]
         },
@@ -481,19 +482,19 @@
           "tr": false,
           "items": [
             {
-              "t": "Santiago Peña presenta su renuncia como presidente de Paraguay por la crisis de Ueno Bank",
+              "t": "Crisis en Paraguay: el presidente Santiago Peña se someterá a juicio político horas después de anunciar su renuncia",
+              "l": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/21f39400-d948-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "t": "Santiago Peña renuncia a la presidencia de Paraguay mientras la Cámara de Diputados aprueba someterlo a un juicio político por el caso Ueno Bank",
               "l": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c1d/live/ca13cd00-d937-11f1-8bce-2396c9c50357.jpg"
             },
             {
-              "t": "El Congreso de Paraguay aprueba el juicio político a Santiago Peña pese a su renuncia como presidente",
-              "l": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c6/live/ec5e8750-d938-11f1-95ea-8df9a040b6bf.jpg"
-            },
-            {
               "t": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
               "l": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef60/live/2d36fe80-d93c-11f1-95ea-8df9a040b6bf.jpg"
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbfc/live/8b5d7180-d93f-11f1-95ea-8df9a040b6bf.jpg"
             },
             {
               "t": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
@@ -506,14 +507,14 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69c4/live/05b4e120-d46d-11f1-a701-fddedf244c16.jpg"
             },
             {
-              "t": "Los datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de EE.UU.",
-              "l": "https://www.bbc.com/mundo/articles/cq203vjl5ym8o?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f332/live/a7383aa0-d905-11f1-960e-7dd59f59b29b.jpg"
+              "t": "El gobernador Gavin Newsom conmuta la condena a 548 personas que estaban en el corredor de la muerte en California",
+              "l": "https://www.bbc.com/mundo/articles/cr74pp8wl8xyo?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f727/live/1aa45900-d952-11f1-b7f4-8bd3c0617693.jpg"
             },
             {
-              "t": "\"La derrota de Trump limita su poder interno, pero no necesariamente su influencia en el mundo\"",
-              "l": "https://www.bbc.com/mundo/articles/cmy0rzyw4w59o?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fdbd/live/46f2aba0-d917-11f1-a81d-35e942472442.jpg"
+              "t": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de EE.UU.",
+              "l": "https://www.bbc.com/mundo/articles/cq203vjl5ym8o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f332/live/a7383aa0-d905-11f1-960e-7dd59f59b29b.jpg"
             },
             {
               "t": "El actor y comediante británico Russell Brand es declarado culpable de violación y  agresión sexual",
@@ -533,36 +534,36 @@
           "tr": true,
           "items": [
             {
-              "t": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-              "l": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
-            },
-            {
-              "t": "How Trump Is Reacting to the Midterm Results",
-              "l": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html"
-            },
-            {
-              "t": "They Made History as ‘Firsts.’ That’s Not What They Ran On.",
-              "l": "https://www.nytimes.com/2026/11/05/us/politics/midterms-identity-politics.html"
-            },
-            {
-              "t": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
-              "l": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html"
-            },
-            {
-              "t": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-              "l": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html"
-            },
-            {
-              "t": "Midterm Election Losses Complicate Trump’s Options on Iran War",
-              "l": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html"
-            },
-            {
               "t": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
               "l": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html"
             },
             {
               "t": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
               "l": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html"
+            },
+            {
+              "t": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
+              "l": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html"
+            },
+            {
+              "t": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
+              "l": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html"
+            },
+            {
+              "t": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+              "l": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html"
+            },
+            {
+              "t": "The Machine, and the Messaging, That Won Texas for Democrats",
+              "l": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html"
+            },
+            {
+              "t": "How Democrats Won Across the South",
+              "l": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html"
+            },
+            {
+              "t": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
+              "l": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html"
             }
           ]
         },
@@ -570,6 +571,14 @@
           "n": "NPR",
           "tr": true,
           "items": [
+            {
+              "t": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+              "l": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
+            },
+            {
+              "t": "Head of Justice Department office on Civil Rights resigns",
+              "l": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
+            },
             {
               "t": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
               "l": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat"
@@ -591,16 +600,8 @@
               "l": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
             },
             {
-              "t": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
-              "l": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities"
-            },
-            {
-              "t": "Trump's arch is on the verge of federal approval. But a judge could block construction",
-              "l": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction"
-            },
-            {
-              "t": "The South flexes political power in midterms, sets regional influence in 2028 election",
-              "l": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas"
+              "t": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
+              "l": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year"
             }
           ]
         }
