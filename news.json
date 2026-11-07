@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T16:17:34Z",
+  "updated": "2026-11-07T20:26:25Z",
   "paises": [
     {
       "id": "uy",
@@ -10,36 +10,36 @@
           "tr": false,
           "items": [
             {
+              "t": "“Es el mejor homenaje al padre Cacho”: Pacha Sánchez junto al papa en Casavalle",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981422"
+            },
+            {
+              "t": "En vivo: el papa León XIV ya visita el barrio Casavalle, donde brindará un discurso",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981420"
+            },
+            {
+              "t": "Largas filas, policías y un escenario pronto: el Centenario aguarda al papa León XIV",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981415"
+            },
+            {
+              "t": "De Paraná a Yaguarón, una multitud se encontró en Paysandú con el papa León XIV",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981405"
+            },
+            {
+              "t": "“A cara de perro”: el libro sobre el número dos del MLN que la historia oficial olvidó",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981168"
+            },
+            {
+              "t": "Polonia: al menos seis muertos en tiroteo filmado en vivo por el perpetrador",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981418"
+            },
+            {
+              "t": "“No lo conseguimos”: un grupo de brasileños no sabe si entrará al Centenario a ver al papa",
+              "l": "https://www.montevideo.com.uy/auc.aspx?981417"
+            },
+            {
               "t": "Jacinto Vera, palmares, mate y puente: ejes de la homilía papal en Paysandú",
               "l": "https://www.montevideo.com.uy/auc.aspx?981395"
-            },
-            {
-              "t": "\"Obispo gaucho\", con mención a Jacinto Vera, León XIV inició su homilía en Paysandú. VIVO",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981384"
-            },
-            {
-              "t": "Gabriel Otero: “Yo con 3 o 4 años estuve preso con mi madre, no hay nada romántico en eso”",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981286"
-            },
-            {
-              "t": "Se supo qué pasó con el cuerpo de la bebé de 26 semanas que murió en el Hospital Policial",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981360"
-            },
-            {
-              "t": "El Papa en Paysandú: los lugares donde estará, su recorrido y horarios a tener en cuenta",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981311"
-            },
-            {
-              "t": "El mensaje del papa en pleno bulevar Artigas y su escrito en libro de honor de Montevideo",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981368"
-            },
-            {
-              "t": "Blancos repudian “violenta agresión” a Ripoll y reclaman al INAU seguridad para vecinos",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981381"
-            },
-            {
-              "t": "De Melo al Vaticano: el periodista uruguayo que trabaja cubriendo al Papa y sigue su viaje",
-              "l": "https://www.montevideo.com.uy/auc.aspx?981313"
             }
           ]
         },
@@ -48,19 +48,24 @@
           "tr": false,
           "items": [
             {
-              "t": "EN VIVO | En vuelo: el papa León XIV regresa a Montevideo y así seguirá su visita",
+              "t": "EN VIVO | El papa León XIV partió rumbo a Casavalle que se prepara para recibirlo",
               "l": "https://www.elobservador.com.uy/nacional/en-vivo-el-papa-leon-xiv-llega-uruguay-que-hora-aterriza-el-recorrido-la-rambla-y-todos-los-cortes-montevideo-n6062971",
-              "img": "https://media.elobservador.com.uy/p/9f6001060e85e4402c6faa49eabc7393/adjuntos/362/imagenes/100/784/0100784609/1200x675/smart/whatsapp-image-2026-11-07-at-102239-am.jpeg"
+              "img": "https://media.elobservador.com.uy/p/c506654169f337a6aea2714fc7910008/adjuntos/362/imagenes/100/784/0100784696/1200x675/smart/papa-leon-xiv-la-misa-paysandu.jpg"
             },
             {
-              "t": "La primera misa del papa León XIV en Sudamérica: el recuerdo de Jacinto Vera y la simbología espiritual del mate, los puentes y los palmares",
-              "l": "https://www.elobservador.com.uy/nacional/la-primera-misa-del-papa-leon-xiv-sudamerica-el-recuerdo-jacinto-vera-y-la-simbologia-del-mate-como-parte-su-homilia-n6063074",
-              "img": "https://media.elobservador.com.uy/p/46251585026e156aadb926c39a57b14e/adjuntos/362/imagenes/100/784/0100784625/1200x675/smart/homilia-papa-leon.png"
+              "t": "\"Papa León, te queremos un montón\": cientos de personas esperan al sumo pontífice en Casavalle",
+              "l": "https://www.elobservador.com.uy/nacional/papa-leon-te-queremos-un-monton-cientos-personas-estan-esperando-al-sumo-pontifice-casavalle-n6063095",
+              "img": "https://media.elobservador.com.uy/p/c99af601b98026d2164d7aa04a703b46/adjuntos/362/imagenes/100/784/0100784709/1200x675/smart/papa-leon-xiv-casavalle-5.jpeg"
             },
             {
-              "t": "La densidad conceptual del papa León XIV: de Artigas al laicismo, un examen de la identidad uruguaya",
-              "l": "https://www.elobservador.com.uy/nacional/la-densidad-conceptual-del-papa-leon-xiv-artigas-al-laicismo-un-examen-la-identidad-uruguaya-n6063055",
-              "img": "https://media.elobservador.com.uy/p/67aa1e9e8d8fd0facd0cba5c0775dbde/adjuntos/362/imagenes/100/784/0100784505/1200x675/smart/discurso-papa-leon-xiv.jpeg"
+              "t": "Paysandú sacó a relucir su orgullo de anfitrión y recibió al papa León XIV en su primera (y multitudinaria) misa en Latinoamérica",
+              "l": "https://www.elobservador.com.uy/nacional/paysandu-saco-relucir-su-orgullo-anfitrion-y-recibio-al-papa-leon-xiv-su-primera-y-multitudinaria-misa-latinoamerica-n6063093",
+              "img": "https://media.elobservador.com.uy/p/f7ccbf6b08c484b12c2bd63b9c4d39bf/adjuntos/362/imagenes/100/784/0100784740/1200x675/smart/papa-leon-xiv-paysandu.jpg"
+            },
+            {
+              "t": "El intendente de Paysandú contó qué sintió al dialogar con el papa León XIV y cómo fue el encuentro junto a sus hijas",
+              "l": "https://www.elobservador.com.uy/nacional/el-intendente-paysandu-conto-que-sintio-al-dialogar-el-papa-leon-xiv-y-como-fue-el-encuentro-junto-sus-hijas-n6063090",
+              "img": "https://media.elobservador.com.uy/p/04cc92328dd26addb8978724f1eee6ba/adjuntos/362/imagenes/100/784/0100784701/1200x675/smart/image.png"
             },
             {
               "t": "No quería ir a ver al papa, pero terminó abrazándolo: la historia de Santiago, el niño con autismo que emocionó a todos",
@@ -68,24 +73,19 @@
               "img": "https://media.elobservador.com.uy/p/f3a1508752de5bc3a6397fcc7bbf05fb/adjuntos/362/imagenes/100/784/0100784533/1200x675/smart/whatsapp-image-2026-11-06-at-214950.jpeg"
             },
             {
-              "t": "La crítica a los \"poderosos\" que \"ocasionan guerras\" y piezas para bendecir: la trastienda de las reuniones privadas del Papa León XIV con el gobierno y dirigentes políticos",
-              "l": "https://www.elobservador.com.uy/nacional/la-critica-los-poderosos-que-ocasionan-guerras-y-piezas-bendecir-la-trastienda-las-reuniones-privadas-del-papa-leon-xiv-el-gobierno-y-dirigentes-n6063052",
-              "img": "https://media.elobservador.com.uy/p/15d3497ac997303ef419535adee83bb2/adjuntos/362/imagenes/100/784/0100784546/1200x675/smart/papa-orsi.jpg"
+              "t": "Papa León XIV en Montevideo: qué objetos estarán prohibidos en la vigilia del Estadio Centenario",
+              "l": "https://www.elobservador.com.uy/nacional/papa-leon-xiv-montevideo-que-objetos-estaran-prohibidos-la-vigilia-del-estadio-centenario-n6062723",
+              "img": "https://media.elobservador.com.uy/p/ac2f87dd94ceeb211fb84cd4b9f68f84/adjuntos/362/imagenes/100/783/0100783824/1200x675/smart/image.png"
             },
             {
-              "t": "Candombe, cantitos de cancha y fervor: una crónica del primer día de la visita del papa León XIV a Montevideo entre la gente",
-              "l": "https://www.elobservador.com.uy/nacional/candombe-cantitos-cancha-y-fervor-una-cronica-del-primer-dia-la-visita-del-papa-leon-xiv-montevideo-segun-la-gente-n6063041",
-              "img": "https://media.elobservador.com.uy/p/2b52684c852b8321dfc8e5ed121f87f6/adjuntos/362/imagenes/100/784/0100784519/1200x675/smart/image.png"
+              "t": "La densidad conceptual del papa León XIV: de Artigas al laicismo, un examen de la identidad uruguaya",
+              "l": "https://www.elobservador.com.uy/nacional/la-densidad-conceptual-del-papa-leon-xiv-artigas-al-laicismo-un-examen-la-identidad-uruguaya-n6063055",
+              "img": "https://media.elobservador.com.uy/p/67aa1e9e8d8fd0facd0cba5c0775dbde/adjuntos/362/imagenes/100/784/0100784505/1200x675/smart/discurso-papa-leon-xiv.jpeg"
             },
             {
-              "t": "De la \"fiesta de la educación católica\" a la \"decepción\" de un paso rápido de León XIV, sin papamóvil, por Punta Carretas",
-              "l": "https://www.elobservador.com.uy/nacional/de-la-fiesta-la-educacion-catolica-la-decepcion-un-paso-rapido-leon-xiv-papamovil-punta-carretas-n6063053",
-              "img": "https://media.elobservador.com.uy/p/bda4855e845d4522d468812ac6308731/adjuntos/362/imagenes/100/784/0100784536/1200x675/smart/whatsapp-image-2026-11-06-at-223343.jpeg"
-            },
-            {
-              "t": "El instante para tener al papa León XIV cerca: crónica de la espera en la plaza Matriz y el pedido del pontífice desde la Catedral al mundo",
-              "l": "https://www.elobservador.com.uy/nacional/el-instante-tener-al-papa-leon-xiv-cerca-la-cronica-la-espera-la-plaza-matriz-y-el-pedido-del-pontifice-la-catedral-al-mundo-n6063054",
-              "img": "https://media.elobservador.com.uy/p/b77f767944bcfb5121d7f9e293ab5e62/adjuntos/362/imagenes/100/784/0100784549/1200x675/smart/papa-leon-xiv_6-nov.jpeg"
+              "t": "El papa León XIV recibirá a la orden de agustinos en Uruguay antes de ir a Casavalle",
+              "l": "https://www.elobservador.com.uy/nacional/el-papa-leon-xiv-recibira-la-orden-agustinos-uruguay-antes-ir-casavalle-n6063084",
+              "img": "https://media.elobservador.com.uy/p/ea16917d832a5cebef02b5de965debee/adjuntos/362/imagenes/100/784/0100784639/1200x675/smart/dsc02402-papa-leon-xiv-uruguay-dia-1.jpg"
             }
           ]
         },
@@ -94,36 +94,36 @@
           "tr": false,
           "items": [
             {
+              "t": "Gobierno uruguayo transmitió “deseos de éxito” al nuevo presidente de Paraguay, Pedro Alliana",
+              "l": "https://ladiaria.com.uy/politica/articulo/2026/11/gobierno-uruguayo-transmitio-deseos-de-exito-al-nuevo-presidente-de-paraguay-pedro-alliana/"
+            },
+            {
+              "t": "Fiscalía de Paraguay imputó a Santiago Peña por “lesión de confianza y administración en provecho propio”",
+              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/fiscalia-de-paraguay-imputo-a-santiago-pena-por-lesion-de-confianza-y-administracion-en-provecho-propio/"
+            },
+            {
+              "t": "Están los cruces de cuartos de final de la Copa Uruguay",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/11/estan-los-cruces-de-cuartos-de-final-de-la-copa-uruguay/"
+            },
+            {
+              "t": "León XIV en Uruguay: ¿protocolo diplomático o gesto religioso por parte del Estado?",
+              "l": "https://ladiaria.com.uy/verifica/articulo/2026/11/leon-xiv-en-uruguay-protocolo-diplomatico-o-gesto-religioso-por-parte-del-estado/"
+            },
+            {
+              "t": "Hasta en Texas",
+              "l": "https://ladiaria.com.uy/articulo/2026/11/hasta-en-texas/"
+            },
+            {
+              "t": "Plaza Colonia es campeón de la B y ascendió a Primera",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/11/plaza-colonia-es-campeon-de-la-b-y-ascendio-a-primera/"
+            },
+            {
+              "t": "El papa León XIV y una jornada histórica de unidad en Paysandú que reunió a más de 20 mil personas",
+              "l": "https://ladiaria.com.uy/paysandu/articulo/2026/11/el-papa-leon-xiv-y-una-jornada-historica-de-unidad-en-paysandu-que-reunio-a-mas-de-20-mil-personas/"
+            },
+            {
               "t": "Candombe, tango, plena y la inspiración en Amy Winehouse: Isabel Lenoir se presenta el domingo en el Florencio Sánchez del Cerro",
               "l": "https://ladiaria.com.uy/cultura/articulo/2026/11/candombe-tango-plena-y-la-inspiracion-en-amy-winehouse-isabel-lenoir-se-presenta-el-domingo-en-el-florencio-sanchez-del-cerro/"
-            },
-            {
-              "t": "Este domingo se estrena Tarima, el nuevo ciclo de sesiones musicales de la diaria Radio, con Suma Camerata",
-              "l": "https://ladiaria.com.uy/cultura/articulo/2026/11/este-domingo-se-estrena-tarima-el-nuevo-ciclo-de-sesiones-musicales-de-la-diaria-radio-con-suma-camerata/"
-            },
-            {
-              "t": "Romina Paula y Sombras, por supuesto, una obra inspirada en el cine de Fassbinder",
-              "l": "https://ladiaria.com.uy/cultura/articulo/2026/11/romina-paula-y-sombras-por-supuesto-una-obra-inspirada-en-el-cine-de-fassbinder/"
-            },
-            {
-              "t": "¿Cómo incide qué tan matutina o vespertina es una persona en el impacto del trabajo en turnos rotativos?",
-              "l": "https://ladiaria.com.uy/ciencia/articulo/2026/11/como-incide-que-tan-matutina-o-vespertina-es-una-persona-en-el-impacto-del-trabajo-en-turnos-rotativos/"
-            },
-            {
-              "t": "Estados Unidos y el balance electoral: Trump y Vance señalan a la guerra en Irán como la causa de la derrota de los republicanos",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/estados-unidos-y-el-balance-electoral-trump-y-vance-senalan-a-la-guerra-en-iran-como-la-causa-de-la-derrota-de-los-republicanos/"
-            },
-            {
-              "t": "Las “otras midterms”: prohibición del foie gras, apoyo al derecho al aborto y rechazo a la redistribución de distritos de Trump",
-              "l": "https://ladiaria.com.uy/mundo/articulo/2026/11/las-otras-midterms-prohibicion-del-foie-gras-apoyo-al-derecho-al-aborto-y-rechazo-a-la-redistribucion-de-distritos-de-trump/"
-            },
-            {
-              "t": "Darín y Peretti al diván",
-              "l": "https://ladiaria.com.uy/cultura/articulo/2026/11/darin-y-peretti-al-divan/"
-            },
-            {
-              "t": "Norm: La historia de Norm Macdonald, puerta de entrada perfecta a un comediante único",
-              "l": "https://ladiaria.com.uy/cultura/articulo/2026/11/norm-la-historia-de-norm-macdonald-puerta-de-entrada-perfecta-a-un-comediante-unico/"
             }
           ]
         },
@@ -132,8 +132,24 @@
           "tr": false,
           "items": [
             {
-              "t": "Tiroteo en Polonia dejó cinco muertos y alrededor de 12 heridos; agresor fue neutralizado por la Policía",
-              "l": "https://www.teledoce.com/telemundo/internacionales/tiroteo-en-polonia-dejo-cinco-muertos-y-alrededor-de-12-heridos-agresor-fue-neutralizado-por-la-policia/"
+              "t": "Fiscalía de Paraguay imputa y pide prisión para el expresidente Santiago Peña",
+              "l": "https://www.teledoce.com/telemundo/internacionales/fiscalia-de-paraguay-imputa-y-pide-prision-para-el-expresidente-santiago-pena/"
+            },
+            {
+              "t": "Gobierno uruguayo transmitió \"sus mejores deseos de éxito\" al nuevo presidente de Paraguay, Pedro Alliana",
+              "l": "https://www.teledoce.com/telemundo/nacionales/gobierno-uruguayo-transmitio-sus-mejores-deseos-de-exito-al-nuevo-presidente-de-paraguay-pedro-alliana/"
+            },
+            {
+              "t": "Policía detuvo al sospechoso de matar a puñaladas a un hombre en situación de calle en La Comercial",
+              "l": "https://www.teledoce.com/telemundo/policiales/policia-detuvo-al-sospechoso-de-matar-a-punaladas-a-un-hombre-en-situacion-de-calle-en-la-comercial/"
+            },
+            {
+              "t": "\"Tres símbolos que caracterizan la región\": la referencia del papa al puente, los palmares y el mate durante su homilía en Paysandú",
+              "l": "https://www.teledoce.com/telemundo/nacionales/tres-simbolos-que-caracterizan-la-region-la-referencia-del-papa-al-puente-los-palmares-y-el-mate-durante-su-homilia-en-paysandu/"
+            },
+            {
+              "t": "Tiroteo en Polonia dejó seis muertos y una decena de heridos; agresor fue neutralizado por la Policía",
+              "l": "https://www.teledoce.com/telemundo/internacionales/tiroteo-en-polonia-dejo-seis-muertos-y-una-decena-de-heridos-agresor-fue-neutralizado-por-la-policia/"
             },
             {
               "t": "Video: un avión de la Fuerza Aérea Uruguaya fue el encargado de trasladar al papa León XIV desde Montevideo a Paysandú",
@@ -146,22 +162,6 @@
             {
               "t": "El detalle de lo que usó León XIV durante su primera misa en Uruguay: una casulla con un homenaje a Jacinto Vera",
               "l": "https://www.teledoce.com/telemundo/nacionales/el-detalle-de-lo-que-uso-leon-xiv-durante-su-primera-misa-en-uruguay-una-casulla-con-un-homenaje-a-jacinto-vera/"
-            },
-            {
-              "t": "Directorio del Partido Nacional repudió agresión a Valeria Ripoll y su hija y exigió explicaciones a autoridades del INAU",
-              "l": "https://www.teledoce.com/telemundo/nacionales/directorio-del-partido-nacional-repudio-agresion-a-valeria-ripoll-y-su-hija-y-exigio-explicaciones-a-autoridades-del-inau/"
-            },
-            {
-              "t": "Una mención especial de León XIV durante su misa en Paysandú: la referencia al mate",
-              "l": "https://www.teledoce.com/telemundo/nacionales/una-mencion-especial-de-leon-xiv-durante-su-misa-en-paysandu-la-referencia-al-mate/"
-            },
-            {
-              "t": "León XIV celebró su primera misa en Uruguay ante miles de personas en Paysandú",
-              "l": "https://www.teledoce.com/telemundo/nacionales/leon-xiv-ya-esta-en-paysandu-donde-dara-la-primera-misa-en-su-gira-por-paises-de-america-del-sur/"
-            },
-            {
-              "t": "Diputado opositor murió el viernes tras un ataque armado que dejó además tres policías fallecidos en Guatemala",
-              "l": "https://www.teledoce.com/telemundo/internacionales/diputado-opositor-murio-el-viernes-tras-un-ataque-armado-que-dejo-ademas-tres-policias-fallecidos-en-guatemala/"
             }
           ]
         }
@@ -176,44 +176,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Noah Okafor marca como suplente en 97 segundos y Leeds supera a Spurs entre críticas al VAR",
-              "l": "https://www.clarin.com/estados-unidos/noah-okafor-marca-como-suplente-en-97-segundos-y-leeds-supera-a-spurs-entre-criticas-al-var_0_s7U5s75vmi.html",
-              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
+              "t": "Trump le ofreció el puesto de secretario de Prensa al presidente de la UFC, Dana White, y le pidió \"por favor\" que acepte",
+              "l": "https://www.clarin.com/mundo/trump-ofrecio-ofrecio-puesto-secretario-prensa-presidente-ufc-dana-white-pidio-favor-acepte_0_LoNf0ZTbbl.html",
+              "img": "https://www.clarin.com/img/2026/11/07/7v01HypoB_1200x630__1.jpg"
             },
             {
-              "t": "Simeone se queda sin Cuti Romero y alaba a Julián Alvarez antes del reencuentro del Atlético de Madrid contra Barcelona, tras el culebrón pos Mundial 2026",
-              "l": "https://www.clarin.com/deportes/simeone-queda-cuti-romero-alaba-julian-alvarez-reencuentro-atletico-madrid-barcelona-culebron-pos-mundial-2026_0_B3cJvQiDYz.html",
-              "img": "https://www.clarin.com/img/2026/11/07/vWgbTwYv7K_1200x630__1.jpg"
+              "t": "Corrupción, una lacra bilateral",
+              "l": "https://www.clarin.com/opinion/corrupcion-lacra-bilateral_0_QLrrvk9RD2.html",
+              "img": "https://www.clarin.com/img/2026/11/07/O5nAzJxcv_1200x630__1.jpg"
             },
             {
-              "t": "Cuba denuncia \"carácter extraterritorial e ilegal\" de sanciones de EEUU a empresas chinas",
-              "l": "https://www.clarin.com/estados-unidos/cuba-denuncia-caracter-extraterritorial-e-ilegal-de-sanciones-de-eeuu-a-empresas-chinas_0_adh370TmoG.html",
-              "img": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg"
+              "t": "El nuevo emperador del lujo: cuando la tradición milenaria china desafía al clasicismo europeo",
+              "l": "https://www.clarin.com/autos/nuevo-emperador-lujo-tradicion-milenaria-china-desafia-clasicismo-europeo_0_CR2CNGRA6w.html",
+              "img": "https://www.clarin.com/img/2026/11/07/ZSieVdZbI_1200x630__1.jpg"
             },
             {
-              "t": "Trump huye hacia adelante y radicaliza el Gobierno tras la derrota electoral",
-              "l": "https://www.clarin.com/estados-unidos/trump-huye-hacia-adelante-y-radicaliza-el-gobierno-tras-la-derrota-electoral_0_yjR5XLRR5O.html",
+              "t": "Agenda cargada y \"buenas expectativas\": arracó el fin de semana extra largo en Mar del Plata",
+              "l": "https://www.clarin.com/sociedad/agenda-cargada-buenas-expectativas-arraco-fin-semana-extra-largo-mar-plata_0_taO1QyWrWq.html",
+              "img": "https://www.clarin.com/img/2026/11/07/AyEQlEwq4_1200x630__1.jpg"
+            },
+            {
+              "t": "El llamativo comentario de Nicolás Occhiato sobre su relación con Flor Jazmín Peña",
+              "l": "https://www.clarin.com/fama/llamativo-comentario-nicolas-occhiato-relacion-flor-jazmin-pena_0_t14yJ0fiP4.html",
+              "img": "https://www.clarin.com/img/2025/12/03/YuC_jMAAv_1200x630__1.jpg"
+            },
+            {
+              "t": "Trump dice que amenaza de demócratas de destituir a sus colaboradores es \"extorsión\"",
+              "l": "https://www.clarin.com/estados-unidos/trump-dice-que-amenaza-de-democratas-de-destituir-a-sus-colaboradores-es-extorsion_0_wQ7DOYlx2i.html",
+              "img": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg"
+            },
+            {
+              "t": "Trump dice que ofreció el puesto de portavoz a Dana White, empresario de artes maricales",
+              "l": "https://www.clarin.com/estados-unidos/trump-dice-que-ofrecio-el-puesto-de-portavoz-a-dana-white-empresario-de-artes-maricales_0_MuWKM3mQg1.html",
               "img": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg"
             },
             {
-              "t": "Quiniela de la Provincia: resultado del sorteo de la Primera de hoy, sábado 07 de noviembre",
-              "l": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-primera-hoy-sabado-07-noviembre_0_prVgibI42F.html",
-              "img": "https://www.clarin.com/img/2020/06/25/QWj8idQPo_1200x630__1.jpg"
-            },
-            {
-              "t": "Irán levanta su límite autoimpuesto al alcance de sus misiles y otras noticias de Oriente Medio",
-              "l": "https://www.clarin.com/estados-unidos/iran-levanta-su-limite-autoimpuesto-al-alcance-de-sus-misiles-y-otras-noticias-de-oriente-medio_0_RRPTakBfQg.html",
-              "img": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg"
-            },
-            {
-              "t": "Quiniela de Córdoba: resultado del sorteo de la Primera de hoy, sábado 07 de noviembre",
-              "l": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-primera-hoy-sabado-07-noviembre_0_bqav8eqoWY.html",
-              "img": "https://www.clarin.com/img/2020/09/07/OI-wP1VmH_1200x630__1.jpg"
-            },
-            {
-              "t": "Franco Colapinto hizo que Lewis Hamilton pruebe el mate y descontroló el Fan Zone del GP de Brasil de la Fórmula 1",
-              "l": "https://www.clarin.com/deportes/franco-colapinto-hizo-lewis-hamilton-pruebe-mate-descontrolo-fan-zone-gp-brasil-formula-1_0_0wr6e7djFu.html",
-              "img": "https://www.clarin.com/img/2026/11/07/hAWSnGQsj_1200x630__1.jpg"
+              "t": "Marcha del Orgullo 2026: una multitud va al Congreso entre reclamos por el ataque a mujeres trans y la coincidencia con la visita del Papa",
+              "l": "https://www.clarin.com/sociedad/marcha-orgullo-2026-multitud-va-congreso-reclamos-ataque-mujeres-trans-coincidencia-visita-papa_0_1K8E7J9am0.html",
+              "img": "https://www.clarin.com/img/2026/11/07/k7Mcx_DjY_1200x630__1.jpg"
             }
           ]
         },
@@ -222,44 +222,44 @@
           "tr": false,
           "items": [
             {
-              "t": "La impensada foto de la China Suárez y Martín Migueles en medio del nuevo escándalo entre Mauro Icardi y Wanda Nara",
-              "l": "https://www.lanacion.com.ar/espectaculos/la-impensada-foto-de-la-china-suarez-y-martin-migueles-en-medio-del-nuevo-escandalo-entre-mauro-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/TYTVFLOYPNAKJP2XJLTV4SXQ3Y.jpg?auth=a3ce39e04573f6cbdfb70a0dd9022eff89ddb0cd3874941f12d0f8672d521b14&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Colapinto quedó en el puesto 14 en el último entrenamiento, antes de la clasificación para Interlagos",
-              "l": "https://www.lanacion.com.ar/deportes/colapinto-quedo-en-el-puesto-14-en-el-ultimo-entrenamiento-antes-de-la-clasificacion-para-interlagos-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/ILFJTSBMORF6LIJM257OAMFBKQ.JPG?auth=86596fb53a7b3ce70f6caf5a36cd7a4203e82894d7d5de53a4de8ca856744ff6&smart=true&width=4134&height=2756"
-            },
-            {
-              "t": "Se define la Tabla Anual 2026: a qué hora juegan Boca, Rosario Central y Argentinos Juniors",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/se-define-la-tabla-anual-2026-a-que-hora-juegan-boca-rosario-central-y-argentinos-juniors-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/ZAAOXNN6TRE5TBME4YZW2BQBFY.jpg?auth=56879a887ef83bb4d81158214ed388ac1f4fa4aef5a4bfcec6c3ad63fdb83d7b&smart=true&width=2000&height=1333"
-            },
-            {
-              "t": "Un hombre perdió el control de su camioneta y se metió de lleno en un salón de estética de La Plata",
-              "l": "https://www.lanacion.com.ar/sociedad/un-hombre-perdio-el-control-de-su-camioneta-y-se-metio-de-lleno-en-un-salon-de-estetica-de-la-plata-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/L6LTK5IO2NBNNLSIAKLLEH3QIU.png?auth=c93016a97430c03245267abfee3ef170012cbd0e388530b5701d680f857e7e13&smart=true&width=303&height=251"
-            },
-            {
-              "t": "Alfredo Di Costanzo, de la Universidad de Minnesota, y una pregunta incómoda en EE.UU.: “¿Quién producirá los terneros en el futuro?\"",
-              "l": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-una-pregunta-incomoda-en-eeuu-quien-producira-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/HNDKSHHQU5CDHIZGMGYZPCE43Q.jpeg?auth=93efbc675468d2fac8797b073fb307d5f7ffb16b122e55741c42df95c7411341&smart=true&width=720&height=720"
-            },
-            {
-              "t": "Ramona Casas tiene 74 años, fue elegida para hacer quesillos para el papa León XIV y sigue una conmovedora tradición familiar",
-              "l": "https://www.lanacion.com.ar/economia/campo/ramona-casas-tiene-74-anos-fue-elegida-para-hacer-quesillos-para-el-papa-leon-xiv-y-sigue-una-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/3HXPV677HFDFJGNBIYMDP2AOMY.jpeg?auth=1f3d3f913127ed2cfde6e123ca5ffe57a4bbc0b89e850e44eb7bcd5c42c58972&smart=true&width=882&height=661"
-            },
-            {
-              "t": "Radiografía: el avance de la labranza, bajo un análisis crítico de cinco expertos desde Bahía Blanca a Chaco",
-              "l": "https://www.lanacion.com.ar/economia/campo/a-fondo-el-avance-de-la-labranza-bajo-un-analisis-critico-de-cinco-expertos-desde-bahia-blanca-a-nid07112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/QLSKIRB56JB6ZIW4UR42Z4UZUM.jpeg?auth=da9e81d5380e3afbbeb19e3ebdf0fedbb6f17001b0c011d90c0035ec27032ed4&smart=true&width=1280&height=960"
-            },
-            {
               "t": "Visita del Papa León XIV, EN VIVO: su paso por Uruguay y las últimas noticias de su agenda en Buenos Aires, Córdoba y Luján",
               "l": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-paso-por-uruguay-y-las-ultimas-noticias-de-su-agenda-en-buenos-nid07112026/",
               "img": "https://resizer.glanacion.com/resizer/v2/GDEFU7QXKJEYRAELPJZCT54JPE.JPG?auth=bc8672d8cb36fc9ffc385c4afb688bb5bc91a4e56779453fca8b8b7593f5abf2&smart=true&width=6242&height=4162"
+            },
+            {
+              "t": "Franco Colapinto en la Fórmula 1, en vivo: la clasificación del Gran Premio de San Pablo, minuto a minuto",
+              "l": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-la-clasificacion-del-gran-premio-de-san-pablo-minuto-a-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/33WYRJOSFFALPI76MY7SSXN3VE.jpg?auth=1c6431156e84a7a219801aba0660234fad4827040c378d9942ad605ac73f82a5&smart=true&width=6629&height=4419"
+            },
+            {
+              "t": "Newman - Hindú, la final del Top 14 de URBA, en vivo",
+              "l": "https://www.lanacion.com.ar/deportes/rugby/newman-hindu-la-final-del-top-14-de-urba-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/HJDLHIXH4VBNTJTIMSR3CWBZEI.JPG?auth=587dac5dc7d647bbb6b028fcd76236df47992e162cfe044f85914125616a13bf&smart=true&width=2000&height=1333"
+            },
+            {
+              "t": "Boca, Argentinos Juniors y Rosario Central, EN VIVO: el minuto a minuto de la definición de la Tabla Anual",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/boca-argentinos-juniors-y-rosario-central-en-vivo-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/OUZZR46X7NCJBDNDEZALPGRUOI.jpg?auth=e364e958e88546a73f5c2cbbe2cece49ac392525e7d4f08f907fdb6f28fe688e&smart=true&width=3000&height=2000"
+            },
+            {
+              "t": "Así anda el Citroën C4 híbrido, el modelo que Stellantis trae de España tras el acuerdo con la UE",
+              "l": "https://www.lanacion.com.ar/autos/asi-anda-el-citroen-c4-hibrido-el-modelo-que-stellantis-trae-de-espana-tras-el-acuerdo-con-la-ue-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/WY6ITVTWPJGQLDI526BEIOLOEI.jpg?auth=60b9ccbcd57e5c9257fa8f72160b2e96ea7202ef377e0a8b45c69dfb85d8be1c&smart=true&width=2000&height=1333"
+            },
+            {
+              "t": "Los mensajes en Uruguay, un anticipo de las preocupaciones que León XIV podría transmitir en la Argentina",
+              "l": "https://www.lanacion.com.ar/politica/los-mensajes-en-uruguay-un-anticipo-de-las-preocupaciones-que-leon-xiv-podria-transmitir-en-la-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/JI5SKLZQWFAIZE4LCVY4FVJ72A.JPG?auth=02681b1c7c1907ebd090179571c0babb6998476bc5195e6d69258b087ef2ece8&smart=true&width=2687&height=1792"
+            },
+            {
+              "t": "En qué canal pasan hoy Argentinos Juniors vs. Huracán y qué canal lo transmite en vivo",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-hoy-argentinos-juniors-vs-huracan-y-que-canal-lo-transmite-en-vivo-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/BURAR77R5VGLPKTGR2C7INM6UM.jpeg?auth=f58b73fcaa5371e1650f384ad659ff669ab7f9c56543f7c5ef202e892740df0b&smart=true&width=1638&height=1229"
+            },
+            {
+              "t": "Así quedó conformada la final del Masters 1000 de París 2026",
+              "l": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-conformada-la-final-del-masters-1000-de-paris-2026-nid07112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/Y4CFC26XGFA2DMHQPZ45VBHN5U.JPG?auth=f512dd37dad12b1586ae68b4381afc192d75ca7412323a4b4d021c9f1204c719&smart=true&width=4079&height=2720"
             }
           ]
         },
@@ -268,14 +268,24 @@
           "tr": false,
           "items": [
             {
-              "t": "La fiesta de la impunidad: Bettina Angeletti registra gastos de $18 millones en septiembre",
-              "l": "https://www.pagina12.com.ar/2026/11/06/la-fiesta-de-la-impunidad-bettina-angeletti-registra-gastos-de-18-millones-en-septiembre/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/LBAEVSLRNBDK3DWNFYDAYNR4NY.jpg?auth=034185191596f5878a351fdd6e11ade2fc7fcda9b7e426342119ab00ed89345d&smart=true&width=2298&height=1532"
+              "t": "Tras el fallo de la Corte, detuvieron al jerarca de la Ford condenado por crímenes de lesa humanidad",
+              "l": "https://www.pagina12.com.ar/2026/11/07/tras-el-fallo-de-la-corte-detuvieron-al-jerarca-de-la-ford-condenado-por-crimenes-de-lesa-humanidad/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/GZSDOMTCMM4TKYJWGJSTMZBQMQ.jpg?auth=6bbc9fad1593f53bdb4ba32e1620b7b8cbb148a52dc6c746667752ca82ff5924&smart=true&width=1280&height=853"
             },
             {
-              "t": "La Policía de Paraguay detuvo al expresidente Santiago Peña tras su destitución",
-              "l": "https://www.pagina12.com.ar/2026/11/07/la-policia-de-paraguay-detuvo-al-expresidente-santiago-pena-tras-su-destitucion/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/EBXTL42IFVGSXOSUAMUNBCWPBE.jpg?auth=973c9b3b17a9bcc8dde3ae5853ff28ed9218cc0ce44cb0dc1fe634c014e8a246&smart=true&width=1920&height=1280"
+              "t": "Las mejores fotos de la 35º Marcha del Orgullo",
+              "l": "https://www.pagina12.com.ar/2026/11/07/las-mejores-fotos-de-la-35-marcha-del-orgullo/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/IR4I74ZAZJCC3AAQTA2NRTXSN4.jpg?auth=1ba1ca3ed31a09e0a254523afb874165647363766c30eaf0a1322636c390f496&smart=true&width=3504&height=2336"
+            },
+            {
+              "t": "Tregua entre Máximo Kirchner y Kicillof: entre la convivencia posible y los conflictos pendientes",
+              "l": "https://www.pagina12.com.ar/2026/11/07/tregua-entre-maximo-kirchner-y-kicillof-entre-la-convivencia-posible-y-los-conflictos-pendientes/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/KPK6WXCAWZFR7JIV5DBRWWS5WY.jpg?auth=34d19284bd419dc0ba9f8760f18626dc0e12b9dac5aa4f1ecfac1f034890a19e&smart=true&width=1277&height=850"
+            },
+            {
+              "t": "La Fiscalía de Paraguay pide prisión preventiva contra Santiago Peña",
+              "l": "https://www.pagina12.com.ar/2026/11/07/la-fiscalia-de-paraguay-pide-prision-preventiva-contra-santiago-pena/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/7TN5NRYNJBHXTJCOHSQ32PUU4M.jpg?auth=c80e7dbdc01f5d9c135ea377d723cd9021db11fd1b012b81c8893a30573689c3&smart=true&width=1200&height=822"
             },
             {
               "t": "La visita del papa León XIV a la Argentina: su paso por Uruguay y los preparativos para su llegada al país",
@@ -286,16 +296,6 @@
               "t": "La odisea de Eliseo",
               "l": "https://www.pagina12.com.ar/2026/11/06/la-odisea-de-eliseo/",
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/EHQVLS525VHBFHH6SVXQSIFPD4.jpg?auth=07b69a6584e8f764d0d43e29f09144d97a4abc6fa03b28f3d836f499abc5141a&smart=true&width=1103&height=736"
-            },
-            {
-              "t": "Cuidado con el cepo",
-              "l": "https://www.pagina12.com.ar/2026/11/07/cuidado-con-el-cepo/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/OVYEFQIFJRADBBWOJAEY64LJ5Y.jpg?auth=9301d876d3fdda599818cffb36e4dbb708a1978bf4cdddf025c39eebc9d9da72&smart=true&width=1191&height=794"
-            },
-            {
-              "t": "Cómo se prepara la marcha del orgullo",
-              "l": "https://www.pagina12.com.ar/2026/11/04/como-se-prepara-la-marcha-del-orgullo/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/XCWALTJQCNBWBCHSE5TTSK5N4M.jpg?auth=2d940f19e980c4d638c89c87905ab374c16ec037eee7253a246e33b85dde40d9&smart=true&width=1134&height=850"
             }
           ]
         }
@@ -310,44 +310,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Paraná registra daños, caída de árboles y falta de electricidad durante fuertes lluvias",
-              "l": "https://g1.globo.com/pr/parana/noticia/2026/11/07/parana-registra-estragos-chuvas-intensas.ghtml",
-              "o": "Paraná registra estragos, quedas de árvores e falta de luz durante chuvas intensas"
+              "t": "Adolescente sufre intento de asesinato en Paracambi",
+              "l": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/07/adolescente-sofre-tentativa-de-homicidio-em-paracambi.ghtml",
+              "o": "Adolescente sofre tentativa de homicídio em Paracambi"
             },
             {
-              "t": "Brote de enfermedad de Chagas provocado por vino de patauá moviliza asistencia sanitaria y deja paciente en UCI en Pará",
-              "l": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-por-vinho-de-pataua-mobiliza-saude-e-deixa-paciente-em-uti-no-para.ghtml",
-              "o": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará"
+              "t": "La Fórmula 1 renueva contrato con São Paulo y garantiza el GP de Interlagos hasta 2035",
+              "l": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/07/formula-1-renova-contrato-com-sao-paulo-e-garante-gp-de-interlagos-ate-2035.ghtml",
+              "o": "Fórmula 1 renova contrato com São Paulo e garante GP de Interlagos até 2035"
             },
             {
-              "t": "Hallan cuerpos de dos hombres mutilados dentro de una maleta y una caja en Salvador",
-              "l": "https://g1.globo.com/ba/bahia/noticia/2026/11/07/corpos-sao-encontrados-mutilados-em-salvador.ghtml",
-              "o": "Corpos de dois homens são encontrados mutilados dentro de mala e caixa em Salvador"
+              "t": "Roberta Miranda promociona disco 'Filha do Floor', grabado en Mato Grosso",
+              "l": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/07/roberta-miranda-promove-album-filha-do-chao-gravado-em-mato-grosso.ghtml",
+              "o": "Roberta Miranda promove álbum 'Filha do chão', gravado em Mato Grosso"
             },
             {
-              "t": "VIDEO: Los bomberos salvan a un bebé de 28 días que se puso morado después de ahogarse con leche en MS",
-              "l": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/07/video-bombeiros-salvam-bebe-de-28-dias-que-ficou-roxo-apos-engasgar-com-leite-em-ms.ghtml",
-              "o": "VÍDEO: Bombeiros salvam bebê de 28 dias que ficou roxo após engasgar com leite em MS"
+              "t": "Asociación Petropolitana de Pacientes Oncológicos de Petrópolis recibe modificación de R$ 100 mil",
+              "l": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/07/associacao-petropolitana-dos-pacientes-oncologicos-de-petropolis-recebe-emenda-de-r-100-mil.ghtml",
+              "o": "Associação Petropolitana dos Pacientes Oncológicos de Petrópolis recebe emenda de R$ 100 mil"
             },
             {
-              "t": "Enem: los estudiantes tendrán metro, tren y autobús gratuitos en SP los días de exámenes",
-              "l": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/07/enem-estudantes-terao-metro-trem-e-onibus-de-graca-em-sp-nos-dias-de-prova.ghtml",
-              "o": "Enem: estudantes terão metrô, trem e ônibus de graça em SP nos dias de prova"
+              "t": "Papá Noel llega a los centros comerciales de Santos y São Vicente con espectáculos y luces",
+              "l": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/papai-noel-chega-a-shoppings-de-santos-e-sao-vicente-com-shows-e-luzes.ghtml",
+              "o": "Papai Noel chega a shoppings de Santos e São Vicente com shows e luzes"
             },
             {
-              "t": "VIDEOS: MG1 del sábado 7 de noviembre de 2026",
-              "l": "https://g1.globo.com/mg/minas-gerais/videos-mg1/playlist/videos-mg1-de-sabado-7-de-novembro-de-2026.ghtml",
-              "o": "VÍDEOS: MG1 de sábado, 7 de novembro de 2026"
+              "t": "Con 42 casos, Presidente Prudente está en alerta por riesgo de dengue",
+              "l": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/07/com-42-casos-presidente-prudente-entra-em-alerta-para-risco-de-dengue.ghtml",
+              "o": "Com 42 casos, Presidente Prudente entra em alerta para risco de dengue"
             },
             {
-              "t": "Estafador convenció a víctima de Monte Azul Paulista, SP, para transferir R$ 5.400 y 'elegir alianzas'",
-              "l": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/07/golpista-convenceu-vitima-de-monte-azul-paulista-sp-a-transferir-r-54-mil-e-escolher-aliancas.ghtml",
-              "o": "Golpista convenceu vítima de Monte Azul Paulista, SP, a transferir R$ 5,4 mil e 'escolher alianças'"
+              "t": "Cubierto por 'nube de plataforma', Viracopos recibe vuelos de otros aeropuertos por tormenta",
+              "l": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/coberto-por-nuvem-prateleira-viracopos-recebe-voos-de-outros-aeroportos-por-conta-de-temporal.ghtml",
+              "o": "Coberto por 'nuvem prateleira', Viracopos recebe voos de outros aeroportos por conta de temporal"
             },
             {
-              "t": "Praia Grande mapea a la población negra para un plan de igualdad racial",
-              "l": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/praia-grande-mapeia-populacao-negra-para-plano-de-igualdade-racial.ghtml",
-              "o": "Praia Grande mapeia população negra para plano de igualdade racial"
+              "t": "Adolescente de 16 años es asesinado a tiros en un complejo de viviendas en Linhares",
+              "l": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/11/07/adolescente-de-16-anos-e-morto-a-tiros-em-conjunto-habitacional-em-linhares.ghtml",
+              "o": "Adolescente de 16 anos é morto a tiros em conjunto habitacional em Linhares"
             }
           ]
         },
@@ -356,44 +356,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Waldomiro Filho reflexiona sobre el mal que azota al mundo en 'Un buen hombre'",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/waldomiro-filho-pensa-o-mal-que-assola-o-mundo-em-um-homem-bom.shtml",
-              "o": "Waldomiro Filho pensa o mal que assola o mundo em 'Um Homem Bom'"
+              "t": "Incluso bajo la lluvia, el helado de Frida & Mina atrae al público en el Festival Folha Gourmet",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/mesmo-com-chuva-sorvetes-da-frida-mina-atraem-publico-no-folha-gourmet-festival.shtml",
+              "o": "Mesmo com chuva, sorvetes da Frida & Mina atraem público no Folha Gourmet Festival"
             },
             {
-              "t": "Brasil necesita R$ 14 mil millones para regularizar las prisiones y la PEC de Seguridad presiona para obtener más financiamiento del gobierno Lula",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/brasil-precisa-de-r-14-bi-para-regularizar-presidios-e-pec-da-seguranca-cria-pressao-por-mais-verba-do-governo-lula.shtml",
-              "o": "Brasil precisa de R$ 14 bi para regularizar presídios e PEC da Segurança cria pressão por mais verba do governo Lula"
+              "t": "Francia registra el cuarto sábado consecutivo de protestas; \"Viva Lula\", dice líder de la oposición",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-registra-4o-sabado-consecutivo-de-protestos-viva-lula-diz-lider-opositor.shtml",
+              "o": "França registra 4º sábado consecutivo de protestos; 'viva Lula', diz líder opositor"
             },
             {
-              "t": "Nicolle Steinhauser de Santa Catarina defiende a Brasil en Miss Internacional 2026; llegar a saber",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/11/catarinense-nicolle-steinhauser-defende-o-brasil-no-miss-international-2026-conheca.shtml",
-              "o": "Catarinense Nicolle Steinhauser defende o Brasil no Miss International 2026; conheça"
+              "t": "'Quem Ama Cuida': Heitor se enfrenta a Pilar y mantiene a Rosa en casa de Brandão",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/quem-ama-cuida-heitor-enfrenta-pilar-e-mantem-rosa-na-casa-dos-brandao.shtml",
+              "o": "'Quem Ama Cuida': Heitor enfrenta Pilar e mantém Rosa na casa dos Brandão"
             },
             {
-              "t": "La disputa en el Senado impone retrocesos a izquierda y derecha",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/disputa-no-senado-impoe-recuos-a-esquerda-e-a-direita.shtml",
-              "o": "Disputa no Senado impõe recuos à esquerda e à direita"
+              "t": "'Ciudad de Dios' y 'El Señor de los Anillos': qué ver en TV y streaming esta semana",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/cidade-de-deus-e-o-senhor-dos-aneis-o-que-ver-na-tv-e-no-streaming-nesta-semana.shtml",
+              "o": "'Cidade de Deus' e 'O Senhor dos Anéis': o que ver na TV e no streaming nesta semana"
             },
             {
-              "t": "¿Y no ha cambiado el mundo?",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2026/11/e-nao-e-que-o-mundo-mudou.shtml",
-              "o": "E não é que o mundo mudou?"
+              "t": "1926: SP gana el Campeonato Estatal Brasileño de Fútbol",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/11/1926-sp-vence-campeonato-brasileiro-de-selecoes-estaduais-de-futebol.shtml",
+              "o": "1926: SP vence Campeonato Brasileiro de seleções estaduais de futebol"
             },
             {
-              "t": "Expresidente de Paraguay, Santiago Peña, declara tras ser puesto bajo arresto domiciliario",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ex-presidente-do-paraguai-santiago-pena-presta-depoimento-apos-ser-colocado-em-prisao-domiciliar.shtml",
-              "o": "Ex-presidente do Paraguai, Santiago Peña presta depoimento após ser colocado em prisão domiciliar"
+              "t": "Milton Leite y otras 12 personas son imputados bajo sospecha de organización criminal y promoción del PCC",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/milton-leite-e-outros-12-sao-indiciados-sob-suspeita-de-organizacao-criminosa-e-promocao-do-pcc.shtml",
+              "o": "Milton Leite e outros 12 são indiciados sob suspeita de organização criminosa e promoção do PCC"
             },
             {
-              "t": "Putterier responde a las críticas por utilizar la bisexualidad para promocionar la música con Ludmilla",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/putterier-rebate-critica-sobre-usar-bissexualidade-para-promover-musica-com-ludmilla.shtml",
-              "o": "Putterier rebate crítica sobre usar bissexualidade para promover música com Ludmilla"
+              "t": "Unión Caribeña de Fútbol anuncia apoyo a la reelección de Infantino a la FIFA",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/uniao-caribenha-de-futebol-anuncia-apoio-a-reeleicao-de-infantino-a-fifa.shtml",
+              "o": "União Caribenha de Futebol anuncia apoio à reeleição de Infantino à Fifa"
             },
             {
-              "t": "El diputado estatal más votado de Paraná podría ser condenado a pagar R$ 1 millón por acoso electoral",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/deputada-estadual-mais-votada-do-parana-pode-ser-condenada-a-pagar-r-1-milhao-por-assedio-eleitoral.shtml",
-              "o": "Deputada estadual mais votada do Paraná pode ser condenada a pagar R$ 1 milhão por assédio eleitoral"
+              "t": "Pasteleros paulistas hablan del uso de matchá, miso y kimchi en dulces en la fiesta Folha",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/confeiteiros-paulistanos-falam-sobre-uso-de-matcha-misso-e-kimchi-em-doces-em-festival-da-folha.shtml",
+              "o": "Confeiteiros paulistanos falam sobre uso de matchá, missô e kimchi em doces em festival da Folha"
             }
           ]
         },
@@ -402,52 +402,52 @@
           "tr": true,
           "items": [
             {
-              "t": "Carlos Madero",
-              "l": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/11/07/brasileira-escapa-de-bloqueio-de-banco-paraguaio-abri-conta-um-dia-antes.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/65/2026/05/29/carlos-madeiro-header-1780071007014_100x100.png",
-              "o": "Carlos Madeiro"
+              "t": "VIVIR",
+              "l": "https://motorsport.uol.com.br/f1/live-text/treino-classificatorio-gp-de-sao-paulo-1128271/1128271/",
+              "img": "https://imguol.com/c/esporte/de/2026/11/06/gabriel-bortoleto-da-audi-durante-o-treino-livre-2-do-gp-de-sao-paulo-1793993980831_v2_360x270.jpg",
+              "o": "AO VIVO"
             },
             {
-              "t": "Julianne Cerasoli",
-              "l": "https://www.uol.com.br/esporte/colunas/pole-position/2026/11/07/chefe-japones-de-camara-nao-se-ilude-sobre-2027-e-desaprova-sushi-do-brasil.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/f2/2022/06/21/julianne-cerasoli-autor-colorida-1655820371335_v2_100x100.png",
-              "o": "Julianne Cerasoli"
-            },
-            {
-              "t": "mariana sanchez",
-              "l": "https://noticias.uol.com.br/colunas/mariana-sanches/2026/11/07/como-a-burrice-explica-parte-da-derrota-de-trump-para-democratas-nos-eua.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/25/2025/05/28/mariana-sanches-150-1748444192304_100x100.jpg",
-              "o": "Mariana Sanches"
-            },
-            {
-              "t": "Janaína Figueiredo",
-              "l": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/11/07/leao-xiv-na-argentina-aumento-da-pobreza-pode-gerar-atrito-com-milei.htm",
-              "img": "https://conteudo.imguol.com.br/5d/2026/04/30/janaina-figueiredo-header-1777580898041_100x100.png",
-              "o": "Janaína Figueiredo"
-            },
-            {
-              "t": "paula gama",
-              "l": "https://www.uol.com.br/carros/colunas/paula-gama/2026/11/07/rodar-so-no-eletrico-pode-prejudicar-motor-de-carro-hibrido-entenda.htm",
-              "img": "https://conteudo.imguol.com.br/8a/2021/05/12/paula-gama---autor-1620827756029_100x100.png",
-              "o": "Paula Gama"
-            },
-            {
-              "t": "Alicia Klein",
-              "l": "https://www.uol.com.br/esporte/colunas/alicia-klein/2026/11/07/sob-xaud-cbf-retira-apoio-a-anuarios-sobre-lgbtfobia-e-racismo.htm",
-              "img": "https://conteudo.imguol.com.br/fa/2020/10/20/alicia-klein-150-1603243605874_100x100.jpg",
-              "o": "Alicia Klein"
-            },
-            {
-              "t": "Igor Patricio",
-              "l": "https://www1.folha.uol.com.br/colunas/igor-patrick/2026/11/china-protege-da-ia-so-o-emprego-que-consegue-enxergar.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/92/2023/01/20/igor-patrick-1674250820717_v2_100x100.jpg",
-              "o": "Igor Patrick"
+              "t": "Mauro Cézar",
+              "l": "https://www.uol.com.br/esporte/futebol/colunas/mauro-cezar-pereira/2026/11/07/flamengo-x-gremio-teve-melhor-marca-de-bola-rolando-no-brasileirao-2026.htm",
+              "img": "https://conteudo.imguol.com.br/3e/2021/02/10/mauro-cezar-150-colorida-1612960631293_100x100.jpg",
+              "o": "Mauro Cezar"
             },
             {
               "t": "casagrande",
-              "l": "https://www.uol.com.br/esporte/futebol/colunas/casagrande/2026/11/06/monologo-com-vladimir-brichta-e-dos-mais-fortes-que-vi-nos-ultimos-tempos.htm",
+              "l": "https://www.uol.com.br/esporte/futebol/colunas/casagrande/2026/11/07/jornal-dos-sports-o-cor-de-rosa-completa-95-anos-de-historia-parabens.htm",
               "img": "https://conteudo.imguol.com.br/c/home/e3/2022/07/18/walter-casagrande-junior-1658138987222_v2_100x100.jpg",
               "o": "Casagrande"
+            },
+            {
+              "t": "Silvia Colombo",
+              "l": "https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/11/democratas-poderao-fiscalizar-mas-nao-frear-agenda-de-trump-na-america-latina.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/59/2025/08/31/retrato-da-colunista-sylvia-colombo-1756637840081_100x100.jpg",
+              "o": "Sylvia Colombo"
+            },
+            {
+              "t": "Luis Henrique Matos",
+              "l": "https://www.uol.com.br/tilt/colunas/luiz-henrique-matos/2026/11/07/videogames-moldam-nossa-cultura-por-que-falamos-tao-pouco-disso.htm",
+              "img": "https://conteudo.imguol.com.br/c/home/5d/2026/05/05/luiz-henrique-matos-header-1777984279991_100x100.png",
+              "o": "Luiz Henrique Matos"
+            },
+            {
+              "t": "Dora Kramer",
+              "l": "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/disputa-no-senado-impoe-recuos-a-esquerda-e-a-direita.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/73/2024/10/31/retrato-da-jornalista-e-colunista-dora-kramer-da-folha-de-sao-paulo-1730403329433_100x100.jpg",
+              "o": "Dora Kramer"
+            },
+            {
+              "t": "Todos a bordo",
+              "l": "https://economia.uol.com.br/colunas/todos-a-bordo/2026/11/07/veja-de-dentro-como-a-maior-aerea-do-mundo-controla-milhares-de-voos-ao-dia.htm",
+              "img": "https://conteudo.imguol.com.br/e9/2018/08/13/blog-todos-a-bordo-1534201104975_80x80.png",
+              "o": "Todos a Bordo"
+            },
+            {
+              "t": "centavo",
+              "l": "https://www1.folha.uol.com.br/colunas/tostao/2026/11/criacao-e-recriacao-do-futebol.shtml",
+              "img": "https://conteudo.imguol.com.br/c/noticias/d3/2019/04/01/tostao-1554157180893_v2_100x100.jpg",
+              "o": "Tostão"
             }
           ]
         }
@@ -462,6 +462,11 @@
           "tr": false,
           "items": [
             {
+              "t": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
+              "l": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/QTEB4NACUJED5LCZMA2PJG52ZY.JPG?auth=b829012e6eec67bc6630a9a4bdca475683345931a63fdf7a5b14580628fd3acc"
+            },
+            {
               "t": "Sánchez llama a una votación masiva el 29-N: “La mejor receta contra la involución se llama movilización”",
               "l": "https://elpais.com/espana/elecciones-generales/2026-11-07/sanchez-llama-a-una-votacion-masiva-el-29-n-la-mejor-receta-contra-la-involucion-se-llama-movilizacion.html",
               "img": "https://imagenes.elpais.com/resizer/v2/VGXTCF4J2BFP5APP2IBTBGUJNU.jpg?auth=6ea7e054535007e1edd2f629e92fb4a86c892a3b949f387cdd902a0d4e103821"
@@ -472,33 +477,29 @@
               "img": "https://imagenes.elpais.com/resizer/v2/V2IDPBT7SBEDFBFBAXROJQZUMA.jpeg?auth=2e7417698440d4b47865a7a9be70564559339d05f8716b963fd18a449a1c0c78"
             },
             {
-              "t": "Irene Montero llama a secundar la huelga en su presentación con Rufián en Madrid: “Hay que paralizar el país”",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-11-07/irene-montero-llama-a-secundar-la-huelga-en-su-presentacion-con-rufian-en-madrid-hay-que-paralizar-el-pais.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/R6XKXI3NDBG3BFTXIM2JAC5ZQQ.jpg?auth=c3bba2fbffefcee4503300ba55a8104192ebd766c668ab242a6a32c67a11dba6"
+              "t": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+              "l": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/3TVL2X7YQJLLHLUPFYTRN7FNBA.jpg?auth=5ac20d5524b7a75e2fa18fcd1ee75e6b4840c2eb73674ea5008fa0b5260491e2"
             },
             {
-              "t": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
-              "l": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html"
+              "t": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+              "l": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/BITI57YILZH5LBSLTJQFEM7BJY.jpeg?auth=6a77c7e65cfb4f6a36ae9f0daf61dad7fe8f332c631511ccfae16bb0a2f20315"
             },
             {
-              "t": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
-              "l": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/DQWVYXKU3JD63NAQ732E7SS3VA.JPG?auth=4072c1b24d74acdf5aee332320d170f35d545b5a77827495e273c142b1891c21"
+              "t": "Trump ofrece su portavocía al presidente de la competición de lucha UFC, Dana White",
+              "l": "https://elpais.com/internacional/2026-11-07/trump-ofrece-su-portavocia-a-un-exluchador-profesional.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/WY5GSCRDUVJBLDBFKTR6FABTUA.jpg?auth=f5f64c074581f15f99c750c5f98481ad308f8dd04375ab3f4cb80f7da3ffbad7"
             },
             {
-              "t": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
-              "l": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/A7QSBLLARZEGJIX3627V4T7IWU.png?auth=7e809002ee6b48fa42baab15121a3be4d38cad6e532ab84c1ce26867685e6ec7"
+              "t": "La marea demócrata abre la carrera por la Casa Blanca, con centristas y progresistas reforzados de cara a 2028",
+              "l": "https://elpais.com/us/2026-11-07/la-marea-democrata-abre-la-carrera-por-la-casa-blanca-con-centristas-y-progresistas-reforzados-de-cara-a-2028.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/YH32NJXY55JSBJ6WV3YK3T3B2M.jpg?auth=8cb4e990343a8477165d64ab633dd5b01c53ad4f812067a99adad7b682a208cf"
             },
             {
-              "t": "Un juez indemniza con 5,7 millones a los padres de Oliver, un niño que se quedó tetrapléjico por errores en el parto",
-              "l": "https://elpais.com/sociedad/2026-11-07/un-juez-indemniza-con-57-millones-a-los-padres-de-oliver-un-nino-que-se-quedo-tetraplejico-por-errores-en-el-parto.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/TRKUKMQL3RGYVGE4YMO45RLQQY.JPG?auth=202777a5c39d2c807b3c87289216c4318543806de15ecaaf111e0e8fb9a7bdd2"
-            },
-            {
-              "t": "Milo Quifes, revelación de ‘La bola negra’: “Estoy cansado de tener que salir del armario una y otra vez”",
-              "l": "https://elpais.com/icon/2026-11-07/milo-quifes-revelacion-de-la-bola-negra-estoy-cansado-de-tener-que-salir-del-armario-una-y-otra-vez.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/WKSENPBRAVFKFO4AOFPVXKTWVE.jpg?auth=5e3962a289d9e2b713da56115fe7c6cd9bb2c3f7a9c8792eeff72f93d890a479"
+              "t": "Trump afronta los dos últimos años de mandato como un octogenario desafiante obsesionado con las obras",
+              "l": "https://elpais.com/us/2026-11-07/trump-afronta-los-dos-ultimos-anos-de-mandato-como-un-octogenario-desafiante-obsesionado-con-las-obras.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/T4WAXVK5BNKRVIGAN3SZL6NNR4.jpg?auth=c6685faaf921fe16341215b365858eb794e19ac47deda4128debe222dece4258"
             }
           ]
         },
@@ -507,7 +508,7 @@
           "tr": false,
           "items": [
             {
-              "t": "El expresidente de Paraguay, Santiago Peña, pasa su primera  noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
+              "t": "La fiscalía de Paraguay pide la prisión preventiva del expresidente Santiago Peña y el congelamiento de sus bienes por el caso Ueno Bank",
               "l": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d3f/live/cb54b580-dab8-11f1-8c3b-f3c0d6bd7c4f.jpg"
             },
@@ -532,6 +533,11 @@
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b485/live/a2ae1cc0-da04-11f1-84c1-dbcae60402d7.jpg"
             },
             {
+              "t": "Al menos 6 muertos y más de una decena de heridos deja un ataque armado en la ciudad polaca de Cracovia",
+              "l": "https://www.bbc.com/mundo/articles/c6d091e7jzz7o?at_medium=RSS&at_campaign=rss",
+              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9483/live/7f05d160-dacb-11f1-bda8-29fb69dbc026.jpg"
+            },
+            {
               "t": "Casavalle, la barriada humilde de Montevideo que aguarda al papa León XIV estremecida por la violencia",
               "l": "https://www.bbc.com/mundo/articles/cqgm00d1krkjo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a721/live/479fb600-da3f-11f1-a9ed-ff1feb533701.jpg"
@@ -540,11 +546,6 @@
               "t": "Espías, informantes y policía secreta: Hungría se enfrenta a su pasado al abrir los archivos de la era comunista",
               "l": "https://www.bbc.com/mundo/articles/c6reyrrp39qqo?at_medium=RSS&at_campaign=rss",
               "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57da/live/1d6c20c0-d77f-11f1-a391-ad4d37bef273.jpg"
-            },
-            {
-              "t": "Qué pasó en la isla noruega que quiso abolir el tiempo",
-              "l": "https://www.bbc.com/mundo/articles/cmx2dxe1513jo?at_medium=RSS&at_campaign=rss",
-              "img": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c3c/live/c0da7db0-d5fe-11f1-b437-279121eb1cd9.jpg"
             }
           ]
         }
@@ -559,19 +560,19 @@
           "tr": true,
           "items": [
             {
-              "t": "Al elevar a Stephen Miller, Trump redobla su agenda de línea dura",
-              "l": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
-              "o": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda"
+              "t": "Para Stephen Miller, la derrota electoral no es motivo para dar marcha atrás en la represión migratoria",
+              "l": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
+              "o": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown"
             },
             {
-              "t": "Susie Wiles es la última mujer poderosa en salir de la administración Trump",
-              "l": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
-              "o": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration"
+              "t": "El bombardeo de construcción de Trump en D.C. puede estar a punto de volverse más duro",
+              "l": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
+              "o": "Trump’s D.C. Construction Blitz May Be About to Get Tougher"
             },
             {
-              "t": "Lo que hay que saber sobre Stephen Miller, el nuevo jefe de gabinete de Trump",
-              "l": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-              "o": "What to Know About Stephen Miller, Trump’s New Chief of Staff"
+              "t": "Chuck Schumer está en camino de convertirse en líder de la mayoría del Senado después de la explosión electoral",
+              "l": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
+              "o": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout"
             },
             {
               "t": "Apuesta de punto de inflexión en las elecciones intermedias y perdida. Algunos republicanos están furiosos.",
@@ -579,9 +580,9 @@
               "o": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious."
             },
             {
-              "t": "Los demócratas, recién ascendidos, comienzan una lucha para dar forma al futuro del partido",
-              "l": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
-              "o": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future"
+              "t": "Después de las elecciones intermedias, la edad promedio en el Senado cae a 63 años",
+              "l": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+              "o": "After the Midterms, the Average Age in the Senate Falls to 63"
             },
             {
               "t": "Cómo Elon Musk desperdició casi 500 millones de dólares en las elecciones de mitad de período",
@@ -589,14 +590,14 @@
               "o": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections"
             },
             {
-              "t": "Lo bueno, lo malo y lo vergonzoso: 10 anuncios que definieron las elecciones intermedias",
-              "l": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
-              "o": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms"
+              "t": "Líder de la oposición israelí elegido para intentar formar gobierno",
+              "l": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+              "o": "Israeli Opposition Leader Tapped to Try to Form Government"
             },
             {
-              "t": "Dentro de la operación que ayudó a Ucrania a revertir algunos logros de la guerra rusa",
-              "l": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-              "o": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains"
+              "t": "Eisenkot busca derrocar a Netanyahu como primer ministro. He aquí cómo.",
+              "l": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+              "o": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How."
             }
           ]
         },
@@ -604,6 +605,21 @@
           "n": "NPR",
           "tr": true,
           "items": [
+            {
+              "t": "El presidente de Israel recurre al candidato de la oposición Eisenkot para formar gobierno, en un revés para Netanyahu",
+              "l": "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+              "o": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu"
+            },
+            {
+              "t": "Un hombre armado abre fuego en la ciudad polaca de Cracovia, matando a 6 personas e hiriendo a 15",
+              "l": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+              "o": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15"
+            },
+            {
+              "t": "El derrocado presidente paraguayo comparece ante la fiscalía",
+              "l": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+              "o": "Ousted Paraguayan president appears before prosecutors"
+            },
             {
               "t": "Un nuevo y prometedor medicamento contra las enfermedades cardíacas fracasa inesperadamente",
               "l": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
@@ -628,21 +644,6 @@
               "t": "Un activista inesperado surgió para ayudar a bloquear un centro de datos de 5 mil millones de dólares en Maryland",
               "l": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
               "o": "An unexpected activist emerged to help block a $5 billion data center in Maryland"
-            },
-            {
-              "t": "La economía impulsó a los demócratas a la victoria. ¿Qué pueden hacer realmente al respecto?",
-              "l": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-              "o": "The economy propelled Democrats to victory. What can they actually do about it?"
-            },
-            {
-              "t": "Los partidos árabes de Israel en el punto de mira tras unas elecciones inconclusas",
-              "l": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-              "o": "Israel's Arab-led parties in spotlight after inconclusive election"
-            },
-            {
-              "t": "La generación entrante de senadores estadounidenses está llena de primicias históricas",
-              "l": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-              "o": "The incoming class of U.S. senators is full of historic firsts"
             }
           ]
         }
