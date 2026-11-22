@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T23:44:57Z",
+  "updated": "2026-11-22T06:29:22Z",
   "paises": [
     {
       "id": "uy",
@@ -10,12 +10,8 @@
           "tr": false,
           "items": [
             {
-              "t": "Sudamericana: Boca, con gol de Merentiel, está derrotando 2-0 a Mineiro en Colombia",
+              "t": "Sudamericana: Boca, con gol de Merentiel, venció 2-0 a Mineiro y se consagró campeón",
               "l": "https://www.montevideo.com.uy/auc.aspx?983061"
-            },
-            {
-              "t": "Elecciones del BPS: los cambios que habrá este domingo en el transporte de Montevideo",
-              "l": "https://www.montevideo.com.uy/auc.aspx?983074"
             },
             {
               "t": "El delantero Maximiliano Silvera y su futuro en Nacional: ¿lo que se está trabajando?",
@@ -30,16 +26,20 @@
               "l": "https://www.montevideo.com.uy/auc.aspx?983057"
             },
             {
+              "t": "Se entregaron los Martín Fierro Uruguay: ¿quiénes fueron los ganadores en cada categoría?",
+              "l": "https://www.montevideo.com.uy/auc.aspx?983024"
+            },
+            {
+              "t": "La emoción desatada de Merentiel: de las críticas a la gloria de un gol para la historia",
+              "l": "https://www.montevideo.com.uy/auc.aspx?983079"
+            },
+            {
               "t": "Pablo Atkinson: el argentino que “dejó una marca” como transformista y ahora abrió Teatrón",
               "l": "https://www.montevideo.com.uy/auc.aspx?982979"
             },
             {
               "t": "Ortuño dijo que gobierno está “pronto y a la espera” de que HIF Global avance en trámites",
               "l": "https://www.montevideo.com.uy/auc.aspx?983064"
-            },
-            {
-              "t": "“¡Vení, estúpido!”: filmaron pelea y corridas entre varios hombres en la calle en Cordón",
-              "l": "https://www.montevideo.com.uy/auc.aspx?983044"
             }
           ]
         },
@@ -57,9 +57,23 @@
               "l": "https://www.elobservador.com.uy/nacional/oposicion-cuestiona-rechazo-uruguay-activar-el-tiar-combatir-el-narcoterrorismo-convocaran-negro-al-parlamento-n6064709"
             },
             {
-              "t": "Boca Juniors y Atlético Mineiro se enfrentan en Barranquilla por la final de la Copa Sudamericana: el xeneize busca cortar una racha de 18 años sin copas internacionales",
+              "t": "Boca Juniors venció a Atlético Mineiro y ganó la Copa Sudamericana, cortando una racha de 18 años sin copas internacionales",
               "l": "https://www.elobservador.com.uy/futbol-internacional/boca-juniors-y-atletico-mineiro-se-enfrentan-barranquilla-la-final-la-copa-sudamericana-el-xeneize-busca-cortar-una-racha-18-anos-copas-internacionales-n6064711",
-              "img": "https://media.elobservador.com.uy/p/cd3348e75462278e34d8e0b019b33c50/adjuntos/362/imagenes/100/788/0100788882/1200x675/1351x168:1371x188/afp__20261118-tomas-cuello-y-miguel-merentiel.jpg"
+              "img": "https://media.elobservador.com.uy/p/71ba9d81c8ee9e6d82b48d3fcbe2c3b8/adjuntos/362/imagenes/100/788/0100788909/1200x675/smart/boca-juniors-se-consagro-campeon-la-copa-sudamericana.jpg"
+            },
+            {
+              "t": "Polémica en la Primera Divisional C: Deportivo Colonia pide que la AUF revea decisión de darle puntos a Bella Italia por la no presentación de Deportivo Italiano",
+              "l": "https://www.elobservador.com.uy/futbol/polemica-la-primera-divisional-c-deportivo-colonia-pide-que-la-auf-revea-decision-darle-puntos-bella-italia-la-no-presentacion-deportivo-italiano-n6064732",
+              "img": "https://media.elobservador.com.uy/p/ba71fb2553460e716d3399df9209bbba/adjuntos/362/imagenes/100/788/0100788912/1200x675/smart/deportivo-colonia.jpeg"
+            },
+            {
+              "t": "Comenzó el juicio a Cendoya: Fiscalía denuncia \"patrón de irregularidades\" y las defensas alegaron que no hay delito sino \"asombro\" a nivel de Ultratón",
+              "l": "https://www.elobservador.com.uy/nacional/comenzo-el-juicio-cendoya-fiscalia-denuncia-patron-irregularidades-y-la-defensa-alega-apego-al-derecho-administrativo-n6064667"
+            },
+            {
+              "t": "Miguel Merentiel se repuso de un error increíble y anotó un gol en la consagración de Boca Juniors en la Copa Sudamericana: mirá el tanto del uruguayo",
+              "l": "https://www.elobservador.com.uy/futbol-internacional/miguel-merentiel-se-repuso-un-error-increible-y-anoto-un-gol-la-consagracion-boca-juniors-la-copa-sudamericana-mira-el-tanto-del-uruguayo-n6064719",
+              "img": "https://media.elobservador.com.uy/p/dda30f3d2ba783b41526ca42dbfe5957/adjuntos/362/imagenes/100/788/0100788905/1200x675/smart/image.png"
             },
             {
               "t": "Enrique Rodríguez Fabregat, el uruguayo que tuvo un rol central en Naciones Unidas para lograr la solución de los \"dos estados\"",
@@ -67,23 +81,9 @@
               "img": "https://media.elobservador.com.uy/p/774c4f754ebe7b41ef82ae5703c3d9ff/adjuntos/362/imagenes/100/788/0100788747/1200x675/smart/20250511_154944_rodriguezfabregat.jpg"
             },
             {
-              "t": "Comenzó el juicio a Cendoya: Fiscalía denuncia \"patrón de irregularidades\" y las defensas alegaron que no hay delito sino \"asombro\" a nivel de Ultratón",
-              "l": "https://www.elobservador.com.uy/nacional/comenzo-el-juicio-cendoya-fiscalia-denuncia-patron-irregularidades-y-la-defensa-alega-apego-al-derecho-administrativo-n6064667"
-            },
-            {
               "t": "Con inversión de más de US$ 100 millones se inauguró un nuevo servicio ferroviario de carga en Uruguay: los detalles",
               "l": "https://www.elobservador.com.uy/cafe-y-negocios/con-inversion-mas-us-100-millones-se-inauguro-un-nuevo-servicio-ferroviario-carga-uruguay-los-detalles-n6064641",
               "img": "https://media.elobservador.com.uy/p/f4bdf0657e3458ce65faaa4737155faa/adjuntos/362/imagenes/100/788/0100788720/1200x675/smart/grupo-ras.png"
-            },
-            {
-              "t": "Con Giorgian de Arrascaeta y Guillermo Varela de titulares, Flamengo le empató a Palmeiras y se consagró campeón del Brasileirao",
-              "l": "https://www.elobservador.com.uy/futbol-internacional/con-giorgian-arrascaeta-y-guillermo-varela-titulares-flamengo-le-empato-palmeiras-y-se-consagro-campeon-del-brasileirao-n6064713",
-              "img": "https://media.elobservador.com.uy/p/49be00863c79b46e86866a8d60f7a042/adjuntos/362/imagenes/100/788/0100788895/1200x675/2178x1321:2198x1341/el-flamengo-celebra-la-obtencion-del-brasileirao-2026.jpg"
-            },
-            {
-              "t": "La historia de la casona en Pocitos que el Estado Italiano adquirió hace 100 años y ahora restaurará con inversión de más de US$ 1 millón",
-              "l": "https://www.elobservador.com.uy/cafe-y-negocios/la-historia-la-casona-pocitos-que-el-estado-italiano-adquirio-hace-100-anos-y-ahora-restaurara-inversion-mas-us-1-millon-n6064631",
-              "img": "https://media.elobservador.com.uy/p/d3765c28971d622848357165483aad91/adjuntos/362/imagenes/100/788/0100788690/1200x675/smart/casa-towers.jpeg"
             }
           ]
         },
@@ -91,6 +91,14 @@
           "n": "la diaria",
           "tr": false,
           "items": [
+            {
+              "t": "Boca Juniors campeón de la Copa Sudamericana 2026",
+              "l": "https://ladiaria.com.uy/deporte/articulo/2026/11/boca-juniors-campeon-de-la-copa-sudamericana-2026/"
+            },
+            {
+              "t": "Se colocó una placa de la memoria en el Batallón de Infantería 10 de Treinta y Tres",
+              "l": "https://ladiaria.com.uy/politica/articulo/2026/11/se-coloco-una-placa-de-la-memoria-en-el-batallon-de-infanteria-10-de-treinta-y-tres/"
+            },
             {
               "t": "Sindicato del Frigorífico Carrasco se declaró en conflicto y ocupó durante unas horas la planta, propiedad de Minerva Foods",
               "l": "https://ladiaria.com.uy/trabajo/articulo/2026/11/sindicato-del-frigorifico-carrasco-se-declaro-en-conflicto-y-ocupo-durante-unas-horas-la-planta-propiedad-de-minerva-foods/"
@@ -114,14 +122,6 @@
             {
               "t": "¿Cinco estados de Estados Unidos prohibieron los centros de datos por su consumo energético?",
               "l": "https://ladiaria.com.uy/verifica/articulo/2026/11/cinco-estados-de-estados-unidos-prohibieron-los-centros-de-datos-por-su-consumo-energetico/"
-            },
-            {
-              "t": "Astronomía antiage: la astrónoma que desde Uruguay les quita años a las estrellas y desafía lo que sabemos sobre ellas",
-              "l": "https://ladiaria.com.uy/ciencia/articulo/2026/11/astronomia-antiage-la-astronoma-que-desde-uruguay-les-quita-anos-a-las-estrellas-y-desafia-lo-que-sabemos-sobre-ellas/"
-            },
-            {
-              "t": "Extractos de la cumbre entre Trump, Xi y Putin",
-              "l": "https://ladiaria.com.uy/humor/articulo/2026/11/extractos-de-la-cumbre-entre-trump-xi-y-putin/"
             }
           ]
         },
@@ -174,44 +174,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Dudas y temores en los mercados por el apogeo de los colosos de la Inteligencia Artificial",
-              "l": "https://www.clarin.com/mundo/dudas-temores-mercados-apogeo-colosos-inteligencia-artificial_0_cs4yRbbpkl.html",
-              "img": "https://www.clarin.com/img/2026/11/21/ZJUdlEKcr_1200x630__1.jpg"
+              "t": "Casi la mitad de los acres de maíz de Iowa ya fueron cosechados: pautas de temperatura del suelo para la fertilización de otoño",
+              "l": "https://www.clarin.com/estados-unidos/mitad-acres-maiz-iowa-cosechados-pautas-temperatura-suelo-fertilizacion-otono_0_aKZVFb6DJQ.html",
+              "img": "https://www.clarin.com/img/2026/10/15/2Q-CSSvKz_1200x630__1.jpg"
             },
             {
-              "t": "Manifestación, el método para alcanzar metas que gana adeptos en las redes sociales en EEUU",
-              "l": "https://www.clarin.com/estados-unidos/manifestacion-el-metodo-para-alcanzar-metas-que-gana-adeptos-en-las-redes-sociales-en-eeuu_0_aat9i9KkBs.html",
-              "img": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg"
+              "t": "Winston Churchill, militar y ex Primer ministro del Reino Unido: \"El éxito no es definitivo, el fracaso no es fatal, lo que cuenta es el valor para continuar\"",
+              "l": "https://www.clarin.com/internacional/winston-churchill-militar-ex-primer-ministro-reino-unido-exito-definitivo-fracaso-fatal-cuenta-valor-continuar_0_WlB3I1pU8B.html",
+              "img": "https://www.clarin.com/img/2026/11/16/yoDyQnKBo_1200x630__1.jpg"
             },
             {
-              "t": "A 20 años de su muerte, las historias de Milton Friedman que dejaron huella en la economía",
-              "l": "https://www.clarin.com/economia/20-anos-muerte-historias-milton-friedman-dejaron-huella-economia_0_ZfXGsyRVT6.html",
-              "img": "https://www.clarin.com/img/2019/08/30/24nZatGfU_1200x630__1.jpg"
+              "t": "La psicología dice que las personas que nacieron en los años 40 siguen preparando las mismas comidas sencillas que consumían durante su infancia. Recuperar esos platos forma parte de las emociones vinculadas con aquellas experiencias",
+              "l": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-nacieron-anos-40-siguen-preparando-mismas-comidas-sencillas-consumian-infancia-recuperar-platos-forma-parte-emociones-vinculadas-experiencias_0_uGBRhBIGQd.html",
+              "img": "https://www.clarin.com/img/2026/11/19/vTxQ4t7N8_1200x630__1.jpg"
             },
             {
-              "t": "La NASA publicó reveladoras fotos satelitales que muestran el antes y el después de El Niño en el Desierto de Atacama",
-              "l": "https://www.clarin.com/internacional/nasa-publico-reveladoras-fotos-satelitales-muestran-despues-nino-desierto-atacama_0_BrQ2LFq6Ab.html",
-              "img": "https://www.clarin.com/img/2026/11/21/zfO-mVhyS_1200x630__1.jpg"
+              "t": "Victor Wembanyama logra 50 puntos y 19 rebotes en triunfo de Spurs sobre Pelicans, 114-91",
+              "l": "https://www.clarin.com/estados-unidos/victor-wembanyama-logra-50-puntos-y-19-rebotes-en-triunfo-de-spurs-sobre-pelicans-114-91_0_O13Ih7MVf1.html",
+              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
             },
             {
-              "t": "Virginia informa muerte de niño pequeño por sarampión, la primera en el estado este año",
-              "l": "https://www.clarin.com/estados-unidos/virginia-informa-muerte-de-nino-pequeno-por-sarampion-la-primera-en-el-estado-este-ano_0_5zdcIwScGd.html",
-              "img": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg"
+              "t": "Jaden McDaniels anota 25 y Timberwolves vencen 104-95 a unos diezmados Grizzlies",
+              "l": "https://www.clarin.com/estados-unidos/jaden-mcdaniels-anota-25-y-timberwolves-vencen-104-95-a-unos-diezmados-grizzlies_0_2XqxYD5P6g.html",
+              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
             },
             {
-              "t": "Advertencias ignoradas y una tragedia que se podía evitar: una empresa recibió una multa millonaria por fallas de seguridad tras la muerte de una mujer",
-              "l": "https://www.clarin.com/internacional/advertencias-ignoradas-tragedia-podia-evitar-empresa-recibio-multa-millonaria-fallas-seguridad-muerte-mujer_0_6BZSorvpF9.html",
-              "img": "https://www.clarin.com/img/2026/11/20/cQhfI0oI0_1200x630__1.jpg"
+              "t": "Brunson anota 30 puntos, Bridges logra triple agónico y Knicks superan 97-96 a Blazers",
+              "l": "https://www.clarin.com/estados-unidos/brunson-anota-30-puntos-bridges-logra-triple-agonico-y-knicks-superan-97-96-a-blazers_0_VhIAoyz9CR.html",
+              "img": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg"
             },
             {
-              "t": "Insólita escena en Sarandí: el cuerpo técnico de Arsenal le lanzó un sillazo a sus hinchas y terminó ganando el partido",
-              "l": "https://www.clarin.com/deportes/insolita-escena-sarandi-cuerpo-tecnico-arsenal-lanzo-sillazo-hinchas-termino-ganando-partido_0_nDOWJG7ca4.html",
-              "img": "https://www.clarin.com/img/2026/11/21/4XZ2n59nE_1200x630__1.jpg"
+              "t": "\"¡Por siempre Boca!\": los mensajes de los políticos tras el triunfo en la final de la Copa Sudamericana",
+              "l": "https://www.clarin.com/politica/siempre-boca-mensajes-politicos-triunfo-final-copa-sudamericana_0_pUdIeqe8kq.html",
+              "img": "https://www.clarin.com/img/2026/11/22/wK0lFPCVg_1200x630__1.jpg"
             },
             {
-              "t": "El aumento de los precios en Brasil abre un panorama complicado para Lula da Silva en su nuevo mandato",
-              "l": "https://www.clarin.com/mundo/aumento-precios-brasil-abre-panorama-complicado-lula-da-silva-nuevo-mandato_0_Mf5cvDw9AZ.html",
-              "img": "https://www.clarin.com/img/2026/11/21/bcn9iV-yV_1200x630__1.jpg"
+              "t": "Esperaron 13 años por un trasplante de riñón y un medicamento experimental les dio una oportunidad que parecía imposible",
+              "l": "https://www.clarin.com/internacional/esperaron-13-anos-trasplante-rinon-medicamento-experimental-dio-oportunidad-parecia-imposible_0_DhJjdX6qt2.html",
+              "img": "https://www.clarin.com/img/2026/11/17/EQhZbO4LZ_1200x630__1.jpg"
             }
           ]
         },
@@ -220,44 +220,44 @@
           "tr": false,
           "items": [
             {
-              "t": "Boca vs. Atlético Mineiro, la final de la Copa Sudamericana, en vivo",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-atletico-mineiro-la-final-de-la-copa-sudamericana-en-vivo-nid21112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/N7RMAY2YVNFY7BNAXJXGBUS7DQ.jpg?auth=59ea11a7f65a2cc8febd7236972997a5a9404c1b564ffee729fbac9e9a796d11&smart=true&width=2000&height=1334"
+              "t": "Franco Colapinto igualó en el Gran Premio de Las Vegas su mejor resultado en la Fórmula 1: fue 6º",
+              "l": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-carrera-del-gran-premio-de-las-vegas-de-formula-1-en-vivo-nid22112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/KTXJVHPELNHKXFUVE447JIPBTU.JPG?auth=2d62f8942974018224efa14fba7a6814bf354c4c2577c69fb5b5d9e761794cf0&smart=true&width=4285&height=2728"
             },
             {
-              "t": "Cómo va Boca vs. Atlético Mineiro por las semifinales de la Copa Sudamericana 2026",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-boca-vs-atletico-mineiro-y-por-donde-se-puede-ver-en-vivo-nid21112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/SBFF5NVKVVBGVKPNMSJO3VM4TY.jpg?auth=671306e20eaff8c3e598b732450f5c56eb93971be2654819ceb04f75e1605ebd&smart=true&width=2000&height=1332"
+              "t": "Cómo le fue a Colapinto en el GP de Las Vegas y quién ganó la carrera de la Fórmula 1 2026",
+              "l": "https://www.lanacion.com.ar/deportes/futbol/como-le-fue-a-colapinto-en-el-gp-de-las-vegas-y-quien-gano-la-carrera-de-la-formula-1-2026-nid22112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/R73YNM7ITBCMTLNNGYP4DKKOAA.JPG?auth=31e3044443b9bbadd5afcbbf4b12be552c7a2a5ec8036de230909dd448edaa0d&smart=true&width=4972&height=3314"
             },
             {
-              "t": "Inter Miami vs. Columbus, en vivo: el minuto a minuto del partido de los playoffs",
-              "l": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-vs-columbus-crew-en-vivo-nid21112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/3KMYLPTG6FCJNBNTA46ZOIIKSI.JPG?auth=19ccc993d8b2593faf7a8b71ca3885f4ee02515b282e98eab508ac85b5904b30&smart=true&width=3330&height=2220"
+              "t": "Dogma vs. pragmatismo: la disputa dentro del gobierno ortodoxo de Milei que se exacerba con los últimos ruidos del plan",
+              "l": "https://www.lanacion.com.ar/politica/dogma-vs-pragmatismo-la-disputa-dentro-del-gobierno-ortodoxo-de-milei-que-se-exacerba-con-los-nid22112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/J2ZGUJ7ZJ5BDZI5AMQNI2DDV6A.JPG?auth=45e4b06b8fa8255030dca98bf154c80f9a2198aa2ddd4c511ccd131619711972&smart=true&width=1203&height=802"
             },
             {
-              "t": "Abierto de Palermo: La Natividad-La Dolfina venció a La Ensenada y está invicto en 22 funciones",
-              "l": "https://www.lanacion.com.ar/deportes/polo/abierto-de-palermo-la-natividad-la-dolfina-vencio-a-la-ensenada-y-esta-invicto-en-22-funciones-nid21112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/5FZM34SW5VAP3GQX6J3LHBKBVY.jpg?auth=43b1c72ad6e54841234b45788d3cde11b396522607cbab3b6890a905abc7fbd9&smart=true&width=2000&height=1333"
+              "t": "Cóctel de noticias: Tagliafico, el fan enamorado de Caro Calvagni, Anita Pauls con la mejor compañía y el sueño cumplido de Sofía Calzetti",
+              "l": "https://www.lanacion.com.ar/revista-hola/coctel-de-noticias-tagliafico-el-fan-enamorado-de-caro-calvagni-anita-pauls-con-la-mejor-compania-y-nid22112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/2MXGDBYUJVFJ3DUJWHZSKBOABA.jpg?auth=69576a356aeddcb35d416d12b9dabbaa65ec590a99cee12c9afb4e81a9c73bcd&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Pidieron hasta 9 años de prisión para los narcos que tenían casi 660 kilos de cocaína ocultos en el vestidor de un country",
-              "l": "https://www.lanacion.com.ar/seguridad/pidieron-hasta-9-anos-de-prision-para-los-narcos-que-tenian-casi-660-kilos-de-cocaina-ocultos-en-el-nid21112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/HPAP274SW5ABDFLH3O2DJEEUPI.JPG?auth=b9cdd7f2499d1bfe36415a4017dd34ff1af126b34a85643c506fabc8bad3431c&smart=true&width=1360&height=910"
+              "t": "Hay alerta naranja y amarilla por tormentas y lluvias para este domingo 22 de noviembre: las provincias afectadas",
+              "l": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-lluvias-para-este-domingo-22-de-noviembre-las-nid22112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/6Q6CG2PQIFE73FEZPN5GB2NJ6E.png?auth=93c66e356c31aa24516876bb07df16c978e2d7d3a5391df13a7c9290389e4d99&smart=true&width=906&height=588"
             },
             {
-              "t": "Trabajadores escucharon chillidos en los túneles y cuando fueron a ver de dónde provenían se encontraron con cuatro focas atrapadas",
-              "l": "https://www.lanacion.com.ar/lifestyle/trabajadores-escucharon-chillidos-en-los-tuneles-y-cuando-fueron-a-ver-de-donde-provenian-se-nid17112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/EVANRHHI75FAPPNQH5VXOKU6EQ.png?auth=80c0f824f2b4af45f9aa46e2f8cd21ac11572d8ab0a029d174644eb6312728e7&smart=true&width=2000&height=1333"
+              "t": "Manejaba una Ford Transit en Texas, la CBP lo detuvo cuando intentó cruzar a México y descubrió un arsenal de armas",
+              "l": "https://www.lanacion.com.ar/estados-unidos/texas/manejaba-una-ford-transit-en-texas-la-cbp-lo-detuvo-cuando-intento-cruzar-a-mexico-y-descubrio-un-nid20112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/JI6XRANDCRET5MNPXIR5FYSDOI.jpg?auth=747ea03e244e864eff00f9e98baca857513965d70e7db2100887fb33e281cd0c&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Qué veo en Netflix: las mejores películas y series para disfrutar este fin de semana largo del  21, 22 y 23 de noviembre",
-              "l": "https://www.lanacion.com.ar/espectaculos/que-veo-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-largo-del-21-22-nid20112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/C7M2ZUU5JRBO5PMDZ3RSLG46VA.jpg?auth=5511c4eba2c6824f42f8ca663b7e33c6c5f64c02b0321ce1383228ec0fa9c0e8&smart=true&width=3000&height=2077"
+              "t": "Dave Ramsay, experto en finanzas, sobre el error que cometen los jubilados: “El cheque de la SSA debería considerarse un extra”",
+              "l": "https://www.lanacion.com.ar/estados-unidos/dave-ramsay-experto-en-finanzas-sobre-el-error-que-cometen-los-jubilados-el-cheque-de-la-ssa-deberia-nid20112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/YSCH2KZ4XZBOHNIHIODUCP6FPI.jpg?auth=568100bacb9591bd2ff2804d27e2c5712ec57c5d470a919d7204a7f6f9ea48d9&smart=true&width=2000&height=1333"
             },
             {
-              "t": "Torta mousse de limón sin horno: cómo hacer un postre fresco y cremoso en solo 20 minutos",
-              "l": "https://www.lanacion.com.ar/recetas/torta-mousse-de-limon-sin-horno-como-hacer-un-postre-fresco-y-cremoso-en-solo-20-minutos-nid19112026/",
-              "img": "https://resizer.glanacion.com/resizer/v2/65OM3ODDBJD63FOSDVJ7YQSXG4.jpg?auth=2820aced20a96c22e4ca19c74819c9820de68fe9248c865e6df3d6aac093eed7&smart=true&width=2000&height=1333"
+              "t": "Soledad inauguró en Buenos Aires el festival que soñó hace años: “ojalá nos enamoremos como esta primera vez”",
+              "l": "https://www.lanacion.com.ar/espectaculos/musica/nahuel-pennisi-fue-uno-de-los-encargados-de-abrir-el-festival-republica-folklore-mercedes-sosa-nid21112026/",
+              "img": "https://resizer.glanacion.com/resizer/v2/37IG5KUV3BE2DLDCU2J27UPHJA.jpg?auth=e5d88ca72d5ba16838ef5bbe502e432f478b9cc12f9048225024871a86b53a0e&smart=true&width=2000&height=1333"
             }
           ]
         },
@@ -266,14 +266,9 @@
           "tr": false,
           "items": [
             {
-              "t": "Boca vs Atlético Mineiro hoy en vivo, por la final de la Copa Sudamericana: el partido, minuto a minuto",
-              "l": "https://www.pagina12.com.ar/2026/11/21/boca-vs-atletico-mineiro-por-la-final-de-la-copa-sudamericana-hora-tv-y-formaciones/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/UC5ESV252RDXRD3XFEU22JSPAU.jpg?auth=4888f07d2169f7a5e9b827d5ca3ff2ea9ec187d821d8bbbcd2a28e9dea1b3a73&smart=true&width=3333&height=2222"
-            },
-            {
-              "t": "León XIV: la Iglesia espera que sus palabras encuentren eco en el Gobierno",
-              "l": "https://www.pagina12.com.ar/2026/11/21/papa-leon-xiv-la-iglesia-espera-que-sus-palabras-encuentren-eco-en-el-gobierno/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/ITPDYKYP3NGSBIBXFQUFDJEBGM.jpg?auth=38b1d027bb093e3ab24638b92c221aecba04fac670381c067f772bf741ecc52c&smart=true&width=1938&height=1292"
+              "t": "El caso de Stella Chaves y la máquina de criminalizar el hambre",
+              "l": "https://www.pagina12.com.ar/2026/11/21/el-caso-de-stella-chavez-y-la-maquina-de-criminalizar-el-hambre/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/33A356ZMFVGUVPWB6GDVTMOXCI.jpg?auth=4f6847d659c0164a0d6b9e78e6913d9f9be37e8a329ec371d15f5ce8538f29b4&smart=true&width=980&height=653"
             },
             {
               "t": "El peronismo debate puertas adentro cómo elegir un candidato sin las PASO",
@@ -281,19 +276,14 @@
               "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/YNIGOSCCSVAKXLMSDGEN6GP2QU.JPG?auth=a25fde382a6af50eb2343af017c513ed0e25da5cd720f3b17a3b6e1882f8c7ec&smart=true&width=4000&height=2666"
             },
             {
-              "t": "Bullrich, en busca de los arrepentidos de Milei",
-              "l": "https://www.pagina12.com.ar/2026/11/21/bullrich-en-busca-de-los-arrepentidos-de-milei/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/YJ3MDS2SEBEK7OLEENX2UB43GA.jpg?auth=dffe7b3e2d5bc06c5347ab1f61940e29c6b3de74cea530094309e14a9773578f&smart=true&width=900&height=600"
+              "t": "Los misteriosos plazos que se pone el ministro Caputo",
+              "l": "https://www.pagina12.com.ar/2026/11/22/los-misteriosos-plazos-que-se-pone-el-ministro-caputo/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/7LDDRZKF2RALDBLT4KYOOMSQTY.JPG?auth=b892392fc6987127fe114c13bd4404293f7e0865e44e3ae69742303954ff41fa&smart=true&width=1691&height=1127"
             },
             {
-              "t": "Los ricos ya no son lo que eran",
-              "l": "https://www.pagina12.com.ar/2026/11/21/los-ricos-ya-no-son-lo-que-eran/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/R6B3NYFLSFGLTIJRMCUGF53YKE.jpg?auth=852a8c631257a9bb4012f4ddef4a8239fdff58b8a076dc364837e258e7f76771&smart=true&width=2362&height=1575"
-            },
-            {
-              "t": "“Se estimula la sombra, lo más sombrío, lo más morboso”: el crudo editorial de Liliana López Foresi",
-              "l": "https://www.pagina12.com.ar/2026/11/21/se-estimula-la-sombra-lo-mas-sombrio-lo-mas-morboso-el-crudo-editorial-de-liliana-lopez-foresi/",
-              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/CQDXZE4TH5D73AGKMS2YAHND44.png?auth=174968aaf4341feb68e46f5d09e3476a921fc9098f9dc9020effc9174ca7950b&smart=true&width=1220&height=808"
+              "t": "Boca sigue haciendo historia y después de 18 años, ganó un título internacional",
+              "l": "https://www.pagina12.com.ar/2026/11/22/boca-sigue-haciendo-historia-y-despues-de-18-anos-gano-un-titulo-internacional/",
+              "img": "https://grupooctubre-pagina12-prod.web.arc-cdn.net/resizer/v2/IN2WZF3S3RAOXJYFJOF3A5NCAI.jpg?auth=735569e313c76ccfff4978da4f5138ad318c50da3a9861ec1334b10ba68478c9&smart=true&width=3276&height=2184"
             }
           ]
         }
@@ -308,36 +298,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Mulher é flagrada tentando entrar com drogas escondidas na região íntima em presídio de João Pessoa",
-              "l": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/mulher-e-flagrada-tentando-entrar-com-drogas-escondidas-na-regiao-intima-em-presidio-de-joao-pessoa.ghtml"
+              "t": "La ‘mini’ rana arbórea llama la atención con su canto y se convierte en un descubrimiento científico en la UFV",
+              "l": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/22/mini-perereca-chama-atencao-por-canto-e-vira-descoberta-cientifica-da-ufv.ghtml",
+              "o": "‘Mini’ perereca chama atenção por canto e vira descoberta científica da UFV"
             },
             {
-              "t": "Mulher é morta a facada após briga em via pública de Calçoene",
-              "l": "https://g1.globo.com/ap/amapa/noticia/2026/11/21/mulher-e-morta-a-facada-apos-briga-em-via-publica-de-calcoene.ghtml"
+              "t": "El fallo crítico descubierto en el lenguaje de programación utilizado por el 90% de las grandes empresas del mundo",
+              "l": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
+              "o": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo"
             },
             {
-              "t": "VÍDEOS: MG2 de sábado, 21 de novembro de 2026",
-              "l": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-sabado-21-de-novembro-de-2026.ghtml"
+              "t": "Hace 3.000 años, los trabajadores en Egipto se declararon en huelga por salarios impagos; conocer la historia",
+              "l": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
+              "o": "Há 3.000 anos, trabalhadores do Egito fizeram uma greve por salários atrasados; conheça a história"
             },
             {
-              "t": "Família denuncia suspeita de agressão contra idoso em clínica particular após encontrar ferimentos pelo corpo; vítima foi internada",
-              "l": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/21/familia-denuncia-suspeita-de-agressao-contra-idoso-em-clinica-particular-apos-encontrar-ferimentos-pelo-corpo-vitima-foi-internada.ghtml"
+              "t": "\"Tenía mucho miedo de no sobrevivir\", dice la madre de un bebé nacido a las 22 semanas en RS",
+              "l": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/tinha-muito-medo-de-nao-conseguir-diz-mae-de-bebe-que-nasceu-com-22-semanas-no-rs.ghtml",
+              "o": "'Tinha muito medo de não conseguir', diz mãe de bebê que nasceu com 22 semanas no RS"
             },
             {
-              "t": "Porto de Santos reforça segurança e controle de acessos após ataque hacker",
-              "l": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/21/porto-de-santos-reforca-seguranca-e-controle-de-acessos-apos-ataque-hacker.ghtml"
+              "t": "Conozca las decisiones del 'Crimen da 113 Sul' que absolvió a Mairlon y anuló la condena de Adriana Villela",
+              "l": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/22/entenda-as-decisoes-do-crime-da-113-sul-que-inocentaram-mairlon-e-anularam-condenacao-de-adriana-villela.ghtml",
+              "o": "Entenda as decisões do 'Crime da 113 Sul' que inocentaram Mairlon e anularam condenação de Adriana Villela"
             },
             {
-              "t": "Assista aos telejornais da TV Liberal",
-              "l": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml"
+              "t": "Del laboratorio a la biofábrica: pareja pasa de la investigación al negocio y produce hasta 9 millones de plántulas al año",
+              "l": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/22/de-laboratorio-a-biofabrica-casal-vai-da-pesquisa-a-negocio-e-produz-ate-9-milhoes-de-mudas-por-ano.ghtml",
+              "o": "De laboratório a biofábrica: casal vai da pesquisa a negócio e produz até 9 milhões de mudas por ano"
             },
             {
-              "t": "Petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23)",
-              "l": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/21/mutirao-tarifa-social-petrolina.ghtml"
+              "t": "13º salario en la cuenta: cómo decidir entre pagar deudas, invertir o aprovechar compras",
+              "l": "https://g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
+              "o": "13º salário na conta: como decidir entre pagar dívidas, investir ou aproveitar as compras"
             },
             {
-              "t": "Irmão de vereador morre após perder controle de moto e bater contra carnaúba no interior do PI",
-              "l": "https://g1.globo.com/pi/piaui/noticia/2026/11/21/motociclista-morre-acidente.ghtml"
+              "t": "Pronóstico del tiempo para hoy en Brasilia (DF): soleado y con muchas nubes; lluvias por la tarde y noche",
+              "l": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+              "o": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite"
             }
           ]
         },
@@ -346,36 +344,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Como diminuir a desigualdade racial no país? Leitores citam melhorias na educação e letramento racial",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/como-diminuir-a-desigualdade-racial-no-pais-leitores-citam-melhorias-na-educacao-e-letramento-racial.shtml"
+              "t": "Max Verstappen gana el GP de Las Vegas de Fórmula 1",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/max-verstappen-vence-gp-de-las-vegas-de-formula-1.shtml",
+              "o": "Max Verstappen vence GP de Las Vegas de Fórmula 1"
             },
             {
-              "t": "Bélgica enfrenta paralisação do tráfego aéreo devido a greve nacional na segunda-feira",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/belgica-enfrenta-paralisacao-do-trafego-aereo-devido-a-greve-nacional-na-segunda-feira.shtml"
+              "t": "Aparecida ha inundado escuelas y coches sumergidos tras las fuertes lluvias del viernes",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/aparecida-tem-escolas-alagada-e-carros-submersos-apos-fortes-chuvas-de-sexta.shtml",
+              "o": "Aparecida tem escolas alagadas e carros submersos após fortes chuvas de sexta"
             },
             {
-              "t": "Abel parabeniza Flamengo e diz que rival foi melhor que o Palmeiras 'dentro e fora do campo'",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/abel-parabeniza-flamengo-e-diz-que-rival-foi-melhor-que-o-palmeiras-dentro-e-fora-do-campo.shtml"
+              "t": "Los trenes navideños tienen paseos nocturnos y exhibiciones gratuitas por todo el país; ver itinerarios",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/11/trens-natalinos-terao-roteiros-pagos-e-atracoes-gratis-pelo-pais.shtml",
+              "o": "Trens de Natal têm passeios noturnos e exibições gratuitas pelo país; veja roteiros"
             },
             {
-              "t": "OAB-SP alerta STF que pejotização pode gerar perdas de R$ 200 bi por ano",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/oab-sp-alerta-stf-que-pejotizacao-pode-gerar-perdas-de-r-200-bi-por-ano.shtml"
+              "t": "Ariana Grande comparte situación insólita durante depilación íntima: 'Fue una conexión'",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/ariana-grande-conta-situacao-inusitada-durante-depilacao-intima-foi-uma-conexao.shtml",
+              "o": "Ariana Grande conta situação inusitada durante depilação íntima: 'Foi uma conexão'"
             },
             {
-              "t": "Manuscritos de Bob Dylan serão vendidos por até US$ 1 mi pela Sotheby's",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/manuscritos-de-bob-dylan-serao-vendidos-por-ate-us-1-mi-pela-sothebys.shtml"
+              "t": "Francia aborda la sucesión de Macron con el centrismo debilitado",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/franca-se-aproxima-da-sucessao-de-macron-com-centrismo-enfraquecido.shtml",
+              "o": "França se aproxima da sucessão de Macron com centrismo enfraquecido"
             },
             {
-              "t": "Milhares de cristãos criticam série 'O Corpo', sobre jovens católicas e rituais satânicos",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/milhares-de-cristaos-criticam-serie-o-corpo-sobre-jovens-catolicas-e-rituais-satanicos.shtml"
+              "t": "Ministerio de la Mujer creará política de protección contra la violencia política de género y racial",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-das-mulheres-vai-criar-politica-de-protecao-contra-violencia-politica-de-genero-e-raca.shtml",
+              "o": "Ministério das Mulheres vai criar política de proteção contra violência política de gênero e raça"
             },
             {
-              "t": "Quem pode melar a COP31",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/11/quem-pode-melar-a-cop31.shtml"
+              "t": "Los riesgos políticos del ajuste fiscal",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/os-riscos-politicos-do-ajuste-fiscal.shtml",
+              "o": "Os riscos políticos do ajuste fiscal"
             },
             {
-              "t": "Alcaraz enfrentará Zverev pelo título do ATP Finals",
-              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-enfrentara-zverev-pelo-titulo-do-atp-finals.shtml"
+              "t": "El petróleo en Foz do Amazonas plantea un desafío logístico para Petrobras con el transporte de personas y equipos",
+              "l": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
+              "o": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos"
             }
           ]
         },
@@ -384,44 +390,52 @@
           "tr": true,
           "items": [
             {
-              "t": "Futebol pelo Mundo",
+              "t": "Mauro Cézar",
+              "l": "https://www.uol.com.br/esporte/futebol/colunas/mauro-cezar-pereira/2026/11/21/dez-titulos-de-campeonato-brasileiro-na-bola-sem-fax.htm",
+              "img": "https://conteudo.imguol.com.br/3e/2021/02/10/mauro-cezar-150-colorida-1612960631293_100x100.jpg",
+              "o": "Mauro Cezar"
+            },
+            {
+              "t": "Fútbol en todo el mundo",
               "l": "https://www.uol.com.br/esporte/futebol/colunas/futebol-pelo-mundo/2026/11/21/barcelona-encara-maratona-com-seu-ataque-mais-goleador-dos-ultimos100-anos.htm",
-              "img": "https://conteudo.imguol.com.br/c/home/11/2023/11/05/futebol-pelo-mundo-1699206398785_v2_100x100.jpg"
+              "img": "https://conteudo.imguol.com.br/c/home/11/2023/11/05/futebol-pelo-mundo-1699206398785_v2_100x100.jpg",
+              "o": "Futebol pelo Mundo"
             },
             {
-              "t": "Cláudio Hebdô",
+              "t": "Matheus Macarrones",
+              "l": "https://www1.folha.uol.com.br/blogs/musculo/2026/11/brasileiro-e-campeao-mundial-de-fisiculturismo-natural.shtml",
+              "img": "https://conteudo.imguol.com.br/c/home/9d/2024/12/05/retrato-de-matheus-macarroni-novo-colunista-da-folha-com-um-blog-de-fisiculturismo-1733407636568_100x100.jpg",
+              "o": "Matheus Macarroni"
+            },
+            {
+              "t": "Claudio Hebdo",
               "l": "https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/11/quem-pode-melar-a-cop31.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/6c/2022/12/15/claudio-hebdo-1671112940124_100x100.jpg"
+              "img": "https://conteudo.imguol.com.br/c/home/6c/2022/12/15/claudio-hebdo-1671112940124_100x100.jpg",
+              "o": "Cláudio Hebdô"
             },
             {
-              "t": "Danilo Lavieri",
-              "l": "https://www.uol.com.br/esporte/colunas/danilo-lavieri/2026/11/21/palmeiras-e-fla-travam-bom-duelo-e-veem-brilho-de-melhor-jogador-do-brasil.htm",
-              "img": "https://conteudo.imguol.com.br/aa/2020/09/22/danilo-lavieri-share-1600783945672_100x100.jpg"
-            },
-            {
-              "t": "Lúcia Helena",
+              "t": "lucía helena",
               "l": "https://www.uol.com.br/vivabem/colunas/lucia-helena/2026/11/21/polilaminina-cientistas-apontam-os-prejuizos-da-celebracao-precoce.htm",
-              "img": "https://conteudo.imguol.com.br/08/2020/12/30/lucia-helena-150-2-1609336618677_100x100.jpg"
+              "img": "https://conteudo.imguol.com.br/08/2020/12/30/lucia-helena-150-2-1609336618677_100x100.jpg",
+              "o": "Lúcia Helena"
             },
             {
               "t": "Laura Müller Machado",
               "l": "https://www1.folha.uol.com.br/colunas/laura-machado/2026/11/nova-pesquisa-do-ibge-pode-ajudar-a-combater-a-pobreza.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/1e/2023/09/23/laura-muller-machado-mestre-em-economia-aplicada-pela-usp-colunista-da-folha-1695490450707_v2_100x100.jpg"
+              "img": "https://conteudo.imguol.com.br/c/home/1e/2023/09/23/laura-muller-machado-mestre-em-economia-aplicada-pela-usp-colunista-da-folha-1695490450707_v2_100x100.jpg",
+              "o": "Laura Müller Machado"
             },
             {
-              "t": "Michael Viriato",
+              "t": "Danilo Lavieri",
+              "l": "https://www.uol.com.br/esporte/colunas/danilo-lavieri/2026/11/21/palmeiras-e-fla-travam-bom-duelo-e-veem-brilho-de-melhor-jogador-do-brasil.htm",
+              "img": "https://conteudo.imguol.com.br/aa/2020/09/22/danilo-lavieri-share-1600783945672_100x100.jpg",
+              "o": "Danilo Lavieri"
+            },
+            {
+              "t": "miguel viriato",
               "l": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-acoes-na-carteira-e-sempre-uma-boa-decisao.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/05/2023/02/01/michael-viriato-1675278301712_100x100.jpg"
-            },
-            {
-              "t": "Alvaro Costa e Silva",
-              "l": "https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/11/ameacado-de-degola-moraes-topa-reduzir-pena-de-bolsonaro.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/8e/2019/02/02/o-jornalista-e-blogueiro-alvaro-costa-e-silva-1549112720150_100x100.jpg"
-            },
-            {
-              "t": "Muniz Sodré",
-              "l": "https://www1.folha.uol.com.br/colunas/muniz-sodre/2026/11/o-sertao-virado-em-agro.shtml",
-              "img": "https://conteudo.imguol.com.br/c/home/14/2021/11/14/muniz-sodre-1636903579428_100x100.jpg"
+              "img": "https://conteudo.imguol.com.br/c/home/05/2023/02/01/michael-viriato-1675278301712_100x100.jpg",
+              "o": "Michael Viriato"
             }
           ]
         }
@@ -436,8 +450,8 @@
           "tr": false,
           "items": [
             {
-              "t": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html"
+              "t": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
+              "l": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
             },
             {
               "t": "¿Cómo se mueven las encuestas? Lo que dice nuestro promedio",
@@ -454,23 +468,23 @@
               "img": "https://imagenes.elpais.com/resizer/v2/JR6KUBCOVNA4FBMDRHUILTXCKY.jpg?auth=8194380fd3c84158b33aba241455f5c6966640f278f6d089a648484cf00bf862"
             },
             {
-              "t": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/DJHWNMNU5JC4JHVCSIFWGT7OOA.jpg?auth=569b53dee63cd77c6f7f911b3049d77d5fd55e0207a3ed4eb9f3a982aca587bc"
+              "t": "La campaña eleva el drama en la recta final: “¡A por ellos!”. “¡No pasarán!”",
+              "l": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/BTORPSOANRDNBDWNCLGAJI5TVE.jpg?auth=d2c21a66168e85b60619912af948ad2e8cda4043ae2d89dd281bb1678568f961"
             },
             {
-              "t": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
+              "t": "Doce horas en campaña con Pedro Sánchez: “La última vez que la ultraderecha gobernó no había democracia”",
+              "l": "https://elpais.com/espana/2026-11-22/doce-horas-en-campana-con-pedro-sanchez-la-ultima-vez-que-la-ultraderecha-goberno-no-habia-democracia.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/NVUM2P3JSRDTXOAKZGVZCH7EWY.JPG?auth=4bf02a9af9a2c3d560490711e0eb8f0675f6b0c32f1d897f16ba8eead8113e00"
             },
             {
-              "t": "Feijóo: “No os fieis del ambiente, de nada. Son capaces de todo, y heridos son todavía más peligrosos”",
-              "l": "https://elpais.com/espana/2026-11-21/feijoo-no-os-fieis-del-ambiente-no-os-fieis-de-nada-son-capaces-de-todo-y-heridos-son-todavia-mas-peligrosos.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/M247M5BQ3RAXHGGAINORRI7MPU.JPG?auth=fae6d852165250fe3334ee5976721febb888137d1d64c131db085a33b88ebd36"
+              "t": "La revancha de Feijóo consigo mismo",
+              "l": "https://elpais.com/espana/2026-11-22/la-revancha-de-feijoo-consigo-mismo.html",
+              "img": "https://imagenes.elpais.com/resizer/v2/P4P6CXZV4NH27NVODG7LWL3SJ4.JPG?auth=1c189f6c1295c50874e2d0ce1c1bc64f6dfea6e9a35bb5068f068b33eef0f343"
             },
             {
-              "t": "Abascal, en Alicante: “La remigración me suena a música celestial”",
-              "l": "https://elpais.com/espana/elecciones-generales/2026-11-21/abascal-en-alicante-la-remigracion-me-suena-a-musica-celestial.html",
-              "img": "https://imagenes.elpais.com/resizer/v2/VBHOMVW55JMMXMZXQY2ON4CLPI.jpg?auth=3cc5916c597522be294ce66447dfff954093ca4003a79a3707a9b4e56f8d156d"
+              "t": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
+              "l": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html"
             }
           ]
         },
@@ -531,36 +545,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-              "l": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
+              "t": "Los espías de China ponen la mira en la IA Chips años antes del escándalo de Nvidia",
+              "l": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+              "o": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal"
             },
             {
-              "t": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-              "l": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html"
+              "t": "Drones, textos y desvíos: cómo México capturó al hombre más buscado",
+              "l": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+              "o": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man"
             },
             {
-              "t": "Trump Moves to Restrict Congressional Oversight of Contractors",
-              "l": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
+              "t": "¿Quién es el narcotraficante mexicano conocido como El Chapo Isidro?",
+              "l": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+              "o": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?"
             },
             {
-              "t": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-              "l": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html"
+              "t": "Los apagones tecnológicos son sólo el comienzo. AI. Traerá más interrupciones.",
+              "l": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+              "o": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions."
             },
             {
-              "t": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-              "l": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html"
+              "t": "Trump toma medidas para restringir la supervisión del Congreso sobre los contratistas",
+              "l": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+              "o": "Trump Moves to Restrict Congressional Oversight of Contractors"
             },
             {
-              "t": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
-              "l": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html"
+              "t": "Jennifer López siente que está mejorando en todo",
+              "l": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
+              "o": "Jennifer Lopez Feels Like She’s Getting Better at Everything"
             },
             {
-              "t": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
-              "l": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html"
+              "t": "Ahora no es el momento de que Europa se relaje",
+              "l": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
+              "o": "Now Is Not the Time for Europe to Relax"
             },
             {
-              "t": "What to Know About the Planned Explosion in Iowa",
-              "l": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html"
+              "t": "¡Las rocas de la hermandad!",
+              "l": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
+              "o": "The Sisterhood Rocks!"
             }
           ]
         },
@@ -569,36 +591,44 @@
           "tr": true,
           "items": [
             {
-              "t": "Trump orders federal contractors to check with White House before responding to Congress",
-              "l": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+              "t": "Trump ordena a los contratistas federales que consulten con la Casa Blanca antes de responder al Congreso",
+              "l": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+              "o": "Trump orders federal contractors to check with White House before responding to Congress"
             },
             {
-              "t": "Bayer reaches Roundup settlement that could cost the company billions",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement"
+              "t": "Empleados de Google protestan contra la política de IA en las escuelas",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+              "o": "Google employees protest AI in schools policy"
             },
             {
-              "t": "Storms expected on both coasts threatens Thanksgiving travel",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino"
+              "t": "Aspectos destacados y desafíos de cubrir un mes histórico en Sudamérica",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+              "o": "Highlights and challenges from covering an historic month in South America"
             },
             {
-              "t": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+              "t": "Bayer llega a un acuerdo sobre Roundup que podría costarle miles de millones a la empresa",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+              "o": "Bayer reaches Roundup settlement that could cost the company billions"
             },
             {
-              "t": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+              "t": "Se esperan tormentas en ambas costas que amenazan los viajes del Día de Acción de Gracias",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+              "o": "Storms expected on both coasts threatens Thanksgiving travel"
             },
             {
-              "t": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction"
+              "t": "Capturan a líder de cártel en el norte de México en un sangriento tiroteo que dejó 11 muertos",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+              "o": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead"
             },
             {
-              "t": "Perspective: Defining 'human'",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human"
+              "t": "Robots asesinos: las conversaciones de la ONU no cumplen con las esperanzas de normas jurídicamente vinculantes",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+              "o": "Killer robots: U.N. talks fall short of hopes for legally binding rules"
             },
             {
-              "t": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-              "l": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas"
+              "t": "Un jurado federal condena a un hombre por iniciar el mortal incendio Palisades de 2025 en Los Ángeles",
+              "l": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+              "o": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles"
             }
           ]
         }
